@@ -15,11 +15,11 @@ Examples
     o = s.output_sections()
     print('\n'.join(o))
 
-    with open('example-output-mediawiki.txt', 'wt') as ft:
+    with open('output-allsections-mediawiki.txt', 'wt') as ft:
         ft.write('\n'.join(o))
         ft.write('\n')
 
-    with open('example-output-html.html', 'wt') as ft:
+    with open('output-allsections-output-html.html', 'wt') as ft:
         h = s.output_sections(fmt='html')
         ft.write('\n'.join(h))
         ft.write('\n')
