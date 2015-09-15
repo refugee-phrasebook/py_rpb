@@ -6,7 +6,7 @@ Scrape rpb
 Examples
 --------
 
->>> sheet_uri = 'https://docs.google.com/spreadsheets/u/1/d/1D21SK15oYTRrCWMEi8J6txiCWCYkuhEbkSqSCqGAQx4/pubhtml?gid=0&single=true'
+>>> sheet_uri = 'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml?gid=418287843&single=true'
     s = SheetScraper(sheet_uri, to_row=106)
     s.fetch()
     s.all_languages()
@@ -16,10 +16,11 @@ Examples
     print('\n'.join(o))
 
     with open('output-allsections-mediawiki.txt', 'wt') as ft:
+        o = s.output_sections()
         ft.write('\n'.join(o))
         ft.write('\n')
 
-    with open('output-allsections-output-html.html', 'wt') as ft:
+    with open('output-allsections-html.html', 'wt') as ft:
         h = s.output_sections(fmt='html')
         ft.write('\n'.join(h))
         ft.write('\n')
@@ -83,7 +84,7 @@ def scrape_google_sheet(html, slice_i=None, slice_j=None):
     table = soup.findAll('table')[0]
 
     # Find all rowheaders in sheet having id 0Rx
-    pattern = re.compile('^0R(\d+)')
+    pattern = re.compile('^\d+R(\d+)')
     rh = table.find_all('th', {'id': pattern})
 
     records = []
