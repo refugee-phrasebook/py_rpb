@@ -119,6 +119,18 @@ def scrape_google_sheet(html, slice_i=None, slice_j=None):
     return result
 
 
+def latex_longtable_header(headers, colalign='p{3.5cm} '):
+    tabular_columns_fmt = colalign * len(headers)
+    t = tabulate([headers], headers='firstrow', tablefmt='latex_header_only')
+    return '\n'.join([r'\begin{longtable}{' + tabular_columns_fmt + '}',
+                      r'\toprule',
+                      t,
+                      r'\endfirsthead',
+                      r'\toprule',
+                      t,
+                      r'\endhead', '\n'])
+
+
 class SheetScraper:
     def __init__(self, uri, output_fmt='mediawiki', from_row=None, to_row=None):
         self.sheet_uri = uri
@@ -145,20 +157,28 @@ class SheetScraper:
         self.selected_cols = list(col_nums)
 
     def selected_languages(self):
-        return [l.get('language') for l in self.languages if l.get('column') in self.selected_cols]
+        return [self.records[0][col] for col in self.selected_cols]
 
     def list_of_lists(self, rows):
         data = [[self.records[row][col] for col in self.selected_cols]
                 for row in [0] + rows]
         return data
 
-    def output_sections(self, fmt=None):
+    def output_sections(self, fmt=None, ignore_header=False):
         tablefmt = fmt or self.output_fmt
+        from_row = 1 if ignore_header else None
         section_rows = [s.get('row') for s in self.sections] + [len(self.records)]
         outputs = []
         for x, y in pairwise(section_rows):
             rows = [i for i in range(x, y)]
             data = self.list_of_lists(rows)
-            t = tabulate(data, headers='firstrow', tablefmt=tablefmt)
+            t = tabulate(data[from_row:], headers='firstrow', tablefmt=tablefmt)
             outputs.append(t)
+        return outputs
+
+    def output_latex_longtable(self):
+        outputs = [latex_longtable_header(self.selected_languages())]
+        outputs += self.output_sections(fmt='latex_body_only', ignore_header=True)
+        outputs.append(r'\bottomrule')
+        outputs.append(r'\end{longtable}')
         return outputs

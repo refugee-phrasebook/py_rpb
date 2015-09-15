@@ -1,0 +1,78 @@
+%Time-stamp: <2015-09-15 23:49:17 (anne)>
+%*********************************************************************
+%                Template for articles
+%                By Alexandre Krispin and all the great TeX community
+%                blog : http://alexkrispin.wordpress.com/
+%*********************************************************************
+%!TEX TS-program = xelatex --output-driver="xdvipdfmx -vv"
+%!TEX encoding = UTF-8 Unicode
+\documentclass[
+	paper=a4,
+	landscape,
+	fontsize=10pt,
+	headings=normal,
+	version=last,
+	%twoside=true, %if you want to print on both side (recto-verso) of the page.
+	headinclude=false,
+	footinclude=false,
+	%mpinclude=true, %Platz für Randnotizen
+	%BCOR=8mm,
+	%fleqn,
+	%pagesize
+	]{article}
+	
+\usepackage{fontspec} %xltxtra ist outdated, fontspec should be fine
+
+
+
+
+%**********************************************************
+%FONTS
+%**********************************************************
+
+% −−−−−−−−−−−Font definitions for Xetex 
+\usepackage{fontspec}
+%\defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}% to adjust all used fonts to thesame x−heigt => Harmonization% 
+\setromanfont [Ligatures={Common}]{Arial Unicode MS} %Numbers New Style
+%\setsansfont[Mapping=tex-text, BoldFont={TitilliumText22L-Medium}]{TitilliumText22L-Regular}% Sans Serif
+%\newfontfamily\smallnums[Ligatures={Common}, Numbers={OldStyle}]{Linux Libertine O}
+% −−−−−−−−−−−
+
+\linespread{1.05}
+
+
+%**********************************************************
+% PDF SETUP
+%**********************************************************
+ 
+\usepackage[a4paper,margin=10mm]{geometry}
+%\usepackage[a4paper,margin=10mm,showframe]{geometry}
+			
+%**********************************************************
+% TABLE STUFF
+%**********************************************************
+\usepackage{longtable}
+\usepackage{booktabs}									% Nicer tables
+
+%**********************************************************
+% FINETUNE FORMATTING
+%**********************************************************
+
+%\subject{}
+%\title{\mytitle}
+%\date{\normalsize\mydate}
+
+%**********************************************************
+% DOCUMENT
+%**********************************************************
+\begin{document}
+
+%****************************************
+% load the scraped data
+% \begin{longtable}{p{3.5cm} etc...
+
+\input{output-allsections-longtable.tex}
+%****************************************
+
+\end{document}
+

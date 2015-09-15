@@ -294,6 +294,22 @@ _table_formats = {"simple":
                                   headerrow=_latex_row,
                                   datarow=_latex_row,
                                   padding=1, with_header_hide=None),
+                  "latex_body_only":
+                      TableFormat(lineabove=None,
+                                  linebelowheader=Line("\\midrule", "", "", ""),
+                                  linebetweenrows=None,
+                                  linebelow=Line("\\midrule\n", "", "", ""),
+                                  headerrow=_latex_row,
+                                  datarow=_latex_row,
+                                  padding=1, with_header_hide=None),
+                  "latex_header_only":
+                      TableFormat(lineabove=None,
+                                  linebelowheader=Line("\\midrule", "", "", ""),
+                                  linebetweenrows=None,
+                                  linebelow=None,
+                                  headerrow=_latex_row,
+                                  datarow=None,
+                                  padding=1, with_header_hide=None),
                   "tsv":
                       TableFormat(lineabove=None, linebelowheader=None,
                                   linebetweenrows=None, linebelow=None,
