@@ -69,7 +69,7 @@ def s2js(s,languages,typ=''):
 
 if __name__ == '__main__': 
 	#usage : gd2js.py  1 3 8 12 14 17 19 22 24  
-	languages = sys.argv[1:]
+	languages = sys.argv[1:] 
 	print(languages) 
 	sheets = {
 	  'short':'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml#gid=418287843&single=true',
@@ -83,5 +83,4 @@ if __name__ == '__main__':
 	    s = sc.SheetScraper(sheet_uri)
 	    s.fetch() 
 	    s.select_columns(languages)	
-	    s2js(s,languages,typ=sh)  
-    
+	    s2js(s,languages,typ=sh)    
