@@ -49,7 +49,7 @@ def s2tsv(s,languages):
 			print(normname)
 			pairs = getpairs(s.records[1:], lg)
 		    
-def s2js(s,languages):
+def s2js(s,languages,typ=''):
 	jss = []
 	for lg in languages:
 			print(lg)
@@ -61,7 +61,7 @@ def s2js(s,languages):
 			lgjs = lg2js(normname, pairs)
 			jss.append(lgjs)
 	t = "var lgs={\n%s\n}"% '\n,\n'.join(jss)
-	out = open('data.js','w')
+	out = open('data_%s.js'%typ,'w')
 	out.write(t)
 	out.close()
 	
@@ -71,11 +71,17 @@ if __name__ == '__main__':
 	#usage : gd2js.py  1 3 8 12 14 17 19 22 24  
 	languages = sys.argv[1:]
 	print(languages)
-	sheet_uri = 'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml?gid=418287843&single=true'
-	s = sc.SheetScraper(sheet_uri)
-	s.fetch() 
-	s.select_columns(languages)	
-	jss = []
-	#s2tsv(s,languages)
-	s2js(s,languages) 
+	sheets = {
+	  'short':'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml#gid=418287843&single=true',
+	  'long':'https://docs.google.com/spreadsheets/d/1IpkETNzRzletRpLEeLUKAldB2j_O8UJVn1zM_sYg56Y/pubhtml#gid=0',
+	  'medical':'https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/pubhtml#gid=0',
+	  'legal':'https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/pubhtml#gid=0',
+	  }
+	for sh in sheets:
+	    sheet_uri = sheets[sh]
+	    s = sc.SheetScraper(sheet_uri)
+	    s.fetch() 
+	    s.select_columns(languages)	
+	    #s2tsv(s,languages)
+	    s2js(s,languages,typ=sh) 
     
