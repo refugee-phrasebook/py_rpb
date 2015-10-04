@@ -38,7 +38,8 @@ def lg2js(normname,pairs):
 			
 def getpairs(records,lg,target=0):
 	return [(r[target],r[lg]) for r in records if r[lg]!='']
-				 
+  				 
+
 
 def s2tsv(s,languages):
 	for lg in languages:
@@ -68,7 +69,7 @@ def s2js(s,languages,typ=''):
 			
 
 if __name__ == '__main__': 
-	#usage : gd2js.py  1 3 8 12 14 17 19 22 24  
+	#usage : gd2js.py  1 3 8 12 14 17 19 22 24   
 	languages = sys.argv[1:] 
 	print(languages) 
 	sheets = {
@@ -83,4 +84,4 @@ if __name__ == '__main__':
 	    s = sc.SheetScraper(sheet_uri)
 	    s.fetch() 
 	    s.select_columns(languages)	
-	    s2js(s,languages,typ=sh)    
+	    s2js(s,languages,typ=sh)     
