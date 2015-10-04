@@ -48,8 +48,9 @@ from itertools import tee
 import requests
 from bs4 import BeautifulSoup
 
-#from py_rpb.tabulate 
-#import tabulate
+##from py_rpb.tabulate 
+##import tabulate
+from py_rpb.tabulate import tabulate
 
 logger = logging.getLogger(__name__)
 
