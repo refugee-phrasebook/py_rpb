@@ -73,15 +73,15 @@ if __name__ == '__main__':
 	print(languages)
 	sheets = {
 	  'short':'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml#gid=418287843&single=true',
-	  'long':'https://docs.google.com/spreadsheets/d/1IpkETNzRzletRpLEeLUKAldB2j_O8UJVn1zM_sYg56Y/pubhtml#gid=0',
-	  'medical':'https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/pubhtml#gid=0',
-	  'legal':'https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/pubhtml#gid=0',
+	  #'long':'https://docs.google.com/spreadsheets/d/1IpkETNzRzletRpLEeLUKAldB2j_O8UJVn1zM_sYg56Y/pubhtml#gid=0&single=true',
+	  'medical':'https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/pubhtml#gid=0&single=true',
+	  'legal':'https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/pubhtml#gid=0&single=true',
 	  }
 	for sh in sheets:
 	    sheet_uri = sheets[sh]
+	    print(sh,sheet_uri)
 	    s = sc.SheetScraper(sheet_uri)
 	    s.fetch() 
 	    s.select_columns(languages)	
-	    #s2tsv(s,languages)
 	    s2js(s,languages,typ=sh) 
     
