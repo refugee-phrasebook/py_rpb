@@ -36,8 +36,8 @@ def lg2js(normname,pairs):
  
 	
 			
-def getpairs(records,lg):
-	return [(r[0],r[lg]) for r in records if r[lg]!='']
+def getpairs(records,lg,target=0):
+	return [(r[target],r[lg]) for r in records if r[lg]!='']
 				 
 
 def s2tsv(s,languages):
@@ -57,7 +57,7 @@ def s2js(s,languages,typ=''):
 			name = s.records[0][lg]
 			normname = normalizename(name) 
 			print("%s --> %s"%(name,normname))
-			pairs = getpairs(s.records[1:], lg)
+			pairs = getpairs(s.records[1:], lg,target=31)
 			lgjs = lg2js(normname, pairs)
 			jss.append(lgjs)
 	t = "var lgs={\n%s\n}"% '\n,\n'.join(jss)
@@ -70,7 +70,7 @@ def s2js(s,languages,typ=''):
 if __name__ == '__main__': 
 	#usage : gd2js.py  1 3 8 12 14 17 19 22 24  
 	languages = sys.argv[1:]
-	print(languages)
+	print(languages) 
 	sheets = {
 	  'short':'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml#gid=418287843&single=true',
 	  #'long':'https://docs.google.com/spreadsheets/d/1IpkETNzRzletRpLEeLUKAldB2j_O8UJVn1zM_sYg56Y/pubhtml#gid=0&single=true',
@@ -83,5 +83,5 @@ if __name__ == '__main__':
 	    s = sc.SheetScraper(sheet_uri)
 	    s.fetch() 
 	    s.select_columns(languages)	
-	    s2js(s,languages,typ=sh) 
+	    s2js(s,languages,typ=sh)  
     
