@@ -62,7 +62,10 @@ def s2js(s,languages,typ='',target=0):
 			lgjs = lg2js(normname, pairs)
 			jss.append(lgjs)
 	t = "var lgs={\n%s\n}"% '\n,\n'.join(jss)
-	out = open('%sdata_%s.js'%(typ,s.records[0][lg]),'w')
+	targetlg = normalizename(s.records[0][target])
+	fn = '%sdata_%s.js'%(typ,targetlg)
+	print(fn)
+	out = open(fn,'w')
 	out.write(t)
 	out.close()
 	
@@ -70,19 +73,19 @@ def s2js(s,languages,typ='',target=0):
 
 if __name__ == '__main__': 
 	#usage : gd2js.py  1 3 8 12 14 17 19 22 24   
-	target = sys.argv[1]
+	target = int(sys.argv[1])
 	languages = sys.argv[2:] 
 	print(languages) 
 	sheets = {
 	  'short':'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml#gid=418287843&single=true',
 	  #'long':'https://docs.google.com/spreadsheets/d/1IpkETNzRzletRpLEeLUKAldB2j_O8UJVn1zM_sYg56Y/pubhtml#gid=0&single=true',
-	  #'medical':'https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/pubhtml#gid=0&single=true',
-	  #'legal':'https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/pubhtml#gid=0&single=true',
+	  'medical':'https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/pubhtml#gid=0&single=true',
+	  'legal':'https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/pubhtml#gid=0&single=true',
 	  }
 	for sh in sheets:
 	    sheet_uri = sheets[sh]
 	    print(sh,sheet_uri)
 	    s = sc.SheetScraper(sheet_uri)
 	    s.fetch() 
-	    s.select_columns(languages,target=target)	
-	    s2js(s,languages,typ=sh)     
+	    s.select_columns(languages)	
+	    s2js(s,languages,typ=sh,target=target)     
