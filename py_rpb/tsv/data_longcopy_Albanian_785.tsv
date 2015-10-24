@@ -1,0 +1,212 @@
+	Basic Conversation		
+GREETING_INFORMAL	Hello	Përshëndetje	Zdravo / Bok / Ćao
+GREETING_MORNING	good morning	Mirëmëngjes	Dobro jutro
+GREETING_EVENING	good evening	Mirëmbrëma	Dobro veče / Dobra večer
+GREETING_DEPARTURE	goodbye	Mirupafshim	Doviđenja
+SORRY	sorry / excuse me 	Më falni	Oprostite / Izvinite
+PLEASE	please	Ju lutem	Molim
+THANKS	thank you / thanks	Faleminderit!	Hvala
+REPLY_THANKS	you're welcome [response to thank you / thanks]	S'ka përse!	
+GIVE_OWN_NAME	my name is...	Emri im është…	Zovem se
+ASK_OTHERS_NAME	What is your name?	Si quheni? Si e keni emrin?	Kako se zovete? 
+GIVE_OWN_PROVENANCE	I’m from...	Unë jam nga…	Ja sam iz...
+FAMILY	family	Familja	porodica / obitelj / familija
+PRESENT_HUSBAND	this is my husband	Ky është burri im	Ovo je moj muž.
+WIFE	my wife	Gruaja ime	Ovo je moja žena.
+CHILDREN	my children	Fëmijët e mi	Ovo su moja djeca / deca.
+DAUGHTER	my daughter	Vajza ime	Ovo je moja kći. / Ovo je moja ćerka.
+SON	my son	Djali im	Ovo je moj sin.
+BABY	my baby	Foshnja ime	Ovo je moja beba.
+BROTHER	this is my brother	Ky është vëllai im.	Ovo je moj brat.
+SISTER	this is my sister	Kjo është motra ime.	Ovo je moja sestra.
+FATHER	this is my father	Ky është babai/ baba im	Ovo je moj otac.
+MOTHER	this is my mother 	Kjo është nëna/mamaja ime	Ovo je moja majka.
+SUFFER_HUNGER	I’m hungry.	Kam uri	Gladan sam. (m) / Gladna sam. (f)
+CHILD_HUNGRY	(My child) is hungry	(Fëmija im) ka uri	Moje dijete / dete je gladno.
+SUFFER_THIRST	I’m thirsty	Jam i etur.	Žedan sam. (m) / Žedna sam. (f)
+WATER	water	ujë	voda
+AVAILABLE_Q	Do you have...	A keni...?	Imate li...
+LOCATION_Q	Where is..?	Ku është…	Gdje / gde je...?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Ku është tualeti/ Ku është banjoja?	Gdje / gde je WC (zahod, toalet)?
+NEED_SHOWER	I need to take a shower	Kam nevojë të bëj një dush	Moram se otuširati. / Moram da se istuširam.
+SHOWER_LOCATION_Q	Where can I take a shower?	Ku mund të bëj një dush?	Gdje se mogu otuširati? / Gde mogu da se istuširam?
+SANITARYPAD	sanitary pad / towel	Peceta higjenike/lines	higijenski ulošci
+DIAPER	diaper / nappy	Pampers/pelena	pelena
+NEED_MAKE_PHONECALL	I need to make a phone call	Më duhet të bëj një telefonatë	Moram telefonirati. / Moram da telefoniram.
+PRAY_LOCATION_Q	Where can I pray?	Ku mund të lutem/ falem?	Gdје se mogu pomoliti? / Gde mogu da se pomolim?   /  Gdje mogu klanjati? Gde mogu da klanjam? (for muslims)
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Ku mund të blej ____?	Gdje mogu kupiti...? / Gde mogu da kupim...?
+LOCATION_X_Q	Where can I find____?	Ku mund të gjej ___?	Gdje mogu naći...? / Gde mogu da nađem...?
+TIME_CLOCK_Q	What time is it?	Sa është ora?	Koliko je sati?
+NEED_SLEEP	I (we) need to sleep	Më duhet të flë/ Na duhet të flemë	Moram(o) spavati. (sg/pl) / Moramo da spavamo.
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Ku është metroja?	Gdje je podzemna željeznica? / Gde je metro?
+NO_MONEY	I don’t have any money.	Nuk kam asnjë para	Nemam novaca.
+SPEAK_X_Q	Do you speak...	A flisni…?	Govorite li…?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Nuk flas gjermanisht/anglisht (shumë mirë)	Ne govorim (dobro) hrvatski / srpski / bosanski.
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	A mund ta shkruani për mua?	Možete li mi to napisati? / Моžete li to da mi napišete?
+NO_UNDERSTAND	I don’t understand	Nuk kuptoj	Ne razumijem / Ne razumem.
+HELP_REQUEST	Help! / Please help me!	Ndihmë!/ Ju lutem, më ndihmoni!	Upomoć! Molim vas, pomozite mi.
+IGNORANCE	I don’t know	Nuk e di	Ne znam.
+EVENT_Q	What happened?	Çfarë ka ndodhur	Što (Šta) se dogodilo?
+SUFFER_FREEZING	I am cold/ freezing	Kam ftohtë/ngriva	Hladno mi je.
+EXPERIENCE_HAPPINESS	I’m happy.	Gëzohem/Më vjen mirë/jam i lumtur	Sretan sam. (m) / Sretna sam. (f)
+SUFFER_FEAR	I’m scared.	Kam frikë	Bojim se (Strah me je.)
+SUFFER_SADNESS	I’m sad.	Jam i mërzitur/pikëlluar	Tužna sam. (f) / Tužan sam. (m)
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Ti më pëlqen	Drag(a) si mi.
+DONT_WORRY	Don’t worry	Mos u shqetëso	Ne brini.
+NEED_APPOINTMENT	I would like an appointment.	Dua një takim	Trebam termin za...
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Ku është dhoma numër ___?	Gdje (gde) je soba broj ___?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Ku është qendra e regjistrimit?	Gdje (gde) je centar za registraciju?
+MUST_WAIT	You have to wait	Duhet të prisni	Morate (pl) / moraš (sg) čekati. (Morate/moraš da sačekaš.)
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Sa kohë duhet të presim këtu?	Koliko dugo moramo ovdje čekati? / Koliko dugo moramo ovde da čekamo?
+1_DAY	one day	Një ditë	Jedan dan
+1_HOUR	one hour	Një orë	Sat vremena
+1_MONTH	one month	Një muaj	Mjesec (mesec) dana
+VERYSOON	very soon	Shumë shpejt	Uskoro
+TOMORROW	tomorrow	nesër	Sutra
+DAY_AFTER_TOMORROW	the day after tomorrow	pasnesër	Prekosutra
+NEXT_WEEK	next week	javës tjetër	Sljedeći tjedan (Sledeće nedelje)
+RETURN_SOON	I will be back soon	Kthehem së shpejti	Vratit ću se brzo. (Vratiću se brzo.)
+ONE	one	Një	Jedan
+TWO	two	dy	dva
+THREE	three	tre	tri
+FOUR	four	katër	četiri
+FIVE	five	pesë	pet
+SIX	six	gjashtë	šest
+SEVEN	seven	shtatë	sedam
+EIGHT	eight	tetë	osam
+NINE	nine	nëntë	devet
+TEN	ten	dhjetë	deset
+MONDAY	Monday	E hënë	Ponedjeljak
+TUESDAY	 Tuesday	 e martë	 utorak
+WEDNESDAY	 Wednesday	 e mërkurë	 srijeda  
+THURSDAY	 Thursday	 e enjte	 četvrtak
+FRIDAY	 Friday	 e premte	 petak
+SATURDAY	 Saturday	 e shtunë	 subota
+SUNDAY	 Sunday	 e dielë	 nedjelja 
+JANUARY	January	Janar	januar
+FEBRUARY	 February	 shkurt	februar
+MARCH	 March	 mars	mart
+APRIL	 April	 prill	april
+MAY	 May	 maj	maj
+JUNE	 June	 qershor	juni
+JULY	 July	 korrik	juli
+AUGUST	 August	 gusht	august
+SEPTEMBER	 September	shtator	septembar
+OCTOBER	 October	 tetor	oktobar
+NOVEMBER	 November	 nëntor	novembar
+DECEMBER	 December	 dhjetor	decembar
+	Medical Terms	Terma mjekësore	Medicinski termini
+NEED_DOCTOR	I need a doctor	Kam nevojë për doktor/mjek	Treba mi liječnička pomoć. (Treba mi doktor.)
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Ndihem sëmurë/nuk ndihem mirë.	Nije mi dobro. / Ne osećam se dobro.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Jam sëmurë	Bolestan sam (m) / Bolesna sam (f)
+CHILD_ILL	(My child) is sick	Fëmija im është sëmurë	Moje dijete je bolesno. (Moje dete je bolesno.)
+PREGNANT	I am pregnant	Jam shtatzënë	Trudna sam.
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Kam reaksion alergjik	Imam alergijsku reakciju.
+SUFFER_ICD10_H81	I feel dizzy.	Më merren mendt.	Vrti mi se u glavi. / Hvata me nesvestica.
+SUFFER_ICD10_E10	I am diabetic	Jam diabetik	Ja sam dijabetičar (dijabetičarka).
+NEED_INSULIN	I need insulin	Kam nevojë për insulinë	Potreban mi je inzulin (insulin).
+SUFFERED_RAPE	I was raped.	Më kanë përdhunuar.	Silovana sam.
+SUFFER_ICD10_R10	I have a stomach ache.	Kam dhimbje stomaku	Boli me trbuh (stomak).
+SUFFER_ICD10_R50	I have a fever / a temperature	Kam ethe/temperaturë	Imam temperaturu.
+SUFFER_ICD10_R51	I have a headache	Kam dhimbje koke	Imam glavobolju. (Boli me glava.)
+SUFFER_ICD10_R05	I have a cough.	Kam kollë	Kašljem
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Fëmijës sime i dhemb gryka	Moje dijete (dete) kašlje.
+FLU	cold	ftohtë	Prehlada
+DIARRHEA	diarrhea	diarre	Proljev (proliv, dijareja)
+ICD10_K59.0	constipation	kaps	Zatvor
+ICD10_B73.3	vaginal yeast infection (thrush)	infeksion vaginal/myk	Vaginalna (gljivična) infekcija
+ICD10_B53.3	athlete's foot	Inflamacion mykor	Atletsko stopalo
+ICD10_B85	head lice	Morra koke	uši / vaške
+			
+	Food	Ushqim	Hrana
+MEAL_NOON	Lunch	Drekë	ručak
+MEAL_EVENING	Dinner	Darkë	večera
+FOOD_HALAL_Q	Is this food Halal?	A është ushqimi hallall?	Je li ova hrana halal (dozvoljena)?
+ALLERGY_AGAINST_X	I am allergic to….	Kam alergji ndaj…	Imam alergiju na....
+PORK_MEAT	pork	derr	svinjetina
+POULTRY_MEAT	poultry	mish shpendi	perad
+NO_EAT_PORK	I do not eat pork	Unë nuk ha mish derri	Ne jedem svinjetinu. 
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Jam vegjetarian(e)	Ja sam vegetarijanac (m) / vegetarijanka (f). Ne jedem meso ni ribu.
+SELF_VEGAN	I am a vegan	Jam vegan(e)	Ja sam vegan (m) / veganka (f).
+FISH	fish	peshk	riba
+BREAD	bread	bukë	kruh / hljeb / hleb
+WATER	water	Ujë	voda
+LEMONADE	lemonade	limonatë	limunada
+MILK	milk	Qumësht	mlijeko / mleko
+COFFEE	coffee	kafe	kava / kafa
+TEA	tea	çaj	čaj
+BEER	beer	birrë	pivo
+FRUITS	fruit	frut	voće
+APPLE	apple	mollë	jabuka
+PEAR	pear	dardhë	kruška
+GRAPEFRUIT	grapefruit	grejpfrut	grejpfrut
+APRICOT	apricot	kajsi	marelica / kajsija
+POTATOE	potatoes [pl]	patate	krumpir / krompir
+BEAN	beans [pl]	Mashurka/bishtaja	grah / boranija
+PEA	peas [pl]	bizele	grašak
+CHICKPEA	chickpeas [pl]	Qiqra	slanutak / leblebija
+AUBERGINE	eggplant (US) / aubergine (UK)	patëllxhan	patlidžan
+CARROT	carrots [pl]	karrota	mrkve / šargarepe
+TOMATO	tomatoes [pl]	domate	rajčice / paradajz
+TURNIP	turnip	rrepë	repa
+FLOUR	flour	miell	brašno
+HONEY	honey	mjaltë	med
+CHEESE	cheese	dhjathë	sir
+QUARK	quark / cottage cheese 	gjizë	svježi sir (sveži sir)
+PAPRIKA	paprika	spec	paprika
+SAUCE	sauce	salcë	umak (sos)
+BUTTER	butter	gjalp	maslac
+OIL	oil	vaj	ulje
+CHEWING_GUM	chewing gum	çamçakiz	žvakaća guma (kauguma)
+SPOON	spoon	lugë	žlica (kašika)
+KNIFE	knife	thikë	nož
+PLATE	plate	pjatë	tanjur (tanjir)
+GLASS	glass (to drink from)	gotë	čaša
+MUG	mug	kupë	vrč (krigla, šolja)
+TEAPOT	teapot 	ibrik çaji	čajnik
+			
+	Clothing	Veshje	Odjeća / Odeća
+SHIRT	shirt	Këmishë	košulja
+DRESS	Dress	Fustan	haljina
+SKIRT	skirt	Fund	suknja
+TROUSERS	trousers (UK) / pants (US)	pantallona	hlače (pantalone)
+PULLOVER	jumper (UK) / sweater / pullover	pulovër	džemper
+COAT	jacket / coat	xhaketë	jakna
+HEADSCARF	veil / hijab / headscarf	perçe / Shami	veo
+SHOE	shoes [pl]	këpucë	cipele
+GLOVE	gloves [pl]	dorashka	rukavice
+SOCK	socks [pl]	corapë	čarape
+UNDERWEAR	underwear	brekë / mbathje	donje rublje (donji veš)
+			
+	Misc	Të ndryshme	Razno
+BED	bed	krevat	krevet
+BLANKET	blanket	kuvertë / batanije	deka (prekrivač, ćebe)
+LAMP	lamp	llampë	svjetiljka / lampa
+TELEPHONE	telephone	telefon	telefon
+CELLPHONE	mobile phone / cellphone	celular	mobitel / mobilni telefon
+ELECTRICITY	electricity	elektricitet	struja
+COMPUTER	computer	kompiuter	računalo / računar (kompjuter)
+INTERNET_CONNECTION	internet connection	Lidhje Interneti	internetska veza (internet konekcija)
+BATTERY	battery	bateri	baterija
+ROOM	room	dhomë	soba
+CHAIR	chair	karrige	stolica
+TABLE	table	tavolinë	stol / sto
+TOILET	toilet	tualet	WC / Toalet
+TOILET_PAPER	toilet paper	letra banjoje	toalet papir
+TOOTHBRUSH	toothbrush	furçë dhëmbësh	četkica za zube
+TOOTHPASTE	toothpaste	pastë dhëmbësh	pasta za zube
+SHOWER	shower	dush	tuš
+BATHTUB	bathtub	vask	kada
+SOAP	soap	sapun	sapun
+SHAMPOO	shampoo	shampo	šampon
+HANDKERCHIEF	tissue / handkerchief	shami dore	papirnate maramice
+CUPBOARD	cupboard	dollap	ormarić
+DOOR	door	derë	vrata
+WINDOW	window	dritare	prozor
+WALL	wall	mur	zid
+HOUSE	house	shtëpi	kuća
+APARTMENT	apartment / flat	banesë	stan
+BOOK	book	libër	knjiga
+NEWSPAPER	newspaper	gazetë	novine
+RADIO	radio	radio	radio
+TELEVISION	television	televizor	televizor

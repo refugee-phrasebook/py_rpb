@@ -1,0 +1,212 @@
+	Basic Conversation	Основна конверзација
+GREETING_INFORMAL	Hello	Здраво (Zdravo)
+GREETING_MORNING	good morning	Добар ден (Dobar den)
+GREETING_EVENING	good evening	Добро вечер (Dobro vecher)
+GREETING_DEPARTURE	goodbye	Довидување (Doviduvanje)
+SORRY	sorry / excuse me 	Извинете (Izvinete)
+PLEASE	please	Ве молам (Ve molam)
+THANKS	thank you / thanks	Фала (Fala)
+REPLY_THANKS	you're welcome [response to thank you / thanks]	
+GIVE_OWN_NAME	my name is...	Се викам (Se vikam)
+ASK_OTHERS_NAME	What is your name?	Како се викате? (Kako se vikate?)
+GIVE_OWN_PROVENANCE	I’m from...	Јас сум од (Jas sum od)
+FAMILY	family	Семејство (Semejstvo)
+PRESENT_HUSBAND	this is my husband	Ова е маж ми (Ova e mazh mi)
+WIFE	my wife	Ова е жена ми (Ova e zhena mi)
+CHILDREN	my children	Ова се моите деца (Ova se moite deca)
+DAUGHTER	my daughter	Ова е ќерка ми (Ova e kjerka mi)
+SON	my son	Ова е син ми (Ova e sin mi)
+BABY	my baby	Моето бебе (Moeto bebe)
+BROTHER	this is my brother	Ова е брат ми (Ova e brat mi)
+SISTER	this is my sister	Ова е сестра ми (Ova e sestra mi)
+FATHER	this is my father	Ова е татко ми (Ova e tatko mi)
+MOTHER	this is my mother 	Ова е мајка ми (Ova e majka mi)
+SUFFER_HUNGER	I’m hungry.	Гладен сум (Gladen sum (m)) / Гладна сум (Gladna sum (f))
+CHILD_HUNGRY	(My child) is hungry	Моето дете е гладно (Moeto dete e gladno)
+SUFFER_THIRST	I’m thirsty	Жеден сум (Zheden sum (m))/ Жедна сум (Zhedna sum (f))
+WATER	water	Вода (voda)
+AVAILABLE_Q	Do you have...	Имате ли...? (Imate li...?)
+LOCATION_Q	Where is..?	Каде е (Kade e)
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Каде е тоалетот? (Kade e toaletot?)
+NEED_SHOWER	I need to take a shower	Мора да се истуширам (Mora da se istushiram)
+SHOWER_LOCATION_Q	Where can I take a shower?	Каде може да се истуширам? (Kade mozhe da se istushiram?)
+SANITARYPAD	sanitary pad / towel	(Хигиенска) влошка ((Higienska) vloshka)
+DIAPER	diaper / nappy	Пелена (Pelena)
+NEED_MAKE_PHONECALL	I need to make a phone call	Мора да телефонирам (Mora da telefoniram)
+PRAY_LOCATION_Q	Where can I pray?	Каде може да се молам? (Kade mozhe da se molam?)
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Каде можам да купам___? (Kade mozham da kupam____?)
+LOCATION_X_Q	Where can I find____?	Каде можам да најдам_____? (Kade mozham da najdam_____?
+TIME_CLOCK_Q	What time is it?	Колку е часот? (Kolku e chasot?)
+NEED_SLEEP	I (we) need to sleep	Мора да спијам (спиеме) (Mora da spijam (spieme))
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Каде е метрото? (Kade e metroto?)
+NO_MONEY	I don’t have any money.	Немам пари (Nemam pari)
+SPEAK_X_Q	Do you speak...	Зборувате ли...? (Zboruvate li...?)
+SPEAK_LITTLE_X	I don't speak (English) very well.	Не разбирам македонски (Ne razbiram makedonski)
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Може да ми го напишете тоа? (Mozhe da mi go napishete toa?)
+NO_UNDERSTAND	I don’t understand	Не разбирам (Ne razbiram)
+HELP_REQUEST	Help! / Please help me!	Помош! Помогнете ми, ве молам (Pomosh! Pomognete mi, ve molam)
+IGNORANCE	I don’t know	Не знам (Ne znam)
+EVENT_Q	What happened?	Што се случило? (Shto se sluchilo?)
+SUFFER_FREEZING	I am cold/ freezing	Ладно ми е (Ladno mi e)
+EXPERIENCE_HAPPINESS	I’m happy.	Среќен сум (Srekjen sum (m)) / Среќна сум (Srekjna sum (f))
+SUFFER_FEAR	I’m scared.	Страв ми е (Strav mi e)
+SUFFER_SADNESS	I’m sad.	Тажен сум (Tazhen sum (m)) / Тажна сум (Tazhna sum (f))
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Ми се допаѓаш (Mi se dopagjash)
+DONT_WORRY	Don’t worry	Не се секирај (Ne se sekiraj)
+NEED_APPOINTMENT	I would like an appointment.	Треба да закажам____ (Treba da zakazham____)
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Каде е соба број___? (Kade e soba broj___?)
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Каде е центарот за регистрација? (Kade e centarot za registracija?)
+MUST_WAIT	You have to wait	Мора да почекате (Mora da pochekate)
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Колку долго треба да чекаме? (Kolku dolgo treba da chekame?)
+1_DAY	one day	Еден ден (Eden den)
+1_HOUR	one hour	Еден час (Eden chas)
+1_MONTH	one month	Еден месец (Eden mesets)
+VERYSOON	very soon	Наскоро (Naskoro)
+TOMORROW	tomorrow	Утре (Utre)
+DAY_AFTER_TOMORROW	the day after tomorrow	Задутре (Zadutre)
+NEXT_WEEK	next week	Следната недела (Slednata nedela)
+RETURN_SOON	I will be back soon	Ќе се вратам наскоро (Kje se vratam naskoro)
+ONE	one	Еден
+TWO	two	два
+THREE	three	три
+FOUR	four	четири
+FIVE	five	пет
+SIX	six	шест
+SEVEN	seven	седум
+EIGHT	eight	осум
+NINE	nine	девет
+TEN	ten	десет 
+MONDAY	Monday	понеделник
+TUESDAY	 Tuesday	 вторник
+WEDNESDAY	 Wednesday	 среда
+THURSDAY	 Thursday	 четврток
+FRIDAY	 Friday	 петок
+SATURDAY	 Saturday	 сабота
+SUNDAY	 Sunday	 недела 
+JANUARY	January	 јануари
+FEBRUARY	 February	  фебруари
+MARCH	 March	  март
+APRIL	 April	  април
+MAY	 May	  мај
+JUNE	 June	  јуни
+JULY	 July	  јули
+AUGUST	 August	  август
+SEPTEMBER	 September	  септември
+OCTOBER	 October	  октомври
+NOVEMBER	 November	  ноември
+DECEMBER	 December	  декември 
+	Medical Terms	Медицински термини
+NEED_DOCTOR	I need a doctor	Ми треба доктор (Mi treba doktor)
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Ми се гади (Mi se gadi)
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Болен сум (Bolen sum (m)) / Болна сум (Bolna sum (f))
+CHILD_ILL	(My child) is sick	Моето дете е болно (Moeto dete e bolno)
+PREGNANT	I am pregnant	Бремена сум. (Bremena sum)
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Имам алергична реакција. (Imam alergichna reakcija)
+SUFFER_ICD10_H81	I feel dizzy.	Ми се врти (Mi se vrti)
+SUFFER_ICD10_E10	I am diabetic	Имам дијабетес (Imam dijabetes)
+NEED_INSULIN	I need insulin	Ми е потребен инсулин. (Mi e potreben insulin).
+SUFFERED_RAPE	I was raped.	Ме силуваа (Me siluvaa)
+SUFFER_ICD10_R10	I have a stomach ache.	Ме боли стомакот (Me boli stomakot)
+SUFFER_ICD10_R50	I have a fever / a temperature	Имам температура (Imam temperatura)
+SUFFER_ICD10_R51	I have a headache	Ме боли главата (Me boli glavata)
+SUFFER_ICD10_R05	I have a cough.	Кашлам (Kashlam)
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Моето дете го боли грло (Moeto dete go boli grlo)
+FLU	cold	Настинка (Nastinka)
+DIARRHEA	diarrhea	Пролив (Proliv)
+ICD10_K59.0	constipation	Запек (Zapek)
+ICD10_B73.3	vaginal yeast infection (thrush)	Вагинална инфекција (Vaginalna infekcija)
+ICD10_B53.3	athlete's foot	Атлетско стопало (Atletsko stopalo)
+ICD10_B85	head lice	Вошки (Voshki)
+		
+	Food	Намирници(Namirnici)
+MEAL_NOON	Lunch	ручек (ruchek)
+MEAL_EVENING	Dinner	вечера (vechera)
+FOOD_HALAL_Q	Is this food Halal?	Дали оваа храна е халал? (Dali ovaa hrana e halal?)
+ALLERGY_AGAINST_X	I am allergic to….	Алергичен сум на (Alergichen sum na (m)) / Алергична сум на (Alergichna sum na (f))
+PORK_MEAT	pork	свинско (svinsko)
+POULTRY_MEAT	poultry	пилешко (pileshko)
+NO_EAT_PORK	I do not eat pork	Не јадам свинско (Ne jadam svinsko)
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Вегетаријанец (m)/вегетаријанта (f)) сум. Не јадам месо и риба. (Vegetarijanec (m)/(vegetarijanka (f) sum. Ne jadam meso i riba)
+SELF_VEGAN	I am a vegan	Веган (m)/веганка (f)) сум. (Vegan (m)/veganka (f) sum)
+FISH	fish	риба (riba)
+BREAD	bread	леб (leb)
+WATER	water	Вода (Voda)
+LEMONADE	lemonade	лимонада (limonada)
+MILK	milk	Млеко (Mleko)
+COFFEE	coffee	Кафе (Kafe)
+TEA	tea	Чај (Chaj)
+BEER	beer	пиво (pivo)
+FRUITS	fruit	Овошје (ovoshje)
+APPLE	apple	Јаболко (Jabolko)
+PEAR	pear	Круша (Krusha)
+GRAPEFRUIT	grapefruit	Цитрон (Citron)
+APRICOT	apricot	Кајсија (Kajsija)
+POTATOE	potatoes [pl]	компири (kompiri)
+BEAN	beans [pl]	грав (grav)
+PEA	peas [pl]	Грашок (Grashok)
+CHICKPEA	chickpeas [pl]	леблебија (leblebija)
+AUBERGINE	eggplant (US) / aubergine (UK)	модар патлиџан (modar patlidzhan)
+CARROT	carrots [pl]	Моркови (Morkovi)
+TOMATO	tomatoes [pl]	Домати (Domati)
+TURNIP	turnip	репка (Repka)
+FLOUR	flour	Брашно (brashno)
+HONEY	honey	Мед (med)
+CHEESE	cheese	Сирење (sirenje)
+QUARK	quark / cottage cheese 	Урда (urda)
+PAPRIKA	paprika	Бабура (babura)
+SAUCE	sauce	Сос (sos)
+BUTTER	butter	Путер (puter)
+OIL	oil	Масло, зејтин (maslo, zejtin)
+CHEWING_GUM	chewing gum	Гума за џвакање (guma za dzvakanje)
+SPOON	spoon	Лажица (lazhica)
+KNIFE	knife	Нож (nozh)
+PLATE	plate	Чинија (chinija)
+GLASS	glass (to drink from)	Чаша (chasha)
+MUG	mug	Филџан (fildzan)
+TEAPOT	teapot 	чајник (chajnik)
+		
+	Clothing	облека
+SHIRT	shirt	Кошула (Koshula)
+DRESS	Dress	Фустан (Fustan)
+SKIRT	skirt	Сукња / Здолниште (Suknja / Zdolnishte)
+TROUSERS	trousers (UK) / pants (US)	панталони (pantaloni)
+PULLOVER	jumper (UK) / sweater / pullover	Џемпер, пуловер (dzemper, pulover)
+COAT	jacket / coat	Јакна, сако (jakna, sako)
+HEADSCARF	veil / hijab / headscarf	вел (vel)
+SHOE	shoes [pl]	Чевли (čevli)
+GLOVE	gloves [pl]	ракавици (rakavici)
+SOCK	socks [pl]	чорапи (čorapi)
+UNDERWEAR	underwear	долна облека (dolna obleka)
+		
+	Misc	Разно
+BED	bed	Кревет
+BLANKET	blanket	покривач (pokrivach) / ќебе (kjebe)
+LAMP	lamp	Лампа
+TELEPHONE	telephone	Телефон (Telefon)
+CELLPHONE	mobile phone / cellphone	Мобилен телефон
+ELECTRICITY	electricity	Струја (struja)
+COMPUTER	computer	Компјутер
+INTERNET_CONNECTION	internet connection	интернет врска (internet vrska)
+BATTERY	battery	Батерија
+ROOM	room	Соба
+CHAIR	chair	Стол
+TABLE	table	Маса
+TOILET	toilet	Тоалет
+TOILET_PAPER	toilet paper	Тоалетна хартија
+TOOTHBRUSH	toothbrush	Четка за заби
+TOOTHPASTE	toothpaste	Паста за заби
+SHOWER	shower	Туш
+BATHTUB	bathtub	Када (kada)
+SOAP	soap	Сапун
+SHAMPOO	shampoo	Шампон
+HANDKERCHIEF	tissue / handkerchief	марамче
+CUPBOARD	cupboard	орманче (ormanche)
+DOOR	door	врата (vrata)
+WINDOW	window	прозорец (prozorets)
+WALL	wall	ѕид (dzid)
+HOUSE	house	куќа (kukja)
+APARTMENT	apartment / flat	стан (stan)
+BOOK	book	книга (kniga)
+NEWSPAPER	newspaper	весник (vesnik)
+RADIO	radio	радио (radio)
+TELEVISION	television	телевизор 

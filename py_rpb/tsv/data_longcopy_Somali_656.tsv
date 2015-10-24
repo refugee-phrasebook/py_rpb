@@ -1,0 +1,212 @@
+	Basic Conversation		
+GREETING_INFORMAL	Hello	Hayye! / Nabad!	
+GREETING_MORNING	good morning	subax wanaagsan	
+GREETING_EVENING	good evening	caweys wanaagsan	
+GREETING_DEPARTURE	goodbye	nabad gelyo	
+SORRY	sorry / excuse me 	iga raalli ahow	
+PLEASE	please	fadlan	
+THANKS	thank you / thanks	mahadsanid	
+REPLY_THANKS	you're welcome [response to thank you / thanks]		
+GIVE_OWN_NAME	my name is...	magacaygu waa ___	
+ASK_OTHERS_NAME	What is your name?	magacaa?	
+GIVE_OWN_PROVENANCE	I’m from...	waxaan ka imi ....	
+FAMILY	family	qoys / xaas	
+PRESENT_HUSBAND	this is my husband	ninkayga	
+WIFE	my wife	naagtayda	
+CHILDREN	my children	carruur 	
+DAUGHTER	my daughter	Gabadh / inan	
+SON	my son	wiil / inan 	
+BABY	my baby	ilmaha	
+BROTHER	this is my brother	walaal	
+SISTER	this is my sister	carruur 	
+FATHER	this is my father	aabbe	
+MOTHER	this is my mother 	hooyo	
+SUFFER_HUNGER	I’m hungry.	Waan gaajeysanahav.	
+CHILD_HUNGRY	(My child) is hungry		
+SUFFER_THIRST	I’m thirsty		
+WATER	water	biyo	
+AVAILABLE_Q	Do you have...		
+LOCATION_Q	Where is..?		
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?		
+NEED_SHOWER	I need to take a shower		
+SHOWER_LOCATION_Q	Where can I take a shower?		
+SANITARYPAD	sanitary pad / towel		
+DIAPER	diaper / nappy		
+NEED_MAKE_PHONECALL	I need to make a phone call		
+PRAY_LOCATION_Q	Where can I pray?		
+PURCHASE_X_LOCATION_Q	Where can I buy_____?		
+LOCATION_X_Q	Where can I find____?		
+TIME_CLOCK_Q	What time is it?		
+NEED_SLEEP	I (we) need to sleep		
+SUBWAY_LOCATION_Q	Where is the subway/underground?		
+NO_MONEY	I don’t have any money.		
+SPEAK_X_Q	Do you speak...	Af ___ ma ku hadli kartaa?	
+SPEAK_LITTLE_X	I don't speak (English) very well.		
+WRITE_DOWN_X_REQUEST	Can you write that down for me?		
+NO_UNDERSTAND	I don’t understand	Maan fahmo.	
+HELP_REQUEST	Help! / Please help me!		
+IGNORANCE	I don’t know		
+EVENT_Q	What happened?		
+SUFFER_FREEZING	I am cold/ freezing		
+EXPERIENCE_HAPPINESS	I’m happy.		
+SUFFER_FEAR	I’m scared.		
+SUFFER_SADNESS	I’m sad.		
+EXPERIENCE_LIKING_ADDRESSEE	I like you.		
+DONT_WORRY	Don’t worry		
+NEED_APPOINTMENT	I would like an appointment.		
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?		
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?		
+MUST_WAIT	You have to wait		
+WAITING_TIME_DURATION_Q	How long do we have to wait here?		
+1_DAY	one day	( 1 ) maalin	
+1_HOUR	one hour	 (1 ) saacad / dersi	
+1_MONTH	one month	( 1 ) bil	
+VERYSOON	very soon	markiiba / degdeg	
+TOMORROW	tomorrow		
+DAY_AFTER_TOMORROW	the day after tomorrow	saadambe	
+NEXT_WEEK	next week		
+RETURN_SOON	I will be back soon		
+ONE	one	hal / kow	
+TWO	two	laba	
+THREE	three	seddex	
+FOUR	four	afar	
+FIVE	five	shan	
+SIX	six	lix	
+SEVEN	seven	toddoba	
+EIGHT	eight	siddeed	
+NINE	nine	sagaal	
+TEN	ten	toban	
+MONDAY	Monday	is-niin	
+TUESDAY	 Tuesday	 talaado	
+WEDNESDAY	 Wednesday	 arbaco	
+THURSDAY	 Thursday	 khamiis	
+FRIDAY	 Friday	 jimce	
+SATURDAY	 Saturday	 sabti	
+SUNDAY	 Sunday	 axad	
+JANUARY	January	Jannaayo	
+FEBRUARY	 February	 Febraayo	
+MARCH	 March	 Maarso	
+APRIL	 April	 Abriil	
+MAY	 May	 Maajo	
+JUNE	 June	 Yunyo	
+JULY	 July	 Yulyo	
+AUGUST	 August	 Agoosto	
+SEPTEMBER	 September	 Sebteembar	
+OCTOBER	 October	 Oktoobar	
+NOVEMBER	 November	 Noofeembar	
+DECEMBER	 December	 Diiseembar	
+	Medical Terms		
+NEED_DOCTOR	I need a doctor		
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 		
+EXPERIENCE_ILLNESS	I’m ill / I’m sick		
+CHILD_ILL	(My child) is sick		
+PREGNANT	I am pregnant		
+SUFFER_ICD10_T78.4	I am having an allergic reaction		
+SUFFER_ICD10_H81	I feel dizzy.		
+SUFFER_ICD10_E10	I am diabetic		
+NEED_INSULIN	I need insulin		
+SUFFERED_RAPE	I was raped.		
+SUFFER_ICD10_R10	I have a stomach ache.		
+SUFFER_ICD10_R50	I have a fever / a temperature		
+SUFFER_ICD10_R51	I have a headache		
+SUFFER_ICD10_R05	I have a cough.		
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough		
+FLU	cold	duray	
+DIARRHEA	diarrhea		
+ICD10_K59.0	constipation		
+ICD10_B73.3	vaginal yeast infection (thrush)		
+ICD10_B53.3	athlete's foot		
+ICD10_B85	head lice		
+			
+	Food	cunto	
+MEAL_NOON	Lunch	qado	
+MEAL_EVENING	Dinner	casho	
+FOOD_HALAL_Q	Is this food Halal?		
+ALLERGY_AGAINST_X	I am allergic to….		
+PORK_MEAT	pork	doofaar	
+POULTRY_MEAT	poultry		
+NO_EAT_PORK	I do not eat pork	Doofaarka ma cuno.	
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.		
+SELF_VEGAN	I am a vegan		
+FISH	fish	kalluun	
+BREAD	bread	kimis / rooti	
+WATER	water	biyo	
+LEMONADE	lemonade		
+MILK	milk	caano	
+COFFEE	coffee	bun / kaafi	
+TEA	tea	shaah	
+BEER	beer	biir	
+FRUITS	fruit		
+APPLE	apple	tufaax	
+PEAR	pear		
+GRAPEFRUIT	grapefruit	bambeelmo	
+APRICOT	apricot		
+POTATOE	potatoes [pl]	baradho	
+BEAN	beans [pl]	digir	
+PEA	peas [pl]		
+CHICKPEA	chickpeas [pl]		
+AUBERGINE	eggplant (US) / aubergine (UK)		
+CARROT	carrots [pl]		
+TOMATO	tomatoes [pl]		
+TURNIP	turnip		
+FLOUR	flour		
+HONEY	honey		
+CHEESE	cheese		
+QUARK	quark / cottage cheese 		
+PAPRIKA	paprika		
+SAUCE	sauce		
+BUTTER	butter		
+OIL	oil	saliid	
+CHEWING_GUM	chewing gum		
+SPOON	spoon	qaado	
+KNIFE	knife	mindi	
+PLATE	plate	saxan	
+GLASS	glass (to drink from)	galaas	
+MUG	mug	koob	
+TEAPOT	teapot 		
+			
+	Clothing		
+SHIRT	shirt		
+DRESS	Dress		
+SKIRT	skirt		
+TROUSERS	trousers (UK) / pants (US)		
+PULLOVER	jumper (UK) / sweater / pullover	funaanad	
+COAT	jacket / coat		
+HEADSCARF	veil / hijab / headscarf		
+SHOE	shoes [pl]		
+GLOVE	gloves [pl]		
+SOCK	socks [pl]		
+UNDERWEAR	underwear		
+			
+	Misc		
+BED	bed	sariir	
+BLANKET	blanket	buste	
+LAMP	lamp		
+TELEPHONE	telephone		
+CELLPHONE	mobile phone / cellphone		
+ELECTRICITY	electricity		
+COMPUTER	computer		
+INTERNET_CONNECTION	internet connection		
+BATTERY	battery		
+ROOM	room		
+CHAIR	chair	kursi	
+TABLE	table	miis	
+TOILET	toilet		
+TOILET_PAPER	toilet paper		
+TOOTHBRUSH	toothbrush	caday	
+TOOTHPASTE	toothpaste		
+SHOWER	shower		
+BATHTUB	bathtub		
+SOAP	soap		
+SHAMPOO	shampoo		
+HANDKERCHIEF	tissue / handkerchief		
+CUPBOARD	cupboard		
+DOOR	door		
+WINDOW	window		
+WALL	wall		
+HOUSE	house	guriga	
+APARTMENT	apartment / flat		
+BOOK	book		
+NEWSPAPER	newspaper		
+RADIO	radio		
+TELEVISION	television		

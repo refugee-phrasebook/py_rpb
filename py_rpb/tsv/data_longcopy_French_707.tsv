@@ -1,0 +1,212 @@
+	Basic Conversation	Conversation de base
+GREETING_INFORMAL	Hello	salut
+GREETING_MORNING	good morning	bonjour
+GREETING_EVENING	good evening	bonsoir
+GREETING_DEPARTURE	goodbye	au revoir
+SORRY	sorry / excuse me 	pardon / excusez-moi 
+PLEASE	please	s'il vous plaît
+THANKS	thank you / thanks	merci
+REPLY_THANKS	you're welcome [response to thank you / thanks]	de rien
+GIVE_OWN_NAME	my name is...	je m'appelle...
+ASK_OTHERS_NAME	What is your name?	Comment vous appelez-vous?
+GIVE_OWN_PROVENANCE	I’m from...	Je viens de...
+FAMILY	family	La famille
+PRESENT_HUSBAND	this is my husband	C'est mon mari
+WIFE	my wife	(ma) Femme
+CHILDREN	my children	mes enfants [pl.] / (mon enfant [sing])
+DAUGHTER	my daughter	ma fille
+SON	my son	mon fils
+BABY	my baby	mon bébé
+BROTHER	this is my brother	(c'est mon) frère
+SISTER	this is my sister	(c'est ma) soeur
+FATHER	this is my father	c'est mon père
+MOTHER	this is my mother 	c'est ma mère
+SUFFER_HUNGER	I’m hungry.	J'ai faim.
+CHILD_HUNGRY	(My child) is hungry	Mon enfant a faim
+SUFFER_THIRST	I’m thirsty	j'ai soif.
+WATER	water	l'eau
+AVAILABLE_Q	Do you have...	Avez-vous...?
+LOCATION_Q	Where is..?	Où est…
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Où sont les toilettes? /Où est la salle de bain?
+NEED_SHOWER	I need to take a shower	J'ai besoin de prendre une douche.
+SHOWER_LOCATION_Q	Where can I take a shower?	Où puis-je prendre une douche? 
+SANITARYPAD	sanitary pad / towel	(la) serviette hygiénique
+DIAPER	diaper / nappy	(la) couche / (la) couche-culotte
+NEED_MAKE_PHONECALL	I need to make a phone call	je dois téléphoner.
+PRAY_LOCATION_Q	Where can I pray?	où puis-je prier?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	où puis-je acheter...?
+LOCATION_X_Q	Where can I find____?	où puis-je trouver...?
+TIME_CLOCK_Q	What time is it?	Quelle heure est-il?
+NEED_SLEEP	I (we) need to sleep	J'ai besoin de dormir. / Nous avons besoin de dormir.
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Où est le métro?
+NO_MONEY	I don’t have any money.	Je n'ai pas d'argent.
+SPEAK_X_Q	Do you speak...	Parlez-vous...?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Je ne parle pas très bien (le français)
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Pouvez-vous écrire cela pour moi?
+NO_UNDERSTAND	I don’t understand	je ne comprends pas
+HELP_REQUEST	Help! / Please help me!	à l'aide ! / Aidez-moi s'il vous plaît.
+IGNORANCE	I don’t know	je ne sais pas.
+EVENT_Q	What happened?	Que s'est-il passé?
+SUFFER_FREEZING	I am cold/ freezing	J'ai froid. / Je suis gelé(e).
+EXPERIENCE_HAPPINESS	I’m happy.	Je suis content(e)
+SUFFER_FEAR	I’m scared.	j'ai peur
+SUFFER_SADNESS	I’m sad.	je suis triste
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Tu es gentil(le) / Je t'aime bien
+DONT_WORRY	Don’t worry	Ne vous inquiétez pas   
+NEED_APPOINTMENT	I would like an appointment.	Je voudrais prendre un rendez-vous
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Où est la chambre numéro... ?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Où est le centre d'enregistrement?
+MUST_WAIT	You have to wait	Vous devez attendre / Il faut que vous attendiez
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Combien de temps faut-il attendre? / Combien de temps doit-on attendre ici ?
+1_DAY	one day	un jour
+1_HOUR	one hour	une heure
+1_MONTH	one month	un mois
+VERYSOON	very soon	très bientôt
+TOMORROW	tomorrow	demain.
+DAY_AFTER_TOMORROW	the day after tomorrow	après-demain
+NEXT_WEEK	next week	la semaine prochaine
+RETURN_SOON	I will be back soon	J'arrive /Je reviendrai bientôt    
+ONE	one	un
+TWO	two	deux
+THREE	three	trois
+FOUR	four	quatre
+FIVE	five	cinq
+SIX	six	six
+SEVEN	seven	sept
+EIGHT	eight	huit
+NINE	nine	neuf
+TEN	ten	dix
+MONDAY	Monday	lundi
+TUESDAY	 Tuesday	 mardi
+WEDNESDAY	 Wednesday	 mercredi
+THURSDAY	 Thursday	 jeudi
+FRIDAY	 Friday	 vendredi
+SATURDAY	 Saturday	 samedi
+SUNDAY	 Sunday	 dimanche
+JANUARY	January	janvier
+FEBRUARY	 February	 février
+MARCH	 March	 mars
+APRIL	 April	 avril
+MAY	 May	 mai
+JUNE	 June	 juin
+JULY	 July	 juillet
+AUGUST	 August	 août
+SEPTEMBER	 September	 septembre
+OCTOBER	 October	 octobre
+NOVEMBER	 November	 novembre
+DECEMBER	 December	 décembre
+	Medical Terms	Les Termes Médicaux
+NEED_DOCTOR	I need a doctor	j'ai besoin d'un médecin.
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Je me sens mal / Je ne me sens pas bien
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Je suis malade
+CHILD_ILL	(My child) is sick	Mon enfant est malade
+PREGNANT	I am pregnant	Je suis enceinte
+SUFFER_ICD10_T78.4	I am having an allergic reaction	je fais une allergie / j'ai une réaction allergique
+SUFFER_ICD10_H81	I feel dizzy.	j'ai la tête qui tourne
+SUFFER_ICD10_E10	I am diabetic	je suis diabétique / j'ai le diabète
+NEED_INSULIN	I need insulin	J'ai besoin d'insuline
+SUFFERED_RAPE	I was raped.	J'ai été violé(e).
+SUFFER_ICD10_R10	I have a stomach ache.	j'ai mal au ventre
+SUFFER_ICD10_R50	I have a fever / a temperature	j'ai de la fièvre
+SUFFER_ICD10_R51	I have a headache	J'ai mal à la tête
+SUFFER_ICD10_R05	I have a cough.	Je tousse
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Mon enfant tousse / a mal à la gorge
+FLU	cold	un rhume
+DIARRHEA	diarrhea	(la) diarrhée
+ICD10_K59.0	constipation	(la) constipation
+ICD10_B73.3	vaginal yeast infection (thrush)	la mycose vaginale (candidose) / infection vaginale
+ICD10_B53.3	athlete's foot	 le pied d'athlète, mycose des pieds
+ICD10_B85	head lice	poux (de tête)
+		
+	Food	Nourriture
+MEAL_NOON	Lunch	déjeuner
+MEAL_EVENING	Dinner	dîner
+FOOD_HALAL_Q	Is this food Halal?	Cette nourriture est-elle Halal?
+ALLERGY_AGAINST_X	I am allergic to….	Je suis allergique à...
+PORK_MEAT	pork	porc
+POULTRY_MEAT	poultry	volaille
+NO_EAT_PORK	I do not eat pork	Je ne mange pas de porc
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	je suis végétarien(ne). Je ne mange pas de viande ni de poisson.
+SELF_VEGAN	I am a vegan	Je suis végétalien(ne)
+FISH	fish	poisson
+BREAD	bread	(du) pain
+WATER	water	(de l') eau
+LEMONADE	lemonade	limonade
+MILK	milk	(du) lait
+COFFEE	coffee	café
+TEA	tea	thé
+BEER	beer	bière
+FRUITS	fruit	fruits
+APPLE	apple	pomme
+PEAR	pear	poire
+GRAPEFRUIT	grapefruit	pamplemousse
+APRICOT	apricot	abricot
+POTATOE	potatoes [pl]	pommes de terre
+BEAN	beans [pl]	haricots
+PEA	peas [pl]	petits pois
+CHICKPEA	chickpeas [pl]	pois chiches
+AUBERGINE	eggplant (US) / aubergine (UK)	aubergine
+CARROT	carrots [pl]	carottes
+TOMATO	tomatoes [pl]	tomates
+TURNIP	turnip	navet
+FLOUR	flour	farine
+HONEY	honey	miel
+CHEESE	cheese	fromage
+QUARK	quark / cottage cheese 	fromage blanc
+PAPRIKA	paprika	poivron, paprika
+SAUCE	sauce	sauce
+BUTTER	butter	beurre
+OIL	oil	huile
+CHEWING_GUM	chewing gum	chewing-gum
+SPOON	spoon	(la) cuillère
+KNIFE	knife	couteau
+PLATE	plate	assiette
+GLASS	glass (to drink from)	verre
+MUG	mug	gobelet
+TEAPOT	teapot 	théière
+		
+	Clothing	Vêtements
+SHIRT	shirt	une chemise
+DRESS	Dress	une robe
+SKIRT	skirt	une jupe
+TROUSERS	trousers (UK) / pants (US)	pantalon
+PULLOVER	jumper (UK) / sweater / pullover	pull, pullover
+COAT	jacket / coat	veste / manteau
+HEADSCARF	veil / hijab / headscarf	un voile
+SHOE	shoes [pl]	chaussures
+GLOVE	gloves [pl]	gants
+SOCK	socks [pl]	chaussettes
+UNDERWEAR	underwear	sous-vêtements
+		
+	Misc	Autres
+BED	bed	lit
+BLANKET	blanket	couverture
+LAMP	lamp	lampe
+TELEPHONE	telephone	téléphone
+CELLPHONE	mobile phone / cellphone	(téléphone) portable
+ELECTRICITY	electricity	électricité
+COMPUTER	computer	ordinateur
+INTERNET_CONNECTION	internet connection	connexion internet
+BATTERY	battery	batterie / pile
+ROOM	room	chambre / pièce
+CHAIR	chair	chaise
+TABLE	table	table
+TOILET	toilet	toilettes, WC.
+TOILET_PAPER	toilet paper	papier de toilette
+TOOTHBRUSH	toothbrush	brosse à dents
+TOOTHPASTE	toothpaste	dentifrice
+SHOWER	shower	douche
+BATHTUB	bathtub	baignoire
+SOAP	soap	savon
+SHAMPOO	shampoo	shampooing
+HANDKERCHIEF	tissue / handkerchief	mouchoir
+CUPBOARD	cupboard	placard
+DOOR	door	(la) porte
+WINDOW	window	(la) fenêtre
+WALL	wall	(le) mur
+HOUSE	house	(la) maison
+APARTMENT	apartment / flat	(le) logement / appartement
+BOOK	book	(le) livre
+NEWSPAPER	newspaper	(le) journal
+RADIO	radio	(la) radio
+TELEVISION	television	(la) télévision

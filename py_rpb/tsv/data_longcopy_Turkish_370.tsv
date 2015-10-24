@@ -1,0 +1,212 @@
+	Basic Conversation	Temel iletisim / konuşma
+GREETING_INFORMAL	Hello	Merhaba / Selam
+GREETING_MORNING	good morning	Günaydın
+GREETING_EVENING	good evening	İyi akşamlar
+GREETING_DEPARTURE	goodbye	Hoşçakal
+SORRY	sorry / excuse me 	Özür dilerim
+PLEASE	please	Lütfen
+THANKS	thank you / thanks	Teşekkürler
+REPLY_THANKS	you're welcome [response to thank you / thanks]	bir şey değil
+GIVE_OWN_NAME	my name is...	Adım ....
+ASK_OTHERS_NAME	What is your name?	Adın ne?
+GIVE_OWN_PROVENANCE	I’m from...	....den geliyorum
+FAMILY	family	aile
+PRESENT_HUSBAND	this is my husband	Bu benim kocam ...
+WIFE	my wife	karım
+CHILDREN	my children	çocuklarım (>1)çocuğum (1)
+DAUGHTER	my daughter	kızım
+SON	my son	oğlum
+BABY	my baby	bebeğim
+BROTHER	this is my brother	Bu abim /Bu erkek kardeşim
+SISTER	this is my sister	Bu ablam / bu kız kardeşim
+FATHER	this is my father	Bu benim babam
+MOTHER	this is my mother 	Bu benim annem
+SUFFER_HUNGER	I’m hungry.	Açım
+CHILD_HUNGRY	(My child) is hungry	Çocuğum aç
+SUFFER_THIRST	I’m thirsty	Susadım
+WATER	water	su
+AVAILABLE_Q	Do you have...	... var mı?
+LOCATION_Q	Where is..?	... nerede?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Tuvalet nerede?
+NEED_SHOWER	I need to take a shower	yıkanmam lazım
+SHOWER_LOCATION_Q	Where can I take a shower?	nerede yıkanabilirim?
+SANITARYPAD	sanitary pad / towel	ped
+DIAPER	diaper / nappy	Bebek bezi
+NEED_MAKE_PHONECALL	I need to make a phone call	telefon etmem lazım
+PRAY_LOCATION_Q	Where can I pray?	nerede namaz kılabilirim?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	_____ nereden satın alabilirim?
+LOCATION_X_Q	Where can I find____?	_____ nerede bulabilirim?
+TIME_CLOCK_Q	What time is it?	saat kaç
+NEED_SLEEP	I (we) need to sleep	Uykum(uz) var
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Metro nerede?
+NO_MONEY	I don’t have any money.	(Hiç) param yok
+SPEAK_X_Q	Do you speak...	.... biliyor musun?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Türkçe bilmiyorum---Az Türkçe biliyorum
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Bana bunu yazar mısın?
+NO_UNDERSTAND	I don’t understand	Anlamıyorum.
+HELP_REQUEST	Help! / Please help me!	İmdat/ Lütfen bana yardım edin
+IGNORANCE	I don’t know	Bilmiyorum
+EVENT_Q	What happened?	Ne oldu?
+SUFFER_FREEZING	I am cold/ freezing	(çok) Üşüyorum
+EXPERIENCE_HAPPINESS	I’m happy.	mutluyum
+SUFFER_FEAR	I’m scared.	korkuyorum
+SUFFER_SADNESS	I’m sad.	üzgünüm
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Senden hoşlanıyorum
+DONT_WORRY	Don’t worry	Boşver / Üzülme
+NEED_APPOINTMENT	I would like an appointment.	Randevu gerekiyor
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	______ Numaralı oda nerede?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Kayıt merkezi nerede?
+MUST_WAIT	You have to wait	Bekle / Beklemen lazım
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Burada ne kadar bekleyeceğiz?
+1_DAY	one day	Bir gün
+1_HOUR	one hour	Bir saat
+1_MONTH	one month	Bir ay
+VERYSOON	very soon	Çok yakında
+TOMORROW	tomorrow	Yarın
+DAY_AFTER_TOMORROW	the day after tomorrow	Ertesi gün
+NEXT_WEEK	next week	Gelecek hafta
+RETURN_SOON	I will be back soon	Birazdan geliyorum
+ONE	one	bir
+TWO	two	iki
+THREE	three	üç
+FOUR	four	dört
+FIVE	five	beş
+SIX	six	altı
+SEVEN	seven	yedi
+EIGHT	eight	sekiz
+NINE	nine	dokuz
+TEN	ten	on
+MONDAY	Monday	pazartesi
+TUESDAY	 Tuesday	 salı
+WEDNESDAY	 Wednesday	 çarşamba
+THURSDAY	 Thursday	 perşembe
+FRIDAY	 Friday	 cuma
+SATURDAY	 Saturday	 cumartesi
+SUNDAY	 Sunday	 pazar
+JANUARY	January	ocak
+FEBRUARY	 February	 şubat
+MARCH	 March	 mart
+APRIL	 April	 nisan
+MAY	 May	 mayıs
+JUNE	 June	 haziran
+JULY	 July	 temmuz
+AUGUST	 August	 ağustos
+SEPTEMBER	 September	 eylül
+OCTOBER	 October	 ekim
+NOVEMBER	 November	 kasım
+DECEMBER	 December	 aralık
+	Medical Terms	Tıp Terimleri / Sağlik
+NEED_DOCTOR	I need a doctor	Doktora gitmem lazım
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Bulantım var
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Hastayım
+CHILD_ILL	(My child) is sick	Çocuğum hasta
+PREGNANT	I am pregnant	hamileyim
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Alerjik tepki gösteriyorum
+SUFFER_ICD10_H81	I feel dizzy.	Başım dönüyor
+SUFFER_ICD10_E10	I am diabetic	Şeker hastasıyım.
+NEED_INSULIN	I need insulin	İnsüline ihtiyacım var.
+SUFFERED_RAPE	I was raped.	Tecavüze uğradım
+SUFFER_ICD10_R10	I have a stomach ache.	Midem ağrıyor /Karnım ağrıyor
+SUFFER_ICD10_R50	I have a fever / a temperature	ateş / ateşi(m) var
+SUFFER_ICD10_R51	I have a headache	Başım ağrıyor
+SUFFER_ICD10_R05	I have a cough.	Öksürüğüm var
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Çocuğumun boğazı ağrıyor/Çocuğumun öksürüğü var
+FLU	cold	Nezle
+DIARRHEA	diarrhea	İshal
+ICD10_K59.0	constipation	Kabızlık
+ICD10_B73.3	vaginal yeast infection (thrush)	Vajinada mantar enfeksiyonu
+ICD10_B53.3	athlete's foot	Ayak mantarı
+ICD10_B85	head lice	Baş biti
+		
+	Food	Yiyecekler
+MEAL_NOON	Lunch	öğle yemeği
+MEAL_EVENING	Dinner	akşam yemeği
+FOOD_HALAL_Q	Is this food Halal?	Helal mı?
+ALLERGY_AGAINST_X	I am allergic to….	..... alerjim var
+PORK_MEAT	pork	domuz eti
+POULTRY_MEAT	poultry	kanatlı hayvan
+NO_EAT_PORK	I do not eat pork	Domuz eti yemem.
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	vejeteryanım
+SELF_VEGAN	I am a vegan	veganım
+FISH	fish	balık
+BREAD	bread	ekmek
+WATER	water	Su
+LEMONADE	lemonade	limonata
+MILK	milk	süt
+COFFEE	coffee	kahve
+TEA	tea	çay
+BEER	beer	bira
+FRUITS	fruit	meyve
+APPLE	apple	elma
+PEAR	pear	armut
+GRAPEFRUIT	grapefruit	greyfurt
+APRICOT	apricot	kayısı
+POTATOE	potatoes [pl]	patates
+BEAN	beans [pl]	fasulye
+PEA	peas [pl]	bezelye
+CHICKPEA	chickpeas [pl]	nohut
+AUBERGINE	eggplant (US) / aubergine (UK)	patlıcan
+CARROT	carrots [pl]	havuç
+TOMATO	tomatoes [pl]	domates
+TURNIP	turnip	şalgam
+FLOUR	flour	un
+HONEY	honey	bal
+CHEESE	cheese	peynir
+QUARK	quark / cottage cheese 	kesmik
+PAPRIKA	paprika	toz biber
+SAUCE	sauce	sos
+BUTTER	butter	tereyağı
+OIL	oil	sıvı yağ
+CHEWING_GUM	chewing gum	sakız
+SPOON	spoon	Kaşık
+KNIFE	knife	Bıçak
+PLATE	plate	tabak
+GLASS	glass (to drink from)	bardak / gözlük
+MUG	mug	plastik bardak
+TEAPOT	teapot 	çaydanlık
+		
+	Clothing	Elbise
+SHIRT	shirt	gömlek
+DRESS	Dress	elbise
+SKIRT	skirt	etek
+TROUSERS	trousers (UK) / pants (US)	pantolon
+PULLOVER	jumper (UK) / sweater / pullover	kazak
+COAT	jacket / coat	ceket
+HEADSCARF	veil / hijab / headscarf	başörtüsü / hicap / peçe
+SHOE	shoes [pl]	ayakkabılar
+GLOVE	gloves [pl]	eldiven
+SOCK	socks [pl]	çorap
+UNDERWEAR	underwear	iç çamaşırı / külot
+		
+	Misc	Diğerleri
+BED	bed	yatak
+BLANKET	blanket	battaniye/yorgan
+LAMP	lamp	lamba
+TELEPHONE	telephone	telefon
+CELLPHONE	mobile phone / cellphone	cep telefonu
+ELECTRICITY	electricity	elektrik
+COMPUTER	computer	Bilgisayar
+INTERNET_CONNECTION	internet connection	internet bağlantısı
+BATTERY	battery	pil
+ROOM	room	oda
+CHAIR	chair	sandalye
+TABLE	table	masa
+TOILET	toilet	tuvalet
+TOILET_PAPER	toilet paper	Tuvalet kâğıdı
+TOOTHBRUSH	toothbrush	diş fırçası
+TOOTHPASTE	toothpaste	diş macunu
+SHOWER	shower	duş
+BATHTUB	bathtub	küvet
+SOAP	soap	Sabun
+SHAMPOO	shampoo	Şampuan
+HANDKERCHIEF	tissue / handkerchief	peçete
+CUPBOARD	cupboard	dolap
+DOOR	door	kapı
+WINDOW	window	pencere
+WALL	wall	duvar
+HOUSE	house	ev
+APARTMENT	apartment / flat	ev
+BOOK	book	kitap
+NEWSPAPER	newspaper	gazete
+RADIO	radio	radyo
+TELEVISION	television	televizyon

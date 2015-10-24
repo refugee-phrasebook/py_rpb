@@ -1,0 +1,212 @@
+	Basic Conversation	Osnovni pogovor
+GREETING_INFORMAL	Hello	Zdravo
+GREETING_MORNING	good morning	Dober dan
+GREETING_EVENING	good evening	Dober večer
+GREETING_DEPARTURE	goodbye	Nasvidenje
+SORRY	sorry / excuse me 	Oprostite.
+PLEASE	please	Prosim
+THANKS	thank you / thanks	Hvala
+REPLY_THANKS	you're welcome [response to thank you / thanks]	Ni za kaj
+GIVE_OWN_NAME	my name is...	Moje ime je...
+ASK_OTHERS_NAME	What is your name?	Kako vam je ime?
+GIVE_OWN_PROVENANCE	I’m from...	Prihajam iz / sem iz
+FAMILY	family	družina
+PRESENT_HUSBAND	this is my husband	To je moj mož
+WIFE	my wife	To je moja žena
+CHILDREN	my children	To so moji otroci
+DAUGHTER	my daughter	(moja) hčerka
+SON	my son	(moj) sin
+BABY	my baby	(moj) otrok
+BROTHER	this is my brother	(to je moj) brat
+SISTER	this is my sister	(to je moja) sestra
+FATHER	this is my father	(to je moj) oče
+MOTHER	this is my mother 	(to je moja) mama
+SUFFER_HUNGER	I’m hungry.	Lačen sem (m)  Lačna sem (f)
+CHILD_HUNGRY	(My child) is hungry	(moj otrok) je lačen
+SUFFER_THIRST	I’m thirsty	Žejen sem (m) Žejna sem (f)
+WATER	water	voda
+AVAILABLE_Q	Do you have...	Imate...
+LOCATION_Q	Where is..?	Kje je...?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Kje je wc / kopalnica?
+NEED_SHOWER	I need to take a shower	Rad bi se stuširal (m) Rada bi se stuširala (f)
+SHOWER_LOCATION_Q	Where can I take a shower?	Kje se lahko stuširam?
+SANITARYPAD	sanitary pad / towel	Damski vložki
+DIAPER	diaper / nappy	Plenice
+NEED_MAKE_PHONECALL	I need to make a phone call	Telefonirati moram
+PRAY_LOCATION_Q	Where can I pray?	Kje lahko molim?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Kje lahko kupim...?
+LOCATION_X_Q	Where can I find____?	Kje lahko najdem...?
+TIME_CLOCK_Q	What time is it?	Koliko je ura?
+NEED_SLEEP	I (we) need to sleep	Spati moram / Moramo spati
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Kje je metro?
+NO_MONEY	I don’t have any money.	Nimam nič denarja.
+SPEAK_X_Q	Do you speak...	Govorite...?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Ne govorim slovensko.
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	 Mi lahko to napišete?
+NO_UNDERSTAND	I don’t understand	Ne razumem
+HELP_REQUEST	Help! / Please help me!	Na pomoč! Pomagajte mi, prosim!
+IGNORANCE	I don’t know	Ne vem
+EVENT_Q	What happened?	Kaj se je zgodilo?
+SUFFER_FREEZING	I am cold/ freezing	Zebe me. / Zmrzujem.
+EXPERIENCE_HAPPINESS	I’m happy.	Vesel sem.
+SUFFER_FEAR	I’m scared.	Bojim se.
+SUFFER_SADNESS	I’m sad.	Žalosten sem.
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Všeč si mi.
+DONT_WORRY	Don’t worry	Brez skrbi.
+NEED_APPOINTMENT	I would like an appointment.	želim sestanek
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Kje je soba...?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Kje je center za registracijo?
+MUST_WAIT	You have to wait	Počakati morate.
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Kako dolgo moramo čakati tukaj?
+1_DAY	one day	En dan
+1_HOUR	one hour	Ena ura
+1_MONTH	one month	En mesec
+VERYSOON	very soon	Kmalu.
+TOMORROW	tomorrow	Jutri.
+DAY_AFTER_TOMORROW	the day after tomorrow	Pojutrišnjem.
+NEXT_WEEK	next week	Naslednji teden.
+RETURN_SOON	I will be back soon	Kmalu bom nazaj.
+ONE	one	ena
+TWO	two	dva
+THREE	three	tri
+FOUR	four	štiri
+FIVE	five	pet
+SIX	six	šest
+SEVEN	seven	sedem
+EIGHT	eight	osem
+NINE	nine	devet
+TEN	ten	deset
+MONDAY	Monday	Ponedeljek
+TUESDAY	 Tuesday	 Torek
+WEDNESDAY	 Wednesday	 Sreda
+THURSDAY	 Thursday	 Četrtek
+FRIDAY	 Friday	 Petek
+SATURDAY	 Saturday	 Sobota
+SUNDAY	 Sunday	 Nedelja
+JANUARY	January	Januar
+FEBRUARY	 February	 Februar
+MARCH	 March	 Marec
+APRIL	 April	 April
+MAY	 May	 Maj
+JUNE	 June	 Junij
+JULY	 July	 Julij
+AUGUST	 August	 Avgust
+SEPTEMBER	 September	 September
+OCTOBER	 October	 Oktober
+NOVEMBER	 November	 November
+DECEMBER	 December	 December
+	Medical Terms	Zdravje
+NEED_DOCTOR	I need a doctor	Potrebujem zdravnika
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Slabo mi je.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Bolan sem (m)  Bolna sem (f) 
+CHILD_ILL	(My child) is sick	(moj otrok) je bolan
+PREGNANT	I am pregnant	Noseča sem
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Imam alergično reakcijo
+SUFFER_ICD10_H81	I feel dizzy.	Vrti se mi.
+SUFFER_ICD10_E10	I am diabetic	Diabetik sem.
+NEED_INSULIN	I need insulin	Potrebujem insulin.
+SUFFERED_RAPE	I was raped.	Posilili so me.
+SUFFER_ICD10_R10	I have a stomach ache.	Boli me trebuh
+SUFFER_ICD10_R50	I have a fever / a temperature	Imam vročino
+SUFFER_ICD10_R51	I have a headache	Glava me boli.
+SUFFER_ICD10_R05	I have a cough.	Kašljam.
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Moj otrok ima boleče grlo / kašlja
+FLU	cold	prehlad
+DIARRHEA	diarrhea	driska
+ICD10_K59.0	constipation	zaprtje
+ICD10_B73.3	vaginal yeast infection (thrush)	vaginalno glivično vnetje
+ICD10_B53.3	athlete's foot	Glivice na nogah
+ICD10_B85	head lice	Uši
+		
+	Food	Hrana
+MEAL_NOON	Lunch	Kosilo
+MEAL_EVENING	Dinner	Večerja
+FOOD_HALAL_Q	Is this food Halal?	Je hrana Halal?
+ALLERGY_AGAINST_X	I am allergic to….	Alergičen sem na....
+PORK_MEAT	pork	svinjina
+POULTRY_MEAT	poultry	perutnina
+NO_EAT_PORK	I do not eat pork	Ne jem svinjine
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Sem vegetarijanec (m) Sem vegetarijanka (f)
+SELF_VEGAN	I am a vegan	Sem vegan / Sem veganka
+FISH	fish	ribe
+BREAD	bread	kruh
+WATER	water	voda
+LEMONADE	lemonade	limonada
+MILK	milk	mleko
+COFFEE	coffee	kava
+TEA	tea	čaj
+BEER	beer	pivo
+FRUITS	fruit	sadje
+APPLE	apple	jabolko
+PEAR	pear	hruška
+GRAPEFRUIT	grapefruit	grenivka
+APRICOT	apricot	marelica
+POTATOE	potatoes [pl]	krompir
+BEAN	beans [pl]	fižol
+PEA	peas [pl]	grah
+CHICKPEA	chickpeas [pl]	čičerika
+AUBERGINE	eggplant (US) / aubergine (UK)	jajčevec
+CARROT	carrots [pl]	korenje
+TOMATO	tomatoes [pl]	paradižnik
+TURNIP	turnip	repa
+FLOUR	flour	moka
+HONEY	honey	med
+CHEESE	cheese	sir
+QUARK	quark / cottage cheese 	skuta
+PAPRIKA	paprika	paprika
+SAUCE	sauce	omaka
+BUTTER	butter	maslo
+OIL	oil	olje
+CHEWING_GUM	chewing gum	žvečilni gumi
+SPOON	spoon	žlica
+KNIFE	knife	nož
+PLATE	plate	krožnik
+GLASS	glass (to drink from)	kozarec
+MUG	mug	skodelica
+TEAPOT	teapot 	čajnik
+		
+	Clothing	Obleka
+SHIRT	shirt	Srajca
+DRESS	Dress	Obleka
+SKIRT	skirt	Krilo
+TROUSERS	trousers (UK) / pants (US)	hlače
+PULLOVER	jumper (UK) / sweater / pullover	pulover
+COAT	jacket / coat	jakna
+HEADSCARF	veil / hijab / headscarf	tančica / Ruta / Hijab
+SHOE	shoes [pl]	čevlji
+GLOVE	gloves [pl]	rokavice
+SOCK	socks [pl]	nogavice
+UNDERWEAR	underwear	spodnje perilo
+		
+	Misc	Razno
+BED	bed	postelja
+BLANKET	blanket	odeja
+LAMP	lamp	svetilka
+TELEPHONE	telephone	telefon
+CELLPHONE	mobile phone / cellphone	mobilni telefon
+ELECTRICITY	electricity	elektrika
+COMPUTER	computer	računalnik
+INTERNET_CONNECTION	internet connection	internetna povezava
+BATTERY	battery	baterija
+ROOM	room	soba
+CHAIR	chair	stol
+TABLE	table	miza
+TOILET	toilet	stranišče, WC
+TOILET_PAPER	toilet paper	toaletni papir
+TOOTHBRUSH	toothbrush	zobna ščetka
+TOOTHPASTE	toothpaste	zobna pasta
+SHOWER	shower	prha
+BATHTUB	bathtub	banja / (kopalna) kad
+SOAP	soap	milo
+SHAMPOO	shampoo	šampon
+HANDKERCHIEF	tissue / handkerchief	papirnati robček
+CUPBOARD	cupboard	omara
+DOOR	door	vrata
+WINDOW	window	okno
+WALL	wall	stena, zid
+HOUSE	house	hiša
+APARTMENT	apartment / flat	stanovanje
+BOOK	book	knjiga
+NEWSPAPER	newspaper	časopis
+RADIO	radio	radio
+TELEVISION	television	televizija

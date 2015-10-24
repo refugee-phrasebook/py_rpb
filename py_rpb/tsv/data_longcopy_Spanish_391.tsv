@@ -1,0 +1,212 @@
+	Basic Conversation	Conversación Básica
+GREETING_INFORMAL	Hello	Hola
+GREETING_MORNING	good morning	Buenos días
+GREETING_EVENING	good evening	Buenas noches
+GREETING_DEPARTURE	goodbye	Adiós / Hasta pronto
+SORRY	sorry / excuse me 	Disculpa/ Perdona/ Lo siento 
+PLEASE	please	Por favor  
+THANKS	thank you / thanks	Gracias 
+REPLY_THANKS	you're welcome [response to thank you / thanks]	De nada
+GIVE_OWN_NAME	my name is...	Me llamo… / Mi nombre es... 
+ASK_OTHERS_NAME	What is your name?	¿Cómo se llama? / ¿Cuál es su nombre?
+GIVE_OWN_PROVENANCE	I’m from...	Soy de…. / Vengo de...
+FAMILY	family	Familia
+PRESENT_HUSBAND	this is my husband	Este es mi... marido / esposo
+WIFE	my wife	Esta es mi... mujer / esposa 
+CHILDREN	my children	Estos son mis hijos
+DAUGHTER	my daughter	Esta es mi hija
+SON	my son	Este es mi hijo
+BABY	my baby	Este es mi bebé 
+BROTHER	this is my brother	Este es mi hermano
+SISTER	this is my sister	Esta es mi hermana
+FATHER	this is my father	Este es mi padre / papá 
+MOTHER	this is my mother 	Esta es mi madre / mamá 
+SUFFER_HUNGER	I’m hungry.	Tengo hambre
+CHILD_HUNGRY	(My child) is hungry	Mi hijo/hija tiene hambre
+SUFFER_THIRST	I’m thirsty	Tengo sed
+WATER	water	Agua
+AVAILABLE_Q	Do you have...	¿Tiene…?
+LOCATION_Q	Where is..?	¿Dónde está…?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	¿Dónde está el baño?
+NEED_SHOWER	I need to take a shower	Necesito ducharme
+SHOWER_LOCATION_Q	Where can I take a shower?	¿Dónde puedo ducharme?
+SANITARYPAD	sanitary pad / towel	Toalla sanitaria
+DIAPER	diaper / nappy	Pañal
+NEED_MAKE_PHONECALL	I need to make a phone call	Necesito hacer una llamada telefónica 
+PRAY_LOCATION_Q	Where can I pray?	¿Dónde puedo rezar?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	¿Dónde puedo comprar____?
+LOCATION_X_Q	Where can I find____?	¿Dónde puedo encontrar___?
+TIME_CLOCK_Q	What time is it?	¿Qué hora es?
+NEED_SLEEP	I (we) need to sleep	Necesito (necesitamos) dormir / Tengo sueño
+SUBWAY_LOCATION_Q	Where is the subway/underground?	¿Dónde está el metro / ubahn?
+NO_MONEY	I don’t have any money.	No tengo dinero
+SPEAK_X_Q	Do you speak...	¿Habla…?
+SPEAK_LITTLE_X	I don't speak (English) very well.	No hablo (muy bien) español
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	¿Puede escribirlo? 
+NO_UNDERSTAND	I don’t understand	No entiendo / No comprendo
+HELP_REQUEST	Help! / Please help me!	¡Ayuda! / ¡Ayúdeme, por favor!
+IGNORANCE	I don’t know	No sé
+EVENT_Q	What happened?	¿Qué pasó?
+SUFFER_FREEZING	I am cold/ freezing	Tengo frío
+EXPERIENCE_HAPPINESS	I’m happy.	Estoy feliz /contento (a)
+SUFFER_FEAR	I’m scared.	Tengo miedo
+SUFFER_SADNESS	I’m sad.	Estoy triste
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Me cae bien / Me agradas
+DONT_WORRY	Don’t worry	No se preocupe
+NEED_APPOINTMENT	I would like an appointment.	Necesito una cita/turno.
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	¿Dónde está la habitación número...?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	¿Dónde está el Centro de Inscripción / Registro Civil / Registro de Extranjeros?
+MUST_WAIT	You have to wait	Debe esperar
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	¿Cuánto tiempo tenemos que esperar aquí?
+1_DAY	one day	Un día
+1_HOUR	one hour	Una hora
+1_MONTH	one month	Un mes
+VERYSOON	very soon	Muy pronto
+TOMORROW	tomorrow	Mañana
+DAY_AFTER_TOMORROW	the day after tomorrow	Pasado mañana
+NEXT_WEEK	next week	La semana próxima/ la semana que viene
+RETURN_SOON	I will be back soon	Volveré pronto
+ONE	one	Uno
+TWO	two	dos
+THREE	three	tres
+FOUR	four	cuatro
+FIVE	five	cinco
+SIX	six	seis
+SEVEN	seven	siete
+EIGHT	eight	ocho
+NINE	nine	nueve
+TEN	ten	diez
+MONDAY	Monday	Lunes
+TUESDAY	 Tuesday	 martes
+WEDNESDAY	 Wednesday	 miércoles
+THURSDAY	 Thursday	 jueves
+FRIDAY	 Friday	 viernes
+SATURDAY	 Saturday	 sábado
+SUNDAY	 Sunday	 domingo
+JANUARY	January	Enero
+FEBRUARY	 February	 febrero
+MARCH	 March	 marzo
+APRIL	 April	 abril
+MAY	 May	 mayo
+JUNE	 June	 junio
+JULY	 July	 julio
+AUGUST	 August	 agosto
+SEPTEMBER	 September	 septiembre
+OCTOBER	 October	 octubre
+NOVEMBER	 November	 noviembre
+DECEMBER	 December	 diciembre
+	Medical Terms	Términos Médicos
+NEED_DOCTOR	I need a doctor	Necesito un... doctor / médico
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Tengo nauseas
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Estoy enfermo / enferma
+CHILD_ILL	(My child) is sick	Mi hijo está enfermo / Mi hija está enferma
+PREGNANT	I am pregnant	Estoy embarazada
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Estoy teniendo una reacción alérgica
+SUFFER_ICD10_H81	I feel dizzy.	Estoy mareada
+SUFFER_ICD10_E10	I am diabetic	Soy diabético/diabética
+NEED_INSULIN	I need insulin	Necesito insulina
+SUFFERED_RAPE	I was raped.	Fui violada / Me han violado 
+SUFFER_ICD10_R10	I have a stomach ache.	Me duele el estómago
+SUFFER_ICD10_R50	I have a fever / a temperature	Tengo fiebre
+SUFFER_ICD10_R51	I have a headache	Me duele la cabeza
+SUFFER_ICD10_R05	I have a cough.	Tengo tos
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Mi hijo/hija tiene tos
+FLU	cold	Resfrío / Resfriado
+DIARRHEA	diarrhea	Diarrea
+ICD10_K59.0	constipation	Estreñimiento / Constipación
+ICD10_B73.3	vaginal yeast infection (thrush)	Candidiasis / Hongo vaginal 
+ICD10_B53.3	athlete's foot	Pie de atleta / Hongos en los pies
+ICD10_B85	head lice	Piojos
+		
+	Food	Alimentos
+MEAL_NOON	Lunch	almuerzo / comida
+MEAL_EVENING	Dinner	cena
+FOOD_HALAL_Q	Is this food Halal?	¿La comida es Halal?
+ALLERGY_AGAINST_X	I am allergic to….	Soy alérgico/ alérgica a...
+PORK_MEAT	pork	Carne de cerdo
+POULTRY_MEAT	poultry	Aves
+NO_EAT_PORK	I do not eat pork	No como carne de cerdo
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Soy vegetariano / Soy vegetariana
+SELF_VEGAN	I am a vegan	Soy vegano / Soy vegana
+FISH	fish	Pescado
+BREAD	bread	Pan
+WATER	water	Agua
+LEMONADE	lemonade	Limonada, Refresco
+MILK	milk	Leche
+COFFEE	coffee	Café
+TEA	tea	Té
+BEER	beer	Cerveza
+FRUITS	fruit	Frutas
+APPLE	apple	Manzana(s)
+PEAR	pear	Pera(s)
+GRAPEFRUIT	grapefruit	Pomelo(s)/toronja(s)
+APRICOT	apricot	Albaricoque(s) / Damasco(s)
+POTATOE	potatoes [pl]	Patatas/papas
+BEAN	beans [pl]	Judías, Habichuelas/frijoles/Chauchas
+PEA	peas [pl]	Guisante(s), Arveja(s)
+CHICKPEA	chickpeas [pl]	garbanzo(s)
+AUBERGINE	eggplant (US) / aubergine (UK)	berenjena(s)
+CARROT	carrots [pl]	Zanahoria(s)
+TOMATO	tomatoes [pl]	Tomate(s)
+TURNIP	turnip	Rábano(s)
+FLOUR	flour	Harina
+HONEY	honey	Miel
+CHEESE	cheese	Queso
+QUARK	quark / cottage cheese 	Requesón
+PAPRIKA	paprika	Pimiento / Ají / Morrón
+SAUCE	sauce	Salsa
+BUTTER	butter	Mantequilla
+OIL	oil	Aceite
+CHEWING_GUM	chewing gum	Chicle
+SPOON	spoon	Cuchara
+KNIFE	knife	Cuchillo
+PLATE	plate	Plato
+GLASS	glass (to drink from)	Vaso
+MUG	mug	Tazón / Taza grande
+TEAPOT	teapot 	tetera
+		
+	Clothing	Ropa
+SHIRT	shirt	Camisa
+DRESS	Dress	Vestido
+SKIRT	skirt	Falda  
+TROUSERS	trousers (UK) / pants (US)	(el) pantalón
+PULLOVER	jumper (UK) / sweater / pullover	(el) sueter / pulover
+COAT	jacket / coat	(el) abrigo
+HEADSCARF	veil / hijab / headscarf	(el) velo
+SHOE	shoes [pl]	(los) zapatos
+GLOVE	gloves [pl]	(los) guantes
+SOCK	socks [pl]	(los) calcetines
+UNDERWEAR	underwear	(la) ropa interior
+		
+	Misc	Misceláneos
+BED	bed	(la) cama
+BLANKET	blanket	(la) cobija / manta
+LAMP	lamp	(la) lámpara
+TELEPHONE	telephone	(el) teléfono
+CELLPHONE	mobile phone / cellphone	teléfono movil / celular
+ELECTRICITY	electricity	(la) electricidad
+COMPUTER	computer	(la) computadora/(el) ordenador
+INTERNET_CONNECTION	internet connection	(la) conexión a internet
+BATTERY	battery	(la) batería
+ROOM	room	(la) habitación
+CHAIR	chair	(la) silla
+TABLE	table	(la) mesa
+TOILET	toilet	(el) sanitario/(el) servicio
+TOILET_PAPER	toilet paper	(el) papel de baño
+TOOTHBRUSH	toothbrush	(el) cepillo de dientes
+TOOTHPASTE	toothpaste	(la) pasta de dientes
+SHOWER	shower	(la) ducha
+BATHTUB	bathtub	(la) bañera
+SOAP	soap	jabón
+SHAMPOO	shampoo	shampoo
+HANDKERCHIEF	tissue / handkerchief	(el) kleenex
+CUPBOARD	cupboard	(la) alacena
+DOOR	door	puerta
+WINDOW	window	ventana
+WALL	wall	muro
+HOUSE	house	casa
+APARTMENT	apartment / flat	apartamento
+BOOK	book	libro
+NEWSPAPER	newspaper	periódico
+RADIO	radio	radio
+TELEVISION	television	televisión

@@ -1,0 +1,212 @@
+	Basic Conversation	Társalgás
+GREETING_INFORMAL	Hello	Helló
+GREETING_MORNING	good morning	Jó napot kívánok
+GREETING_EVENING	good evening	Jó estét
+GREETING_DEPARTURE	goodbye	Viszontlátásra
+SORRY	sorry / excuse me 	Elnézést
+PLEASE	please	Kérem
+THANKS	thank you / thanks	Köszönöm
+REPLY_THANKS	you're welcome [response to thank you / thanks]	szívesen
+GIVE_OWN_NAME	my name is...	...vagyok
+ASK_OTHERS_NAME	What is your name?	Mi az ön neve?
+GIVE_OWN_PROVENANCE	I’m from...	…-ból jövök
+FAMILY	family	család
+PRESENT_HUSBAND	this is my husband	Ez a férjem
+WIFE	my wife	a feleségem
+CHILDREN	my children	a gyerekeim
+DAUGHTER	my daughter	a lányom
+SON	my son	a fiam
+BABY	my baby	a kisbabám
+BROTHER	this is my brother	Ez a testvérem
+SISTER	this is my sister	Ez a testvérem
+FATHER	this is my father	Ô az apam
+MOTHER	this is my mother 	Ô az anyám
+SUFFER_HUNGER	I’m hungry.	Éhes vagyok
+CHILD_HUNGRY	(My child) is hungry	A gyerekem éhes
+SUFFER_THIRST	I’m thirsty	Szomjas vagyok
+WATER	water	víz
+AVAILABLE_Q	Do you have...	Van önnek...
+LOCATION_Q	Where is..?	Hol van...
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Hol van a WC / fürdőszoba?
+NEED_SHOWER	I need to take a shower	Zuhanyozni szeretnék
+SHOWER_LOCATION_Q	Where can I take a shower?	Hol lehet zuhanyozni?
+SANITARYPAD	sanitary pad / towel	Intim betét
+DIAPER	diaper / nappy	Pelenka
+NEED_MAKE_PHONECALL	I need to make a phone call	Szeretnék telefonalni
+PRAY_LOCATION_Q	Where can I pray?	Hol lehet imádkozni
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Hol vásárolhatok _____?
+LOCATION_X_Q	Where can I find____?	Hol találok….?
+TIME_CLOCK_Q	What time is it?	Mennyi az idő?
+NEED_SLEEP	I (we) need to sleep	Aludni szeretnénk
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Hol van a metró?
+NO_MONEY	I don’t have any money.	Nincs pénzem
+SPEAK_X_Q	Do you speak...	Beszél ön...
+SPEAK_LITTLE_X	I don't speak (English) very well.	Nem tudok (jól) magyarul
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Le tudja nekem írni?
+NO_UNDERSTAND	I don’t understand	Nem értem
+HELP_REQUEST	Help! / Please help me!	Segítség
+IGNORANCE	I don’t know	Nem tudom
+EVENT_Q	What happened?	Mi történt?
+SUFFER_FREEZING	I am cold/ freezing	Fázom
+EXPERIENCE_HAPPINESS	I’m happy.	Elégedett/ boldog vagyok
+SUFFER_FEAR	I’m scared.	Félek
+SUFFER_SADNESS	I’m sad.	Szomorú vagyok
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Kedvellek
+DONT_WORRY	Don’t worry	Ne aggodjon
+NEED_APPOINTMENT	I would like an appointment.	Szeretnék egy időpontot kérni
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Hol van a ...-es szoba?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Hol van a Regisztrációs Központ?
+MUST_WAIT	You have to wait	Kérem várjon
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Meddig kell itt várnunk?
+1_DAY	one day	Egy napot.
+1_HOUR	one hour	Egy órát.
+1_MONTH	one month	Egy hónapot.
+VERYSOON	very soon	Hamarosan
+TOMORROW	tomorrow	Holnap
+DAY_AFTER_TOMORROW	the day after tomorrow	Holnapután
+NEXT_WEEK	next week	Jövő héten
+RETURN_SOON	I will be back soon	Hamarosan visszajövök.
+ONE	one	egy
+TWO	two	kettő
+THREE	three	három
+FOUR	four	négy
+FIVE	five	öt
+SIX	six	hat
+SEVEN	seven	hét
+EIGHT	eight	nyolc
+NINE	nine	kilenc
+TEN	ten	tíz
+MONDAY	Monday	hétfő
+TUESDAY	 Tuesday	 kedd
+WEDNESDAY	 Wednesday	 szerda
+THURSDAY	 Thursday	 csütörtök
+FRIDAY	 Friday	 péntek
+SATURDAY	 Saturday	 szombat
+SUNDAY	 Sunday	 vasárnap
+JANUARY	January	január
+FEBRUARY	 February	 február
+MARCH	 March	 március
+APRIL	 April	 április
+MAY	 May	 május
+JUNE	 June	 június
+JULY	 July	 július
+AUGUST	 August	 augusztus
+SEPTEMBER	 September	 szeptember
+OCTOBER	 October	 október
+NOVEMBER	 November	 november
+DECEMBER	 December	 december
+	Medical Terms	Orvosi kifejezések
+NEED_DOCTOR	I need a doctor	Orvosra lenne szükségem
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Rosszul vagyok.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Beteg vagyok
+CHILD_ILL	(My child) is sick	A gyerekem beteg
+PREGNANT	I am pregnant	Terhes vagyok
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Allergiás vagyok.
+SUFFER_ICD10_H81	I feel dizzy.	Szédülök
+SUFFER_ICD10_E10	I am diabetic	Cukorbeteg vagyok.
+NEED_INSULIN	I need insulin	Inzulinra lenne szükségem.
+SUFFERED_RAPE	I was raped.	Megerőszakoltak
+SUFFER_ICD10_R10	I have a stomach ache.	Fáj a hasam
+SUFFER_ICD10_R50	I have a fever / a temperature	Lázas vagyok
+SUFFER_ICD10_R51	I have a headache	Fáj a fejem
+SUFFER_ICD10_R05	I have a cough.	Köhögök
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	A gyerekem köhög.
+FLU	cold	megfázás
+DIARRHEA	diarrhea	hasmenés
+ICD10_K59.0	constipation	székrekedés
+ICD10_B73.3	vaginal yeast infection (thrush)	hüvelyi gombafertőzés
+ICD10_B53.3	athlete's foot	lábgombásodás
+ICD10_B85	head lice	fejtetű
+		
+	Food	élelmiszer
+MEAL_NOON	Lunch	ebéd
+MEAL_EVENING	Dinner	vacsora
+FOOD_HALAL_Q	Is this food Halal?	Ez az étel 'halal'?
+ALLERGY_AGAINST_X	I am allergic to….	Allergiás vagyok
+PORK_MEAT	pork	sertéshús
+POULTRY_MEAT	poultry	baromfihús
+NO_EAT_PORK	I do not eat pork	Nem eszem sertéshúst.
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Vegetáriánus vagyok. Nem eszem húst és halat.
+SELF_VEGAN	I am a vegan	Vegán vagyok
+FISH	fish	Hal
+BREAD	bread	kenyér
+WATER	water	Víz
+LEMONADE	lemonade	limonádé
+MILK	milk	tej
+COFFEE	coffee	kávé
+TEA	tea	tea
+BEER	beer	Sör
+FRUITS	fruit	gyümölcs
+APPLE	apple	alma
+PEAR	pear	körte
+GRAPEFRUIT	grapefruit	grapefruit
+APRICOT	apricot	sárgabarack
+POTATOE	potatoes [pl]	burgonya
+BEAN	beans [pl]	bab
+PEA	peas [pl]	borsó
+CHICKPEA	chickpeas [pl]	csicseriborsó
+AUBERGINE	eggplant (US) / aubergine (UK)	padlizsán
+CARROT	carrots [pl]	sárgarépa
+TOMATO	tomatoes [pl]	paradicsom
+TURNIP	turnip	répa
+FLOUR	flour	liszt
+HONEY	honey	méz
+CHEESE	cheese	sajt
+QUARK	quark / cottage cheese 	túró
+PAPRIKA	paprika	pirospaprika
+SAUCE	sauce	szósz
+BUTTER	butter	vaj
+OIL	oil	olaj
+CHEWING_GUM	chewing gum	rágó
+SPOON	spoon	kanál
+KNIFE	knife	kés
+PLATE	plate	tányér
+GLASS	glass (to drink from)	pohár
+MUG	mug	bögre
+TEAPOT	teapot 	teáskanna
+		
+	Clothing	ruházat
+SHIRT	shirt	ing
+DRESS	Dress	ruha
+SKIRT	skirt	szoknya
+TROUSERS	trousers (UK) / pants (US)	Nadrág
+PULLOVER	jumper (UK) / sweater / pullover	pulóver
+COAT	jacket / coat	kabát
+HEADSCARF	veil / hijab / headscarf	hidzsáb / fejkendő
+SHOE	shoes [pl]	cipő
+GLOVE	gloves [pl]	kesztyű
+SOCK	socks [pl]	zokni
+UNDERWEAR	underwear	alsónemű
+		
+	Misc	Egyéb
+BED	bed	ágy 
+BLANKET	blanket	takaró
+LAMP	lamp	lámpa
+TELEPHONE	telephone	telefon
+CELLPHONE	mobile phone / cellphone	mobiltelefon
+ELECTRICITY	electricity	 áram, villamosenergia
+COMPUTER	computer	számitógép
+INTERNET_CONNECTION	internet connection	internetkapcsolat
+BATTERY	battery	elem
+ROOM	room	szoba
+CHAIR	chair	szék
+TABLE	table	asztal
+TOILET	toilet	WC
+TOILET_PAPER	toilet paper	WC-papír
+TOOTHBRUSH	toothbrush	fogkefe
+TOOTHPASTE	toothpaste	fogkrém
+SHOWER	shower	zuhany
+BATHTUB	bathtub	fürdőkád
+SOAP	soap	szappan
+SHAMPOO	shampoo	sampon
+HANDKERCHIEF	tissue / handkerchief	zsebkendő
+CUPBOARD	cupboard	szekrény
+DOOR	door	ajtó
+WINDOW	window	ablak
+WALL	wall	fal
+HOUSE	house	ház
+APARTMENT	apartment / flat	lakás
+BOOK	book	könyv
+NEWSPAPER	newspaper	újság
+RADIO	radio	rádió
+TELEVISION	television	tévé

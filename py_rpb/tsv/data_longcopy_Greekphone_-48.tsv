@@ -1,0 +1,212 @@
+	Basic Conversation	Vasikí Synomilía	Βασική συνομιλία
+GREETING_INFORMAL	Hello	Ya	Γεια
+GREETING_MORNING	good morning	Kaliméra	Καλημέρα
+GREETING_EVENING	good evening	Kaló vrádi	Καλό βράδυ
+GREETING_DEPARTURE	goodbye	Is to epanidín	Εις το επανιδείν
+SORRY	sorry / excuse me 	Signómi	Συγγνώμη
+PLEASE	please	Parakaló	Παρακαλώ
+THANKS	thank you / thanks	Efharistó	Ευχαριστώ
+REPLY_THANKS	you're welcome [response to thank you / thanks]	Típota	Τίποτα, παρακαλώ
+GIVE_OWN_NAME	my name is...	Onomázome...	Ονομάζομαι...
+ASK_OTHERS_NAME	What is your name?	Pós onomázeste?	Πώς ονομάζεστε;
+GIVE_OWN_PROVENANCE	I’m from...	Katágome apó...	Κατάγομαι από...
+FAMILY	family	Ikogènia	Οικογένεια
+PRESENT_HUSBAND	this is my husband	Aftós íne o ándras mu	Αυτός είναι ο άντρας μου
+WIFE	my wife	(Aftí íne) i ginéka (mu)	(Αυτή είναι) η γυναίκα (μου)
+CHILDREN	my children	(Afta íne) ta pediá (mu)	(Αυτά είναι)τα παιδιά (μου)
+DAUGHTER	my daughter	(Aftí íne) i kóri (mu)	(Αυτή είναι) η κόρη (μου)
+SON	my son	(Aftós íne) o giós (mu)	(Αυτός είναι) ο γιος (μου)
+BABY	my baby	(Aftó íne) to moró (mu)	(Αυτό είναι) το μωρό (μου)
+BROTHER	this is my brother	Aftós íne o aderfós mu.	Αυτός είναι ο αδερφός μου.
+SISTER	this is my sister	Aftí íne i aderfí mu	Αυτή είναι η αδερφή μου.
+FATHER	this is my father	Aftós íne o patéras mu/Aftós íne o babás mu	Αυτός είναι ο πατέρας μου / Αυτός είναι ο μπαμπάς μου
+MOTHER	this is my mother 	Aftí íne i mitéra mu/ Aftí íne i mama mu	Αυτή είναι η μητέρα μου / η μαμά μου
+SUFFER_HUNGER	I’m hungry.	Pináo	Πεινάω
+CHILD_HUNGRY	(My child) is hungry	(To pedí mu) pinái	(Το παιδί μου) πεινάει
+SUFFER_THIRST	I’m thirsty	Dipsáo	Διψάω.
+WATER	water	Neró	Νερό
+AVAILABLE_Q	Do you have...	Mípos éhete…?	Μήπως έχετε …;
+LOCATION_Q	Where is..?	Pu íne...?	Πού είναι...;
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Pu íne i tualéta/ to bánio?	Πού είναι η τουαλέτα/το μπάνιο;
+NEED_SHOWER	I need to take a shower	Prépi na káno duz	Πρέπει να κάνω ντους
+SHOWER_LOCATION_Q	Where can I take a shower?	Pu boró na káno duz?	Πού μπορώ να κάνω ντους;
+SANITARYPAD	sanitary pad / towel	Serviéta	Σερβιέτα
+DIAPER	diaper / nappy	Pána	Πάνα
+NEED_MAKE_PHONECALL	I need to make a phone call	Prépi na tilefoníso / Prépi na káno éna tilefónima	Πρέπει να τηλεφωνήσω / Πρέπει να κάνω ένα τηλεφώνημα
+PRAY_LOCATION_Q	Where can I pray?	Pu boró na prosefhithó	Πού μπορώ να προσευχηθώ;
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Pu boró na agoráso...?	Πού μπορώ να αγοράσω ... ;
+LOCATION_X_Q	Where can I find____?	Pu boró na vro...?	Πού μπορώ να βρω ... ;
+TIME_CLOCK_Q	What time is it?	Ti óra íne?	Τι ώρα είναι;
+NEED_SLEEP	I (we) need to sleep	Prépi na kimithó/Prépi na kimithúme [pl]	Πρέπει να κοιμηθώ / πρέπει να κοιμηθούμε [pl]
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Pu íne to metro?	Πού είναι το μετρό;
+NO_MONEY	I don’t have any money.	Den ého hrímata	Δεν έχω χρήματα
+SPEAK_X_Q	Do you speak...	Miláte…?	Μιλάτε...;
+SPEAK_LITTLE_X	I don't speak (English) very well.	Den miláo tóso kalá ______ (elliniká).	Δεν μιλάω τόσο καλά _____ (ελληνικά)
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Boríte na to grápsete?	Μπορείτε να το γράψετε;
+NO_UNDERSTAND	I don’t understand	Den to katalavéno	Δεν το καταλαβαίνω.
+HELP_REQUEST	Help! / Please help me!	Voíthia! / Parakaló voithíste me	Βοήθεια! / Παρακαλώ, βοηθήστε με!
+IGNORANCE	I don’t know	Den kséro	Δεν ξέρω
+EVENT_Q	What happened?	Ti sinévi?	Τι συνέβη;
+SUFFER_FREEZING	I am cold/ freezing	Krióno / Ého ksepagiási	Κρυώνω / Έχω ξεπαγιάσει
+EXPERIENCE_HAPPINESS	I’m happy.	Hérome / íme eftihisménos [m]	Χαίρομαι / είμαι ευτυχισμένος
+SUFFER_FEAR	I’m scared.	Fováme	Φοβάμαι
+SUFFER_SADNESS	I’m sad.	Íme lipiménos (m)Íme lipiméni (f)	Είμαι λυπημένος (m)Είμαι λυπημένη (f)
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Mu arésis	Μου αρέσεις
+DONT_WORRY	Don’t worry	Mín anisihís	Μην ανησυχείς
+NEED_APPOINTMENT	I would like an appointment.	Hriázome éna randevú	Χρειάζομαι ένα ραντεβού
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Pu ine to domátio ___?	Πού είναι το δωμάτιο __;
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Pu vriskete to kèntro apografis/mitròu?	Πού βρίσκεται το κέντρο απογραφής/μητρώου;
+MUST_WAIT	You have to wait	Prépi na periménete [pl]/ Prépi na periménis	Πρέπει να περιμένετε [pl]/ πρέπει να περιμένεις
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Póso prépi na periménume edó?	Πόσο πρέπει να περιμένουμε εδώ;
+1_DAY	one day	Μía mera	Μία μέρα
+1_HOUR	one hour	Μía óra	Μία ώρα
+1_MONTH	one month	Enas minas	Ένας μήνας
+VERYSOON	very soon	Polí síndoma	Πολύ σύντομα
+TOMORROW	tomorrow	avrio	αύριο
+DAY_AFTER_TOMORROW	the day after tomorrow	methávrio	μεθαύριο
+NEXT_WEEK	next week	Tin epomeni vdomada	Την επόμενη βδομάδα
+RETURN_SOON	I will be back soon	Tha epistrépso sídoma	Θα επιστρέψω σύντομα
+ONE	one	éna	ένα
+TWO	two	dío	δύο
+THREE	three	tría	τρία
+FOUR	four	téssera	τέσσερα
+FIVE	five	pénde	πέντε
+SIX	six	éksi	έξι
+SEVEN	seven	eftá	εφτά
+EIGHT	eight	októ	οχτώ
+NINE	nine	enéa	εννέα
+TEN	ten	déka	δέκα
+MONDAY	Monday	Deftéra	Δευτέρα
+TUESDAY	 Tuesday	 Tríti	 Τρίτη
+WEDNESDAY	 Wednesday	 Tetárti	 Τετάρτη
+THURSDAY	 Thursday	 Pémpti	 Πέμπτη
+FRIDAY	 Friday	 Paraskeví	 Παρασκευή
+SATURDAY	 Saturday	 Sávato	 Σάββατο
+SUNDAY	 Sunday	 Kyriakí	 Κυριακή
+JANUARY	January	Ianuários	Ιανουάριος
+FEBRUARY	 February	 Fevrouários	 Φεβρουάριος
+MARCH	 March	 Mártios	 Μάρτιος
+APRIL	 April	 Aprílios	 Απρίλιος
+MAY	 May	 Máios	 Μάιος
+JUNE	 June	 Iúnios	 Ιούνιος
+JULY	 July	 Iúlios	 Ιούλιος
+AUGUST	 August	 Ávgustos	 Αύγουστος
+SEPTEMBER	 September	 Septémvrios	 Σεπτέμβριος
+OCTOBER	 October	 Októvrios	 Οκτώβριος
+NOVEMBER	 November	 Noémvrios	 Νοέμβριος
+DECEMBER	 December	 Dekémvrios	 Δεκέμβριος
+	Medical Terms	Iatrikí óri	Ιατρικοί όροι
+NEED_DOCTOR	I need a doctor	Hriázome éna giatró	Χρειάζομαι ένα γιατρό.
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Mu érhete anagúla.	Μου έρχεται αναγούλα.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Íme árostos [m]/ íme árosti [f]	Eίμαι άρρωστος (m) / Είμαι άρρωστη (f)
+CHILD_ILL	(My child) is sick	To pedí mu íne árosto	(το παιδί μου) είναι άρρωστο
+PREGNANT	I am pregnant	Íme éngios	Είμαι έγκυος
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Ého mia allergikí antídrasi	Έχω μία αλλεργική αντίδραση.
+SUFFER_ICD10_H81	I feel dizzy.	Zalízome	Ζαλίζομαι
+SUFFER_ICD10_E10	I am diabetic	Eho diaviti	Έχω διαβήτη
+NEED_INSULIN	I need insulin	Hriazome insulíni	Χρειάζομαι ινσουλίνη
+SUFFERED_RAPE	I was raped.	Me ékhun viási	Με έχουν βιάσει
+SUFFER_ICD10_R10	I have a stomach ache.	Ponái i kiliá mu	Πονάει η κοιλιά μου
+SUFFER_ICD10_R50	I have a fever / a temperature	Ého piretó	Έχω πυρετό
+SUFFER_ICD10_R51	I have a headache	ého ponokéfalo	Έχω πονοκέφαλο
+SUFFER_ICD10_R05	I have a cough.	ého víkha	Έχω βήχα / Βήχω
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	To pedí mu éhi ponólemo / víha	Το παιδί μου έχει πονόλαιμο / βήχα
+FLU	cold	kriológima	κρυολόγημα
+DIARRHEA	diarrhea	diária	διάρροια
+ICD10_K59.0	constipation	diskiliótita	δυσκοιλιότητα
+ICD10_B73.3	vaginal yeast infection (thrush)	Kolpikí mykitíasi/kantintíasi	Κολπική μυκητίαση/καντιντίαση
+ICD10_B53.3	athlete's foot	míkites	μύκητες
+ICD10_B85	head lice	psires sto kefáli	ψείρες στο κεφάλι
+			
+	Food	Fagitó	Φαγητό
+MEAL_NOON	Lunch	mesimeriano	μεσημεριανό
+MEAL_EVENING	Dinner	dipno, vradino	Δείπνο, βραδινό
+FOOD_HALAL_Q	Is this food Halal?	íne to fagitó Halal?	Είναι το φαγητό Χαλάλ;
+ALLERGY_AGAINST_X	I am allergic to….	Ého alergía sto...	Έχω αλλεργία στο..
+PORK_MEAT	pork	hirinò	χοιρινό
+POULTRY_MEAT	poultry	pulerika	πουλερικά
+NO_EAT_PORK	I do not eat pork	Den tróo hirinó	Δεν τρώω χοιρινό
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	íme hortofágos. Den tróo kréas ke psári.	Είμαι χορτοφάγος. Δεν τρώω κρέας και ψάρι.
+SELF_VEGAN	I am a vegan	íme vígan	Eίμαι βίγκαν
+FISH	fish	psàri	ψάρι 
+BREAD	bread	psomì	ψωμί
+WATER	water	Neró	Νερό
+LEMONADE	lemonade	lemonáda	λεμονάδα
+MILK	milk	gàla	γάλα
+COFFEE	coffee	kafè	καφέ
+TEA	tea	tsài	τσάι
+BEER	beer	mpira	μπύρα
+FRUITS	fruit	frouta	φρούτα
+APPLE	apple	mìlo	μήλο
+PEAR	pear	ahladi	αχλάδι
+GRAPEFRUIT	grapefruit	grapefruit	γκρέιπφρουτ
+APRICOT	apricot	verikoko	βερίκοκο
+POTATOE	potatoes [pl]	patàtes	πατάτες
+BEAN	beans [pl]	fasolia	φασόλια
+PEA	peas [pl]	arakas	αρακάς
+CHICKPEA	chickpeas [pl]	revithia	ρεβύθια
+AUBERGINE	eggplant (US) / aubergine (UK)	melitzana	μελιτζάνα
+CARROT	carrots [pl]	karota	καρότα
+TOMATO	tomatoes [pl]	domates	ντομάτες
+TURNIP	turnip	rapanaki	ραπανάκι
+FLOUR	flour	alevri	αλεύρι
+HONEY	honey	meli	μέλι
+CHEESE	cheese	tiri	τυρί
+QUARK	quark / cottage cheese 	cottage cheese (same as in english)	cottage cheese
+PAPRIKA	paprika	paprika	πάπρικα
+SAUCE	sauce	saltsa	σάλτσα
+BUTTER	butter	vutiro	βούτυρο
+OIL	oil	ladi	λάδι
+CHEWING_GUM	chewing gum	tsihla	τσίχλα
+SPOON	spoon	kutali	κουτάλι
+KNIFE	knife	maheri	μαχαίρι
+PLATE	plate	piato	πιάτο
+GLASS	glass (to drink from)	potiri	ποτήρι
+MUG	mug	kupa	κούπα
+TEAPOT	teapot 	tsagiéra	τσαγιέρα
+			
+	Clothing	Rouha	Ρούχα
+SHIRT	shirt	pu'kamiso	πουκάμισο
+DRESS	Dress	fórema	φόρεμα
+SKIRT	skirt	foosta	φούστα
+TROUSERS	trousers (UK) / pants (US)	panteloni	παντελόνι
+PULLOVER	jumper (UK) / sweater / pullover	poulover	πουλόβερ
+COAT	jacket / coat	zaketa- palto	ζακέτα-παλτό
+HEADSCARF	veil / hijab / headscarf	peplo / madíla	πέπλο / μαντήλα
+SHOE	shoes [pl]	paputsia	παπούτσια
+GLOVE	gloves [pl]	gantia	γάντια
+SOCK	socks [pl]	kaltses	κάλτσες
+UNDERWEAR	underwear	esoruha	εσώρουχα
+			
+	Misc	Diafora	Διάφορα
+BED	bed	krevati	κρεβάτι
+BLANKET	blanket	kouverta	κουβέρτα
+LAMP	lamp	lampa	λάμπα
+TELEPHONE	telephone	tilefono	τηλέφωνο
+CELLPHONE	mobile phone / cellphone	kinito tilefono	κινητό τηλέφωνο
+ELECTRICITY	electricity	ilektrizmos	ηλεκτρισμός
+COMPUTER	computer	upologistis	υπολογιστής
+INTERNET_CONNECTION	internet connection	diadiktiaki sindesi	διαδικτυακή σύνδεση
+BATTERY	battery	bataria	μπαταρία
+ROOM	room	domatio	δωμάτιο
+CHAIR	chair	karekla	καρέκλα
+TABLE	table	trapezi	τραπέζι
+TOILET	toilet	toualeta	τουαλέτα
+TOILET_PAPER	toilet paper	harti tualetas	χαρτί τουαλέτας
+TOOTHBRUSH	toothbrush	odontovurtsa	οδοντόβουρτσα
+TOOTHPASTE	toothpaste	odontopasta	οδοντόπαστα
+SHOWER	shower	duz	ντους
+BATHTUB	bathtub	baniera	μπανιέρα
+SOAP	soap	sapouni	σαπούνι
+SHAMPOO	shampoo	sampuan	σαμπουάν
+HANDKERCHIEF	tissue / handkerchief	hartomantilo	χαρτομάντηλο
+CUPBOARD	cupboard	dulapi	ντουλάπι
+DOOR	door	porta	πόρτα
+WINDOW	window	parathiro	παράθυρο
+WALL	wall	tihos	τοίχος
+HOUSE	house	spiti	σπίτι
+APARTMENT	apartment / flat	diamerisma	διαμέρισμα
+BOOK	book	vivlio	βιβλίο
+NEWSPAPER	newspaper	efimerida	εφημερίδα
+RADIO	radio	radiophono	ραδιόφωνο
+TELEVISION	television	tileorasi/TV	τηλεόραση

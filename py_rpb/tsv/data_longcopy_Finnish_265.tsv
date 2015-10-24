@@ -1,0 +1,212 @@
+	Basic Conversation	Yleiskeskustelu
+GREETING_INFORMAL	Hello	Hei
+GREETING_MORNING	good morning	Hyvää huomenta
+GREETING_EVENING	good evening	Hyvää iltaa
+GREETING_DEPARTURE	goodbye	Näkemiin
+SORRY	sorry / excuse me 	Anteeksi
+PLEASE	please	-
+THANKS	thank you / thanks	Kiitos
+REPLY_THANKS	you're welcome [response to thank you / thanks]	Olkaa hyvä
+GIVE_OWN_NAME	my name is...	Minun nimeni on...
+ASK_OTHERS_NAME	What is your name?	Mikä teidän nimenne on?
+GIVE_OWN_PROVENANCE	I’m from...	Olen kotoisin ....sta.
+FAMILY	family	perhe
+PRESENT_HUSBAND	this is my husband	Tässä on mieheni.
+WIFE	my wife	vaimoni
+CHILDREN	my children	lapseni
+DAUGHTER	my daughter	tyttäreni
+SON	my son	poikani
+BABY	my baby	vauvani
+BROTHER	this is my brother	(Tässä on) veljeni.
+SISTER	this is my sister	(Tässä on) siskoni.
+FATHER	this is my father	(Tässä on) isäni.
+MOTHER	this is my mother 	(Tässä on) äitini.
+SUFFER_HUNGER	I’m hungry.	Minulla on nälkä.
+CHILD_HUNGRY	(My child) is hungry	(Lapsellani) on nälkä.
+SUFFER_THIRST	I’m thirsty	Minulla on jano.
+WATER	water	vesi
+AVAILABLE_Q	Do you have...	Onko teillä...?
+LOCATION_Q	Where is..?	Missä on...?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Missä on vessa? / Missä on kylpyhuone?
+NEED_SHOWER	I need to take a shower	Minun täytyy käydä suihkussa.
+SHOWER_LOCATION_Q	Where can I take a shower?	Missä voinkäydä suihkussa?
+SANITARYPAD	sanitary pad / towel	terveysside
+DIAPER	diaper / nappy	vaippa
+NEED_MAKE_PHONECALL	I need to make a phone call	Minun täytyy soittaa puhelu.
+PRAY_LOCATION_Q	Where can I pray?	Missä voin rukoilla?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Mistä voin ostaa...?
+LOCATION_X_Q	Where can I find____?	Mistä löydän...?
+TIME_CLOCK_Q	What time is it?	Mitä kello on?
+NEED_SLEEP	I (we) need to sleep	Minun täytyy nukkua /Meidän täytyy nukkua.
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Missä on metro?
+NO_MONEY	I don’t have any money.	Minulla ei ole yhtään rahaa.
+SPEAK_X_Q	Do you speak...	Puhutteko...?
+SPEAK_LITTLE_X	I don't speak (English) very well.	En puhu suomea (hyvin).
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Voisitteko kirjoittaa sen?
+NO_UNDERSTAND	I don’t understand	En ymmärrä.
+HELP_REQUEST	Help! / Please help me!	Apua!Auttakaa minua!
+IGNORANCE	I don’t know	En tiedä.
+EVENT_Q	What happened?	Mitä on tapahtunut?
+SUFFER_FREEZING	I am cold/ freezing	Minulla on kylmä. /Minä palelen.
+EXPERIENCE_HAPPINESS	I’m happy.	Olen iloinen. / Olen onnellinen.
+SUFFER_FEAR	I’m scared.	Olen peloissani.
+SUFFER_SADNESS	I’m sad.	Olen surullinen.
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Pidän sinusta.
+DONT_WORRY	Don’t worry	Ei huolta.
+NEED_APPOINTMENT	I would like an appointment.	Haluaisin tehdä ajanvarauksen.
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Missä on huone numero__?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Missä on rekisteröitymiskeskus?
+MUST_WAIT	You have to wait	Teidän täytyy odottaa.
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Kuinka pitkään meidän täytyy odottaa täällä?
+1_DAY	one day	yksi päivä
+1_HOUR	one hour	yksi tunti
+1_MONTH	one month	yksi kuukausi
+VERYSOON	very soon	hyvin pian
+TOMORROW	tomorrow	huomenna
+DAY_AFTER_TOMORROW	the day after tomorrow	ylihuomenna
+NEXT_WEEK	next week	ensi viikolla
+RETURN_SOON	I will be back soon	Tulen pian takaisin.
+ONE	one	yksi
+TWO	two	kaksi
+THREE	three	kolme
+FOUR	four	neljä
+FIVE	five	viisi
+SIX	six	kuusi
+SEVEN	seven	seitsemän
+EIGHT	eight	kahdeksan
+NINE	nine	yhdeksän
+TEN	ten	kymmenen
+MONDAY	Monday	maanantai
+TUESDAY	 Tuesday	 tiistai
+WEDNESDAY	 Wednesday	 keskiviikko
+THURSDAY	 Thursday	 torstai
+FRIDAY	 Friday	 perjantai
+SATURDAY	 Saturday	 lauantai
+SUNDAY	 Sunday	 sunnuntai
+JANUARY	January	tammikuu
+FEBRUARY	 February	 helmikuu
+MARCH	 March	 maaliskuu
+APRIL	 April	 huhtikuu
+MAY	 May	 toukokuu
+JUNE	 June	 kesäkuu
+JULY	 July	 heinäkuu
+AUGUST	 August	 elokuu
+SEPTEMBER	 September	 syyskuu
+OCTOBER	 October	 elokuu
+NOVEMBER	 November	 syyskuu
+DECEMBER	 December	 lokakuu
+	Medical Terms	 marraskuu
+NEED_DOCTOR	I need a doctor	 joulukuu
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	En voi hyvin.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Olen sairas.
+CHILD_ILL	(My child) is sick	(Lapseni) on sairas.
+PREGNANT	I am pregnant	Olen raskaana.
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Minulla on allerginen reaktio.
+SUFFER_ICD10_H81	I feel dizzy.	Minua huimaa.
+SUFFER_ICD10_E10	I am diabetic	Minulla on diabetes.
+NEED_INSULIN	I need insulin	Tarvitsen insuliinia.
+SUFFERED_RAPE	I was raped.	Minut on raiskattu.
+SUFFER_ICD10_R10	I have a stomach ache.	Minulla on vatsakipuja.
+SUFFER_ICD10_R50	I have a fever / a temperature	Minulla on kuumetta.
+SUFFER_ICD10_R51	I have a headache	Minulla on päänsärkyä.
+SUFFER_ICD10_R05	I have a cough.	Minulla on yskä.
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Lapsellani on kurkkukipua / yskä.
+FLU	cold	vilustunut
+DIARRHEA	diarrhea	ripuli
+ICD10_K59.0	constipation	ummetus
+ICD10_B73.3	vaginal yeast infection (thrush)	hiivatulehdus
+ICD10_B53.3	athlete's foot	jalkasieni
+ICD10_B85	head lice	päätäi
+		
+	Food	Elintarvikkeet
+MEAL_NOON	Lunch	päivällinen
+MEAL_EVENING	Dinner	illallinen
+FOOD_HALAL_Q	Is this food Halal?	Onko tämä halal-ruokaa?
+ALLERGY_AGAINST_X	I am allergic to….	Olen allerginen...
+PORK_MEAT	pork	sianliha
+POULTRY_MEAT	poultry	siipikarja
+NO_EAT_PORK	I do not eat pork	En syö sianlihaa.
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Olen kasvissyöjä.
+SELF_VEGAN	I am a vegan	Olen vegaani.
+FISH	fish	kala
+BREAD	bread	leipä
+WATER	water	vesi
+LEMONADE	lemonade	limonadi
+MILK	milk	maito
+COFFEE	coffee	kahvi
+TEA	tea	tee
+BEER	beer	olut
+FRUITS	fruit	hedelmä
+APPLE	apple	omena
+PEAR	pear	päärynä
+GRAPEFRUIT	grapefruit	greippi
+APRICOT	apricot	aprikoosi
+POTATOE	potatoes [pl]	perunat  [pl]
+BEAN	beans [pl]	pavut  [pl]
+PEA	peas [pl]	herneet  [pl]
+CHICKPEA	chickpeas [pl]	kikherneet  [pl]
+AUBERGINE	eggplant (US) / aubergine (UK)	munakoiso
+CARROT	carrots [pl]	porkkanat  [pl]
+TOMATO	tomatoes [pl]	tomaatit  [pl]
+TURNIP	turnip	nauris
+FLOUR	flour	jauho
+HONEY	honey	hunaja
+CHEESE	cheese	juusto
+QUARK	quark / cottage cheese 	rahka / raejuusto
+PAPRIKA	paprika	paprika
+SAUCE	sauce	kastike
+BUTTER	butter	voi
+OIL	oil	öljy
+CHEWING_GUM	chewing gum	purukumi
+SPOON	spoon	lusikka
+KNIFE	knife	veitsi
+PLATE	plate	lautanen
+GLASS	glass (to drink from)	lasi
+MUG	mug	muki
+TEAPOT	teapot 	teepannu
+		
+	Clothing	Vaatteet
+SHIRT	shirt	paita
+DRESS	Dress	mekko
+SKIRT	skirt	hame
+TROUSERS	trousers (UK) / pants (US)	housut
+PULLOVER	jumper (UK) / sweater / pullover	villapaita
+COAT	jacket / coat	takki
+HEADSCARF	veil / hijab / headscarf	huntu / päähuivi
+SHOE	shoes [pl]	kengät  [pl]
+GLOVE	gloves [pl]	käsineet  [pl]
+SOCK	socks [pl]	sukat  [pl]
+UNDERWEAR	underwear	alusvaatteet  [pl]
+		
+	Misc	Sekalaista
+BED	bed	sänky
+BLANKET	blanket	peitto
+LAMP	lamp	lamppu
+TELEPHONE	telephone	puhelin
+CELLPHONE	mobile phone / cellphone	matkapuhelin / kännykkä
+ELECTRICITY	electricity	sähkö
+COMPUTER	computer	tietokone
+INTERNET_CONNECTION	internet connection	internet-yhteys
+BATTERY	battery	akku
+ROOM	room	huone
+CHAIR	chair	tuoli
+TABLE	table	pöytä
+TOILET	toilet	vessa
+TOILET_PAPER	toilet paper	vessapaperi 
+TOOTHBRUSH	toothbrush	hammasharja
+TOOTHPASTE	toothpaste	hammastahna
+SHOWER	shower	suihku
+BATHTUB	bathtub	kylpyamme
+SOAP	soap	saippua
+SHAMPOO	shampoo	sampoo
+HANDKERCHIEF	tissue / handkerchief	nenäliina
+CUPBOARD	cupboard	kaappi
+DOOR	door	ovi
+WINDOW	window	ikkuna
+WALL	wall	seinä
+HOUSE	house	talo
+APARTMENT	apartment / flat	asunto
+BOOK	book	kirja
+NEWSPAPER	newspaper	sanomalehti
+RADIO	radio	radio
+TELEVISION	television	televisio

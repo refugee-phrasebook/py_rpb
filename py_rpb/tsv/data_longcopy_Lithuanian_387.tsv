@@ -1,0 +1,212 @@
+	Basic Conversation	Paprasti pokalbiai
+GREETING_INFORMAL	Hello	Labas / Laba diena (Good day)
+GREETING_MORNING	good morning	Labas rytas
+GREETING_EVENING	good evening	Labas vakaras
+GREETING_DEPARTURE	goodbye	Iki
+SORRY	sorry / excuse me 	Atsiprašau
+PLEASE	please	Prašau
+THANKS	thank you / thanks	Ačiū
+REPLY_THANKS	you're welcome [response to thank you / thanks]	Nėra už ką / Prašom
+GIVE_OWN_NAME	my name is...	Mano vardas yra...
+ASK_OTHERS_NAME	What is your name?	Koks Jūsų vardas?
+GIVE_OWN_PROVENANCE	I’m from...	Aš esu iš...
+FAMILY	family	Šeima
+PRESENT_HUSBAND	this is my husband	Tai mano vyras
+WIFE	my wife	Mano žmona
+CHILDREN	my children	Mano vaikai
+DAUGHTER	my daughter	Mano duktė
+SON	my son	Mano sūnus
+BABY	my baby	Mano kūdikis
+BROTHER	this is my brother	Tai yra mano brolis
+SISTER	this is my sister	Tai yra mano sesuo
+FATHER	this is my father	Tai yra mano tėvas / tėtis
+MOTHER	this is my mother 	Tai yra mano motina / mama
+SUFFER_HUNGER	I’m hungry.	Aš alkanas
+CHILD_HUNGRY	(My child) is hungry	(Mano vaikas) alkanas
+SUFFER_THIRST	I’m thirsty	Aš ištroškęs
+WATER	water	Vanduo
+AVAILABLE_Q	Do you have...	Ar turite...
+LOCATION_Q	Where is..?	Kur yra...?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Kur yra tualetas / Kur yra vonios kambarys?
+NEED_SHOWER	I need to take a shower	Man reikia nusiprausti
+SHOWER_LOCATION_Q	Where can I take a shower?	Kur aš galėčiau nusiprausti?
+SANITARYPAD	sanitary pad / towel	Rankšluostis
+DIAPER	diaper / nappy	Sauskelnės / Vystyklas
+NEED_MAKE_PHONECALL	I need to make a phone call	Man reikia paskambinti
+PRAY_LOCATION_Q	Where can I pray?	Kur aš galiu melstis?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Kur aš galiu nusipirkti ___?
+LOCATION_X_Q	Where can I find____?	Kur aš galiu rasti ___?
+TIME_CLOCK_Q	What time is it?	Kiek dabar valandų?
+NEED_SLEEP	I (we) need to sleep	Man (mums) reikia miego
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Kur yra metro?
+NO_MONEY	I don’t have any money.	Aš neturiu pinigų
+SPEAK_X_Q	Do you speak...	Ar Jūs kalbate...
+SPEAK_LITTLE_X	I don't speak (English) very well.	Aš prastai kalbu (angliškai)
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Ar galite tai užrašyti?
+NO_UNDERSTAND	I don’t understand	Aš nesuprantu
+HELP_REQUEST	Help! / Please help me!	Padėkit! / Prašau padėkite man!
+IGNORANCE	I don’t know	Aš nežinau
+EVENT_Q	What happened?	Kas nutiko?
+SUFFER_FREEZING	I am cold/ freezing	Man šalta
+EXPERIENCE_HAPPINESS	I’m happy.	Aš laimingas
+SUFFER_FEAR	I’m scared.	Man baisu
+SUFFER_SADNESS	I’m sad.	Man liūdna
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Tu man patinki / Jūs man patinkate [pl]
+DONT_WORRY	Don’t worry	Nebijokite
+NEED_APPOINTMENT	I would like an appointment.	Aš norėčiau susitikimo
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Kur yra kambarys numeris ___?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Kur yra registracijos centras?
+MUST_WAIT	You have to wait	Jums reikia palaukti
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Kiek mums čia reikės laukti?
+1_DAY	one day	Viena diena
+1_HOUR	one hour	Viena valanda
+1_MONTH	one month	Vienas mėnuo
+VERYSOON	very soon	Labai greitai
+TOMORROW	tomorrow	Rytoj
+DAY_AFTER_TOMORROW	the day after tomorrow	Poryt
+NEXT_WEEK	next week	Kitą savaitę
+RETURN_SOON	I will be back soon	Aš tuoj grįšiu
+ONE	one	Vienas
+TWO	two	du
+THREE	three	trys
+FOUR	four	keturi
+FIVE	five	penki
+SIX	six	šeši
+SEVEN	seven	septyni
+EIGHT	eight	aštuoni
+NINE	nine	devyni
+TEN	ten	dešimt
+MONDAY	Monday	Pirmadienis
+TUESDAY	 Tuesday	 antradienis
+WEDNESDAY	 Wednesday	 trečiadienis
+THURSDAY	 Thursday	 ketvirtadienis
+FRIDAY	 Friday	 penktadienis
+SATURDAY	 Saturday	 šeštadienis
+SUNDAY	 Sunday	 sekmadienis
+JANUARY	January	Sausis
+FEBRUARY	 February	 vasaris
+MARCH	 March	 kovas
+APRIL	 April	 balandis
+MAY	 May	 gegužė
+JUNE	 June	 birželis
+JULY	 July	 liepa
+AUGUST	 August	 rugpjūtis
+SEPTEMBER	 September	 rugsėjis
+OCTOBER	 October	 spalis
+NOVEMBER	 November	 lapkritis
+DECEMBER	 December	 gruodis
+	Medical Terms	Medicinos terminai
+NEED_DOCTOR	I need a doctor	Man reikia gydytojo / Man reikia daktaro
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Man bloga
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Aš sergu
+CHILD_ILL	(My child) is sick	(Mano vaikas) serga
+PREGNANT	I am pregnant	Aš nėščia
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Man alerginė reakcija
+SUFFER_ICD10_H81	I feel dizzy.	Man svaigsta galva
+SUFFER_ICD10_E10	I am diabetic	Aš diabetikas
+NEED_INSULIN	I need insulin	Man reikia insulino
+SUFFERED_RAPE	I was raped.	Mane išprievartavo
+SUFFER_ICD10_R10	I have a stomach ache.	Man skauda pilvą
+SUFFER_ICD10_R50	I have a fever / a temperature	Aš karščiuoju / aš turiu temperatūros
+SUFFER_ICD10_R51	I have a headache	Man skauda galvą
+SUFFER_ICD10_R05	I have a cough.	Aš kosėju
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Mano vaikui skauda gerklę / Mano vaikas kosėja
+FLU	cold	Peršalimas
+DIARRHEA	diarrhea	Viduriavimas
+ICD10_K59.0	constipation	Vidurių užkietėjimas
+ICD10_B73.3	vaginal yeast infection (thrush)	Pienligė
+ICD10_B53.3	athlete's foot	Pilnapadystė
+ICD10_B85	head lice	Utelės galvoje
+		
+	Food	Maistas
+MEAL_NOON	Lunch	Pietūs
+MEAL_EVENING	Dinner	Vakarienė
+FOOD_HALAL_Q	Is this food Halal?	Ar šis maistas Halal?
+ALLERGY_AGAINST_X	I am allergic to….	Aš alergiškas...
+PORK_MEAT	pork	Kiauliena
+POULTRY_MEAT	poultry	Paukštiena
+NO_EAT_PORK	I do not eat pork	Aš nevalgau kiaulienos
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Aš vegetaras. Aš nevalgau mėsos ir žuvies.
+SELF_VEGAN	I am a vegan	Aš veganas
+FISH	fish	Žuvis
+BREAD	bread	Duona
+WATER	water	Vanduo
+LEMONADE	lemonade	Limonadas
+MILK	milk	Pienas
+COFFEE	coffee	Kava
+TEA	tea	Arbata
+BEER	beer	Alus
+FRUITS	fruit	Vaisiai [pl]
+APPLE	apple	Obuolys
+PEAR	pear	Kriaušė
+GRAPEFRUIT	grapefruit	Greipfrutas
+APRICOT	apricot	Abrikosas
+POTATOE	potatoes [pl]	Bulvės [pl]
+BEAN	beans [pl]	Žirniai [pl]
+PEA	peas [pl]	Pupelės [pl]
+CHICKPEA	chickpeas [pl]	Sėjamas avinžirnis
+AUBERGINE	eggplant (US) / aubergine (UK)	Baklažanas
+CARROT	carrots [pl]	Morkos [pl]
+TOMATO	tomatoes [pl]	Pomidorai [pl]
+TURNIP	turnip	Ropė
+FLOUR	flour	Miltai
+HONEY	honey	Medus
+CHEESE	cheese	Sūris
+QUARK	quark / cottage cheese 	Varškė
+PAPRIKA	paprika	Paprika
+SAUCE	sauce	Padažas
+BUTTER	butter	Sviestas
+OIL	oil	Aliejus
+CHEWING_GUM	chewing gum	Kramtoma guma
+SPOON	spoon	Šaukštas
+KNIFE	knife	Peilis
+PLATE	plate	Lėkštė
+GLASS	glass (to drink from)	Stiklinė
+MUG	mug	Puodelis
+TEAPOT	teapot 	Arbatinukas
+		
+	Clothing	Drabužiai / Rūbai
+SHIRT	shirt	Marškiniai
+DRESS	Dress	Suknia
+SKIRT	skirt	Suknelė
+TROUSERS	trousers (UK) / pants (US)	Kelnės
+PULLOVER	jumper (UK) / sweater / pullover	Megztinis / Bliuzonas
+COAT	jacket / coat	Striukė / Paltas
+HEADSCARF	veil / hijab / headscarf	Skara
+SHOE	shoes [pl]	Batai
+GLOVE	gloves [pl]	Pirštinės
+SOCK	socks [pl]	Kojinės
+UNDERWEAR	underwear	Apatiniai
+		
+	Misc	Kita
+BED	bed	Lova
+BLANKET	blanket	Dekis / Antklodė
+LAMP	lamp	Lempa
+TELEPHONE	telephone	Telefonas
+CELLPHONE	mobile phone / cellphone	Mobilusis telefonas
+ELECTRICITY	electricity	Elektra
+COMPUTER	computer	Kompiuteris
+INTERNET_CONNECTION	internet connection	Internetas
+BATTERY	battery	Baterija
+ROOM	room	Kambarys
+CHAIR	chair	Kėdė
+TABLE	table	Stalas
+TOILET	toilet	Tualetas
+TOILET_PAPER	toilet paper	Tualetinis popierius
+TOOTHBRUSH	toothbrush	Dantų šepetėlis
+TOOTHPASTE	toothpaste	Dantų pasta
+SHOWER	shower	Dušas
+BATHTUB	bathtub	Vonia
+SOAP	soap	Muilas
+SHAMPOO	shampoo	Šampūnas
+HANDKERCHIEF	tissue / handkerchief	Nosinaitė / Servetėlė
+CUPBOARD	cupboard	Spintelė
+DOOR	door	Durys
+WINDOW	window	Langas
+WALL	wall	Siena
+HOUSE	house	Namas
+APARTMENT	apartment / flat	Butas
+BOOK	book	Knyga
+NEWSPAPER	newspaper	Laikraštis
+RADIO	radio	Radijas
+TELEVISION	television	Televizija

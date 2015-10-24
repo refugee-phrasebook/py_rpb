@@ -1,0 +1,212 @@
+	Basic Conversation	
+GREETING_INFORMAL	Hello	Merheba
+GREETING_MORNING	good morning	Roj baş
+GREETING_EVENING	good evening	Êvar baş
+GREETING_DEPARTURE	goodbye	Bi xatirê te/ Oxir be
+SORRY	sorry / excuse me 	Bibore
+PLEASE	please	Ji kerema xwe re/ Kerem ke
+THANKS	thank you / thanks	Spas
+REPLY_THANKS	you're welcome [response to thank you / thanks]	ser çavan
+GIVE_OWN_NAME	my name is...	Navê min …(y)e.
+ASK_OTHERS_NAME	What is your name?	Navê te çi ye?
+GIVE_OWN_PROVENANCE	I’m from...	Ez ji ...me.
+FAMILY	family	malbat
+PRESENT_HUSBAND	this is my husband	Ev mêrê min e.
+WIFE	my wife	Jina min
+CHILDREN	my children	Zarokên min
+DAUGHTER	my daughter	Keça min
+SON	my son	Lawê min
+BABY	my baby	Pitika min
+BROTHER	this is my brother	Ev birayê min e.
+SISTER	this is my sister	Ev xwişka min e.
+FATHER	this is my father	Ev bavê min e.
+MOTHER	this is my mother 	Ev diya min e.
+SUFFER_HUNGER	I’m hungry.	Ez birçî me
+CHILD_HUNGRY	(My child) is hungry	(Zarokê min) birçî ye
+SUFFER_THIRST	I’m thirsty	Ez tî me
+WATER	water	av
+AVAILABLE_Q	Do you have...	...te heye?
+LOCATION_Q	Where is..?	...li kuderê ye?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Tûwalet/ serşok li ku derê ye?
+NEED_SHOWER	I need to take a shower	Divê ez serê xwe bişom
+SHOWER_LOCATION_Q	Where can I take a shower?	Li ku derê ez dikarim serê xwe bişom?
+SANITARYPAD	sanitary pad / towel	Ped
+DIAPER	diaper / nappy	Cilik
+NEED_MAKE_PHONECALL	I need to make a phone call	Divê ez telefon bikim
+PRAY_LOCATION_Q	Where can I pray?	Li ku derê ez dikarim nimêj bikim
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Ez dikarim li ku derê ...bistînim?
+LOCATION_X_Q	Where can I find____?	Ez dikarim li ku derê...bibînim?
+TIME_CLOCK_Q	What time is it?	Saet çend e?
+NEED_SLEEP	I (we) need to sleep	Divê ez razim
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Metro li kû ye?
+NO_MONEY	I don’t have any money.	Perê min tune ye.
+SPEAK_X_Q	Do you speak...	Gelo tu ….diaxivî?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Ez Elmanî (baş) nizanim.
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Gelo tu dikarî vê binivîsi?
+NO_UNDERSTAND	I don’t understand	Ez vê fêm nakim
+HELP_REQUEST	Help! / Please help me!	Hewara!/Ji kerema xwe alîkarîya min bike
+IGNORANCE	I don’t know	Ez nizanim.
+EVENT_Q	What happened?	Çi bû?
+SUFFER_FREEZING	I am cold/ freezing	Min sar e.
+EXPERIENCE_HAPPINESS	I’m happy.	Ez keyfxweş im.
+SUFFER_FEAR	I’m scared.	Ez ditirsim.
+SUFFER_SADNESS	I’m sad.	Ez xemgîn im.
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Kêfa min ji te re tê.
+DONT_WORRY	Don’t worry	Mitala neke.
+NEED_APPOINTMENT	I would like an appointment.	Civan hewce ye
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Odeya bi .... nûmerê li ku ye?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Navenda serlêdanê li ku ye?
+MUST_WAIT	You have to wait	Tu mecburî bisekinî
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Ciqasî em mecburin li vir bisekinin?
+1_DAY	one day	Rojek
+1_HOUR	one hour	Saetek
+1_MONTH	one month	mehek
+VERYSOON	very soon	Pir nêz de
+TOMORROW	tomorrow	sibê
+DAY_AFTER_TOMORROW	the day after tomorrow	du sibê
+NEXT_WEEK	next week	hefteya bê
+RETURN_SOON	I will be back soon	Ez ê di demeke nêz de vegerim
+ONE	one	Yek
+TWO	two	du
+THREE	three	sê
+FOUR	four	çar
+FIVE	five	pênc
+SIX	six	şeş
+SEVEN	seven	heft
+EIGHT	eight	heşt
+NINE	nine	neh
+TEN	ten	deh
+MONDAY	Monday	duşem
+TUESDAY	 Tuesday	 seşem
+WEDNESDAY	 Wednesday	çarşem
+THURSDAY	 Thursday	pênçşem
+FRIDAY	 Friday	în
+SATURDAY	 Saturday	şemî
+SUNDAY	 Sunday	 yekşem
+JANUARY	January	çile
+FEBRUARY	 February	 sibat
+MARCH	 March	 adar
+APRIL	 April	 nîsan
+MAY	 May	 gulan
+JUNE	 June	 hezîran
+JULY	 July	tîrmeh
+AUGUST	 August	 tebax
+SEPTEMBER	 September	îlon
+OCTOBER	 October	 cotmeh
+NOVEMBER	 November	 mijdar
+DECEMBER	 December	 kanun
+	Medical Terms	Tenduristî
+NEED_DOCTOR	I need a doctor	Textorek lazim e ji bo min.
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Dilê min dixelê.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Ez nexweş im
+CHILD_ILL	(My child) is sick	(Zarokê min) nexweş e
+PREGNANT	I am pregnant	Ez ducanî me
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Alerjiya min heye.
+SUFFER_ICD10_H81	I feel dizzy.	Ez gêj im
+SUFFER_ICD10_E10	I am diabetic	Şekirê min heye
+NEED_INSULIN	I need insulin	Insulin ji bo min hewce ye.
+SUFFERED_RAPE	I was raped.	Tecawizî min kirin
+SUFFER_ICD10_R10	I have a stomach ache.	Zikê min diêşe
+SUFFER_ICD10_R50	I have a fever / a temperature	Germ/ Germa laşê min heye
+SUFFER_ICD10_R51	I have a headache	Serê min diêşe
+SUFFER_ICD10_R05	I have a cough.	Kuxika min heye
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Qirika zaroka min diêşe/  Zaroka min dikuxê
+FLU	cold	Bapêş
+DIARRHEA	diarrhea	Hinavêşî
+ICD10_K59.0	constipation	qebzitî
+ICD10_B73.3	vaginal yeast infection (thrush)	Bîrova vajîna
+ICD10_B53.3	athlete's foot	Bîrova pî
+ICD10_B85	head lice	Sipîyê serî
+		
+	Food	Xwarin/xurik
+MEAL_NOON	Lunch	firavîn
+MEAL_EVENING	Dinner	şîv
+FOOD_HALAL_Q	Is this food Halal?	Ev xwarin helal e gelo?
+ALLERGY_AGAINST_X	I am allergic to….	Alerjîya min ji bo...heye.
+PORK_MEAT	pork	goştê beraz
+POULTRY_MEAT	poultry	heywanên biper
+NO_EAT_PORK	I do not eat pork	Ez goştê beraz naxwim
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Ez vejeteryaneke me
+SELF_VEGAN	I am a vegan	Ez vejeteryan e
+FISH	fish	masî
+BREAD	bread	nan
+WATER	water	Av
+LEMONADE	lemonade	lîmonata
+MILK	milk	şîr
+COFFEE	coffee	qahwe
+TEA	tea	çay
+BEER	beer	bîre
+FRUITS	fruit	fêkî
+APPLE	apple	sêv
+PEAR	pear	hirmî
+GRAPEFRUIT	grapefruit	zîbal
+APRICOT	apricot	mişmiş
+POTATOE	potatoes [pl]	patat/kartol
+BEAN	beans [pl]	fasûlî
+PEA	peas [pl]	şoqîl
+CHICKPEA	chickpeas [pl]	nok
+AUBERGINE	eggplant (US) / aubergine (UK)	balcan/bacanê reş
+CARROT	carrots [pl]	gizêr
+TOMATO	tomatoes [pl]	fringî
+TURNIP	turnip	şêlim
+FLOUR	flour	ard
+HONEY	honey	hingiv
+CHEESE	cheese	penêr
+QUARK	quark / cottage cheese 	şîre qusandî yê tîr
+PAPRIKA	paprika	dermanê germ
+SAUCE	sauce	sos
+BUTTER	butter	nivîşk
+OIL	oil	rûn
+CHEWING_GUM	chewing gum	benîşt
+SPOON	spoon	kevçî
+KNIFE	knife	kêr
+PLATE	plate	sênîk, teyfik
+GLASS	glass (to drink from)	qedeh / berçavk
+MUG	mug	qedeha lastîk
+TEAPOT	teapot 	çaydan
+		
+	Clothing	Cil
+SHIRT	shirt	Gomlek
+DRESS	Dress	Kiras
+SKIRT	skirt	Eteg
+TROUSERS	trousers (UK) / pants (US)	Şal
+PULLOVER	jumper (UK) / sweater / pullover	fanêre
+COAT	jacket / coat	çakêt
+HEADSCARF	veil / hijab / headscarf	demsal
+SHOE	shoes [pl]	sol
+GLOVE	gloves [pl]	cepik
+SOCK	socks [pl]	gore
+UNDERWEAR	underwear	bincilik / Derpî
+		
+	Misc	Yên din
+BED	bed	nivîn
+BLANKET	blanket	betanî
+LAMP	lamp	lambe
+TELEPHONE	telephone	telefon
+CELLPHONE	mobile phone / cellphone	telefuna desta
+ELECTRICITY	electricity	ceyran
+COMPUTER	computer	komputer
+INTERNET_CONNECTION	internet connection	giredana internetê
+BATTERY	battery	pîl
+ROOM	room	ode
+CHAIR	chair	kursî
+TABLE	table	mase
+TOILET	toilet	tuwalet
+TOILET_PAPER	toilet paper	paçikên tuwaletê
+TOOTHBRUSH	toothbrush	firça dirana
+TOOTHPASTE	toothpaste	macuna dirana
+SHOWER	shower	duş
+BATHTUB	bathtub	kuwet
+SOAP	soap	sabun
+SHAMPOO	shampoo	şampuan
+HANDKERCHIEF	tissue / handkerchief	paçikên desta
+CUPBOARD	cupboard	dolab
+DOOR	door	derî
+WINDOW	window	pace
+WALL	wall	dîwar
+HOUSE	house	mal
+APARTMENT	apartment / flat	avahî
+BOOK	book	pirtûk
+NEWSPAPER	newspaper	rojname
+RADIO	radio	radyo
+TELEVISION	television	televîzyon

@@ -1,0 +1,212 @@
+	Basic Conversation		
+GREETING_INFORMAL	Hello	 سلام	Salaam
+GREETING_MORNING	good morning	سهار په خیر	Sahar pa khair
+GREETING_EVENING	good evening	شپه په خیر	Shpa pa Khair
+GREETING_DEPARTURE	goodbye	د خدای په امان   	da khday pa aman
+SORRY	sorry / excuse me 	وبښه 	Wubakha/Wubakhsha
+PLEASE	please	لطفاً/مهربانی	lotfan
+THANKS	thank you / thanks	مننه 	Manana
+REPLY_THANKS	you're welcome [response to thank you / thanks]		
+GIVE_OWN_NAME	my name is...	زما نوم ... دی 	Zma num … dai
+ASK_OTHERS_NAME	What is your name?	ستاسو څه نوم دی؟  	staso tsa num dai?
+GIVE_OWN_PROVENANCE	I’m from...	زه د ... یم 	Za de ...yam
+FAMILY	family		
+PRESENT_HUSBAND	this is my husband	دا زما میړه دی 	Da zma merra dai
+WIFE	my wife	زما ښځه 	Zma khaza / sha-za
+CHILDREN	my children	زما ماشومان 	zma mashuma-n
+DAUGHTER	my daughter	زما لور	zma lur
+SON	my son	زما ځوی 	Zma zui
+BABY	my baby	زما وړوکی 	zma urrokai
+BROTHER	this is my brother	دا زما ورور دی    	da zma wror dai
+SISTER	this is my sister	دا زما خور ده  	da zma khor da 
+FATHER	this is my father	دا زما پلار دی   	 da zma plaar dai
+MOTHER	this is my mother 	دا زما مور ده    	da zma mor da
+SUFFER_HUNGER	I’m hungry.	زه وږی يم 	za wagai yam
+CHILD_HUNGRY	(My child) is hungry	(زما بچه) وږی دی 	zma bacha wagai dai
+SUFFER_THIRST	I’m thirsty	زه تږی يم   	za tegai yam
+WATER	water		
+AVAILABLE_Q	Do you have...	... لرې؟     	? laré ۔۔۔
+LOCATION_Q	Where is..?	... چېرته دی؟       	cherta dai...?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	تشناب / غسل خانه چېرته دی؟   	tashnab/ghusl khana cherta dai?
+NEED_SHOWER	I need to take a shower	زه غواړم غسل وکړم      	za ghwarram ghusl u-krram
+SHOWER_LOCATION_Q	Where can I take a shower?	چیرته کولای شم غسل وکړم؟    	cherta kawalay sham ghusl u-krram?
+SANITARYPAD	sanitary pad / towel	توکري      	tukri
+DIAPER	diaper / nappy	اوړني	
+NEED_MAKE_PHONECALL	I need to make a phone call	زه غواړم تیلفون وکړم.     	za ghwarram telefon u-krram
+PRAY_LOCATION_Q	Where can I pray?	چیرته کولای شم لمونځ وکړم؟     	cherta kawalay sham lmundz u-krram?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	چیرته ... پیرودلی/اخیستلی شم؟	
+LOCATION_X_Q	Where can I find____?	چیرته ... موندلای/پیدا کولای شم؟	
+TIME_CLOCK_Q	What time is it?	څو بجې دي؟	
+NEED_SLEEP	I (we) need to sleep	مونږ باید بیده شو   	mung bayad bida shu
+SUBWAY_LOCATION_Q	Where is the subway/underground?	د اورګاډي ایستګاه چیرته ده؟  	da orgaaddi istgah cherta da?
+NO_MONEY	I don’t have any money.	ما سره پيسې نشته   	ma-sara payse nishta
+SPEAK_X_Q	Do you speak...	... ژبه درځي؟         	zheba dar-zi...?
+SPEAK_LITTLE_X	I don't speak (English) very well.	ما ته الماني ژبه (ښه) نه راځي   	 ma-ta Alemani zheba (kha) na razi
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	ما ته دا وليکئ ؟        	 ma-ta da u-likey?
+NO_UNDERSTAND	I don’t understand	زه نه پوهېږم      	za na puyegam
+HELP_REQUEST	Help! / Please help me!		
+IGNORANCE	I don’t know	نه پوهېږم    	na puyegam
+EVENT_Q	What happened?	څه شو؟     	tsa sho?
+SUFFER_FREEZING	I am cold/ freezing	زما یخ/ساړه کیږي    	zma yakh / saarra kegi
+EXPERIENCE_HAPPINESS	I’m happy.	زه خوشحاله يم   	za khushhala yam
+SUFFER_FEAR	I’m scared.	يېرېږم    	yeregam
+SUFFER_SADNESS	I’m sad.	زه خپه یم    	za khapa yam
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	ته زما خوښ يې    	ta zma khwakh ye
+DONT_WORRY	Don’t worry	تشویش مه کوه   	 tashwish ma kawa
+NEED_APPOINTMENT	I would like an appointment.	زه د ملاقات وخت غواړم	
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	کوټه/خونه شمیره ... چیرته ده؟	
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	د ثبت کوټه/خونه چیرته ده؟	
+MUST_WAIT	You have to wait	باید منتطر شې     	bayad muntazer shay
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	څومره انتظار باید وباسو     	tsumra intizar bayad u-baasu
+1_DAY	one day	یوه ورځ     	yawa wraz
+1_HOUR	one hour	یو ساعت   	yaw saa'at
+1_MONTH	one month		
+VERYSOON	very soon	ډیر ژر    	dder zhar
+TOMORROW	tomorrow		
+DAY_AFTER_TOMORROW	the day after tomorrow		
+NEXT_WEEK	next week		
+RETURN_SOON	I will be back soon	زه ژر بیرته راځم   	za zhar byarta ra-zam
+ONE	one	یو	yaw
+TWO	two	دوه	dwa
+THREE	three	درې	dre
+FOUR	four	څلور	tsalor
+FIVE	five	پنځه	pindza
+SIX	six	شپږ	shpag
+SEVEN	seven	اووه	awá
+EIGHT	eight	اته	atá
+NINE	nine	نه	naha
+TEN	ten	لس 	las
+MONDAY	Monday		
+TUESDAY	 Tuesday		
+WEDNESDAY	 Wednesday		
+THURSDAY	 Thursday		
+FRIDAY	 Friday		
+SATURDAY	 Saturday		
+SUNDAY	 Sunday		
+JANUARY	January		
+FEBRUARY	 February		
+MARCH	 March		
+APRIL	 April		
+MAY	 May		
+JUNE	 June		
+JULY	 July		
+AUGUST	 August		
+SEPTEMBER	 September		
+OCTOBER	 October		
+NOVEMBER	 November		
+DECEMBER	 December		
+	Medical Terms		
+NEED_DOCTOR	I need a doctor	طبيب مي په کار دی  	tabib me pakaar dai
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 		
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	زه ناجوړ يم 	za najorr yam 
+CHILD_ILL	(My child) is sick	(زما بچه) ناجوړ دی 	zma bacha najorr dai
+PREGNANT	I am pregnant	زه بلربه یم/حمل لرم      	za blarba yam / hamal laram
+SUFFER_ICD10_T78.4	I am having an allergic reaction		
+SUFFER_ICD10_H81	I feel dizzy.		
+SUFFER_ICD10_E10	I am diabetic		
+NEED_INSULIN	I need insulin		
+SUFFERED_RAPE	I was raped.		
+SUFFER_ICD10_R10	I have a stomach ache.	خېټه مې خوږېږي    	khetta me khugegi
+SUFFER_ICD10_R50	I have a fever / a temperature	زما تبه ده   	 zma taba da
+SUFFER_ICD10_R51	I have a headache	سر مې خوږيږي   	 sar me khugegi
+SUFFER_ICD10_R05	I have a cough.	زه ټوخیږم   	za ttukhegam
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	زما بچی/بچۍ ټوخیږي	
+FLU	cold	ریزش/زکام	
+DIARRHEA	diarrhea	نس ناستی/اسهال	
+ICD10_K59.0	constipation	قبضیت	
+ICD10_B73.3	vaginal yeast infection (thrush)		
+ICD10_B53.3	athlete's foot		
+ICD10_B85	head lice	سپږي	
+			
+	Food		
+MEAL_NOON	Lunch		
+MEAL_EVENING	Dinner		
+FOOD_HALAL_Q	Is this food Halal?	ډوډۍ حلال دی؟ 	dodey halal dai
+ALLERGY_AGAINST_X	I am allergic to….	زه حساسیت لرم له...      	za hassasiyat laram la...
+PORK_MEAT	pork		
+POULTRY_MEAT	poultry		
+NO_EAT_PORK	I do not eat pork		
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	زه غوښه نخورم   	za ghwakha nakhoram
+SELF_VEGAN	I am a vegan	زه غوښه او لبنیات نخورم    	za ghwakha aw labaniyaat nakhoram
+FISH	fish		
+BREAD	bread	وچه ډوډۍ    	wacha dodey
+WATER	water	اوبه    	owbá
+LEMONADE	lemonade		
+MILK	milk	شوده   	showdá
+COFFEE	coffee		
+TEA	tea		
+BEER	beer		
+FRUITS	fruit		
+APPLE	apple		
+PEAR	pear		
+GRAPEFRUIT	grapefruit		
+APRICOT	apricot		
+POTATOE	potatoes [pl]		
+BEAN	beans [pl]		
+PEA	peas [pl]		
+CHICKPEA	chickpeas [pl]		
+AUBERGINE	eggplant (US) / aubergine (UK)		
+CARROT	carrots [pl]		
+TOMATO	tomatoes [pl]		
+TURNIP	turnip		
+FLOUR	flour		
+HONEY	honey		
+CHEESE	cheese		
+QUARK	quark / cottage cheese 		
+PAPRIKA	paprika		
+SAUCE	sauce		
+BUTTER	butter		
+OIL	oil		
+CHEWING_GUM	chewing gum		
+SPOON	spoon		
+KNIFE	knife		
+PLATE	plate		
+GLASS	glass (to drink from)		
+MUG	mug		
+TEAPOT	teapot 		
+			
+	Clothing		
+SHIRT	shirt	کمیس     	kamis
+DRESS	Dress	کالي     	kaali
+SKIRT	skirt		
+TROUSERS	trousers (UK) / pants (US)	پتلون/پرتوګ     	patlun/partog
+PULLOVER	jumper (UK) / sweater / pullover		
+COAT	jacket / coat		
+HEADSCARF	veil / hijab / headscarf	ټیکری/توکری    	 ttekri / ttukri
+SHOE	shoes [pl]		
+GLOVE	gloves [pl]		
+SOCK	socks [pl]		
+UNDERWEAR	underwear	نیکر   	nikar
+			
+	Misc		
+BED	bed		
+BLANKET	blanket		
+LAMP	lamp		
+TELEPHONE	telephone	تیلفون   	telefon
+CELLPHONE	mobile phone / cellphone		
+ELECTRICITY	electricity		
+COMPUTER	computer		
+INTERNET_CONNECTION	internet connection		
+BATTERY	battery		
+ROOM	room		
+CHAIR	chair		
+TABLE	table		
+TOILET	toilet		
+TOILET_PAPER	toilet paper		
+TOOTHBRUSH	toothbrush		
+TOOTHPASTE	toothpaste		
+SHOWER	shower		
+BATHTUB	bathtub		
+SOAP	soap		
+SHAMPOO	shampoo		
+HANDKERCHIEF	tissue / handkerchief		
+CUPBOARD	cupboard		
+DOOR	door		
+WINDOW	window		
+WALL	wall		
+HOUSE	house		
+APARTMENT	apartment / flat		
+BOOK	book		
+NEWSPAPER	newspaper		
+RADIO	radio		
+TELEVISION	television		

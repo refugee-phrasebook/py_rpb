@@ -1,0 +1,212 @@
+	Basic Conversation	Conversazione di Base
+GREETING_INFORMAL	Hello	Salve / Ciao
+GREETING_MORNING	good morning	Buongiorno
+GREETING_EVENING	good evening	Buonasera
+GREETING_DEPARTURE	goodbye	Arrivederci
+SORRY	sorry / excuse me 	Scusa/Mi scusi
+PLEASE	please	Per favore
+THANKS	thank you / thanks	Grazie
+REPLY_THANKS	you're welcome [response to thank you / thanks]	Prego
+GIVE_OWN_NAME	my name is...	Mi chiamo...
+ASK_OTHERS_NAME	What is your name?	Come si chiama? / Come ti chiami?
+GIVE_OWN_PROVENANCE	I’m from...	Vengo da.../ Sono di...
+FAMILY	family	la famiglia
+PRESENT_HUSBAND	this is my husband	Questo è... mio marito
+WIFE	my wife	Questa è… mia moglie
+CHILDREN	my children	Questi sono... i miei figli
+DAUGHTER	my daughter	Questa è… mia figlia
+SON	my son	Questo è...mio figlio
+BABY	my baby	Questo è il mio bebè
+BROTHER	this is my brother	Questo è mio fratello
+SISTER	this is my sister	Questa è mia sorella
+FATHER	this is my father	Questo è mio padre/papà
+MOTHER	this is my mother 	Questa è mia madre/mamma
+SUFFER_HUNGER	I’m hungry.	Ho fame
+CHILD_HUNGRY	(My child) is hungry	[mio figlio/mia figlia] ha fame
+SUFFER_THIRST	I’m thirsty	Ho sete
+WATER	water	acqua
+AVAILABLE_Q	Do you have...	Lei ha… ?/ Avete…?
+LOCATION_Q	Where is..?	Dov'è...
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Dov’è il bagno?
+NEED_SHOWER	I need to take a shower	Ho bisogno di fare una doccia
+SHOWER_LOCATION_Q	Where can I take a shower?	Dove posso fare una doccia?
+SANITARYPAD	sanitary pad / towel	Assorbente
+DIAPER	diaper / nappy	Pannolino
+NEED_MAKE_PHONECALL	I need to make a phone call	Devo chiamare / telefonare
+PRAY_LOCATION_Q	Where can I pray?	Dove posso pregare?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Dove posso comprare _______ ?
+LOCATION_X_Q	Where can I find____?	Dove posso trovare _____?
+TIME_CLOCK_Q	What time is it?	Che ora è? / Che ore sono?
+NEED_SLEEP	I (we) need to sleep	Devo/dobbiamo dormire / Ho/abbiamo sonno
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Dov’è la metro(politana)?
+NO_MONEY	I don’t have any money.	Non hosoldi / denaro
+SPEAK_X_Q	Do you speak...	Parla … (es.italiano)?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Non parlo bene l'italiano 
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Potrebbe scrivermelo?
+NO_UNDERSTAND	I don’t understand	Non ho capito
+HELP_REQUEST	Help! / Please help me!	Aiuto! / Mi aiuti per favore
+IGNORANCE	I don’t know	Non lo so
+EVENT_Q	What happened?	Cos’è successo?
+SUFFER_FREEZING	I am cold/ freezing	Ho freddo
+EXPERIENCE_HAPPINESS	I’m happy.	Sono contento / contenta
+SUFFER_FEAR	I’m scared.	Ho paura
+SUFFER_SADNESS	I’m sad.	Sono triste
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Mi piaci
+DONT_WORRY	Don’t worry	Non si preoccupi / Non preoccuparti
+NEED_APPOINTMENT	I would like an appointment.	Ho bisogno di un appuntamento. / Devo prendere un appuntamento.
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Dov'è la stanza numero ____ ?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Dov'è il centro di registrazione?
+MUST_WAIT	You have to wait	Deve/devi aspettare 
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Quanto tempo dobbiamo aspettare qui?
+1_DAY	one day	Un giorno
+1_HOUR	one hour	Un’ora
+1_MONTH	one month	Un mese
+VERYSOON	very soon	Molto presto
+TOMORROW	tomorrow	Domani
+DAY_AFTER_TOMORROW	the day after tomorrow	Dopodomani
+NEXT_WEEK	next week	Settimana prossima / La prossima settimana
+RETURN_SOON	I will be back soon	Torno fra poco
+ONE	one	Uno
+TWO	two	due
+THREE	three	tre
+FOUR	four	quattro
+FIVE	five	cinque
+SIX	six	sei
+SEVEN	seven	sette
+EIGHT	eight	otto
+NINE	nine	nove
+TEN	ten	dieci
+MONDAY	Monday	lunedì
+TUESDAY	 Tuesday	 martedì
+WEDNESDAY	 Wednesday	 mercoledì
+THURSDAY	 Thursday	 giovedì
+FRIDAY	 Friday	 venerdì
+SATURDAY	 Saturday	 sabato
+SUNDAY	 Sunday	 domenica
+JANUARY	January	gennaio
+FEBRUARY	 February	 febbraio
+MARCH	 March	 marzo
+APRIL	 April	 aprile
+MAY	 May	 maggio
+JUNE	 June	 giugno
+JULY	 July	 luglio
+AUGUST	 August	 agosto
+SEPTEMBER	 September	 settembre
+OCTOBER	 October	 ottobre
+NOVEMBER	 November	 novembre
+DECEMBER	 December	 dicembre
+	Medical Terms	Termini Medici
+NEED_DOCTOR	I need a doctor	Ho bisogno di un medico
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Ho la nausea
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Mi sento male
+CHILD_ILL	(My child) is sick	[mio figlio/mia figlia] si sente male
+PREGNANT	I am pregnant	Sono incinta
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Ho una reazione allergica.
+SUFFER_ICD10_H81	I feel dizzy.	Mi gira la testa/Ho i capogiri
+SUFFER_ICD10_E10	I am diabetic	Ho il diabete.
+NEED_INSULIN	I need insulin	Ho bisogno dell'insulina.
+SUFFERED_RAPE	I was raped.	Ho subito uno stupro / Sono stato stuprato / Sono stata stuprata
+SUFFER_ICD10_R10	I have a stomach ache.	Ho mal di stomaco/Mi fa male lo stomaco
+SUFFER_ICD10_R50	I have a fever / a temperature	Ho la febbre
+SUFFER_ICD10_R51	I have a headache	Ho mal di testa/Mi fa male la testa
+SUFFER_ICD10_R05	I have a cough.	Ho la tosse.
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	l mio bambino ha mal di gola/la tosse 
+FLU	cold	Raffreddore
+DIARRHEA	diarrhea	Diarrea
+ICD10_K59.0	constipation	Stitichezza
+ICD10_B73.3	vaginal yeast infection (thrush)	Micosi vaginale / Candidosi
+ICD10_B53.3	athlete's foot	Micosi del piede
+ICD10_B85	head lice	Pidocchi dei capelli
+		
+	Food	Cibo
+MEAL_NOON	Lunch	(il) pranzo
+MEAL_EVENING	Dinner	(la) cena
+FOOD_HALAL_Q	Is this food Halal?	Questo cibo è Halal?
+ALLERGY_AGAINST_X	I am allergic to….	Sono allergico a…
+PORK_MEAT	pork	Carne di maiale
+POULTRY_MEAT	poultry	Pollame
+NO_EAT_PORK	I do not eat pork	Non mangio carne di maiale
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Sono vegetariano / vegetariana. Non mangio carne e pesce.
+SELF_VEGAN	I am a vegan	Sono vegano / vegana
+FISH	fish	Pesce
+BREAD	bread	Pane
+WATER	water	Acqua
+LEMONADE	lemonade	Limonata
+MILK	milk	latte
+COFFEE	coffee	caffè
+TEA	tea	té
+BEER	beer	Birra
+FRUITS	fruit	frutta
+APPLE	apple	mela
+PEAR	pear	pera
+GRAPEFRUIT	grapefruit	pompelmo
+APRICOT	apricot	albicocca
+POTATOE	potatoes [pl]	Patate
+BEAN	beans [pl]	fagioli
+PEA	peas [pl]	piselli
+CHICKPEA	chickpeas [pl]	(i) ceci 
+AUBERGINE	eggplant (US) / aubergine (UK)	(la) melanzana
+CARROT	carrots [pl]	carota
+TOMATO	tomatoes [pl]	pomodoro
+TURNIP	turnip	rapa
+FLOUR	flour	farina
+HONEY	honey	miele
+CHEESE	cheese	formaggio
+QUARK	quark / cottage cheese 	ricotta
+PAPRIKA	paprika	paprika
+SAUCE	sauce	salsa
+BUTTER	butter	burro
+OIL	oil	olio
+CHEWING_GUM	chewing gum	gomma da masticare
+SPOON	spoon	Cucchiaio
+KNIFE	knife	Coltello
+PLATE	plate	Piatto
+GLASS	glass (to drink from)	bicchiere
+MUG	mug	Tazza
+TEAPOT	teapot 	Teiera
+		
+	Clothing	Vestiti
+SHIRT	shirt	Camicia
+DRESS	Dress	Abito / Vestito
+SKIRT	skirt	Gonna
+TROUSERS	trousers (UK) / pants (US)	pantaloni (un paio di pantaloni)
+PULLOVER	jumper (UK) / sweater / pullover	maglione
+COAT	jacket / coat	giacca / giubbotto
+HEADSCARF	veil / hijab / headscarf	velo
+SHOE	shoes [pl]	scarpe
+GLOVE	gloves [pl]	guanti
+SOCK	socks [pl]	Calzini
+UNDERWEAR	underwear	biancheria intima
+		
+	Misc	Varie
+BED	bed	letto
+BLANKET	blanket	coperta
+LAMP	lamp	lampada
+TELEPHONE	telephone	telefono
+CELLPHONE	mobile phone / cellphone	cellulare
+ELECTRICITY	electricity	elettricità
+COMPUTER	computer	computer
+INTERNET_CONNECTION	internet connection	connessione internet
+BATTERY	battery	batteria
+ROOM	room	stanza
+CHAIR	chair	sedia
+TABLE	table	tavolo
+TOILET	toilet	bagno
+TOILET_PAPER	toilet paper	carta igienica
+TOOTHBRUSH	toothbrush	spazzolino
+TOOTHPASTE	toothpaste	dentifricio
+SHOWER	shower	doccia
+BATHTUB	bathtub	vasca
+SOAP	soap	Sapone
+SHAMPOO	shampoo	Shampoo
+HANDKERCHIEF	tissue / handkerchief	fazzoletto
+CUPBOARD	cupboard	armadio
+DOOR	door	Porta
+WINDOW	window	finestra
+WALL	wall	muro
+HOUSE	house	casa
+APARTMENT	apartment / flat	appartamento
+BOOK	book	libro
+NEWSPAPER	newspaper	giornale (quotidiano)
+RADIO	radio	radio
+TELEVISION	television	televisione

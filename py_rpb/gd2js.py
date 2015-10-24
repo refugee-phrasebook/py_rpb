@@ -39,15 +39,31 @@ def lg2js(normname,pairs):
 def getpairs(records,lg):
 	return [(r[0],r[lg]) for r in records if r[lg]!='']
 				 
-
-def s2tsv(s,languages):
-	for lg in languages:
-			print(lg)
-			lg = int(lg)
-			name = s.records[0][lg]
-			normname = normalizename(name) 
-			print(normname)
-			pairs = getpairs(s.records[1:], lg)
+def gettuples(records,languages):
+  """
+  return a tuple of the ID and all renderings in all selected languages
+  """
+  languages = [1,7]+languages
+  #print(languages)
+  return [records[l] for l in languages]
+  
+def s2tsv(s,languages,typ=''):  
+        name = s.records[0][languages[0]]
+        normname = normalizename(name)    
+        print(languages)
+        print([s.records[0][i] for i in languages])
+        print(normname)
+        #pairs = getpairs(s.records[1:], lg)
+        records = s.records[1:]
+        tuples =  [gettuples(r,languages) for r in records]
+        fn = 'tsv/data_%s_%s.tsv'%(typ,normname)
+        #print(fn)
+        out = open(fn,'w')
+        for t in tuples:
+          out.write("\t".join(t))
+          out.write("\n")
+        out.close()
+        
 		    
 def s2js(s,languages,typ=''):
 	jss = []
@@ -69,19 +85,20 @@ def s2js(s,languages,typ=''):
 
 if __name__ == '__main__': 
 	#usage : gd2js.py  1 3 8 12 14 17 19 22 24  
-	languages = sys.argv[1:]
-	print(languages)
+	languages = [int(i) for i in sys.argv[1:]]
+	#print(languages)
 	sheets = {
-	  'short':'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml#gid=418287843&single=true',
-	  'long':'https://docs.google.com/spreadsheets/d/1IpkETNzRzletRpLEeLUKAldB2j_O8UJVn1zM_sYg56Y/pubhtml#gid=0',
-	  'medical':'https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/pubhtml#gid=0',
-	  'legal':'https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/pubhtml#gid=0',
+	  #'short':'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml#gid=418287843&single=true',
+	  #'long':'https://docs.google.com/spreadsheets/d/1IpkETNzRzletRpLEeLUKAldB2j_O8UJVn1zM_sYg56Y/pubhtml#gid=0',
+	  'longcopy': 'https://docs.google.com/spreadsheets/d/1bBesmfse2EcK0n_DpgEM5uGd4EwNkxZW8waRLPSPb4Y/pubhtml?gid=0&single=true'
+	  #'medical':'https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/pubhtml#gid=0',
+	  #'legal':'https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/pubhtml#gid=0',
 	  }
 	for sh in sheets:
 	    sheet_uri = sheets[sh]
 	    s = sc.SheetScraper(sheet_uri)
 	    s.fetch() 
 	    s.select_columns(languages)	
-	    #s2tsv(s,languages)
-	    s2js(s,languages,typ=sh) 
+	    s2tsv(s,languages,typ=sh)
+	    #s2js(s,languages,typ=sh) 
     
