@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Πρέπει να με δει γιατρός.	Prépi na me di giatrós.
+NEED_HOSPITAL	I need to go to the hospital	Πρεπει να πάω σε νοσοκομείο!	Prépi na páo se nosokomío.
+NEED_AMBULANCE	I need an ambulance	Χρειάζομαι ασθενοφόρο.	Hriázome asthenofóro.
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Από πού μπορώ να πάρω αυτή την συνταγή?	Apó pu boró na páro aftí ti sintagí?
+WHEN_RETURN	When do I have to come back?	Πότε πρέπει να ξαναέρθω? 	Póte prépi na ksanártho?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Πρέπει να εισαχθώ σε νοσοκομείο?	Prépi na isahthó se nosokomío?
+SUFFER_ICD10_J45	I have asthma	Έχω άσθμα.	Ého ásthma.
+SUFFER_ICD10_J41	I have chronic bronchitis	Έχω χρόνια βρογχίτιδα.	Ého hrónia vrohítida.
+SUFFER_ICD10_I50	I have heart failure	Έχω καρδιακή ανεπάρκεια.	Ého kardiakí anepárkia.
+SUFFER_ICD10_I21	I had a myocardial infarction	Εχω περάσει καρδιακό έμφραγμα.	Ého perási kardiakó émfragma.
+SUFFER_ICD10_G40	I have epilepsy	Έχω επιληψία.	Ého epilipsía.
+SUFFER_ICD10_C00	I have cancer	Έχω καρκίνο.	Ého karkíno.
+SUFFER_ICD10_A16	I have tuberculosis	Έχω φυματίωση.	Ého fimatíosi.
+SUFFER_ICD10_E10	I have diabetes	Έχω διαβήτη.	Ého diavíti.
+SUFFER_HIV	I have HIV	Έχω τον ιό HIV.	Ého ton ió HIV.
+SUFFER_ICD10_C90	I have leukaemia	Έχω λευχαιμία.	Ého lefkhemía.
+SUFFER_ICD10_D57	I have sickle cell disease	Έχω δρεπανοκυτταρική αναιμία.	Ého drepanokitarikí anemía.
+SUFFER_ICD10_D56	I have thalassaemia	Έχω Θαλασσαιμία.	Ého thalassemía.
+SUFFER_ICD10_F32	I have chronic depression	Έχω κατάθλιψη.	Ého katáthlipsi.
+SUFFER_ICD10_F20	I have schizophrenia	Έχω σχιζοφρένεια.	Ého schizofrénia.
+SUFFER_ICD10_F31	I have bipolar disorder	Έχω διπολική διαταραχή.	Ého dipolikí diatarahí.
+HERE_MY_MEDICATION	This is my medication	Αυτά είναι τα φάρμακα που παίρνω.	Aftá íne ta fármaka pu pérno.
+DAILY_MEDICATION	I take this medication every day	Παίρνω αυτά τα φάρμακα καθημερινά.	Pérno aftá ta fármaka kathimeriná.
+PERMANENT_MEDICATION	I have been taking this medication for years	Παίρνω αυτά τα φάρμακα πολλά χρόνια.	Pérno aftá ta fármaka polá hrónia.
+NEED_MORE_MEDICATION	I need more of this medication	Χρειάζομαι περισσότερο από αυτά τα φάρμακα.	Hriázome perisótero apó aftá ta fármaka.
+SUFFER_INJURY	I was injured	Τραυματίστηκα.	Travmatístika.
+SUFFER_BEATING	Somebody hit me	Κάποιος με χτύπησε.	Kápios me htípise.
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Κάποιος με μαχαίρωσε.	Kápios me mahérose.
+SUFFER_CAR_ACCIDENT	I was hit by a car	Με χτύπησε ένα αυτοκίνητο.	Me htípise éna aftokínito.
+SUFFER_STING	I was stung by an insect	Με τσίμπησε ένα έντομο	Me tsíbise éna éntomo.
+SUFFER_BITE	I was bitten	Κάτι με δάγκωσε.	Káti me dágose.
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Έπεσα από ύψος.	Épesa apó ípsos.
+SUFFER_FALL 	I fell down	Έπεσα.	Épesa.
+HERE_PAIN	It hurts here	Πονάει εδώ.	Ponái edó.
+PAIN_MOVES_A_B	The pain started here and goes to here	Ο πόνος αρχίζει από εδώ και πηγαίνει εκεί.	O pónos arhízi apó edó ke pigéni ekí.
+PERMANENT_PAIN	The pain is there all the time	 Ο πόνος είναι συνεχής.	O pónos íne sinehís.
+NON_PERMANENT_PAIN	The pain comes and goes	Ο πόνος έρχεται και φεύγει.	O pónos érhete ke févgi.
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Πονάει όταν το αγγίζω.	Ponái ótan to angízo.
+PAIN_WHEN_STANDING	It gets worse when I stand up	it's a gif!	Íne hirótera ótan íme órthios [m] / órthia [f].
+PAIN_WHEN_LYING	It gets worse when I lie down	Love it	Íne hirótera ótan íme ksaploménos [m] / ksaploméni [f].
+SHARP_PAIN	It is a sharp pain	Είναι οξύς πόνος.	Íne oksís pónos.
+DULL_PAIN	It is a dull pain	Είναι αμβλύς πόνος.	Íne amvlís pónos.
+SUDDEN_PAIN	The pain started suddenly	Ο πόνος άρχισε ξαφνικά.	O pónos árhise ksafniká.
+GRADUAL_PAIN	The pain started gradually	Ο πόνος άρχισε σταδιακά.	O pónos árhise stadiaká.
+KNOWN_PAIN	I have had this pain before	Πονούσα και παλαιότερα εκεί.	Ponúsa ke paliótera ekí.
+UNKNOWN_PAIN	I have never had this pain before	Δεν έχω ξανανιώσει τέτοιο πόνο.	Den ého ksananiósi tétio póno.
+SUFFER_BLEEDING	I am bleeding	Αιμορραγώ.	Emoragó.
+SUFFER_ICD10_R31	There is blood in my urine	Έχω αίμα στα ούρα μου.	Ého éma sta úra mu.
+SUFFER_ICD10_K92	There is blood in my faeces	Έχω αίμα στα κόπρανά μου.	Ého éma sta kópraná mu.
+SUFFER_ICD10_K92	There is blood in my vomit	Έκανα εμετό με αίμα.	Ékana emetó me éma.
+SUFFER_ICD10_R04.2	I am coughing up blood	Έφτυσα αίμα καθώς έβηχα.	Éftisa éma kathós éviha.
+SUFFER_ICD10_K62	I am bleeding from my anus	Έχω αιμορραγία από τον πρωκτό μου.	Ého emoragía apó ton prokto mu.
+SUFFER_ICD10_R04.0	I have a nosebleed	Έχω αιμορραγία στη μύτη.	Ého emoragía sti míti.
+SUFFER_ICD10_N93	I am bleeding between my periods	Έχω αιμορραγία στη μέση της περιόδου\του κύκλου	Ého emoragía sti mési tis periódu/tu kíklu.
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	Αιμορραγώ ενώ είμαι στην εμμηνόπαυση.	Emoragó enó íme stin eminópafsi.
+FMA_7154	head	κεφάλι 	kefáli
+FMA_54448	eye	μάτι 	máti
+FMA_52780	ear	αυτί	aftí
+FMA_49184	mouth	στόμα 	stóma
+FMA_24728	face	πρόσωπο	prósopo
+FMA_7155	neck	λαιμός	lemós
+FMA_25202	shoulder	ώμος	ómos
+FMA_24901	elbow	αγκώνας	angónas
+FMA_24964	hip	γοφός	gofós
+FMA_24974	knee	γόνατο	gónato
+FMA_9665	ankle	αστράγαλος	astrágalos
+FMA_9664	foot	πόδι 	pódi
+FMA_24890	arm	μπράτσο	brátso
+FMA_24979	leg	πόδι	pódi
+FMA_9712	hand	χέρι	héri
+FMA_9666	finger	δάχτυλο	dákhtilo
+FMA_25046	toe	Το δάχτυλο του ποδιού μου.	to dákhtilo tu podiu mu
+FMA_9576	chest	στήθος	stíthos
+FMA_9577	belly	στομάχι 	stomáhi
+FMA_7088	heart	καρδιά	kardiá
+FMA_7195	lung	πνεύμονας	pnévmonas
+FMA_7148	stomach	στομάχι 	stomáhi
+FMA_7202	gallbladder	χολή	holí
+FMA_7203	kidney	νεφρά	nefrá
+FMA_7199	bowel	έντερο	éntero
+FMA_15711	anus	πρωκτός	proktós
+FMA_17558	uterus	μήτρα	mítra
+FMA_7209	ovary	ωοθήκη	oothíki
+FMA_19949	vagina	κόλπος	kólpos
+FMA_7210	testes	όρχις	órhis
+FMA_9707	penis	πέος	péos
+SUFFER_SICKNESS	I feel ill	Αισθάνομαι άρρωστος [m] / άρρωστη [f].	Esthánome árostos [m] / árosti [f]
+SUFFER_ICD10_R50	I have a fever	Έχω πυρετό.	Ého piretó.
+FREEZING	I feel cold	Κρυώνω.	Krióno.
+SUFFER_SHIVERING	I have been shaking	Εχω ρίγος.	Ého rígos.
+SUFFER_COLD_SWEAT	I had a cold sweat	Έχω κρύο ιδρώτα.	Ého krío idróta.
+SUFFERED_ICD10_R55	I fainted	Λιποθύμησα.	Lipothímisa.
+SUFFER_ICD10_H81	I feel dizzy	Ζαλίζομαι.	Zalízome.
+SUFFER_ICD10_G40	I had a seizure	Είχα σπασμό.	Íha spasmó.
+SUFFER_ICD10_R55	I was unconscious	Έμεινα αναίσθητος [m] / αναίσθητη [f].	Émina anésthitos [m] / anésthiti [f].
+SUFFER_ICD10_R06	I have difficulty breathing	Έχω δύσπνοια.	Ého díspnia.
+SUFFER_ICD10_R06.2	I have wheezing	Σφυρίζουν οι πνεύμονές μου.	Sfirízun i pnévmonés mu.
+SUFFER_ICD10_R05	I have a cough	Έχω βήχα.	Ého víha.
+SUFFER_ICD10_R09.3	I am coughing up sputum	Έχω φλέματα.	Ého flémata.
+SUFFER_ICD10_I47	My heart beats fast	Έχω ταχυκαρδία	Ého tahikardía.
+SUFFER_ICD10_I49	My heart beats irregular	Έχω αρρυθμία.	Ého arithmía.
+SUFFER_CHEST_PAIN	I have chest pain	Με πονάει το στήθος.	Me ponái to stíthos.
+SUFFER_STOMACH_PAIN	I have stomach ache	Έχω στομαχόπονο.	Ého stomahópono.
+SUFFER_ICD10_R11	I feel sick	Έχω ναυτία.	Ého naftía.
+SUFFERED_VOMITING	I have been sick	Έκανα εμετό. 	Ékana emetó.
+SUFFER_ICD10_A09	I have diarrhoea	Έχω διάρροια.	Ého diária.
+SUFFER_ICD10_K59	I have constipation	Έχω δυσκοιλιότητα.	Ého diskiliótita.
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	Κάνω εμετό ό,τι και να φάω ή να πιώ.	Káno emetó óti ke na fáo i na pió.
+SUFFER_ICD10_N39.3	I urinate every hour	Έχω συχνουρία.	Ého sihnuría.
+SUFFER_ICD10_R30.9	I have pain when urinating	Κατά την ούρηση πονάω.	Katá tin úrisi ponáo.
+SMELLY_URINE	My urine smells bad	Τα ούρα μου μυρίζουν άσχημα.	Ta úra mu mirízun áshima.
+SUFFER_ICD10_R30.0	I can´t urinate	Δεν μπορώ να ουρήσω.	Den boró na uríso.
+SUFFER_ICD10_R10	I have colic pain in my side	Έχω κόλικο στα νεφρά.	Ého kolikó sta nefrá.
+MAYBE_PREGNANT	I might be pregnant	Ίσως είμαι έγκυος.	Ísos íme égios.
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Είμαι έγκυος και έχω αιμορραγία.	Íme égios ke ého emoragía.
+UTERINE_CONTRACTION	I am in labour	Έσπασαν τα νερά μου.	Éspasan ta nerá mu.
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	Τελευταία φορά έκανα σεξ πριν από δύο ημέρες.	Teleftéa forá ékana sex prin dío méres.
+LONG_TIME_NO_SEX	I have not had sex for a long time	Δεν έκανα σεξ για μεγάλο χρονικό διάστημα.	Den ékana sex gia megálo hronikó diástima.
+DISEASESDB_28137	I have a discharge from my vagina	Έχω εκκρίσεις απο τον κόλπο μου.	Ého ekrísis apó ton kólpo mu.
+SUFFER_ICD10_N34	I have a discharge from my urethra	Έχω εκκρίσεις απο την ουρήθρα μου.	Ého ekrísis apó tin uríthra mu.
+SUFFERED_RAPE	I have been raped	Με έχουν βιάσει.	Me éhun viási. 
+SUFFER_ICD10_R20.1	My ... feels numb	Νιώθω μούδιασμα στο......	Niótho múdiasma sto ...
+SUFFER_ICD10_R20.2	My .. is tingling	Έχω μυρμήγκιασμα στο......	Ého mirmígiasma sto ...
+WEAK_X	My .. is weak	Το..... είναι αδύναμο.	To ... íne adínamo.
+PARALYSED_X	My .. is paralysed	Το.... είναι παράλυτο.	To ... íne parálito.
+INABILITY_TO_SPEAK	I cannot speak	Δεν μπορώ να μιλήσω.	Den boró na milíso.
+SUFFER_ICD10_H54	I cannot see	Δε βλέπω.	De vlépo.
+SUFFER_ICD10_R51	I have a headache	Έχω πονοκέφαλο.	Ého ponokéfalo.
+SUFFER_ICD10_M54.2	I cannot flex my neck	Δεν μπορώ να σκύψω το κεφάλι.	Den boró na skípso to kefáli.
+SUFFER_FEAR	I feel frightened	Είμαι φοβιτσιάρης [m] / φοβιτσιάρα [f].	Íme fovitsiáris [m] / fovitsiára [f].
+SUFFER_DEPRESSION	I feel depressed	Αισθάνομαι καταθλιμμένος [m] / καταθλιμμένη [f].	Esthánome katathliménos [m] / katathliméni [f].
+SUFFER_SADNESS	I feel sad	Είμαι λυπημένος [m] / λυπημένη [f].	Íme lipiménos [m] / lipiméni [f].
+SUFFER_ICD10_R45.8	I think about suicide	Σκέφτομαι να αυτοκτονήσω.	Skéftome na aftoktoníso.
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Ακούω φωνές όταν είμαι μόνος [m] / μόνη [f].	Akúo fonés ótan íme mónos [m] / móni [f].
+FEEL_OBSERVED	I feel like I'm being watched	Νιώθω ότι με παρακολουθούν.	Niótho óti me parakoluthún.
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung			
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche			

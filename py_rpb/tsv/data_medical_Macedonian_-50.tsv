@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Ми треба доктор 
+NEED_HOSPITAL	I need to go to the hospital	Морам да одам во болница 
+NEED_AMBULANCE	I need an ambulance	Ми треба амбулантно возило 
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Каде можам да го подигнам овој рецепт? 
+WHEN_RETURN	When do I have to come back?	Кога треба да дојдам повторно? 
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Дали треба да ме примат во болница? 
+SUFFER_ICD10_J45	I have asthma	Имам астма 
+SUFFER_ICD10_J41	I have chronic bronchitis	Имам хроничен бронхитис 
+SUFFER_ICD10_I50	I have heart failure	Имам слабо срце 
+SUFFER_ICD10_I21	I had a myocardial infarction	Имав инфаркт 
+SUFFER_ICD10_G40	I have epilepsy	Имам епилепсија 
+SUFFER_ICD10_C00	I have cancer	Имам рак 
+SUFFER_ICD10_A16	I have tuberculosis	Имам туберкулоза 
+SUFFER_ICD10_E10	I have diabetes	Имам дијабетис 
+SUFFER_HIV	I have HIV	Имам ХИВ 
+SUFFER_ICD10_C90	I have leukaemia	Имам леукемија 
+SUFFER_ICD10_D57	I have sickle cell disease	Имам српеста анемија 
+SUFFER_ICD10_D56	I have thalassaemia	Имам таласемија 
+SUFFER_ICD10_F32	I have chronic depression	Имам хронична депресија 
+SUFFER_ICD10_F20	I have schizophrenia	Имам шизофренија 
+SUFFER_ICD10_F31	I have bipolar disorder	Имам биполарно пореметување 
+HERE_MY_MEDICATION	This is my medication	Ова се моите лекови 
+DAILY_MEDICATION	I take this medication every day	Овие лекови ги земам секој ден 
+PERMANENT_MEDICATION	I have been taking this medication for years	Овие лекови ги земам со години 
+NEED_MORE_MEDICATION	I need more of this medication	Ми треба овој лек 
+SUFFER_INJURY	I was injured	Јас бев повреден/повредена 
+SUFFER_BEATING	Somebody hit me	Некој ме удри 
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Ранет/Ранета сум од нож 
+SUFFER_CAR_ACCIDENT	I was hit by a car	Ме удри кола/автомобил 
+SUFFER_STING	I was stung by an insect	Ме боцна инсект 
+SUFFER_BITE	I was bitten	Каснат сум/Ме касна...
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Паднав од високо 
+SUFFER_FALL 	I fell down	Паднав 
+HERE_PAIN	It hurts here	Тука ме боли 
+PAIN_MOVES_A_B	The pain started here and goes to here	Болката започна тука и премина тука 
+PERMANENT_PAIN	The pain is there all the time	Болката е постојана 
+NON_PERMANENT_PAIN	The pain comes and goes	Болката е повремена 
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Ме боли на допир 
+PAIN_WHEN_STANDING	It gets worse when I stand up	Се влошува кога ќе застанам 
+PAIN_WHEN_LYING	It gets worse when I lie down	Се влошува кога ќе легнам 
+SHARP_PAIN	It is a sharp pain	Болката е остра 
+DULL_PAIN	It is a dull pain	Болката е тапа 
+SUDDEN_PAIN	The pain started suddenly	Болката започна одеднаш 
+GRADUAL_PAIN	The pain started gradually	Болката започна постепено 
+KNOWN_PAIN	I have had this pain before	Ја имав оваа болка и претходно 
+UNKNOWN_PAIN	I have never had this pain before	Никогаш не сум ја имал/а оваа болка 
+SUFFER_BLEEDING	I am bleeding	Крварам 
+SUFFER_ICD10_R31	There is blood in my urine	Имам крв во урината 
+SUFFER_ICD10_K92	There is blood in my faeces	Имам крв во столицата 
+SUFFER_ICD10_K92	There is blood in my vomit	Повраќам крв 
+SUFFER_ICD10_R04.2	I am coughing up blood	Кашлам крв 
+SUFFER_ICD10_K62	I am bleeding from my anus	Крварам од анусот 
+SUFFER_ICD10_R04.0	I have a nosebleed	Ми тече крв од носот 
+SUFFER_ICD10_N93	I am bleeding between my periods	Крварам меѓу менструации 
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	Сеуште крварам и после менопауза 
+FMA_7154	head	глава 
+FMA_54448	eye	око 
+FMA_52780	ear	уво 
+FMA_49184	mouth	уста 
+FMA_24728	face	лице 
+FMA_7155	neck	грло 
+FMA_25202	shoulder	рамо 
+FMA_24901	elbow	лакт 
+FMA_24964	hip	колк 
+FMA_24974	knee	колено 
+FMA_9665	ankle	зглоб 
+FMA_9664	foot	стапало 
+FMA_24890	arm	рака 
+FMA_24979	leg	нога 
+FMA_9712	hand	дланка 
+FMA_9666	finger	прст 
+FMA_25046	toe	палец 
+FMA_9576	chest	гради 
+FMA_9577	belly	абдомен 
+FMA_7088	heart	срце 
+FMA_7195	lung	бел дроб 
+FMA_7148	stomach	стомак 
+FMA_7202	gallbladder	жолчка 
+FMA_7203	kidney	бубрег 
+FMA_7199	bowel	црево 
+FMA_15711	anus	анус 
+FMA_17558	uterus	матка 
+FMA_7209	ovary	јајници 
+FMA_19949	vagina	вагина 
+FMA_7210	testes	тестиси 
+FMA_9707	penis	пенис 
+SUFFER_SICKNESS	I feel ill	Се чувствувам болен 
+SUFFER_ICD10_R50	I have a fever	Имам температура 
+FREEZING	I feel cold	Ладно ми е 
+SUFFER_SHIVERING	I have been shaking	Се тресам 
+SUFFER_COLD_SWEAT	I had a cold sweat	Ме облева студена пот 
+SUFFERED_ICD10_R55	I fainted	Се онесвестив 
+SUFFER_ICD10_H81	I feel dizzy	Ми се врти 
+SUFFER_ICD10_G40	I had a seizure	Добив напад 
+SUFFER_ICD10_R55	I was unconscious	Изгубив свест 
+SUFFER_ICD10_R06	I have difficulty breathing	Имам проблеми со дишењето 
+SUFFER_ICD10_R06.2	I have wheezing	Се забревтувам 
+SUFFER_ICD10_R05	I have a cough	Имам кашлица 
+SUFFER_ICD10_R09.3	I am coughing up sputum	Искашлувам шлајм 
+SUFFER_ICD10_I47	My heart beats fast	Срцето ми бие забрзано 
+SUFFER_ICD10_I49	My heart beats irregular	Срцето ми бие нередовно 
+SUFFER_CHEST_PAIN	I have chest pain	Имам болки во градите 
+SUFFER_STOMACH_PAIN	I have stomach ache	Ме боли стомакот 
+SUFFER_ICD10_R11	I feel sick	Лошо ми е 
+SUFFERED_VOMITING	I have been sick	Повраќав 
+SUFFER_ICD10_A09	I have diarrhoea	Имам дијареа 
+SUFFER_ICD10_K59	I have constipation	Имам запек 
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	Ја повраќам сета храна и течности 
+SUFFER_ICD10_N39.3	I urinate every hour	Уринирам секој час 
+SUFFER_ICD10_R30.9	I have pain when urinating	Имам болки при уринирање 
+SMELLY_URINE	My urine smells bad	Мојата урина мириса лошо 
+SUFFER_ICD10_R30.0	I can´t urinate	Не можам да уринирам 
+SUFFER_ICD10_R10	I have colic pain in my side	Имам ужасна болка од страна 
+MAYBE_PREGNANT	I might be pregnant	Можеби сум бремена 
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Бремена сум и крварам 
+UTERINE_CONTRACTION	I am in labour	Имам контракции 
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	Имав секс пред 2 дена 
+LONG_TIME_NO_SEX	I have not had sex for a long time	Не сум имал секс долго време 
+DISEASESDB_28137	I have a discharge from my vagina	Имам исцедок од вагиналниот отвор 
+SUFFER_ICD10_N34	I have a discharge from my urethra	Имам исцедок од мочниот отвор 
+SUFFERED_RAPE	I have been raped	Бев силуван/а 
+SUFFER_ICD10_R20.1	My ... feels numb	Немам осет во... 
+SUFFER_ICD10_R20.2	My .. is tingling	Чувствувам трнење во... 
+WEAK_X	My .. is weak	Мојот/мојата/моето... е ослабнат/а/о 
+PARALYSED_X	My .. is paralysed	Мојот/мојата/моето... е парализиран/а/о 
+INABILITY_TO_SPEAK	I cannot speak	Не можам да зборувам 
+SUFFER_ICD10_H54	I cannot see	Не можам да гледам 
+SUFFER_ICD10_R51	I have a headache	Имам главоболка 
+SUFFER_ICD10_M54.2	I cannot flex my neck	Не можам да го движам вратот 
+SUFFER_FEAR	I feel frightened	Се плашам 
+SUFFER_DEPRESSION	I feel depressed	Депримиран/а сум 
+SUFFER_SADNESS	I feel sad	Тажен/а сум 
+SUFFER_ICD10_R45.8	I think about suicide	Размислувам да се самоубијам 
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Кога сум сам/а, слушам гласови 
+FEEL_OBSERVED	I feel like I'm being watched	Имам чувство дека некој ме гледа 
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

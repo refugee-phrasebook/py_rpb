@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Divê ez biçim doxtor (bijîşk).
+NEED_HOSPITAL	I need to go to the hospital	Divê ez biçim nexweşxanê.
+NEED_AMBULANCE	I need an ambulance	Ambulansek ji min re pêwist e.
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Ez li ku derê dikarim vî dermanî bibînim?
+WHEN_RETURN	When do I have to come back?	Divê ez kengî dîsa werim?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Ez mecbûrim herim nexweşxanê?
+SUFFER_ICD10_J45	I have asthma	Astima min heye
+SUFFER_ICD10_J41	I have chronic bronchitis	Bronşîta min kronîk e.
+SUFFER_ICD10_I50	I have heart failure	Nexweşiya dil têrnekirinê li min heye
+SUFFER_ICD10_I21	I had a myocardial infarction	Dilê min sekinî / rawestî
+SUFFER_ICD10_G40	I have epilepsy	Ez tebê digrim (Epîlepsia min heye)
+SUFFER_ICD10_C00	I have cancer	Kansera (Penceşêr) min heye
+SUFFER_ICD10_A16	I have tuberculosis	Nexweşiya min a tuberkulozê (jana zirav) heye
+SUFFER_ICD10_E10	I have diabetes	Şekirê min heye
+SUFFER_HIV	I have HIV	HIV a min heye (Vîrûsê AIDSê)
+SUFFER_ICD10_C90	I have leukaemia	Kansera min a xwînê (leukaemî) heye / 
+SUFFER_ICD10_D57	I have sickle cell disease	
+SUFFER_ICD10_D56	I have thalassaemia	
+SUFFER_ICD10_F32	I have chronic depression	Depresyona min a kronîk heye
+SUFFER_ICD10_F20	I have schizophrenia	Nexweşiya min a şîzofrenî heye
+SUFFER_ICD10_F31	I have bipolar disorder	Nexweşiya min a bipolarî heye
+HERE_MY_MEDICATION	This is my medication	Ev dermanê min in.
+DAILY_MEDICATION	I take this medication every day	Ez van dermanan her roj dixwim.
+PERMANENT_MEDICATION	I have been taking this medication for years	Ez bi salan van dermanan dixwim.
+NEED_MORE_MEDICATION	I need more of this medication	Ji van dermanan zêdetir ji bo min pêwîstin
+SUFFER_INJURY	I was injured	Ez birîndarim.
+SUFFER_BEATING	Somebody hit me	Yekî li min xist.
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Ez bi kêrê birindar bûm.
+SUFFER_CAR_ACCIDENT	I was hit by a car	Seyyare/Erebê li min xist.
+SUFFER_STING	I was stung by an insect	Kêzikê bi min ve da.
+SUFFER_BITE	I was bitten	Tiştekî ez gez kirim.
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Ez ji jor ketim erdê. 
+SUFFER_FALL 	I fell down	Ez ketim.
+HERE_PAIN	It hurts here	Ev der diêşe.
+PAIN_MOVES_A_B	The pain started here and goes to here	Êş ji vir dest pê dike û diçê vir.
+PERMANENT_PAIN	The pain is there all the time	Êş her tim heye.
+NON_PERMANENT_PAIN	The pain comes and goes	Êş tê û diçê.
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Dema dest didê, diêşe.
+PAIN_WHEN_STANDING	It gets worse when I stand up	Dema ez dirabim ser pîya xirabtir dibe.
+PAIN_WHEN_LYING	It gets worse when I lie down	Dema ez dirazim xirabtir dibe.
+SHARP_PAIN	It is a sharp pain	Êşeke tûj
+DULL_PAIN	It is a dull pain	Êşeke zirav
+SUDDEN_PAIN	The pain started suddenly	Êş ji nişkave dest pê kir. 
+GRADUAL_PAIN	The pain started gradually	Êş hedî hedî zêdetir bû.
+KNOWN_PAIN	I have had this pain before	Berê jî wiha êşîya bû.
+UNKNOWN_PAIN	I have never had this pain before	Berê qet êşekê wiha nebubû.
+SUFFER_BLEEDING	I am bleeding	Xwînê dirijînim.
+SUFFER_ICD10_R31	There is blood in my urine	Di nav mîza min de xwîn heye.
+SUFFER_ICD10_K92	There is blood in my faeces	Di nav guyê min de xwîn heye.
+SUFFER_ICD10_K92	There is blood in my vomit	Dema ez divereşim xwîn tê.
+SUFFER_ICD10_R04.2	I am coughing up blood	Dema ez dikuxûm xwîn tê.
+SUFFER_ICD10_K62	I am bleeding from my anus	Ji qûna min xwîn tê.
+SUFFER_ICD10_R04.0	I have a nosebleed	Xwîn ji bêvila min tê.
+SUFFER_ICD10_N93	I am bleeding between my periods	Di navbera ketina bênimêjiyên min de xwîn ji min tê.
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	Dema min a bênimêjiyan qadiya lê xwîna min nasekine.
+FMA_7154	head	Ser
+FMA_54448	eye	Çav
+FMA_52780	ear	Guh
+FMA_49184	mouth	Dev
+FMA_24728	face	Rû
+FMA_7155	neck	Stu / Qirrik
+FMA_25202	shoulder	Mil
+FMA_24901	elbow	Enîşk
+FMA_24964	hip	Kemax / Qorik
+FMA_24974	knee	Çok
+FMA_9665	ankle	Gozek
+FMA_9664	foot	Nig/Pî
+FMA_24890	arm	Mil
+FMA_24979	leg	Paq
+FMA_9712	hand	Dest
+FMA_9666	finger	Tilî
+FMA_25046	toe	Pêçî
+FMA_9576	chest	Sing
+FMA_9577	belly	Zik
+FMA_7088	heart	Dil
+FMA_7195	lung	Pişik/Kezeb
+FMA_7148	stomach	Made / Mîde
+FMA_7202	gallbladder	Zirav
+FMA_7203	kidney	Gurçik
+FMA_7199	bowel	Rûvî
+FMA_15711	anus	Anûs (Qula Qûnê)
+FMA_17558	uterus	Rehîm (Malzarok)
+FMA_7209	ovary	Hêkdank
+FMA_19949	vagina	Vajîna (Quz)
+FMA_7210	testes	Hêlik
+FMA_9707	penis	Penis (Kîr)
+SUFFER_SICKNESS	I feel ill	Ez nexweş im
+SUFFER_ICD10_R50	I have a fever	Germa min heye.
+FREEZING	I feel cold	Min sar e.
+SUFFER_SHIVERING	I have been shaking	Ez direlim.
+SUFFER_COLD_SWEAT	I had a cold sweat	Min ta girtiye
+SUFFERED_ICD10_R55	I fainted	Ez bêhiş ketim.
+SUFFER_ICD10_H81	I feel dizzy	Serê min gêj dibe.
+SUFFER_ICD10_G40	I had a seizure	Ez bi edran ketim.
+SUFFER_ICD10_R55	I was unconscious	Ez bêhiş ketim.
+SUFFER_ICD10_R06	I have difficulty breathing	Bêhna min diçike.
+SUFFER_ICD10_R06.2	I have wheezing	Xire xira min heye.
+SUFFER_ICD10_R05	I have a cough	Ez dikixwûm.
+SUFFER_ICD10_R09.3	I am coughing up sputum	Belxema min heye.
+SUFFER_ICD10_I47	My heart beats fast	Dilkutk tê min.
+SUFFER_ICD10_I49	My heart beats irregular	Dilê min bêaheng lêdixe.
+SUFFER_CHEST_PAIN	I have chest pain	Sînga min diêşe.
+SUFFER_STOMACH_PAIN	I have stomach ache	Made min dixele.
+SUFFER_ICD10_R11	I feel sick	Dilê min li hev dikeve
+SUFFERED_VOMITING	I have been sick	Ez vereşîyam.
+SUFFER_ICD10_A09	I have diarrhoea	Emelê min heye
+SUFFER_ICD10_K59	I have constipation	Qebizbûn bi min re heye
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	Ez her tiştê ku dixwim û vedixim diverişînim.
+SUFFER_ICD10_N39.3	I urinate every hour	Divê ez her gav mîz bikim
+SUFFER_ICD10_R30.9	I have pain when urinating	Gava ez mîz dikim dişewite.
+SMELLY_URINE	My urine smells bad	Bêhneke xirab jî mîza min tê
+SUFFER_ICD10_R30.0	I can´t urinate	Ez nikarim mîz bikim
+SUFFER_ICD10_R10	I have colic pain in my side	Qolinc tê navtenga min.
+MAYBE_PREGNANT	I might be pregnant	Dibe ku ez dûcanî me
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Ez dûcanî me û xwina min tê.
+UTERINE_CONTRACTION	I am in labour	Qolincên zayînê têne min.
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	Herî dawî du roj berê ez bi yekî/yekê re hev şa bûm.
+LONG_TIME_NO_SEX	I have not had sex for a long time	Demekê direjê bi kesekî re hev şa nebûm.
+DISEASESDB_28137	I have a discharge from my vagina	Herikîna min a vajinal heye.
+SUFFER_ICD10_N34	I have a discharge from my urethra	Di rîya mîzê ya min de herikîn heye.
+SUFFERED_RAPE	I have been raped	Tecawizî min kirin.
+SUFFER_ICD10_R20.1	My ... feels numb	... xwe hîsnakim.
+SUFFER_ICD10_R20.2	My .. is tingling	... min girîzokî dibe.
+WEAK_X	My .. is weak	...qels e.
+PARALYSED_X	My .. is paralysed	... tevizî.
+INABILITY_TO_SPEAK	I cannot speak	Ez nikarim biaxivim.
+SUFFER_ICD10_H54	I cannot see	Ez nikarim bibînim.
+SUFFER_ICD10_R51	I have a headache	Serê min diêşe.
+SUFFER_ICD10_M54.2	I cannot flex my neck	Ez nikarim serê xwe bitewînim.
+SUFFER_FEAR	I feel frightened	Ez ditirsim.
+SUFFER_DEPRESSION	I feel depressed	Ez di depresyonê de me.
+SUFFER_SADNESS	I feel sad	Ez xemgin im.
+SUFFER_ICD10_R45.8	I think about suicide	Ez xwekûştinê difikirim.
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Di tenêtîyê de ez dengan dibihîsim.
+FEEL_OBSERVED	I feel like I'm being watched	Ez hîs dikim ku tême şopandin.
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

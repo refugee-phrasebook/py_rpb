@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	مجھے ڈاکٹرسےملنا ہے
+NEED_HOSPITAL	I need to go to the hospital	مجھے ہسپتال جانا ہے
+NEED_AMBULANCE	I need an ambulance	مجھے ایمبولنس چاہیے
+WHERE_GET_MEDICINE	Where can I fill this prescription?	میں یہ نسخے کی دوائی کہاں سے حااصل کروں؟
+WHEN_RETURN	When do I have to come back?	مجھے دوبارہ کب آنا ہے؟
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	کییا مجھے ہسپتال میں داخل ہونا ہے؟
+SUFFER_ICD10_J45	I have asthma	مجھے دمہ ہے
+SUFFER_ICD10_J41	I have chronic bronchitis	مجھے  دائمی کھانسی ہے
+SUFFER_ICD10_I50	I have heart failure	میرادل کمزورہے
+SUFFER_ICD10_I21	I had a myocardial infarction	مجھے دل کا دورہ پژ چکا ہے
+SUFFER_ICD10_G40	I have epilepsy	مجھے مرگی ہے
+SUFFER_ICD10_C00	I have cancer	مجھے کینسر ہے
+SUFFER_ICD10_A16	I have tuberculosis	مجھے  ثی بی ہے
+SUFFER_ICD10_E10	I have diabetes	مجھے ذیابطس (شوگر) ہے
+SUFFER_HIV	I have HIV	مجھے ایچ آی وی ہے
+SUFFER_ICD10_C90	I have leukaemia	مجھے لیوکیمیا ہے
+SUFFER_ICD10_D57	I have sickle cell disease	مجھے سکل سیل کی بیماری ھے
+SUFFER_ICD10_D56	I have thalassaemia	مجھے تھیلیسیمیا ہے 
+SUFFER_ICD10_F32	I have chronic depression	 مجھے شدید ڈپریشن ہے 
+SUFFER_ICD10_F20	I have schizophrenia	مجھے شیزوفرینیا ہے 
+SUFFER_ICD10_F31	I have bipolar disorder	مجھے بآے پولر ڈسآڈر ہے
+HERE_MY_MEDICATION	This is my medication	یہ میری دوائی ہے
+DAILY_MEDICATION	I take this medication every day	میں یہ دوا روز لیتا ہوں
+PERMANENT_MEDICATION	I have been taking this medication for years	میں یہ دوائی ایک سال سے لے رہا ہوں
+NEED_MORE_MEDICATION	I need more of this medication	مجھے مزید یہ دوا چاہیے
+SUFFER_INJURY	I was injured	میں زخمی تھا
+SUFFER_BEATING	Somebody hit me	مجھے کسی نے مارا ھے
+SUFFER_KNIFING	I was stabbed/ cut with a knife	مجھے تیز دھار آلے سے زخمی کیا گیا
+SUFFER_CAR_ACCIDENT	I was hit by a car	ایک گاڑی نے مجھے مارا
+SUFFER_STING	I was stung by an insect	ایک کیڑے مجھے کاٹا
+SUFFER_BITE	I was bitten	مجھے کاٹ لیا تھا
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	میں اونچائی سے گر گیا
+SUFFER_FALL 	I fell down	میں گر گئی
+HERE_PAIN	It hurts here	یہ مجھے یہاں درد دیتا ہے
+PAIN_MOVES_A_B	The pain started here and goes to here	درد یہاں سے شروع ھو کے یہاں جاتا ھے
+PERMANENT_PAIN	The pain is there all the time	درد ہر وقت ہے
+NON_PERMANENT_PAIN	The pain comes and goes	درد آتا ہے اور چلا جاتا ہے
+PAIN_WHEN_TOUCHED	It hurts when I touch it	جب یہاں چھوتا ھوں تو درد ھوتا ھے
+PAIN_WHEN_STANDING	It gets worse when I stand up	جب کھڑا ھوتا ھوں تو بڑھ جاتا ھے
+PAIN_WHEN_LYING	It gets worse when I lie down	جب لیٹتا ھوں تو بڑھ جاتا ھے
+SHARP_PAIN	It is a sharp pain	یہ شدید چبھنے والا درد ھے
+DULL_PAIN	It is a dull pain	یے ہلکا  درد ہے
+SUDDEN_PAIN	The pain started suddenly	درد اچانک شروع  ہوا
+GRADUAL_PAIN	The pain started gradually	درد آہستہ آہستہ شروع  ہوا
+KNOWN_PAIN	I have had this pain before	مجھے یہ درد پہلے بھی تھا 
+UNKNOWN_PAIN	I have never had this pain before	مجھے یہ درد پہلے کبھی نہیں ہوا  
+SUFFER_BLEEDING	I am bleeding	میرا خون نکل رہا ہے 
+SUFFER_ICD10_R31	There is blood in my urine	میرے پیشاب میں خون آ رہا ہے 
+SUFFER_ICD10_K92	There is blood in my faeces	میرے پے خانے  میں خون آ رہا ہے
+SUFFER_ICD10_K92	There is blood in my vomit	میری قہ یا الٹی میں خون ہے 
+SUFFER_ICD10_R04.2	I am coughing up blood	مجھے خونی کھانسی ہے 
+SUFFER_ICD10_K62	I am bleeding from my anus	میرے مقعد میں خون آریا ہے 
+SUFFER_ICD10_R04.0	I have a nosebleed	میرے ناک میں سے خون نکلا 
+SUFFER_ICD10_N93	I am bleeding between my periods	مجھے ایام ماہواری کے درمیاٍن بھی خون نکلتا ہے 
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	میرے ایام ماہواری ختم ہو گئے ہیں لیکن میرا خون بہہ رہا ہے 
+FMA_7154	head	سر
+FMA_54448	eye	آنکھ
+FMA_52780	ear	کان
+FMA_49184	mouth	
+FMA_24728	face	چہرہ
+FMA_7155	neck	گردن
+FMA_25202	shoulder	کندھے 
+FMA_24901	elbow	کہنی 
+FMA_24964	hip	چولہے 
+FMA_24974	knee	گھٹنا
+FMA_9665	ankle	ٹخنہ 
+FMA_9664	foot	پاؤں
+FMA_24890	arm	بازو
+FMA_24979	leg	ٹانگ
+FMA_9712	hand	ہاتھ
+FMA_9666	finger	انگلی
+FMA_25046	toe	انگھوٹھا 
+FMA_9576	chest	چھاتی 
+FMA_9577	belly	پیٹ
+FMA_7088	heart	دل
+FMA_7195	lung	پھیپھڑا ،
+FMA_7148	stomach	پیٹ
+FMA_7202	gallbladder	پتہ 
+FMA_7203	kidney	گردہ 
+FMA_7199	bowel	انتڑیاں
+FMA_15711	anus	مقعد
+FMA_17558	uterus	رحم 
+FMA_7209	ovary	بچہ دانی
+FMA_19949	vagina	فرج رحم کا راستہ.وجائنا  
+FMA_7210	testes	بیضہ الرحم
+FMA_9707	penis	عضو تناسل
+SUFFER_SICKNESS	I feel ill	میں بیمار ہوں 
+SUFFER_ICD10_R50	I have a fever	مجھے بخار تھا 
+FREEZING	I feel cold	مجھے ٹھنڈ محسوس ہو رہی ہے 
+SUFFER_SHIVERING	I have been shaking	
+SUFFER_COLD_SWEAT	I had a cold sweat	مجھے ٹھینڈےپسینےآئےتھے 
+SUFFERED_ICD10_R55	I fainted	میں بے ہوٍش تھا 
+SUFFER_ICD10_H81	I feel dizzy	مجھے چکر آرہے ہیں 
+SUFFER_ICD10_G40	I had a seizure	مجھے دورہ پڑا تھا 
+SUFFER_ICD10_R55	I was unconscious	میں بے ہوٍش تھا 
+SUFFER_ICD10_R06	I have difficulty breathing	مجھے سانس لینے میں تکلیف ہے 
+SUFFER_ICD10_R06.2	I have wheezing	میری سانس میں خر خراہٹ ہے 
+SUFFER_ICD10_R05	I have a cough	مجھے کھانسی ہے 
+SUFFER_ICD10_R09.3	I am coughing up sputum	میری کھانسی میں بلغم ہے 
+SUFFER_ICD10_I47	My heart beats fast	میرا دل تیزی سے دھڑکتا ہے
+SUFFER_ICD10_I49	My heart beats irregular	میرا دل بے قائدگی سے دھڑکتا ہے 
+SUFFER_CHEST_PAIN	I have chest pain	میری چھاتی میں درد ہے 
+SUFFER_STOMACH_PAIN	I have stomach ache	میرے پیٹ میں درد ہے 
+SUFFER_ICD10_R11	I feel sick	میری طبیعت خراب ہے 
+SUFFERED_VOMITING	I have been sick	میں بیمار ریا ہوں 
+SUFFER_ICD10_A09	I have diarrhoea	مجھے دست 
+SUFFER_ICD10_K59	I have constipation	مجھے قبض ہے 
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	میں تمام کھانا پینا ہظم نہیں کر پاتا اور الٹی کر دیتا ہوں
+SUFFER_ICD10_N39.3	I urinate every hour	میں ہر گھنٹے پیشاب کرتا ہوں 
+SUFFER_ICD10_R30.9	I have pain when urinating	مجھے پیشاب کرتے ہوئے تکلیف ہوتی ہے 
+SMELLY_URINE	My urine smells bad	میرے پیشاب سے بدبو آرہی ہے 
+SUFFER_ICD10_R30.0	I can´t urinate	میں پیشاب نہیں کر پا رہا 
+SUFFER_ICD10_R10	I have colic pain in my side	مجھے مروڑ اٹھ رھا ہے 
+MAYBE_PREGNANT	I might be pregnant	میں شاید حاملہ ہوں
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	میں حاملہ ہوں اور مجھے خون آ رہا ہے 
+UTERINE_CONTRACTION	I am in labour	مجھے دردیں شروع ہو گئی ہیں
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	میں نے دو روز پہلے ہم بستری کی تھی 
+LONG_TIME_NO_SEX	I have not had sex for a long time	میں نے طویل وقت  سے  ہم بستری نہیں کی
+DISEASESDB_28137	I have a discharge from my vagina	میری شرم گاہ سے اخراج ہو رہا ہے
+SUFFER_ICD10_N34	I have a discharge from my urethra	میرے عضو تناسل سے اخراج ہو رہا ہے
+SUFFERED_RAPE	I have been raped	میرے ساتھ جنسی زیادتی کی گئی یے / میری عصمت دری کی گئی ہے
+SUFFER_ICD10_R20.1	My ... feels numb	میرے۔۔۔۔۔میں جان نہیں 
+SUFFER_ICD10_R20.2	My .. is tingling	
+WEAK_X	My .. is weak	میری ۔۔۔کمزور ہے
+PARALYSED_X	My .. is paralysed	میری / میرا... مفلوج ہے
+INABILITY_TO_SPEAK	I cannot speak	میں بول نہیں سکتا
+SUFFER_ICD10_H54	I cannot see	میں دیکھ نہیں سکتا / 
+SUFFER_ICD10_R51	I have a headache	میرے سر میں درد یے 
+SUFFER_ICD10_M54.2	I cannot flex my neck	میں گردؓن نہیں ہلا سکتا
+SUFFER_FEAR	I feel frightened	مجھے ڈر لگتا یے 
+SUFFER_DEPRESSION	I feel depressed	میں ذہنی دباو کا شکار ہوں
+SUFFER_SADNESS	I feel sad	میں افسرد۰ ہوں 
+SUFFER_ICD10_R45.8	I think about suicide	میں خودکشی کے بارے میں سوچتاہوں 
+SUFFER_ICD10_R44.0	I hear voices when i am alone	مجھے اکیلے میں ؓآوازیں سنائی دیتی ہیں
+FEEL_OBSERVED	I feel like I'm being watched	مجھے لگتا یے کہ کوئی میری نگرانی کر رہا ہے 
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

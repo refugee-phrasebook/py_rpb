@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Am Nevoie de un medic
+NEED_HOSPITAL	I need to go to the hospital	Trebuie sa merg la spital
+NEED_AMBULANCE	I need an ambulance	Am nevoie de o ambulanta
+WHERE_GET_MEDICINE	Where can I fill this prescription?	De unde pot lua aceasta rețetă?
+WHEN_RETURN	When do I have to come back?	Cînd trebuie să mă întorc?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Trebuie să fiu internat în spital?
+SUFFER_ICD10_J45	I have asthma	Sufăr de astm.
+SUFFER_ICD10_J41	I have chronic bronchitis	Sufăr de bronșită cronică.
+SUFFER_ICD10_I50	I have heart failure	Sufăr de insuficiență cardiacă.
+SUFFER_ICD10_I21	I had a myocardial infarction	Am suferit un infarct.
+SUFFER_ICD10_G40	I have epilepsy	Sufăr de epilepsie.
+SUFFER_ICD10_C00	I have cancer	Sînt bolnav de cancer.
+SUFFER_ICD10_A16	I have tuberculosis	Sînt bolnav de tuberculoză.
+SUFFER_ICD10_E10	I have diabetes	Am diabet
+SUFFER_HIV	I have HIV	Am SIDA
+SUFFER_ICD10_C90	I have leukaemia	Am leucemie
+SUFFER_ICD10_D57	I have sickle cell disease	Sufar de siclemie (anemia cu celule in secera)
+SUFFER_ICD10_D56	I have thalassaemia	Sufar de talasemie
+SUFFER_ICD10_F32	I have chronic depression	Sufar de depresie cronica
+SUFFER_ICD10_F20	I have schizophrenia	Sufar de schizofrenie
+SUFFER_ICD10_F31	I have bipolar disorder	Sufar de tulburari bipolare (cu trasaturi psihotice)
+HERE_MY_MEDICATION	This is my medication	Acesta este medicamentul meu
+DAILY_MEDICATION	I take this medication every day	Iau acest medicament zilnic
+PERMANENT_MEDICATION	I have been taking this medication for years	Iau acest medicament de X ani
+NEED_MORE_MEDICATION	I need more of this medication	Am nevoie de mai multe doze de acest medicament
+SUFFER_INJURY	I was injured	Sunt ranit
+SUFFER_BEATING	Somebody hit me	Am fost batut
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Am fost injunghiat
+SUFFER_CAR_ACCIDENT	I was hit by a car	Am fost calcat de o masina
+SUFFER_STING	I was stung by an insect	Am fost muscat de o insecta
+SUFFER_BITE	I was bitten	Am fost muscat de ..
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Am fost lovit
+SUFFER_FALL 	I fell down	Am cazut
+HERE_PAIN	It hurts here	Ma doare aici
+PAIN_MOVES_A_B	The pain started here and goes to here	Durerea porneste de aici pana aici.
+PERMANENT_PAIN	The pain is there all the time	Durerea este permanenta
+NON_PERMANENT_PAIN	The pain comes and goes	Durerea vine si trece/este intermitenta
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Ma doare la atingere
+PAIN_WHEN_STANDING	It gets worse when I stand up	Ma doare mai tare cand stau in picioare
+PAIN_WHEN_LYING	It gets worse when I lie down	Ma doare mai tare cand sunt culcat 
+SHARP_PAIN	It is a sharp pain	Este o durere acuta
+DULL_PAIN	It is a dull pain	Este o durere minora
+SUDDEN_PAIN	The pain started suddenly	Durerea a inceput dintr-odata
+GRADUAL_PAIN	The pain started gradually	Durerea s-a instalat progresiv
+KNOWN_PAIN	I have had this pain before	Am mai avut astfel de dureri
+UNKNOWN_PAIN	I have never had this pain before	Nu am mai avut niciodata o astfel de durere
+SUFFER_BLEEDING	I am bleeding	Sângerez
+SUFFER_ICD10_R31	There is blood in my urine	Urinez cu sânge
+SUFFER_ICD10_K92	There is blood in my faeces	Am sânge in scaun
+SUFFER_ICD10_K92	There is blood in my vomit	Vomit cu sânge
+SUFFER_ICD10_R04.2	I am coughing up blood	Tusesc cu sânge
+SUFFER_ICD10_K62	I am bleeding from my anus	Sângerez la fund
+SUFFER_ICD10_R04.0	I have a nosebleed	Sângerez pe nas
+SUFFER_ICD10_N93	I am bleeding between my periods	Sângerez intre menstruatii
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	Sângerez dupa ce am avut menopauza
+FMA_7154	head	Cap
+FMA_54448	eye	Ochi
+FMA_52780	ear	Ureche
+FMA_49184	mouth	Gura
+FMA_24728	face	Fata
+FMA_7155	neck	Gât
+FMA_25202	shoulder	Umâr
+FMA_24901	elbow	Cot
+FMA_24964	hip	Șold
+FMA_24974	knee	Genunchi
+FMA_9665	ankle	Costin
+FMA_9664	foot	Picior
+FMA_24890	arm	Braț
+FMA_24979	leg	Picior
+FMA_9712	hand	Mâna
+FMA_9666	finger	Deget de la mână
+FMA_25046	toe	Deget de la picior
+FMA_9576	chest	Piept/ san
+FMA_9577	belly	Burta
+FMA_7088	heart	Inima
+FMA_7195	lung	Pulmonar
+FMA_7148	stomach	Stomac
+FMA_7202	gallbladder	vezica urinară
+FMA_7203	kidney	Rinichi
+FMA_7199	bowel	Intestin
+FMA_15711	anus	Anus
+FMA_17558	uterus	Uter
+FMA_7209	ovary	Ovare
+FMA_19949	vagina	Vagina
+FMA_7210	testes	Testicul
+FMA_9707	penis	Penis
+SUFFER_SICKNESS	I feel ill	Mă simt bolnav
+SUFFER_ICD10_R50	I have a fever	Am febră
+FREEZING	I feel cold	Sunt constipat
+SUFFER_SHIVERING	I have been shaking	Am friguri
+SUFFER_COLD_SWEAT	I had a cold sweat	Am călduri reci
+SUFFERED_ICD10_R55	I fainted	Am lesinat
+SUFFER_ICD10_H81	I feel dizzy	Am amețeli
+SUFFER_ICD10_G40	I had a seizure	Am atac de epilepsie
+SUFFER_ICD10_R55	I was unconscious	Mi-am pierdut conștiința
+SUFFER_ICD10_R06	I have difficulty breathing	Nu pot sâ respir/ mi-e greu sâ respir
+SUFFER_ICD10_R06.2	I have wheezing	Mâ sufoc
+SUFFER_ICD10_R05	I have a cough	Tușesc
+SUFFER_ICD10_R09.3	I am coughing up sputum	Tușesc ud
+SUFFER_ICD10_I47	My heart beats fast	Am batai de inima/ Inima îmi bate tare
+SUFFER_ICD10_I49	My heart beats irregular	Inima îmi bate neregulat.
+SUFFER_CHEST_PAIN	I have chest pain	Mă doare in piept
+SUFFER_STOMACH_PAIN	I have stomach ache	Am dureri de stomac
+SUFFER_ICD10_R11	I feel sick	Mi-e rau
+SUFFERED_VOMITING	I have been sick	Am vomitat
+SUFFER_ICD10_A09	I have diarrhoea	Am diaree
+SUFFER_ICD10_K59	I have constipation	Sunt constipat
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	Nu pot să țin nimic in stomac/ vomit tot
+SUFFER_ICD10_N39.3	I urinate every hour	Am incontinența urinară
+SUFFER_ICD10_R30.9	I have pain when urinating	Ma doare când urinez
+SMELLY_URINE	My urine smells bad	Urina mea miroase urât
+SUFFER_ICD10_R30.0	I can´t urinate	Nu pot să urinez
+SUFFER_ICD10_R10	I have colic pain in my side	Am colici
+MAYBE_PREGNANT	I might be pregnant	S-ar putea sa fiu gravidă
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Sunt gravida și sângerez
+UTERINE_CONTRACTION	I am in labour	Sunt in durerile fâcerii
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	Acum doua zile a fost ultima data cand am făcut sex 
+LONG_TIME_NO_SEX	I have not had sex for a long time	Nu am făcut sex de foarte mult timp
+DISEASESDB_28137	I have a discharge from my vagina	Imi curge fluid din vagina
+SUFFER_ICD10_N34	I have a discharge from my urethra	Imi curge fluid din uretră
+SUFFERED_RAPE	I have been raped	Am fost violată
+SUFFER_ICD10_R20.1	My ... feels numb	Nu îmi simt ...
+SUFFER_ICD10_R20.2	My .. is tingling	
+WEAK_X	My .. is weak	...este slabit
+PARALYSED_X	My .. is paralysed	..este paralizat
+INABILITY_TO_SPEAK	I cannot speak	Nu pot vorbi
+SUFFER_ICD10_H54	I cannot see	Nu pot să văd
+SUFFER_ICD10_R51	I have a headache	Am dureri de cap
+SUFFER_ICD10_M54.2	I cannot flex my neck	Nu pot să-mi mișc capul
+SUFFER_FEAR	I feel frightened	Mi-e frică
+SUFFER_DEPRESSION	I feel depressed	Sunt deprimat/deprimată
+SUFFER_SADNESS	I feel sad	Sunt trist/tristâ (fem)
+SUFFER_ICD10_R45.8	I think about suicide	Am gânduri de sinucidere
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Aud voci când nu este nimeni in preajmă
+FEEL_OBSERVED	I feel like I'm being watched	Ma simt urmarit/urmarită
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

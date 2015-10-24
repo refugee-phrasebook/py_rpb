@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	باید یه دکتر ببینم
+NEED_HOSPITAL	I need to go to the hospital	باید برم بیمارستان
+NEED_AMBULANCE	I need an ambulance	آمبولانس میخوام
+WHERE_GET_MEDICINE	Where can I fill this prescription?	از کجا میتونم نسخه ام را بگیرم؟
+WHEN_RETURN	When do I have to come back?	کی باید دوباره بیام؟
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	 آیا باید برم بیمارستان؟
+SUFFER_ICD10_J45	I have asthma	من آسم دارم
+SUFFER_ICD10_J41	I have chronic bronchitis	برونشیت مزمن دارم
+SUFFER_ICD10_I50	I have heart failure	من نارسایی قلبی دارم
+SUFFER_ICD10_I21	I had a myocardial infarction	من سکته قلبی داشته ام
+SUFFER_ICD10_G40	I have epilepsy	من صرع دارم
+SUFFER_ICD10_C00	I have cancer	من سرطان دارم.
+SUFFER_ICD10_A16	I have tuberculosis	من سل دارم.
+SUFFER_ICD10_E10	I have diabetes	من دیابت دارم.
+SUFFER_HIV	I have HIV	من ایدز دارم.
+SUFFER_ICD10_C90	I have leukaemia	سرطان خون دارم
+SUFFER_ICD10_D57	I have sickle cell disease	من بیماری سلول داسی شکل دارم
+SUFFER_ICD10_D56	I have thalassaemia	من تالاسمی دارم.
+SUFFER_ICD10_F32	I have chronic depression	من افسردگی دارم.
+SUFFER_ICD10_F20	I have schizophrenia	من شیزوفرنی دارم.
+SUFFER_ICD10_F31	I have bipolar disorder	من (افسردگی) دوقطبی دارم.
+HERE_MY_MEDICATION	This is my medication	این داروهای من است.
+DAILY_MEDICATION	I take this medication every day	من این دارو را هر روز مصرف میکنم.
+PERMANENT_MEDICATION	I have been taking this medication for years	من سال هاست این دارو را مصرف میکنم.
+NEED_MORE_MEDICATION	I need more of this medication	من این دارو را بیشتر نیاز دارم.
+SUFFER_INJURY	I was injured	من صدمه دیده ام.
+SUFFER_BEATING	Somebody hit me	یک نفر من را زده است.
+SUFFER_KNIFING	I was stabbed/ cut with a knife	من با چاقو زخمی شده ام.
+SUFFER_CAR_ACCIDENT	I was hit by a car	ماشین به من زده است.
+SUFFER_STING	I was stung by an insect	حشره ای من را نیش زده
+SUFFER_BITE	I was bitten	چیزی من را گاز گرفته است.
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	از ارتفاع افتاده ام.
+SUFFER_FALL 	I fell down	من افتادم.
+HERE_PAIN	It hurts here	این جا درد میکنه
+PAIN_MOVES_A_B	The pain started here and goes to here	درد از اینجا شروع شد و به اینجا کشیده شد
+PERMANENT_PAIN	The pain is there all the time	تمام مدت درد میکند.
+NON_PERMANENT_PAIN	The pain comes and goes	درد میاد و میره.
+PAIN_WHEN_TOUCHED	It hurts when I touch it	وقتی بهش دست میزنم درد میگیره
+PAIN_WHEN_STANDING	It gets worse when I stand up	وقتی بلند میشم درد میگیره
+PAIN_WHEN_LYING	It gets worse when I lie down	وقتی دراز میکشم دردش بدتر میشه
+SHARP_PAIN	It is a sharp pain	درد شدید(تیز) دارد
+DULL_PAIN	It is a dull pain	دردش فشار گونه است
+SUDDEN_PAIN	The pain started suddenly	درد ناگهانی شروع شد
+GRADUAL_PAIN	The pain started gradually	درد کم کم شروع شد
+KNOWN_PAIN	I have had this pain before	این درد را قبلا هم داشته ام
+UNKNOWN_PAIN	I have never had this pain before	من هیچ وقت قبلا این درد را نداشته ام
+SUFFER_BLEEDING	I am bleeding	من خونریزی دارم
+SUFFER_ICD10_R31	There is blood in my urine	در ادرار من خون وجود دارد
+SUFFER_ICD10_K92	There is blood in my faeces	در مدفوع من خون وجود دارد
+SUFFER_ICD10_K92	There is blood in my vomit	در استفراغ من خون وجود داره
+SUFFER_ICD10_R04.2	I am coughing up blood	من خون سرفه میکنم
+SUFFER_ICD10_K62	I am bleeding from my anus	از مقعد خونریزی دارم
+SUFFER_ICD10_R04.0	I have a nosebleed	از بینی‌ خونریزی دارم
+SUFFER_ICD10_N93	I am bleeding between my periods	خونریزی‌های مکرر دارم
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	خونریزی بعد از یأسگی دارم
+FMA_7154	head	سر
+FMA_54448	eye	چشم
+FMA_52780	ear	گوش
+FMA_49184	mouth	دهان
+FMA_24728	face	صورت
+FMA_7155	neck	گردن
+FMA_25202	shoulder	كتف
+FMA_24901	elbow	آرنج
+FMA_24964	hip	کپل
+FMA_24974	knee	زانو
+FMA_9665	ankle	قوزک
+FMA_9664	foot	پا
+FMA_24890	arm	بازو
+FMA_24979	leg	ران
+FMA_9712	hand	دست
+FMA_9666	finger	انگشت دست
+FMA_25046	toe	انگشت پا
+FMA_9576	chest	سینه
+FMA_9577	belly	شکم
+FMA_7088	heart	قلب
+FMA_7195	lung	شش
+FMA_7148	stomach	معده
+FMA_7202	gallbladder	صفرا
+FMA_7203	kidney	کلیه
+FMA_7199	bowel	روده
+FMA_15711	anus	مخرج
+FMA_17558	uterus	رحم
+FMA_7209	ovary	تخمدان
+FMA_19949	vagina	واژن
+FMA_7210	testes	بیضه
+FMA_9707	penis	آلت
+SUFFER_SICKNESS	I feel ill	حالم خوش نیست
+SUFFER_ICD10_R50	I have a fever	تب‌ دارم
+FREEZING	I feel cold	لرز دارم
+SUFFER_SHIVERING	I have been shaking	رعشه دارم
+SUFFER_COLD_SWEAT	I had a cold sweat	عرق سرد می‌کنم
+SUFFERED_ICD10_R55	I fainted	بیهوش شدم
+SUFFER_ICD10_H81	I feel dizzy	سر گیجه دارم
+SUFFER_ICD10_G40	I had a seizure	گرفتگی شدید عضلات میشم
+SUFFER_ICD10_R55	I was unconscious	از حال رفتم
+SUFFER_ICD10_R06	I have difficulty breathing	من در تنفسم مشکل دارم
+SUFFER_ICD10_R06.2	I have wheezing	خس خس دارم
+SUFFER_ICD10_R05	I have a cough	سرفه میکنم
+SUFFER_ICD10_R09.3	I am coughing up sputum	سرفه ى خلط دار دارم
+SUFFER_ICD10_I47	My heart beats fast	قلبم تند میزنه
+SUFFER_ICD10_I49	My heart beats irregular	قلبم نامنظم میزنه
+SUFFER_CHEST_PAIN	I have chest pain	در قفسه سینه ام درد دارم
+SUFFER_STOMACH_PAIN	I have stomach ache	من دل درد دارم
+SUFFER_ICD10_R11	I feel sick	من احساس مریضی میکنم
+SUFFERED_VOMITING	I have been sick	من مریض بوده ام
+SUFFER_ICD10_A09	I have diarrhoea	اسهال دارم
+SUFFER_ICD10_K59	I have constipation	یبوست دارم
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	من همه غذا و نوشیدنی ها رو بالا اوردم
+SUFFER_ICD10_N39.3	I urinate every hour	هر ساعت ادرار میکنم
+SUFFER_ICD10_R30.9	I have pain when urinating	موقع ادرار کردن درد دارم
+SMELLY_URINE	My urine smells bad	ادرارم بوی بد میدهد
+SUFFER_ICD10_R30.0	I can´t urinate	نمیتوانم ادرار کنم
+SUFFER_ICD10_R10	I have colic pain in my side	درد متناوب دارم
+MAYBE_PREGNANT	I might be pregnant	امکان حاملگی وجود دارد
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	من حامله هستم و خون ریزی دارم
+UTERINE_CONTRACTION	I am in labour	درد زايمان دارم
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	آخرین نزدیکی من ۲ روز پیش بوده
+LONG_TIME_NO_SEX	I have not had sex for a long time	مدت زیادی است که نزدیکی نداشته ام
+DISEASESDB_28137	I have a discharge from my vagina	از واژنم ترشح دارم
+SUFFER_ICD10_N34	I have a discharge from my urethra	از پيشابم ترشح دارم
+SUFFERED_RAPE	I have been raped	به من تجاوز شده
+SUFFER_ICD10_R20.1	My ... feels numb	... بی حس هست
+SUFFER_ICD10_R20.2	My .. is tingling	... میلرزد
+WEAK_X	My .. is weak	... ضعف دارد
+PARALYSED_X	My .. is paralysed	....م فلج شده
+INABILITY_TO_SPEAK	I cannot speak	من نمیتوانم صحبت کنم
+SUFFER_ICD10_H54	I cannot see	نمیتوانم ببینم
+SUFFER_ICD10_R51	I have a headache	سردرد دارم
+SUFFER_ICD10_M54.2	I cannot flex my neck	نمیتوانم گردنم را خم کنم
+SUFFER_FEAR	I feel frightened	احساس ترس میکنم
+SUFFER_DEPRESSION	I feel depressed	احساس افسردگی میکنم
+SUFFER_SADNESS	I feel sad	غمگینم
+SUFFER_ICD10_R45.8	I think about suicide	به خودکشی فکر میکنم
+SUFFER_ICD10_R44.0	I hear voices when i am alone	وقتی تنهایم صداهایی میشنوم
+FEEL_OBSERVED	I feel like I'm being watched	فکر میکنم من را زیر نظر دارند
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

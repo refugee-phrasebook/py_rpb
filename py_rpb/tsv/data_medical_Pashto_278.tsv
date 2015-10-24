@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	 زه په ډاکټر ځان  معاېٔنه کوم\ زه ډاکټر تة ځان ښاېٔمه
+NEED_HOSPITAL	I need to go to the hospital	ماله هسپتال ته تګ پکار دے  \ماله هسپتال ته تله پکار دې
+NEED_AMBULANCE	I need an ambulance	\ ماله اېمبولینس راولٔے ماته اېمبولینس  پکار دے
+WHERE_GET_MEDICINE	Where can I fill this prescription?	دا نسخہ دارو چرتا ملاویگی
+WHEN_RETURN	When do I have to come back?	 دوبارہ بہ کلا رازم
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	ھسپتال کی داخلہ پکار دہ
+SUFFER_ICD10_J45	I have asthma	ماتہ دہ دمہ بیماری دہ
+SUFFER_ICD10_J41	I have chronic bronchitis	
+SUFFER_ICD10_I50	I have heart failure	دہ زڑہ ناروغی دہ راتہ
+SUFFER_ICD10_I21	I had a myocardial infarction	
+SUFFER_ICD10_G40	I have epilepsy	ماتہ میرگی دہ
+SUFFER_ICD10_C00	I have cancer	 ماتہ سرطان ناروغۍ دہ
+SUFFER_ICD10_A16	I have tuberculosis	ما لہ ٹیبی دہ
+SUFFER_ICD10_E10	I have diabetes	ما لہ زیہبیتس دے
+SUFFER_HIV	I have HIV	ما لہ ایچ آی وی دے
+SUFFER_ICD10_C90	I have leukaemia	 ماتہ دہ وینے  سرطان ناروغۍ دہ
+SUFFER_ICD10_D57	I have sickle cell disease	
+SUFFER_ICD10_D56	I have thalassaemia	
+SUFFER_ICD10_F32	I have chronic depression	
+SUFFER_ICD10_F20	I have schizophrenia	
+SUFFER_ICD10_F31	I have bipolar disorder	
+HERE_MY_MEDICATION	This is my medication	دا زما دوای دہ
+DAILY_MEDICATION	I take this medication every day	زہ دا دوای روزانہ خرم
+PERMANENT_MEDICATION	I have been taking this medication for years	زہ دا دوای ذیرو کال نا خرم
+NEED_MORE_MEDICATION	I need more of this medication	ماتہ دا دوای نورا پکارا دہ
+SUFFER_INJURY	I was injured	زہ زخمی وم
+SUFFER_BEATING	Somebody hit me	چا کس زہ وھلے وم
+SUFFER_KNIFING	I was stabbed/ cut with a knife	دا زخم دہ چاقو دے
+SUFFER_CAR_ACCIDENT	I was hit by a car	زہ موٹر وھلے یم
+SUFFER_STING	I was stung by an insect	
+SUFFER_BITE	I was bitten	
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	
+SUFFER_FALL 	I fell down	za ooghar ze dalam
+HERE_PAIN	It hurts here	
+PAIN_MOVES_A_B	The pain started here and goes to here	
+PERMANENT_PAIN	The pain is there all the time	
+NON_PERMANENT_PAIN	The pain comes and goes	
+PAIN_WHEN_TOUCHED	It hurts when I touch it	
+PAIN_WHEN_STANDING	It gets worse when I stand up	
+PAIN_WHEN_LYING	It gets worse when I lie down	
+SHARP_PAIN	It is a sharp pain	
+DULL_PAIN	It is a dull pain	
+SUDDEN_PAIN	The pain started suddenly	
+GRADUAL_PAIN	The pain started gradually	
+KNOWN_PAIN	I have had this pain before	
+UNKNOWN_PAIN	I have never had this pain before	
+SUFFER_BLEEDING	I am bleeding	
+SUFFER_ICD10_R31	There is blood in my urine	
+SUFFER_ICD10_K92	There is blood in my faeces	
+SUFFER_ICD10_K92	There is blood in my vomit	
+SUFFER_ICD10_R04.2	I am coughing up blood	
+SUFFER_ICD10_K62	I am bleeding from my anus	
+SUFFER_ICD10_R04.0	I have a nosebleed	
+SUFFER_ICD10_N93	I am bleeding between my periods	
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	
+FMA_7154	head	
+FMA_54448	eye	
+FMA_52780	ear	
+FMA_49184	mouth	
+FMA_24728	face	
+FMA_7155	neck	
+FMA_25202	shoulder	
+FMA_24901	elbow	
+FMA_24964	hip	
+FMA_24974	knee	
+FMA_9665	ankle	
+FMA_9664	foot	
+FMA_24890	arm	
+FMA_24979	leg	
+FMA_9712	hand	
+FMA_9666	finger	
+FMA_25046	toe	
+FMA_9576	chest	
+FMA_9577	belly	
+FMA_7088	heart	
+FMA_7195	lung	
+FMA_7148	stomach	
+FMA_7202	gallbladder	
+FMA_7203	kidney	
+FMA_7199	bowel	
+FMA_15711	anus	
+FMA_17558	uterus	
+FMA_7209	ovary	
+FMA_19949	vagina	
+FMA_7210	testes	
+FMA_9707	penis	
+SUFFER_SICKNESS	I feel ill	
+SUFFER_ICD10_R50	I have a fever	
+FREEZING	I feel cold	
+SUFFER_SHIVERING	I have been shaking	
+SUFFER_COLD_SWEAT	I had a cold sweat	
+SUFFERED_ICD10_R55	I fainted	
+SUFFER_ICD10_H81	I feel dizzy	
+SUFFER_ICD10_G40	I had a seizure	
+SUFFER_ICD10_R55	I was unconscious	
+SUFFER_ICD10_R06	I have difficulty breathing	
+SUFFER_ICD10_R06.2	I have wheezing	
+SUFFER_ICD10_R05	I have a cough	
+SUFFER_ICD10_R09.3	I am coughing up sputum	
+SUFFER_ICD10_I47	My heart beats fast	
+SUFFER_ICD10_I49	My heart beats irregular	
+SUFFER_CHEST_PAIN	I have chest pain	
+SUFFER_STOMACH_PAIN	I have stomach ache	
+SUFFER_ICD10_R11	I feel sick	
+SUFFERED_VOMITING	I have been sick	
+SUFFER_ICD10_A09	I have diarrhoea	
+SUFFER_ICD10_K59	I have constipation	
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	
+SUFFER_ICD10_N39.3	I urinate every hour	
+SUFFER_ICD10_R30.9	I have pain when urinating	
+SMELLY_URINE	My urine smells bad	
+SUFFER_ICD10_R30.0	I can´t urinate	
+SUFFER_ICD10_R10	I have colic pain in my side	
+MAYBE_PREGNANT	I might be pregnant	
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	
+UTERINE_CONTRACTION	I am in labour	
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	
+LONG_TIME_NO_SEX	I have not had sex for a long time	
+DISEASESDB_28137	I have a discharge from my vagina	
+SUFFER_ICD10_N34	I have a discharge from my urethra	
+SUFFERED_RAPE	I have been raped	
+SUFFER_ICD10_R20.1	My ... feels numb	
+SUFFER_ICD10_R20.2	My .. is tingling	
+WEAK_X	My .. is weak	
+PARALYSED_X	My .. is paralysed	
+INABILITY_TO_SPEAK	I cannot speak	
+SUFFER_ICD10_H54	I cannot see	
+SUFFER_ICD10_R51	I have a headache	
+SUFFER_ICD10_M54.2	I cannot flex my neck	
+SUFFER_FEAR	I feel frightened	
+SUFFER_DEPRESSION	I feel depressed	
+SUFFER_SADNESS	I feel sad	
+SUFFER_ICD10_R45.8	I think about suicide	
+SUFFER_ICD10_R44.0	I hear voices when i am alone	
+FEEL_OBSERVED	I feel like I'm being watched	
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Tôi phai di bac si.
+NEED_HOSPITAL	I need to go to the hospital	Tôi phai di benh vien. 
+NEED_AMBULANCE	I need an ambulance	Tôi can cap cuu. 
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Toi mua thouc nay o dau duoc?
+WHEN_RETURN	When do I have to come back?	Bao gio toi phai quay lai?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Toi co can phai di benh vien khong?
+SUFFER_ICD10_J45	I have asthma	Toi bi benh hen. 
+SUFFER_ICD10_J41	I have chronic bronchitis	Toi bi Viêm phế quản
+SUFFER_ICD10_I50	I have heart failure	Toi bi Sung huyết suy tim
+SUFFER_ICD10_I21	I had a myocardial infarction	Toi bi Cơn đau tim
+SUFFER_ICD10_G40	I have epilepsy	Toi bi Bệnh động kinh
+SUFFER_ICD10_C00	I have cancer	Toi bi ung thu.
+SUFFER_ICD10_A16	I have tuberculosis	Toi bi Bệnh lao
+SUFFER_ICD10_E10	I have diabetes	Toi bi Bệnh tiểu đường
+SUFFER_HIV	I have HIV	Toi co benh SIDA.
+SUFFER_ICD10_C90	I have leukaemia	Toi bi ung thu mau.
+SUFFER_ICD10_D57	I have sickle cell disease	
+SUFFER_ICD10_D56	I have thalassaemia	
+SUFFER_ICD10_F32	I have chronic depression	Toi bi Trầm cảm
+SUFFER_ICD10_F20	I have schizophrenia	Toi bi Tâm thần phân liệt
+SUFFER_ICD10_F31	I have bipolar disorder	
+HERE_MY_MEDICATION	This is my medication	Day la thuoc cua toi. 
+DAILY_MEDICATION	I take this medication every day	Toi can phai uong thuoc nay hang ngay.
+PERMANENT_MEDICATION	I have been taking this medication for years	Toi da uong thuoc  nay tu ma nam roi. 
+NEED_MORE_MEDICATION	I need more of this medication	Toi can thuoc nay.
+SUFFER_INJURY	I was injured	Toi bi thuong.
+SUFFER_BEATING	Somebody hit me	Toi bi danh.
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Toi bi thuong bang dao.
+SUFFER_CAR_ACCIDENT	I was hit by a car	Toi bi tai nan xe oto.
+SUFFER_STING	I was stung by an insect	
+SUFFER_BITE	I was bitten	Toi bi can.
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	 / 
+SUFFER_FALL 	I fell down	Toi bi nga.
+HERE_PAIN	It hurts here	Toi bi dau o day.
+PAIN_MOVES_A_B	The pain started here and goes to here	Toi bi dau tu day den day.
+PERMANENT_PAIN	The pain is there all the time	Dau suot. 
+NON_PERMANENT_PAIN	The pain comes and goes	Co luc dau, co luc khong.
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Cham vao thi dau.
+PAIN_WHEN_STANDING	It gets worse when I stand up	Toi dung thi dau hon.
+PAIN_WHEN_LYING	It gets worse when I lie down	Toi nam thi dau hon.
+SHARP_PAIN	It is a sharp pain	
+DULL_PAIN	It is a dull pain	
+SUDDEN_PAIN	The pain started suddenly	Tu dung dau.
+GRADUAL_PAIN	The pain started gradually	Dan dan cang bi dau hon.
+KNOWN_PAIN	I have had this pain before	Toi bi dau nhu the nay mot lan roi. 
+UNKNOWN_PAIN	I have never had this pain before	Toi chua bao gio dau kieu nay.
+SUFFER_BLEEDING	I am bleeding	Toi bi chay mau.
+SUFFER_ICD10_R31	There is blood in my urine	Toi di dai co mau.
+SUFFER_ICD10_K92	There is blood in my faeces	Toi di ia co mau.
+SUFFER_ICD10_K92	There is blood in my vomit	Toi bi non mau.
+SUFFER_ICD10_R04.2	I am coughing up blood	Toi bi ho mau.
+SUFFER_ICD10_K62	I am bleeding from my anus	Toi bi chay mau o mong. 
+SUFFER_ICD10_R04.0	I have a nosebleed	Toi bi mau cam.
+SUFFER_ICD10_N93	I am bleeding between my periods	
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	
+FMA_7154	head	Dau
+FMA_54448	eye	Mat
+FMA_52780	ear	Tai
+FMA_49184	mouth	Mom
+FMA_24728	face	Mat
+FMA_7155	neck	Co
+FMA_25202	shoulder	Vai
+FMA_24901	elbow	Khuỷu tay
+FMA_24964	hip	Hông
+FMA_24974	knee	Dau goi
+FMA_9665	ankle	Mắt cá chân
+FMA_9664	foot	Chan
+FMA_24890	arm	Tay
+FMA_24979	leg	Chan 
+FMA_9712	hand	Tay
+FMA_9666	finger	Ngon Tay
+FMA_25046	toe	Ngon Chan
+FMA_9576	chest	Nguc
+FMA_9577	belly	Bung
+FMA_7088	heart	Tim
+FMA_7195	lung	Phoi
+FMA_7148	stomach	Dạ dày
+FMA_7202	gallbladder	Túi
+FMA_7203	kidney	Gan
+FMA_7199	bowel	Ruot
+FMA_15711	anus	
+FMA_17558	uterus	Tử cung
+FMA_7209	ovary	Buồng trứng
+FMA_19949	vagina	Buom
+FMA_7210	testes	Tinh hoàn
+FMA_9707	penis	Chim
+SUFFER_SICKNESS	I feel ill	Toi cam thay om.
+SUFFER_ICD10_R50	I have a fever	Toi bi sot
+FREEZING	I feel cold	Toi bi ret.
+SUFFER_SHIVERING	I have been shaking	Toi bi Ớn lạnh
+SUFFER_COLD_SWEAT	I had a cold sweat	Toi bi Hàn lạnh
+SUFFERED_ICD10_R55	I fainted	Toi bi vượt ra khỏi
+SUFFER_ICD10_H81	I feel dizzy	Toi bi chong mat.
+SUFFER_ICD10_G40	I had a seizure	Добив
+SUFFER_ICD10_R55	I was unconscious	Toi bi vô thức
+SUFFER_ICD10_R06	I have difficulty breathing	Toi bi Khó thở
+SUFFER_ICD10_R06.2	I have wheezing	
+SUFFER_ICD10_R05	I have a cough	Tôi ho
+SUFFER_ICD10_R09.3	I am coughing up sputum	
+SUFFER_ICD10_I47	My heart beats fast	Toi bi Tim đập nhanh
+SUFFER_ICD10_I49	My heart beats irregular	
+SUFFER_CHEST_PAIN	I have chest pain	Toi bi Đau ngực
+SUFFER_STOMACH_PAIN	I have stomach ache	Toi bi Đau dạ dày
+SUFFER_ICD10_R11	I feel sick	Toi bi Buồn nôn
+SUFFERED_VOMITING	I have been sick	Toi nôn
+SUFFER_ICD10_A09	I have diarrhoea	Toi bi Tiêu chảy
+SUFFER_ICD10_K59	I have constipation	
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	
+SUFFER_ICD10_N39.3	I urinate every hour	Toi bi Đi tiểu
+SUFFER_ICD10_R30.9	I have pain when urinating	Toi bi dau Đi tiểu
+SMELLY_URINE	My urine smells bad	Mùi Nước tiểu co toi tồi
+SUFFER_ICD10_R30.0	I can´t urinate	
+SUFFER_ICD10_R10	I have colic pain in my side	
+MAYBE_PREGNANT	I might be pregnant	Tôi có thể bi mang thai
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Toi bi mang thai
+UTERINE_CONTRACTION	I am in labour	
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	2 ngày trước, Tôi đã có quan hệ tình dục
+LONG_TIME_NO_SEX	I have not had sex for a long time	Tôi lâu không có quan hệ tình dục
+DISEASESDB_28137	I have a discharge from my vagina	
+SUFFER_ICD10_N34	I have a discharge from my urethra	
+SUFFERED_RAPE	I have been raped	Toi bi Hiếp dâm
+SUFFER_ICD10_R20.1	My ... feels numb	
+SUFFER_ICD10_R20.2	My .. is tingling	Tôi có cảm giác ngứa ran trong/ o ...
+WEAK_X	My .. is weak	... của tôi yếu
+PARALYSED_X	My .. is paralysed	... của tôi tê liệt
+INABILITY_TO_SPEAK	I cannot speak	Tôi không thể nói được
+SUFFER_ICD10_H54	I cannot see	Tôi không nhìn được
+SUFFER_ICD10_R51	I have a headache	Toi bi Đau đầu
+SUFFER_ICD10_M54.2	I cannot flex my neck	Tôi không có uốn đầu được
+SUFFER_FEAR	I feel frightened	Toi lo lắng
+SUFFER_DEPRESSION	I feel depressed	Tôi cảm thấy chán nản
+SUFFER_SADNESS	I feel sad	Tôi cảm thấy buồn
+SUFFER_ICD10_R45.8	I think about suicide	Tôi đang nghĩ đến việc tự sát
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Tôi nghe thấy tiếng nói khi không có ai
+FEEL_OBSERVED	I feel like I'm being watched	Tôi cảm thấy quan sát
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

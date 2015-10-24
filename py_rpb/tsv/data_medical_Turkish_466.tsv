@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Doktora görünmem gerekiyor.
+NEED_HOSPITAL	I need to go to the hospital	Hastaneye gitmem gerekiyor.
+NEED_AMBULANCE	I need an ambulance	Ambulans çağırır mısınız?
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Bu reçeteyi nerede doldurabilirim?
+WHEN_RETURN	When do I have to come back?	Sizi tekrar görmek için ne zaman gelmem gerekiyor?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Hastaneye yatmam gerekiyor mu?
+SUFFER_ICD10_J45	I have asthma	Astımım var.
+SUFFER_ICD10_J41	I have chronic bronchitis	Kronik bronşitim var.
+SUFFER_ICD10_I50	I have heart failure	Kalp yetmezliğim var.
+SUFFER_ICD10_I21	I had a myocardial infarction	Kalp krizi gecirdim.
+SUFFER_ICD10_G40	I have epilepsy	Epilepsi/Sara hastasıyım.
+SUFFER_ICD10_C00	I have cancer	Kanserim.
+SUFFER_ICD10_A16	I have tuberculosis	Tüberküloz/Verem hastasıyım.
+SUFFER_ICD10_E10	I have diabetes	Diyabet/Şeker hastasıyım.
+SUFFER_HIV	I have HIV	HIV hastasıyım.
+SUFFER_ICD10_C90	I have leukaemia	Lösemi hastasıyım.
+SUFFER_ICD10_D57	I have sickle cell disease	Orak hücreli anemi hastaligim var.
+SUFFER_ICD10_D56	I have thalassaemia	Talasemi hastasıyım.
+SUFFER_ICD10_F32	I have chronic depression	Kronik depresyon hastasıyım.
+SUFFER_ICD10_F20	I have schizophrenia	Şizofrenim.
+SUFFER_ICD10_F31	I have bipolar disorder	Bipolar bozukluğum var.
+HERE_MY_MEDICATION	This is my medication	Bu(nlar) benim ilaç(lar)ım.
+DAILY_MEDICATION	I take this medication every day	Bu ilaç(ları) her gün alıyorum.
+PERMANENT_MEDICATION	I have been taking this medication for years	Bu ilaç(ları) yıllardır kullanıyorum.
+NEED_MORE_MEDICATION	I need more of this medication	Bu ilaç(lar)a ihtiyacım var.
+SUFFER_INJURY	I was injured	Yaralandım.
+SUFFER_BEATING	Somebody hit me	Biri bana vurdu.
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Bıçakla yaralandım.
+SUFFER_CAR_ACCIDENT	I was hit by a car	Bana araba çarptı.
+SUFFER_STING	I was stung by an insect	Beni böcek soktu.
+SUFFER_BITE	I was bitten	Beni (bir şey) ısırdı. 
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Yüksekten düştüm
+SUFFER_FALL 	I fell down	Düştüm. 
+HERE_PAIN	It hurts here	Burası acıyor. 
+PAIN_MOVES_A_B	The pain started here and goes to here	Acı/ağrı şuradan başlıyor ve şuraya gidiyor.
+PERMANENT_PAIN	The pain is there all the time	Ağrı/acı hep var.
+NON_PERMANENT_PAIN	The pain comes and goes	Ağrı/acı gelip gidiyor.
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Dokunduğum zaman acıyor. 
+PAIN_WHEN_STANDING	It gets worse when I stand up	Ayağa kalktığım zaman daha da kötüleşiyor.
+PAIN_WHEN_LYING	It gets worse when I lie down	Yattığım zaman daha kötüleşiyor.
+SHARP_PAIN	It is a sharp pain	Keskin bir ağrı.
+DULL_PAIN	It is a dull pain	İnce bir sızı.
+SUDDEN_PAIN	The pain started suddenly	Ağrı/acı aniden başladı.
+GRADUAL_PAIN	The pain started gradually	Ağrı/acı yavaş yavaş arttı.
+KNOWN_PAIN	I have had this pain before	Daha önce de böyle acımıştı/ağrımıştı.
+UNKNOWN_PAIN	I have never had this pain before	Daha önce hiç böyle ağrım/acım olmamıştı.
+SUFFER_BLEEDING	I am bleeding	Kanamam var
+SUFFER_ICD10_R31	There is blood in my urine	İdrarımda kan var.
+SUFFER_ICD10_K92	There is blood in my faeces	Diskimda kan var.
+SUFFER_ICD10_K92	There is blood in my vomit	Kustuğumda kan geliyor.
+SUFFER_ICD10_R04.2	I am coughing up blood	Öksürdüğümde kan geliyor.
+SUFFER_ICD10_K62	I am bleeding from my anus	Makatımdan kan geliyor.
+SUFFER_ICD10_R04.0	I have a nosebleed	Burnum kanıyor.
+SUFFER_ICD10_N93	I am bleeding between my periods	Regl dönemlerim arasında kanamam oluyor.
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	Regl dönemim bitti ama kanamam durmuyor.
+FMA_7154	head	Baş/kafa
+FMA_54448	eye	Göz
+FMA_52780	ear	Kulak
+FMA_49184	mouth	Ağız
+FMA_24728	face	Yüz
+FMA_7155	neck	Ense
+FMA_25202	shoulder	Omuz
+FMA_24901	elbow	Dirsek
+FMA_24964	hip	Kalça
+FMA_24974	knee	Diz
+FMA_9665	ankle	Ayak bileği
+FMA_9664	foot	Ayak
+FMA_24890	arm	Kol
+FMA_24979	leg	Bacak
+FMA_9712	hand	El
+FMA_9666	finger	El parmağı
+FMA_25046	toe	Ayak parmağı
+FMA_9576	chest	Göğüs
+FMA_9577	belly	Göbek
+FMA_7088	heart	Kalp
+FMA_7195	lung	Akciğer
+FMA_7148	stomach	Mide
+FMA_7202	gallbladder	Safra kesesi
+FMA_7203	kidney	Böbrek
+FMA_7199	bowel	Bagirsak
+FMA_15711	anus	Anüs
+FMA_17558	uterus	Rahim
+FMA_7209	ovary	Yumurtalık
+FMA_19949	vagina	Vajina
+FMA_7210	testes	Testis
+FMA_9707	penis	Penis
+SUFFER_SICKNESS	I feel ill	Hasta hissediyorum.
+SUFFER_ICD10_R50	I have a fever	Ateşim var.
+FREEZING	I feel cold	Üşüyorum.
+SUFFER_SHIVERING	I have been shaking	Titriyorum.
+SUFFER_COLD_SWEAT	I had a cold sweat	Soğuk terliyorum.
+SUFFERED_ICD10_R55	I fainted	Bayıldım/Kendimden geçtim.
+SUFFER_ICD10_H81	I feel dizzy	Başım dönüyor.
+SUFFER_ICD10_G40	I had a seizure	Nöbet gecirdim.
+SUFFER_ICD10_R55	I was unconscious	Bilincimi kaybettim.
+SUFFER_ICD10_R06	I have difficulty breathing	Nefes almakta zorlanıyorum.
+SUFFER_ICD10_R06.2	I have wheezing	Hırıltım var.
+SUFFER_ICD10_R05	I have a cough	Öksürüğüm var.
+SUFFER_ICD10_R09.3	I am coughing up sputum	Balgam cikariyorum.
+SUFFER_ICD10_I47	My heart beats fast	Taşikardim var/Çarpıntım var/Kalbim çok hızlı atıyor.
+SUFFER_ICD10_I49	My heart beats irregular	Kalbim düzensiz atıyor.
+SUFFER_CHEST_PAIN	I have chest pain	Göğsüm ağrıyor.
+SUFFER_STOMACH_PAIN	I have stomach ache	Midem ağrıyor.
+SUFFER_ICD10_R11	I feel sick	Hastayım.
+SUFFERED_VOMITING	I have been sick	Kustum
+SUFFER_ICD10_A09	I have diarrhoea	İshalim.
+SUFFER_ICD10_K59	I have constipation	Kabiz oldum.
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	Yediğim içtiğim her şeyi kusuyorum.
+SUFFER_ICD10_N39.3	I urinate every hour	Sürekli işemem lazim
+SUFFER_ICD10_R30.9	I have pain when urinating	İdrarımı yaparken ağrım oluyor.
+SMELLY_URINE	My urine smells bad	İdrarım kötü kokuyor.
+SUFFER_ICD10_R30.0	I can´t urinate	İdrarımı yapamıyorum.
+SUFFER_ICD10_R10	I have colic pain in my side	Belimde kolik agrim var.
+MAYBE_PREGNANT	I might be pregnant	Hamile olabilirim.
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Hamileyim ve kanamam oluyor.
+UTERINE_CONTRACTION	I am in labour	Doğuruyorum.
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	En son 2 gün önce cinsel ilişkiye girdim.
+LONG_TIME_NO_SEX	I have not had sex for a long time	Uzun zamandır cinsel ilişkiye girmedim.
+DISEASESDB_28137	I have a discharge from my vagina	Vajinal akintim var.
+SUFFER_ICD10_N34	I have a discharge from my urethra	Idrar yolundan akinti geliyor.
+SUFFERED_RAPE	I have been raped	Tecavüze uğradım.
+SUFFER_ICD10_R20.1	My ... feels numb	... (mı) hissetmiyorum.
+SUFFER_ICD10_R20.2	My .. is tingling	(um) karincalaniyor.
+WEAK_X	My .. is weak	... (m) zayıf.
+PARALYSED_X	My .. is paralysed	(um) uyustu.
+INABILITY_TO_SPEAK	I cannot speak	Konuşamıyorum.
+SUFFER_ICD10_H54	I cannot see	Göremiyorum.
+SUFFER_ICD10_R51	I have a headache	Başım ağrıyor.
+SUFFER_ICD10_M54.2	I cannot flex my neck	Basimi egemiyorum.
+SUFFER_FEAR	I feel frightened	Tedirginim.
+SUFFER_DEPRESSION	I feel depressed	Depresyondayım.
+SUFFER_SADNESS	I feel sad	Üzgün hissediyorum.
+SUFFER_ICD10_R45.8	I think about suicide	İntiharı düşünüyorum.
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Yalnızken sesler duyuyorum. 
+FEEL_OBSERVED	I feel like I'm being watched	Takip edildiğimi hissediyorum.
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

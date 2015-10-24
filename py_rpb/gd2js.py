@@ -43,15 +43,19 @@ def gettuples(records,languages):
   """
   return a tuple of the ID and all renderings in all selected languages
   """
-  languages = [1,7]+languages
+  languages = [0,3]+languages
   #print(languages)
   return [records[l] for l in languages]
   
 def s2tsv(s,languages,typ=''):  
+        firstlanguage = languages[0]
+        #print(firstlanguage)
+        #print(s.records[0])
+        #print(s.records[0][firstlanguage])
         name = s.records[0][languages[0]]
         normname = normalizename(name)    
-        print(languages)
-        print([s.records[0][i] for i in languages])
+        #print(languages)
+        #print([s.records[0][i] for i in languages])
         print(normname)
         #pairs = getpairs(s.records[1:], lg)
         records = s.records[1:]
@@ -90,8 +94,8 @@ if __name__ == '__main__':
 	sheets = {
 	  #'short':'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml#gid=418287843&single=true',
 	  #'long':'https://docs.google.com/spreadsheets/d/1IpkETNzRzletRpLEeLUKAldB2j_O8UJVn1zM_sYg56Y/pubhtml#gid=0',
-	  'longcopy': 'https://docs.google.com/spreadsheets/d/1bBesmfse2EcK0n_DpgEM5uGd4EwNkxZW8waRLPSPb4Y/pubhtml?gid=0&single=true'
-	  #'medical':'https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/pubhtml#gid=0',
+	  #'longcopy': 'https://docs.google.com/spreadsheets/d/1bBesmfse2EcK0n_DpgEM5uGd4EwNkxZW8waRLPSPb4Y/pubhtml?gid=0&single=true'
+	  'medical':'https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/pubhtml',
 	  #'legal':'https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/pubhtml#gid=0',
 	  }
 	for sh in sheets:

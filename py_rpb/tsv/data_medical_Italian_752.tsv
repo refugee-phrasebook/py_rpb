@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Ho bisogno di vedere un medico
+NEED_HOSPITAL	I need to go to the hospital	Ho bisogno di andare in ospedale
+NEED_AMBULANCE	I need an ambulance	Ho bisogno di un'ambulanza
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Dove posso trovare il farmaco/il trattamento che prescrive questa ricetta?
+WHEN_RETURN	When do I have to come back?	Quando devo tornare?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Devo essere ricoverato in ospedale?
+SUFFER_ICD10_J45	I have asthma	Soffro di asma
+SUFFER_ICD10_J41	I have chronic bronchitis	Soffro di bronchite cronica
+SUFFER_ICD10_I50	I have heart failure	Soffro di insufficienza cardiaca
+SUFFER_ICD10_I21	I had a myocardial infarction	Ho avuto un infarto
+SUFFER_ICD10_G40	I have epilepsy	Soffro di epilessia
+SUFFER_ICD10_C00	I have cancer	Sono malata/o di cancro
+SUFFER_ICD10_A16	I have tuberculosis	Ho la tubercolosi
+SUFFER_ICD10_E10	I have diabetes	Ho il diabete
+SUFFER_HIV	I have HIV	Sono malata/o di HIV
+SUFFER_ICD10_C90	I have leukaemia	Ho la leucemia
+SUFFER_ICD10_D57	I have sickle cell disease	Soffro di anemia drepanocitica
+SUFFER_ICD10_D56	I have thalassaemia	Ho la talassemia
+SUFFER_ICD10_F32	I have chronic depression	Soffro di depressione cronica
+SUFFER_ICD10_F20	I have schizophrenia	Soffro di schizofrenia
+SUFFER_ICD10_F31	I have bipolar disorder	Soffro di disturbi bipolari
+HERE_MY_MEDICATION	This is my medication	Questo è il farmaco che prendo abitualmente
+DAILY_MEDICATION	I take this medication every day	Assumo questo farmaco giornalmente
+PERMANENT_MEDICATION	I have been taking this medication for years	Prendo questo farmaco da anni
+NEED_MORE_MEDICATION	I need more of this medication	Ho bisogno di altre confezioni di questo farmaco
+SUFFER_INJURY	I was injured	Sono stato ferito / Ho subito un infortunio
+SUFFER_BEATING	Somebody hit me	Sono stata/o colpita/o
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Sono stata/o aggredita/o con un coltello
+SUFFER_CAR_ACCIDENT	I was hit by a car	Sono stata/o investita/o da una macchina
+SUFFER_STING	I was stung by an insect	Sono stata/o punta/o da un insetto
+SUFFER_BITE	I was bitten	Sono stata/o morsa/o
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Sono caduta/o da una certa altezza
+SUFFER_FALL 	I fell down	Sono caduta/o
+HERE_PAIN	It hurts here	Fa male qui 
+PAIN_MOVES_A_B	The pain started here and goes to here	Fa male da qui a qui
+PERMANENT_PAIN	The pain is there all the time	Il dolore è continuo
+NON_PERMANENT_PAIN	The pain comes and goes	Il dolore è intermittente
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Fa male quando lo tocco
+PAIN_WHEN_STANDING	It gets worse when I stand up	Peggiora quando sono in piedi 
+PAIN_WHEN_LYING	It gets worse when I lie down	Peggiora quando sono distesa/o
+SHARP_PAIN	It is a sharp pain	È un dolore acuto 
+DULL_PAIN	It is a dull pain	È un dolore sordo
+SUDDEN_PAIN	The pain started suddenly	Il dolore è iniziato all'improvviso
+GRADUAL_PAIN	The pain started gradually	Il dolore è iniziato gradualmente
+KNOWN_PAIN	I have had this pain before	Ho già avuto questo dolore in passato
+UNKNOWN_PAIN	I have never had this pain before	Non ho mai avuto prima questo dolore
+SUFFER_BLEEDING	I am bleeding	Sto sanguinando
+SUFFER_ICD10_R31	There is blood in my urine	Ho sangue nelle urine
+SUFFER_ICD10_K92	There is blood in my faeces	Ho sangue nelle feci
+SUFFER_ICD10_K92	There is blood in my vomit	Ho sangue nel vomito
+SUFFER_ICD10_R04.2	I am coughing up blood	Tossisco sangue
+SUFFER_ICD10_K62	I am bleeding from my anus	Sanguino dall'ano
+SUFFER_ICD10_R04.0	I have a nosebleed	Sanguino dal naso
+SUFFER_ICD10_N93	I am bleeding between my periods	Ho perdite intramestruali
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	Sono in menopausa ma ho di nuovo perdite di sangue 
+FMA_7154	head	Testa
+FMA_54448	eye	Occhi
+FMA_52780	ear	Orecchie
+FMA_49184	mouth	Bocca
+FMA_24728	face	Viso
+FMA_7155	neck	Collo
+FMA_25202	shoulder	Spalla 
+FMA_24901	elbow	Gomito
+FMA_24964	hip	Anca
+FMA_24974	knee	Ginocchio
+FMA_9665	ankle	Caviglia
+FMA_9664	foot	Piede
+FMA_24890	arm	Braccio
+FMA_24979	leg	Gamba
+FMA_9712	hand	Mano
+FMA_9666	finger	Dito
+FMA_25046	toe	Dito del piede
+FMA_9576	chest	Petto
+FMA_9577	belly	Pancia 
+FMA_7088	heart	Cuore 
+FMA_7195	lung	Polmoni
+FMA_7148	stomach	Stomaco
+FMA_7202	gallbladder	Vescica
+FMA_7203	kidney	Rene
+FMA_7199	bowel	Intestino
+FMA_15711	anus	Ano
+FMA_17558	uterus	Utero
+FMA_7209	ovary	Ovaia
+FMA_19949	vagina	Vagina
+FMA_7210	testes	Testicoli
+FMA_9707	penis	Pene
+SUFFER_SICKNESS	I feel ill	Sto male
+SUFFER_ICD10_R50	I have a fever	Ho la febbre
+FREEZING	I feel cold	Ho freddo
+SUFFER_SHIVERING	I have been shaking	Tremo
+SUFFER_COLD_SWEAT	I had a cold sweat	Sudo freddo
+SUFFERED_ICD10_R55	I fainted	Sono svenuta/o
+SUFFER_ICD10_H81	I feel dizzy	Mi gira la testa / Ho le vertigini
+SUFFER_ICD10_G40	I had a seizure	Ho avuto una crisi epilettica
+SUFFER_ICD10_R55	I was unconscious	Ho perso conoscenza
+SUFFER_ICD10_R06	I have difficulty breathing	Ho difficoltà a respirare
+SUFFER_ICD10_R06.2	I have wheezing	Ho l'affanno
+SUFFER_ICD10_R05	I have a cough	Ho la tosse
+SUFFER_ICD10_R09.3	I am coughing up sputum	Ho il catarro
+SUFFER_ICD10_I47	My heart beats fast	Ho la tachicardia
+SUFFER_ICD10_I49	My heart beats irregular	Ho il battito irregolare
+SUFFER_CHEST_PAIN	I have chest pain	Ho dolore al petto
+SUFFER_STOMACH_PAIN	I have stomach ache	Ho mal di stomaco
+SUFFER_ICD10_R11	I feel sick	Mi sento male
+SUFFERED_VOMITING	I have been sick	Sono stata/o male
+SUFFER_ICD10_A09	I have diarrhoea	Ho la dissenteria
+SUFFER_ICD10_K59	I have constipation	Sono costipata/o
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	Vomito solidi e liquidi
+SUFFER_ICD10_N39.3	I urinate every hour	Devo urinare costantemente
+SUFFER_ICD10_R30.9	I have pain when urinating	Ho bruciore quando urino
+SMELLY_URINE	My urine smells bad	Le mie urine hanno un cattivo odore
+SUFFER_ICD10_R30.0	I can´t urinate	Non riesco a urinare
+SUFFER_ICD10_R10	I have colic pain in my side	Ho crampi / coliche
+MAYBE_PREGNANT	I might be pregnant	Potrei essere incinta
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Sono incinta e ho perdite di sangue
+UTERINE_CONTRACTION	I am in labour	Ho le doglie
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	Ho avuto rapporti sessuali due giorni fa 
+LONG_TIME_NO_SEX	I have not had sex for a long time	Non ho rapporti sessuali da molto tempo
+DISEASESDB_28137	I have a discharge from my vagina	Ho perdite vaginali
+SUFFER_ICD10_N34	I have a discharge from my urethra	Ho perdite dall'uretra
+SUFFERED_RAPE	I have been raped	Ho subito violenza sessuale
+SUFFER_ICD10_R20.1	My ... feels numb	Ho il/la ... intorpidito
+SUFFER_ICD10_R20.2	My .. is tingling	Ho il formicolio al ...
+WEAK_X	My .. is weak	Il/la mio/a ... è debole
+PARALYSED_X	My .. is paralysed	Il/la mio/a ... è paralizzato/a
+INABILITY_TO_SPEAK	I cannot speak	Non riesco a parlare
+SUFFER_ICD10_H54	I cannot see	Non ci vedo
+SUFFER_ICD10_R51	I have a headache	Ho mal di testa
+SUFFER_ICD10_M54.2	I cannot flex my neck	Non posso piegare/girare il collo
+SUFFER_FEAR	I feel frightened	Ho paura
+SUFFER_DEPRESSION	I feel depressed	Sono depressa/o
+SUFFER_SADNESS	I feel sad	Sono triste
+SUFFER_ICD10_R45.8	I think about suicide	Penso al suicidio
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Sento delle voci quando sono sola
+FEEL_OBSERVED	I feel like I'm being watched	Ho la sensazione di essere sorvegliata/o
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		
