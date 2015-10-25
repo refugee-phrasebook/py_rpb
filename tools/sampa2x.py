@@ -1,294 +1,299 @@
 #from string import maketrans 
 import sys
+import re
+#import pyfribidi
 
 SAMPA =         "abcdefghijklmnopqrstuvwxyzA{6QE@3IO29&U}VYBCDGLJNRSTHZ"
 IPA =                                     "ɑæɐɒɛəɜɪɔøœɶʊʉʌʏβçðɣʎɲŋʁʃθɥʒʔ"
 BALKANCYRLLIC = "абhдeфгхијклмнопкrстуввxизаeааeeeиоeeeuuаибhдгљњnршсуж"
 RUSCYRLLIC = "erfd"
-ARABIC = "twe3"
+ARABIC =        "ﻌژﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌژ"
 PERSIAN = "afew"
+print(len(SAMPA))
+print(len(ARABIC))
   
 BALKANREMOVE = '?'
 
 arabd = {
-"ـﺌـ":
+"ﺌ":
 {
-        "isolated":"ـﺋ",
-        "initial":"ﺊـ",
-        "medial":"ـﺌـ",
+        "isolated":"ﺋ",
+        "initial":"ئ",
+        "medial":"ﺌ",
          "final":"ﺃ",
         "label":"Hamza"
 },
-"ـﺒـ":
+"ﺒ":
 {
-        "isolated":"ـﺑ",
+        "isolated":"ﺑ",
         "initial":"ﺑ",
-        "medial":"ـﺒـ",
+        "medial":"ﺒ",
         "final":"ﺏ",
         "label":"be"
 },
-"ـپـ":
+"پ":
 {
-        "isolated":"ـپ",
+        "isolated":"پ",
         "initial":"ﭘ",
-        "medial":"ـپـ",
+        "medial":"پ",
         "final":"پ",
         "label":"pe"
 },
-"ـﺘـ":
+"ﺘ":
 {
-        "isolated":"ـﺗ",
+        "isolated":"ﺗ",
         "initial":"ﺗ",
-        "medial":"ـﺘـ",
+        "medial":"ﺘ",
         "final":"ﺕ",
         "label":"te"
 },
-"ـﺜـ":
+"ﺜ":
 {
-        "isolated":"ـﺛ",
+        "isolated":"ﺛ",
         "initial":"ﺛ",
-        "medial":"ـﺜـ",
+        "medial":"ﺜ",
         "final":"ﺙ",
         "label":"s̱e"
 },
-"ـﺠـ":
+"ﺠ":
 {
         "isolated":"ﺞ",
         "initial":"ﺟ",
-        "medial":"ـﺠـ",
+        "medial":"ﺠ",
         "final":"ﺝ",
         "label":"jim"
 },
-"ـچـ":
+"چ":
 {
         "isolated":"ﭻ",
         "initial":"ﭼ",
-        "medial":"ـچـ",
+        "medial":"چ",
         "final":"ﭺ",
         "label":"che"
 },
-"ـﺤـ":
+"ﺤ":
 {
         "isolated":"ﺢ",
         "initial":"ﺣ",
-        "medial":"ـﺤـ",
+        "medial":"ﺤ",
         "final":"ﺡ",
         "label":"ḥe"
 },
-"ـﺨـ":
+"ﺨ":
 {
         "isolated":"ﺦ",
         "initial":"ﺧ",
-        "medial":"ـﺨـ",
+        "medial":"ﺨ",
         "final":"ﺥ",
         "label":"khe"
 },
-"ـﺴـ":
+"ﺴ":
 {
-        "isolated":"ـﺳ",
+        "isolated":"ﺳ",
         "initial":"ﺳ",
-        "medial":"ـﺴـ",
+        "medial":"ﺴ",
         "final":"ﺱ",
         "label":"sin"
 },
-"ـﺸـ":
+"ﺸ":
 {
-        "isolated":"ـﺷ",
+        "isolated":"ﺷ",
         "initial":"ﺷ",
-        "medial":"ـﺸـ",
+        "medial":"ﺸ",
         "final":"ﺵ",
         "label":"šin"
 },
-"ـﺼـ":
+"ﺼ":
 {
-        "isolated":"ـﺻ",
+        "isolated":"ﺻ",
         "initial":"ﺻ",
-        "medial":"ـﺼـ",
+        "medial":"ﺼ",
         "final":"ﺹ",
         "label":"ṣād"
 },
-"ـﻀـ":
+"ﻀ":
 {
-        "isolated":"ـﺿ",
+        "isolated":"ﺿ",
         "initial":"ﺿ",
-        "medial":"ـﻀـ",
+        "medial":"ﻀ",
         "final":"ﺽ",
         "label":"z̤ād"
 },
-"ـﻄـ":
+"ﻄ":
 {
-        "isolated":"ـﻃ",
+        "isolated":"ﻃ",
         "initial":"ﻃ",
-        "medial":"ـﻄـ",
+        "medial":"ﻄ",
         "final":"ﻁ",
         "label":"ṭā"
 },
-"ـﻈـ":
+"ﻈ":
 {
-        "isolated":"ـﻇ",
+        "isolated":"ﻇ",
         "initial":"ﻇ",
-        "medial":"ـﻈـ",
-        "final":"ﻅ",
+        "medial":"ﻈ",
+        "final":"ظ",
         "label":"ẓā"
 },
-"ـﻌـ":
+"ﻌ":
 {
-        "isolated":"ـﻋ",
+        "final":"ع",
         "initial":"ﻋ",
-        "medial":"ـﻌـ",
-        "final":"ﻉ",
+        "medial":"ﻌ",
+        "isolated":"ﻉ",
         "label":"ʿeyn"
 },
-"ـﻐـ":
+"ﻐ":
 {
-        "isolated":"ـﻏ",
+        "isolated":"ﻏ",
         "initial":"ﻏ",
-        "medial":"ـﻐـ",
+        "medial":"ﻐ",
         "final":"ﻍ",
         "label":"ġeyn"
 },
-"ـﻔـ":
+"ﻔ":
 {
-        "isolated":"ـﻓ",
+        "isolated":"ﻓ",
         "initial":"ﻓ",
-        "medial":"ـﻔـ",
+        "medial":"ﻔ",
         "final":"ﻑ",
         "label":"fe"
 },
-"ـﻗ":
+"ﻗ":
 {
-        "isolated":"ـﻗ",
+        "isolated":"ﻗ",
         "initial":"ﻕ",
-        "medial":"ـﻗ",
+        "medial":"ﻗ",
         "final":"ﻕ",
         "label":"qāf"
 },
-"ـﻜـ":
+"ﻜ":
 {
-        "isolated":"ـﻛ",
-        "initial":"ﻚـ",
-        "medial":"ـﻜـ",
+        "isolated":"ﻛ",
+        "initial":"ﻚ",
+        "medial":"ﻜ",
         "final":"ﻙ",
         "label":"kāf"
 },
-"ـگـ":
+"گ":
 {
-        "isolated":"ـگ",
+        "isolated":"گ",
         "initial":"ﮔ",
-        "medial":"ـگـ",
+        "medial":"گ",
         "final":"گ",
         "label":"gāf"
 },
-"ـﻠـ":
+"ﻠ":
 {
-        "isolated":"ـﻟ",
+        "isolated":"ﻟ",
         "initial":"ﻟ",
-        "medial":"ـﻠـ",
+        "medial":"ﻠ",
         "final":"ﻝ",
         "label":"lām"
 },
-"ـﻤـ":
+"ﻤ":
 {
-        "isolated":"ـﻣ",
+        "isolated":"ﻣ",
         "initial":"ﻣ",
-        "medial":"ـﻤـ",
+        "medial":"ﻤ",
         "final":"ﻡ",
         "label":"mim"
 },
-"ـﻨـ":
+"ﻨ":
 {
-        "isolated":"ـﻧ",
+        "isolated":"ﻧ",
         "initial":"ﻧ",
-        "medial":"ـﻨـ",
+        "medial":"ﻨ",
         "final":"ﻥ",
         "label":"nun"
 },
-"ـﻬـ":
+"ﻬ":
 {
-        "isolated":"ـﻫ",
-        "initial":"ﻪـ",
-        "medial":"ـﻬـ",
+        "isolated":"ﻫ",
+        "initial":"ﻪ",
+        "medial":"ﻬ",
         "final":"ﻩ",
         "label":"he"
 },
-"ـﻴـ":
+"ﻴ":
 {
-        "isolated":"ـﻳ",
-        "initial":"ﻲـ",
-        "medial":"ـﻴـ",
+        "isolated":"ﻳ",
+        "initial":"ﻲ",
+        "medial":"ﻴ",
         "final":"ﻱ",
         "label":"ye"
 },
 "ﺍ":
 {
-        "isolated":"ـﺍ",
+        "isolated":"ﺍ",
         "initial":"ﺍ",
-        "medial":"ـﺍ",
+        "medial":"ﺍ",
         "final":"ﺍ",
         "label":"ʾalef"
 },
 "ﺩ":
 {
-        "isolated":"ـﺩ",
+        "isolated":"ﺩ",
         "initial":"ﺩ",
-        "medial":"ـﺩ",
+        "medial":"ﺩ",
         "final":"ﺩ",
         "label":"dāl"
 },
 "ﺫ":
 {
-        "isolated":"ـﺫ",
+        "isolated":"ﺫ",
         "initial":"ﺫ",
-        "medial":"ـﺫ",
+        "medial":"ﺫ",
         "final":"ﺫ",
         "label":"ẕāl"
 },
 "ﺭ":
 {
-        "isolated":"ـﺭ",
+        "isolated":"ﺭ",
         "initial":"ﺭ",
-        "medial":"ـﺭ",
+        "medial":"ﺭ",
         "final":"ﺭ",
         "label":"re"
 },
 "ﺯ":
 {
-        "isolated":"ـﺯ",
+        "isolated":"ﺯ",
         "initial":"ﺯ",
-        "medial":"ـﺯ",
+        "medial":"ﺯ",
         "final":"ﺯ",
         "label":"ze"
 },
 "ژ":
 {
-        "isolated":"ـژ",
+        "isolated":"ژ",
         "initial":"ژ",
-        "medial":"ـژ",
+        "medial":"ژ",
         "final":"ژ",
         "label":"že"
 },
 "ﻭ":
 {
-        "isolated":"ـﻭ",
+        "isolated":"ﻭ",
         "initial":"ﻭ",
-        "medial":"ـﻭ",
+        "medial":"ﻭ",
         "final":"ﻭ",
         "label":"vāv"
 },
 }
 balkantab = str.maketrans(SAMPA,BALKANCYRLLIC,BALKANREMOVE)
 #rustab = maketrans(SAMPA,RUSCYRLLIC)
-#aratab = maketrans(SAMPA,ARABIC)
+aratab = str.maketrans(SAMPA,ARABIC)
 #perstab = maketrans(SAMPA,PERSIAN)
 
 NONWORDS = r"""(^|$|['!"#$%&\'\(\)\*\+,-./:;<=>?@\[\\\]^_`{|}~ \t\n]+)"""
 
 def bidi(s):
-   return pyfribidi.log2vis(s)
+    #return pyfribidi.log2vis(s)
+    return s
  
 def lookupinitial(m):  
   s = m.groups(1)[0]
-  result = arabd[s][0]
+  result = arabd[s]['initial']
   #print(result)
   return result
 
@@ -297,7 +302,7 @@ def lookupfinal(m):
   s = m.groups(1)[0]
   #print(m.groups)
   try:
-    result = arabd[s][2]
+    result = arabd[s]['final']
   except KeyError:
     result = s
   #print(result)
@@ -314,10 +319,11 @@ def normalize(s):
   iso = fin 
   for pos,repl in isos:    
     iso = iso[:pos] + arabd[repl][3] + iso[pos + 1:]
-  print(s)
-  print(init)
-  print(fin)
-  print(iso)
+  return iso
+  #print(s)
+  #print(init)
+  #print(fin)
+  #print(iso)
   
 
 if __name__ == "__main__":
