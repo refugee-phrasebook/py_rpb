@@ -75,7 +75,7 @@ BALKANREMOVE = ''
 #print(ARABIC)
   
 arabd = {
-  "ﺌ":
+  "ا":
   {
           "isolated":"ﺋ",
           "initial":"ئ",
@@ -83,7 +83,15 @@ arabd = {
           "final":"ﺃ",
           "label":"Hamza"
   },
-  "ﺒ":
+  "ئ":
+  {
+          "isolated":"ﺋ",
+          "initial":"ئ",
+          "medial":"ﺌ",
+          "final":"ﺃ",
+          "label":"Hamza"
+  },
+  "ب":
   {
           "isolated":"ﺑ",
           "initial":"ﺑ",
@@ -99,7 +107,15 @@ arabd = {
           "final":"پ",
           "label":"pe"
   },
-  "ﺘ":
+  "ت":
+  {
+          "isolated":"ﺗ",
+          "initial":"ﺗ",
+          "medial":"ﺘ",
+          "final":"ﺕ",
+          "label":"te"
+  },
+  "ﺗ":
   {
           "isolated":"ﺗ",
           "initial":"ﺗ",
@@ -131,7 +147,7 @@ arabd = {
           "final":"ﭺ",
           "label":"che"
   },
-  "ﺤ":
+  "ح":
   {
           "isolated":"ﺢ",
           "initial":"ﺣ",
@@ -147,7 +163,23 @@ arabd = {
           "final":"ﺥ",
           "label":"khe"
   },
-  "ﺴ":
+  "خ":
+  {
+          "isolated":"ﺦ",
+          "initial":"ﺧ",
+          "medial":"ﺨ",
+          "final":"ﺥ",
+          "label":"khe"
+  },
+  "ﺳ":
+  {
+          "isolated":"ﺳ",
+          "initial":"ﺳ",
+          "medial":"ﺴ",
+          "final":"ﺱ",
+          "label":"sin"
+  },
+  "س":
   {
           "isolated":"ﺳ",
           "initial":"ﺳ",
@@ -187,7 +219,7 @@ arabd = {
           "final":"ﻁ",
           "label":"ṭā"
   },
-  "ﻈ":
+  "ظ":
   {
           "isolated":"ﻇ",
           "initial":"ﻇ",
@@ -211,7 +243,7 @@ arabd = {
           "final":"ﻍ",
           "label":"ġeyn"
   },
-  "ﻔ":
+  "ف":
   {
           "isolated":"ﻓ",
           "initial":"ﻓ",
@@ -227,7 +259,15 @@ arabd = {
           "final":"ﻕ",
           "label":"qāf"
   },
-  "ﻜ":
+  "ﻚ":
+  {
+          "isolated":"ﻛ",
+          "initial":"ﻚ",
+          "medial":"ﻜ",
+          "final":"ﻙ",
+          "label":"kāf"
+  },
+  "ك":
   {
           "isolated":"ﻛ",
           "initial":"ﻚ",
@@ -243,7 +283,7 @@ arabd = {
           "final":"گ",
           "label":"gāf"
   },
-  "ﻠ":
+  "ل":
   {
           "isolated":"ﻟ",
           "initial":"ﻟ",
@@ -251,7 +291,7 @@ arabd = {
           "final":"ﻝ",
           "label":"lām"
   },
-  "ﻤ":
+  "م":
   {
           "isolated":"ﻣ",
           "initial":"ﻣ",
@@ -259,7 +299,15 @@ arabd = {
           "final":"ﻡ",
           "label":"mim"
   },
-  "ﻨ":
+  "ﻧ":
+  {
+          "isolated":"ﻧ",
+          "initial":"ﻧ",
+          "medial":"ﻨ",
+          "final":"ﻥ",
+          "label":"nun"
+  },
+  "ن":
   {
           "isolated":"ﻧ",
           "initial":"ﻧ",
@@ -275,7 +323,15 @@ arabd = {
           "final":"ﻩ",
           "label":"he"
   },
-  "ﻴ":
+  "ﻲ":
+  {
+          "isolated":"ﻳ",
+          "initial":"ﻲ",
+          "medial":"ﻴ",
+          "final":"ﻱ",
+          "label":"ye"
+  },
+  "ي":
   {
           "isolated":"ﻳ",
           "initial":"ﻲ",
@@ -291,7 +347,7 @@ arabd = {
           "final":"ﺍ",
           "label":"ʾalef"
   },
-  "ﺩ":
+  "د":
   {
           "isolated":"ﺩ",
           "initial":"ﺩ",
@@ -307,7 +363,7 @@ arabd = {
           "final":"ﺫ",
           "label":"ẕāl"
   },
-  "ﺭ":
+  "ر":
   {
           "isolated":"ﺭ",
           "initial":"ﺭ",
@@ -331,13 +387,29 @@ arabd = {
           "final":"ژ",
           "label":"že"
   },
-  "ﻭ":
+  "و":
   {
           "isolated":"ﻭ",
           "initial":"ﻭ",
           "medial":"ﻭ",
           "final":"ﻭ",
           "label":"vāv"
+  },
+  ":": #length sign
+  {
+          "isolated":"ـ",
+          "initial":"ـ",
+          "medial":"ـ",
+          "final":"ـ",
+          "label":"phonetic length"
+  },
+  "ـ": #length sign
+  {
+          "isolated":"ـ",
+          "initial":"ـ",
+          "medial":"ـ",
+          "final":"ـ",
+          "label":"phonetic length"
   }
 }
 balkantab = str.maketrans(SAMPA,BALKANCYRLLIC,BALKANREMOVE)
@@ -354,7 +426,11 @@ def bidi(s):
  
 def lookupinitial(m):  
   s = m.groups(1)[0]
-  result = arabd[s]['initial']
+  try:
+    result = arabd[s]['initial']
+  except KeyError:
+    print("could not translate %s in %s" % (s,m))
+    result = s
   #print(result)
   return result
 
@@ -365,6 +441,7 @@ def lookupfinal(m):
   try:
     result = arabd[s]['final']
   except KeyError:
+    print("could not translate %s in %s" % (s,m))    
     result = s
   #print(result)
   return result
@@ -374,24 +451,30 @@ def normalize(s):
   #find isolated glyphs
   isos = []
   for m in re.finditer(r"(?<!\B)([^ ])(?!\B)", s):
-    isos.append((m.start(),m.group(0)))    
+    isos.append((m.start(),m.group(0)))   
   init = re.sub(r'(?<=\b)([^ ])',lookupinitial, tmp)
   fin = re.sub(r'([^ ])(?=\b)',lookupfinal, init)
   iso = fin 
   for pos,repl in isos:    
-    iso = iso[:pos] + arabd[repl][3] + iso[pos + 1:]
+    iso = iso[:pos] + arabd[repl]['isolated'] + iso[pos + 1:]    
   return iso
   #print(s)
   #print(init)
   #print(fin)
   #print(iso)
  
-def getPhoneticStrings(sampa):
+def getPhoneticStrings(sampa,ipa=False): 
   if sampa:
-    d ={'IPA':s.translate(ipatab),
+    d ={'IPA':sampa.translate(ipatab),
       'SAMPA':sampa,
-      'cyrtrans':s.translate(balkantab),
-      'arabtrans':bidi(normalize(s.translate(aratab)))
+      'cyrtrans':sampa.translate(balkantab),
+      'arabtrans':bidi(normalize(sampa.translate(aratab)))
+      }
+  elif ipa:
+    d ={'IPA':ipa,
+      'SAMPA':'',
+      'cyrtrans':'',
+      'arabtrans':''
       }
   else:
     d ={'IPA':'',
@@ -399,6 +482,7 @@ def getPhoneticStrings(sampa):
       'cyrtrans':'',
       'arabtrans':''
       }
+      
   return d
 
 if __name__ == "__main__":
