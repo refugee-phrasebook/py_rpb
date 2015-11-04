@@ -9,19 +9,20 @@ import json
 #tabulate from original class was not working at the time of writing
 
 class lexeme():
-  def __init__(ID,label,iso,sampa,latin):
+  def __init__(self,ID,label,orth,iso,sampa,latn,domain):
     self.ID = ID
     self.label = label
-    self.iso6393code = lg
+    self.iso6393code = iso
     self.orthographic = orth
-    self.transcriptions = sampa2x(sampa)
-    if latin:  
-      self.transcriptions['Latin'] = latin
+    self.transcriptions = sampa2x.getPhoneticStrings(sampa)
+    self.domain = domain
+    if latn:  
+      self.transcriptions['Latin'] = latn
 
   
 
 def normalizename(s):
-	h =  str(hash(s))[:3]ID
+	h =  str(hash(s))[:3]
 	n = ''.join([c for c in s if c in string.ascii_letters])[:10]
 	result =  "%s_%s"%(n,h) 
 	return result
@@ -106,6 +107,7 @@ def s2js(s,languages,typ=''):
 	
 def s2lxm(s):#only for new short-style sheets
   result = []
+  records = s.records
   iso6393code = records[0][2]
   #identify interesting colums
   sampacol = False
@@ -127,15 +129,18 @@ def s2lxm(s):#only for new short-style sheets
   for record in s.records[1:]:
     ID, label = record[:2]
     sampa = False
-    latin = False
+    latn = False
     if sampacol:
       sampa = record[sampacol]
-    if latincol:
-      latin = record[latincol]
-    ID, label = record[:2]
+    if latncol:
+      latn = record[latncol]
+    orth = record[2]
+    #print(sampa, latn, orth, ID, label,iso6393code)
     domain = None
-    lxm = self.lexeme(ID,label,iso6393code,sampa,latin,domain) # check for overwriting
-    result.append[lxm]
+    lxm = lexeme(ID,label,orth,iso6393code,sampa,latn,domain) # check for overwriting
+    result.append(lxm)
+  print(len(result))
+  return result
     
 def addtodico(d,lx):
   ID = lx.ID
@@ -145,23 +150,24 @@ def addtodico(d,lx):
               'domain':lx.domain,
               'lgs':{}
       }
+  #print(lx.label)
   #add new information
-  if d[ID]['lgs'][lx.iso6393code] != None:
-    raise ValueError
+  if d[ID]['lgs'].get(lx.iso6393code) != None:
+    print("%s already present in %s, skipping %s"%(ID,lx.iso6393code,lx.orthographic))
+    return d
   d[ID]['lgs'][lx.iso6393code] = {'orthographic':lx.orthographic,
             'transcriptions':lx.transcriptions,
             'label':iso6393dic[lx.iso6393code]['label']
     }
   return d
   
-
+iso6393dic ={'hbs':{'label':'Serbo-Croatian'}}
     
 if __name__ == '__main__': 
-	#usage : gd2js.py  1 3 8 12 14 17 19 22 24  
-	languages = [int(i) for i in sys.argv[1:]]
-	#print(languages)
-	sheets = [
-          ('Serbo-Croatian':'https://docs.google.com/spreadsheets/d/1wweXwpEpHWrFcM46YZ-SVi-gLfywrUyj1wjEf19DWQE/edit?usp=sharing'),
+    #usage : gd2js.py  1 3 8 12 14 17 19 22 24  
+    languages = [int(i) for i in sys.argv[1:]]
+    #print(languages)
+    sheets = [('Serbo-Croatian','https://docs.google.com/spreadsheets/d/1wweXwpEpHWrFcM46YZ-SVi-gLfywrUyj1wjEf19DWQE/pubhtml'),
                 ('Albanian       ','https://docs.google.com/spreadsheets/d/1B9OXDIV4nDUekqpwILbAK6eHIAIP5UePgpYbOWRsTvY/edit?usp=sharing'), 
                 ('Urdu   ','https://docs.google.com/spreadsheets/d/1oCRZRBOn6sl8ufJ12OF1gPR_OLj598H45OENqkFfF7U/edit?usp=sharing'), 
                 ('Amharic','https://docs.google.com/spreadsheets/d/1ni8FOoW4Nqa1drwVCEoKMh4NqAn5ySSezFL-Mvo0hiY/edit?usp=sharing'), 
@@ -193,22 +199,25 @@ if __name__ == '__main__':
                 ('Pashto ','https://docs.google.com/spreadsheets/d/1Wz4il9CygqlZW1m7l7DDfXQpqQ-Unk7zmavBO5r5kGI/edit?usp=sharing'), 
                 ('German ','https://docs.google.com/spreadsheets/d/1Hu1ikg7AM_OJzbWSwSIzljYTOor4fKLXiUBYSXPm1ks/edit?usp=sharing'), 
                 ('Macedonian     ','https://docs.google.com/spreadsheets/d/1kEcuVFHCkt5kUE2dV2jff4UZZBLIZ2mUMVlue4ICQtM/edit?usp=sharing'), 
-	  #'short':'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml#gid=418287843&single=true',
-	  #'long':'https://docs.google.com/spreadsheets/d/1IpkETNzRzletRpLEeLUKAldB2j_O8UJVn1zM_sYg56Y/pubhtml#gid=0',
-	  #'longcopy': 'https://docs.google.com/spreadsheets/d/1bBesmfse2EcK0n_DpgEM5uGd4EwNkxZW8waRLPSPb4Y/pubhtml?gid=0&single=true'
-	  ('medical','https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/pubhtml')
-	  #'legal':'https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/pubhtml#gid=0',
-	  ]
-        lexemes = []
-	for typ, sheet_uri in sheets:
-            print(typ)
-	    s = sc.SheetScraper(sheet_uri)
-	    s.fetch() 
-	    s.select_columns(languages)	
-	    #s2tsv(s,languages,typ=sh)
-	    #s2js(s,languages,typ=sh) 
-	    lexemes += s2lxm(s)
-        fulldico = {}
-        for lx in lexemes:
-          fulldico = addtodico(fulldico,lx)
-    
+        ]
+    lexemes = []
+    for typ, sheet_uri in sheets[:1]:
+        print(typ)
+        s = sc.SheetScraper(sheet_uri)
+        s.fetch() 
+        s.select_columns(languages)	
+        #s2tsv(s,languages,typ=sh)
+        #s2js(s,languages,typ=sh) 
+        lexemes += s2lxm(s)
+    fulldico = {}
+    for lx in lexemes:
+      fulldico = addtodico(fulldico,lx)
+        
+
+
+          #'short':'https://docs.google.com/spreadsheets/d/10Ch8eIACzROPYql5aztkG3_VvdCdkDInnVVK7QPK2E0/pubhtml#gid=418287843&single=true',
+          #'long':'https://docs.google.com/spreadsheets/d/1IpkETNzRzletRpLEeLUKAldB2j_O8UJVn1zM_sYg56Y/pubhtml#gid=0',
+          #'longcopy': 'https://docs.google.com/spreadsheets/d/1bBesmfse2EcK0n_DpgEM5uGd4EwNkxZW8waRLPSPb4Y/pubhtml?gid=0&single=true'
+          #('medical','https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/pubhtml')
+          #'legal':'https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/pubhtml#gid=0',
+         
