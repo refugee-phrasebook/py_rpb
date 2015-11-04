@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Me duhet nje mjek
+NEED_HOSPITAL	I need to go to the hospital	Duhet të shkoj ne spital
+NEED_AMBULANCE	I need an ambulance	Me nevojitet nje ambulace
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Ku mund ta mbush këtë recete?
+WHEN_RETURN	When do I have to come back?	Kur duhet të vi përsëri?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	A duhet të shkoj në spital?
+SUFFER_ICD10_J45	I have asthma	Unë kam azëm
+SUFFER_ICD10_J41	I have chronic bronchitis	Kam Bronhitis kronik
+SUFFER_ICD10_I50	I have heart failure	Kam lodhje zëmre
+SUFFER_ICD10_I21	I had a myocardial infarction	Kam pasur njëherë infarkt ne zemër
+SUFFER_ICD10_G40	I have epilepsy	Kam epilepsi
+SUFFER_ICD10_C00	I have cancer	Kam kancer
+SUFFER_ICD10_A16	I have tuberculosis	Kam tuberkuloz
+SUFFER_ICD10_E10	I have diabetes	Kam diabet
+SUFFER_HIV	I have HIV	Kam HIV
+SUFFER_ICD10_C90	I have leukaemia	Kam leukemi
+SUFFER_ICD10_D57	I have sickle cell disease	Unë kam anemi drepanocitozës
+SUFFER_ICD10_D56	I have thalassaemia	Unë kam talasemi
+SUFFER_ICD10_F32	I have chronic depression	Unë kam depresion kronik
+SUFFER_ICD10_F20	I have schizophrenia	Kam skizofreni
+SUFFER_ICD10_F31	I have bipolar disorder	Unë kam çrregullim bipolar
+HERE_MY_MEDICATION	This is my medication	Keto janë medikamentet e mia
+DAILY_MEDICATION	I take this medication every day	Unë marrë këto barrna ç'do ditë 
+PERMANENT_MEDICATION	I have been taking this medication for years	Unë i kam pirë këto barrna për një vit
+NEED_MORE_MEDICATION	I need more of this medication	Kam nevojë për më shumë nga këto barna
+SUFFER_INJURY	I was injured	Unë jam plagosur 
+SUFFER_BEATING	Somebody hit me	Më kanë rrahur 
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Jam i therrur / lënduar me thikë
+SUFFER_CAR_ACCIDENT	I was hit by a car	Me ka goditur Automjeti/ Vetura.
+SUFFER_STING	I was stung by an insect	Më ka pickuar një insekt
+SUFFER_BITE	I was bitten	Më kanë kafshuar 
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Jam rrezuar nga lartesia
+SUFFER_FALL 	I fell down	Jam rrezuar
+HERE_PAIN	It hurts here	Këtu kam dhimbje
+PAIN_MOVES_A_B	The pain started here and goes to here	Dhimbja më kalon nga këtu deri këtu
+PERMANENT_PAIN	The pain is there all the time	Kam dhimbje gjith kohën
+NON_PERMANENT_PAIN	The pain comes and goes	Dhimbja sa vjen e shkon
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Kjo më dhemb kur e prek
+PAIN_WHEN_STANDING	It gets worse when I stand up	Eshte me keq kur qëndroj ne këmbë
+PAIN_WHEN_LYING	It gets worse when I lie down	Është më keq kur unë shtrihem
+SHARP_PAIN	It is a sharp pain	Kjo është një dhimbje e mprehtë
+DULL_PAIN	It is a dull pain	Kjo është një dhimbje e rëndomtë 
+SUDDEN_PAIN	The pain started suddenly	Dhimbja filloi papritmas
+GRADUAL_PAIN	The pain started gradually	Dhimbja filloi gradualisht
+KNOWN_PAIN	I have had this pain before	Unë kam pasur këtë dhimbje njërehere
+UNKNOWN_PAIN	I have never had this pain before	Unë nuk e kam pasur kete dhimbje ndonjëhere
+SUFFER_BLEEDING	I am bleeding	Unë jam i gjakosur 
+SUFFER_ICD10_R31	There is blood in my urine	Unë kam gjak në urine
+SUFFER_ICD10_K92	There is blood in my faeces	Unë kam gjak në jashtëqitje
+SUFFER_ICD10_K92	There is blood in my vomit	Unë vjell gjak
+SUFFER_ICD10_R04.2	I am coughing up blood	Unë nxjerr gjak kur kollitem
+SUFFER_ICD10_K62	I am bleeding from my anus	Unë kam gjakderdhje nga anusi
+SUFFER_ICD10_R04.0	I have a nosebleed	Unë kam gjakderdhje nga hunda
+SUFFER_ICD10_N93	I am bleeding between my periods	Unë kam gjakderdhje midis periudhave mestruale
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	Unë kam gjakderdhje pas menopauzës
+FMA_7154	head	Koka
+FMA_54448	eye	Syri 
+FMA_52780	ear	Veshi
+FMA_49184	mouth	Goja
+FMA_24728	face	Fytyra 
+FMA_7155	neck	Gryka 
+FMA_25202	shoulder	Shpatulla
+FMA_24901	elbow	Brryli
+FMA_24964	hip	Ngofje
+FMA_24974	knee	Gjuri
+FMA_9665	ankle	Kyçi i këmbës
+FMA_9664	foot	Kofsha
+FMA_24890	arm	Krahu
+FMA_24979	leg	Këmba 
+FMA_9712	hand	Dora
+FMA_9666	finger	Gishte
+FMA_25046	toe	Gishti i këmbës 
+FMA_9576	chest	Gjoksi
+FMA_9577	belly	Barku
+FMA_7088	heart	Zemra
+FMA_7195	lung	Mushkëritë 
+FMA_7148	stomach	Stomaku
+FMA_7202	gallbladder	Temth
+FMA_7203	kidney	Veshkat
+FMA_7199	bowel	Zorrët
+FMA_15711	anus	Anusi 
+FMA_17558	uterus	Mitra 
+FMA_7209	ovary	Vezore
+FMA_19949	vagina	Vagina(organi seksual I femrës)
+FMA_7210	testes	testikujt
+FMA_9707	penis	Penisi(organi seksual i mashkullit)
+SUFFER_SICKNESS	I feel ill	Ndjehem i sëmurë
+SUFFER_ICD10_R50	I have a fever	Kam temperature
+FREEZING	I feel cold	Kam ftohtë 
+SUFFER_SHIVERING	I have been shaking	Kam dridhje, ethe
+SUFFER_COLD_SWEAT	I had a cold sweat	Kam djersë të ftohtë 
+SUFFERED_ICD10_R55	I fainted	Me ra te fikte
+SUFFER_ICD10_H81	I feel dizzy	Me merren mendte
+SUFFER_ICD10_G40	I had a seizure	Kisha një krizë epileptike
+SUFFER_ICD10_R55	I was unconscious	Isha pa ndjenja 
+SUFFER_ICD10_R06	I have difficulty breathing	Kam vështirësi të marrë frymë 
+SUFFER_ICD10_R06.2	I have wheezing	Dihas
+SUFFER_ICD10_R05	I have a cough	Kam kollitje 
+SUFFER_ICD10_R09.3	I am coughing up sputum	Kam kollitje me gëlbaze 
+SUFFER_ICD10_I47	My heart beats fast	Kam rrahje zëmre të shpejta 
+SUFFER_ICD10_I49	My heart beats irregular	Kam rrahje të zemrës të parregullta 
+SUFFER_CHEST_PAIN	I have chest pain	Kam dhimbje gjoksi
+SUFFER_STOMACH_PAIN	I have stomach ache	Kam dhimbje në stomak
+SUFFER_ICD10_R11	I feel sick	Ndjehem i sëmurë
+SUFFERED_VOMITING	I have been sick	Unë kam vjellë
+SUFFER_ICD10_A09	I have diarrhoea	Unë kam diarre
+SUFFER_ICD10_K59	I have constipation	Unë kam kapsllëk
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	Vjell cdo ushqim dhe lengje
+SUFFER_ICD10_N39.3	I urinate every hour	Urinoj cdo ore
+SUFFER_ICD10_R30.9	I have pain when urinating	Kam dhimbje ne urinim
+SMELLY_URINE	My urine smells bad	Urina ime vjen shumë erë
+SUFFER_ICD10_R30.0	I can´t urinate	Nuk urinoj dot
+SUFFER_ICD10_R10	I have colic pain in my side	Kam dhimbje kolike 
+MAYBE_PREGNANT	I might be pregnant	Ka mundësi te jem shtatëzënë
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Jam shtatëzënë dhe kam gjakderdhje
+UTERINE_CONTRACTION	I am in labour	Unë kam kontrakcione
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	Kam pasur dy ditë me parë maredhënje seksuale
+LONG_TIME_NO_SEX	I have not had sex for a long time	Nuk kam pasur per nje kohe të gjatë marëdhënje seksuale
+DISEASESDB_28137	I have a discharge from my vagina	Kam shkarkim nga vagina
+SUFFER_ICD10_N34	I have a discharge from my urethra	Kam shkarkimin nga uretra
+SUFFERED_RAPE	I have been raped	Me kane perdhunuar
+SUFFER_ICD10_R20.1	My ... feels numb	Unë kam mpirje në ..
+SUFFER_ICD10_R20.2	My .. is tingling	Më bën si miza...
+WEAK_X	My .. is weak	___ ime është e dobët 
+PARALYSED_X	My .. is paralysed	___ ime është e paralizuar
+INABILITY_TO_SPEAK	I cannot speak	Nuk mund te flas
+SUFFER_ICD10_H54	I cannot see	Nuk mund te shoh
+SUFFER_ICD10_R51	I have a headache	Kam dhimbje koke
+SUFFER_ICD10_M54.2	I cannot flex my neck	Nuk mund ta lëviz qafen
+SUFFER_FEAR	I feel frightened	Kam frike
+SUFFER_DEPRESSION	I feel depressed	Kam depresion
+SUFFER_SADNESS	I feel sad	Jam e/i trishtuar (e - fem; i- masc)
+SUFFER_ICD10_R45.8	I think about suicide	Po mendoj te vras veten (mendoj per vetevrasjen)
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Degjoj zera kur jam vetem
+FEEL_OBSERVED	I feel like I'm being watched	Po ndihem i vëzhguar
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

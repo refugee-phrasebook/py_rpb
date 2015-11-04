@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Treba mi ljekar/ liječnik/ doktor.
+NEED_HOSPITAL	I need to go to the hospital	Moram u bolnicu.
+NEED_AMBULANCE	I need an ambulance	 Potrebno mi je vozilo hitne pomoći (Trebam kola hitne pomoći).
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Gdje mogu podići lijek (lek) za ovaj recept?
+WHEN_RETURN	When do I have to come back?	Kada moram opet doći (kada moram opet da dođem)?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Moram li ići u bolnicu?
+SUFFER_ICD10_J45	I have asthma	Imam astmu.
+SUFFER_ICD10_J41	I have chronic bronchitis	Imam kronični (hronični) bronhitis.
+SUFFER_ICD10_I50	I have heart failure	Imam zatajenje srca. 
+SUFFER_ICD10_I21	I had a myocardial infarction	Imao (m) / imala (f) sam infarkt / srčani udar.
+SUFFER_ICD10_G40	I have epilepsy	Imam epilepsiju.  / 
+SUFFER_ICD10_C00	I have cancer	Imam rak.
+SUFFER_ICD10_A16	I have tuberculosis	Imam tuberkulozu (sušicu). /                                                                                                                                                                                                                                                        
+SUFFER_ICD10_E10	I have diabetes	Imam dijabetes.
+SUFFER_HIV	I have HIV	Imam HIV / SIDU / AIDS.
+SUFFER_ICD10_C90	I have leukaemia	Imam leukemiju.
+SUFFER_ICD10_D57	I have sickle cell disease	Imam bolest srpastih stanica (anemiju srpastih ćelija).
+SUFFER_ICD10_D56	I have thalassaemia	Bolujem od talasemije.
+SUFFER_ICD10_F32	I have chronic depression	Bolujem/patim od kronične depresije (hronične depresije).
+SUFFER_ICD10_F20	I have schizophrenia	Bolujem/patim od shizofrenije (šizofrenije).
+SUFFER_ICD10_F31	I have bipolar disorder	Bolujem/patim od bipolarnog poremećaja.
+HERE_MY_MEDICATION	This is my medication	Ovo su lijekovi (lekovi) koje uzimam.
+DAILY_MEDICATION	I take this medication every day	Ove lijekove (lekove) uzimam svaki dan.
+PERMANENT_MEDICATION	I have been taking this medication for years	Ove lijekove (lekove) uzimam već godinama.
+NEED_MORE_MEDICATION	I need more of this medication	Treba mi još ovog lijeka (leka).
+SUFFER_INJURY	I was injured	Ranjen sam. (m) / Ranjena sam (f).
+SUFFER_BEATING	Somebody hit me	Istukli/udarili su me.
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Ozlijeđen (povređen) sam od uboda nožem.
+SUFFER_CAR_ACCIDENT	I was hit by a car	Udario me (je) automobil.
+SUFFER_STING	I was stung by an insect	Ubo me kukac. (Pretrpeo (m) / pretrpela (f) sam ubod insekta.)
+SUFFER_BITE	I was bitten	Nešto me ugrizlo.
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Pao (m) / pala (f) sam s visine.
+SUFFER_FALL 	I fell down	Pao (m) / pala (f) sam.
+HERE_PAIN	It hurts here	Osjećam bol na ovom dijelu tijela. (Na ovom me mestu boli.)
+PAIN_MOVES_A_B	The pain started here and goes to here	Bol migrira s ovog na onaj dio tijela. (Bol se pomera s ovog na onaj dio tela.)
+PERMANENT_PAIN	The pain is there all the time	Boli me cijelo vrijeme (sve vreme).
+NON_PERMANENT_PAIN	The pain comes and goes	Bol dođe i prođe.
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Boli me na dodir.
+PAIN_WHEN_STANDING	It gets worse when I stand up	Osjećam (osećam) se gore kada ustanem.
+PAIN_WHEN_LYING	It gets worse when I lie down	Osjećam (osećam) se gore kada legnem.
+SHARP_PAIN	It is a sharp pain	Bol je oštra.
+DULL_PAIN	It is a dull pain	Bol je tupa.
+SUDDEN_PAIN	The pain started suddenly	Bol je došla iznenada. (Iznenada me je zabolelo).
+GRADUAL_PAIN	The pain started gradually	Polako me počelo boljeti (Polako je počelo da me boli.)
+KNOWN_PAIN	I have had this pain before	Ovakvu sam bol osjećao (m) / osjećala (f) i ranije. (I pre me je ovde bolelo.)
+UNKNOWN_PAIN	I have never had this pain before	Ovakvu bol još nikada nisam osjetio (m) / osjetila (f). (Ovde/ovo me još nikada nije bolelo.)
+SUFFER_BLEEDING	I am bleeding	Krvarim.
+SUFFER_ICD10_R31	There is blood in my urine	Imam krvi u urinu.
+SUFFER_ICD10_K92	There is blood in my faeces	Imam krvi u stolici.
+SUFFER_ICD10_K92	There is blood in my vomit	Povratio sam krv.
+SUFFER_ICD10_R04.2	I am coughing up blood	Iskašljavam krv.
+SUFFER_ICD10_K62	I am bleeding from my anus	Krvarim iz rektuma (anusa).
+SUFFER_ICD10_R04.0	I have a nosebleed	Curi mi krv iz nosa.
+SUFFER_ICD10_N93	I am bleeding between my periods	Krvarim između menstruacija.
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	Menopauza mi je završila, ali krvarim i dalje.
+FMA_7154	head	glava
+FMA_54448	eye	oko
+FMA_52780	ear	uho (uvo)
+FMA_49184	mouth	usta
+FMA_24728	face	lice
+FMA_7155	neck	grlo
+FMA_25202	shoulder	rame                                                                      
+FMA_24901	elbow	lakat
+FMA_24964	hip	kuk
+FMA_24974	knee	koljeno (koleno)
+FMA_9665	ankle	zglob
+FMA_9664	foot	stopalo
+FMA_24890	arm	ruka 
+FMA_24979	leg	noga
+FMA_9712	hand	šaka
+FMA_9666	finger	prst (na ruci)
+FMA_25046	toe	nožni prst
+FMA_9576	chest	Prsni koš (grudi)
+FMA_9577	belly	trbuh (stomak)
+FMA_7088	heart	srce
+FMA_7195	lung	pluća (plućno krilo)
+FMA_7148	stomach	želudac
+FMA_7202	gallbladder	žučni mjehur (žučna kesa)
+FMA_7203	kidney	bubreg
+FMA_7199	bowel	crijeva (creva)
+FMA_15711	anus	anus (rektum)
+FMA_17558	uterus	maternica (materica)
+FMA_7209	ovary	jajnik
+FMA_19949	vagina	vagina
+FMA_7210	testes	testisi
+FMA_9707	penis	penis
+SUFFER_SICKNESS	I feel ill	Osjećam (osećam) se bolesno.
+SUFFER_ICD10_R50	I have a fever	Imam (povišenu) teperaturu.
+FREEZING	I feel cold	Hladno mi je.
+SUFFER_SHIVERING	I have been shaking	Imam groznicu.
+SUFFER_COLD_SWEAT	I had a cold sweat	Oblijeva (obliva) me hladan znoj.
+SUFFERED_ICD10_R55	I fainted	Onesvijestio sam se (m) / Onesvijestila sam se (f). (Pao (m) /pala (f) sam u nesvest.)
+SUFFER_ICD10_H81	I feel dizzy	Vrti mi se.
+SUFFER_ICD10_G40	I had a seizure	Imao sam napadaj (npr. epilepsije).
+SUFFER_ICD10_R55	I was unconscious	Bio sam bez svijesti (svesti).
+SUFFER_ICD10_R06	I have difficulty breathing	Otežano (teško) dišem.
+SUFFER_ICD10_R06.2	I have wheezing	Zvižde (pište) mi pluća dok dišem
+SUFFER_ICD10_R05	I have a cough	Kašljem.
+SUFFER_ICD10_R09.3	I am coughing up sputum	Iskašljavam ispljuvak (šlajm).
+SUFFER_ICD10_I47	My heart beats fast	Srce mi ubrzano lupa.
+SUFFER_ICD10_I49	My heart beats irregular	Imam poremećaj srčanog ritma (aritmiju).
+SUFFER_CHEST_PAIN	I have chest pain	Osjećam bol u prsima (Osećam bol u grudima).
+SUFFER_STOMACH_PAIN	I have stomach ache	Boli me želudac (stomak).
+SUFFER_ICD10_R11	I feel sick	Zlo mi je (muka mi je).
+SUFFERED_VOMITING	I have been sick	Povraćao sam (m) / povraćala sam (f).
+SUFFER_ICD10_A09	I have diarrhoea	Imam proljev (proliv).
+SUFFER_ICD10_K59	I have constipation	Imam zatvor.
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	Povratim sve što popijem i pojedem.
+SUFFER_ICD10_N39.3	I urinate every hour	.
+SUFFER_ICD10_R30.9	I have pain when urinating	Osjećam (osećam) bol pri uriniranju.
+SMELLY_URINE	My urine smells bad	Urin mi smrdi.
+SUFFER_ICD10_R30.0	I can´t urinate	Ne mogu urinirati.
+SUFFER_ICD10_R10	I have colic pain in my side	Imam kolike (grčeve) u bokovima.
+MAYBE_PREGNANT	I might be pregnant	Moguće je da sam trudna.
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Trudna sam i krvarim.
+UTERINE_CONTRACTION	I am in labour	Imam trudove. (Porađam se.)
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	Zadnji spolni odnos imao (m) /imala (f) sam prije (pre) 2 dana.
+LONG_TIME_NO_SEX	I have not had sex for a long time	Već duže vrijeme (vreme) nisam imao (m) / imala (f) spolni odnos.
+DISEASESDB_28137	I have a discharge from my vagina	Imam iscjedak (sekret) iz vaginalnog otvora.
+SUFFER_ICD10_N34	I have a discharge from my urethra	Imam iscjedak iz mokraćne cijevi (sekret iz mokraćnog otvora).
+SUFFERED_RAPE	I have been raped	Silovan sam (m) / silovana sam (f).
+SUFFER_ICD10_R20.1	My ... feels numb	Ne osjećam (osećam)... (Obamro mi je taj dio tela.)
+SUFFER_ICD10_R20.2	My .. is tingling	Trne mi... (Osećam žmarce u...) 
+WEAK_X	My .. is weak	Osjećam (osećam) slabost u...
+PARALYSED_X	My .. is paralysed	Moj (moja, moje) je paraliziran (paralizirana, paralizirano).
+INABILITY_TO_SPEAK	I cannot speak	Ne mogu govoriti.
+SUFFER_ICD10_H54	I cannot see	Ne vidim.
+SUFFER_ICD10_R51	I have a headache	Imam glavobolju.
+SUFFER_ICD10_M54.2	I cannot flex my neck	Ne mogu sagnuti glavu.
+SUFFER_FEAR	I feel frightened	Strah me. / Bojim se. / Plašim se.
+SUFFER_DEPRESSION	I feel depressed	Depresivan sam (m) / depresivna sam (f).
+SUFFER_SADNESS	I feel sad	Tužan sam (m) / tužna sam (f).
+SUFFER_ICD10_R45.8	I think about suicide	Razmišljam o samoubojstvu (samoubistvu).
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Čujem glasove kada sam sam (m) / sama (f.).
+FEEL_OBSERVED	I feel like I'm being watched	Imam osjećaj  da me nadziru (Imam osećaj da me neko posmatra).
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

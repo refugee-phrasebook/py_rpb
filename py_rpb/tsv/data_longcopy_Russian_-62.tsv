@@ -1,0 +1,212 @@
+	Basic Conversation	Повседневная речь
+GREETING_INFORMAL	Hello	Привет / здравствуйте prʲɪvʲˈet / zdrˈastvʊjtʲɪ
+GREETING_MORNING	good morning	Добрый день             dˈobrᵻj dʲˈenʲ
+GREETING_EVENING	good evening	Добрый вечер           dˈobrᵻj vʲˈet͡ɕɪr
+GREETING_DEPARTURE	goodbye	До свидания              də svʲɪdˈanʲɪjə
+SORRY	sorry / excuse me 	Извините / Извини / Простите / Прости    ɪzvʲɪnʲˈitʲɪ / ɪzvʲɪnʲˈi / prɐstʲˈitʲɪ / prɐstʲˈi
+PLEASE	please	Пожалуйста      pɐʐˈaləstə
+THANKS	thank you / thanks	Спасибо          spɐsʲˈibə
+REPLY_THANKS	you're welcome [response to thank you / thanks]	Пожалуйста
+GIVE_OWN_NAME	my name is...	Меня зовут...            mʲɪnʲˈæ zɐvˈut...
+ASK_OTHERS_NAME	What is your name?	Как Вас зовут?
+GIVE_OWN_PROVENANCE	I’m from...	Я из...                             jˈæ ˈis...
+FAMILY	family	семья
+PRESENT_HUSBAND	this is my husband	Это мой муж          ˈɛtə mˈoj mˈuʂ
+WIFE	my wife	...моя жена               mɐjˈæ ʐᵻnˈa
+CHILDREN	my children	...мои дети            mɐˈi dʲˈetʲɪ
+DAUGHTER	my daughter	...моя дочь / дочка   mɐjˈæ dˈot͡ɕ / dˈot͡ɕkə
+SON	my son	...мой сын                 mˈoj sˈɨn
+BABY	my baby	...мой ребенок        mˈoj rʲɪbʲˈɵnək
+BROTHER	this is my brother	Это мой брат
+SISTER	this is my sister	Это моя сестра
+FATHER	this is my father	Это мой отец / папа
+MOTHER	this is my mother 	Это моя мама
+SUFFER_HUNGER	I’m hungry.	Я голоден / голодна
+CHILD_HUNGRY	(My child) is hungry	Мой ребенок голоден
+SUFFER_THIRST	I’m thirsty	Я хочу пить
+WATER	water	вода
+AVAILABLE_Q	Do you have...	У вас есть…?
+LOCATION_Q	Where is..?	Где…?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Где туалет?
+NEED_SHOWER	I need to take a shower	Мне нужно принять душ
+SHOWER_LOCATION_Q	Where can I take a shower?	Где я могу принять душ?
+SANITARYPAD	sanitary pad / towel	(гигиениченые) прокладки
+DIAPER	diaper / nappy	Пеленка / Подгузник
+NEED_MAKE_PHONECALL	I need to make a phone call	Мне нужно позвонить
+PRAY_LOCATION_Q	Where can I pray?	Где я могу помолиться?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Где мне можно купить_______?
+LOCATION_X_Q	Where can I find____?	Где я могу найдти____?
+TIME_CLOCK_Q	What time is it?	Cколько времени?/Который час?
+NEED_SLEEP	I (we) need to sleep	Мне / Нам нужно спать
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Где метро?
+NO_MONEY	I don’t have any money.	У меня нет денег
+SPEAK_X_Q	Do you speak...	Вы говорите…?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Я не (очень хорошо) говорю по немецки
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Не могли бы Вы это написать?
+NO_UNDERSTAND	I don’t understand	Я не понимаю
+HELP_REQUEST	Help! / Please help me!	Помогите!/ помогите мне, пожалуйста!
+IGNORANCE	I don’t know	Я не знаю
+EVENT_Q	What happened?	Что случилось?
+SUFFER_FREEZING	I am cold/ freezing	Мне холодно
+EXPERIENCE_HAPPINESS	I’m happy.	Я рад / рада
+SUFFER_FEAR	I’m scared.	Мне страшно
+SUFFER_SADNESS	I’m sad.	Мне грустно
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Ты мне нравишься
+DONT_WORRY	Don’t worry	Не волнуйтесь
+NEED_APPOINTMENT	I would like an appointment.	Я бы хотел(а) записаться на приём к врачу
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Где находится комната номер _____?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Где находится центр регистрации?
+MUST_WAIT	You have to wait	Вы должны / Ты должен /Ты должна подождать
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Как долго мы еще должны ждать?
+1_DAY	one day	Один день
+1_HOUR	one hour	Один час
+1_MONTH	one month	Один месяц
+VERYSOON	very soon	Очень скоро
+TOMORROW	tomorrow	Завтра
+DAY_AFTER_TOMORROW	the day after tomorrow	Послезавтра
+NEXT_WEEK	next week	На следующей неделе
+RETURN_SOON	I will be back soon	Я скоро вернусь
+ONE	one	Один
+TWO	two	два
+THREE	three	три
+FOUR	four	четыре
+FIVE	five	пять
+SIX	six	шесть
+SEVEN	seven	семь
+EIGHT	eight	восемь
+NINE	nine	девять
+TEN	ten	десять
+MONDAY	Monday	Понедельник
+TUESDAY	 Tuesday	 вторник
+WEDNESDAY	 Wednesday	 среда
+THURSDAY	 Thursday	 четверг
+FRIDAY	 Friday	 пятница
+SATURDAY	 Saturday	 суббота
+SUNDAY	 Sunday	 воскресение
+JANUARY	January	Январь
+FEBRUARY	 February	 февраль
+MARCH	 March	 март
+APRIL	 April	 апрель
+MAY	 May	 май
+JUNE	 June	 июнь
+JULY	 July	 июль
+AUGUST	 August	 август
+SEPTEMBER	 September	 сентябрь
+OCTOBER	 October	 октябрь
+NOVEMBER	 November	 ноябрь
+DECEMBER	 December	 декабрь
+	Medical Terms	Медицинские термины
+NEED_DOCTOR	I need a doctor	Мне нужен врач / доктор
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	у меня рвота
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Я болен / больна
+CHILD_ILL	(My child) is sick	Мой ребенок болен
+PREGNANT	I am pregnant	Я беременна
+SUFFER_ICD10_T78.4	I am having an allergic reaction	У меня аллергическая реакция
+SUFFER_ICD10_H81	I feel dizzy.	у меня кружится голова
+SUFFER_ICD10_E10	I am diabetic	У меня диабет
+NEED_INSULIN	I need insulin	Мне необходим инсулин
+SUFFERED_RAPE	I was raped.	меня изнасиловали
+SUFFER_ICD10_R10	I have a stomach ache.	У меня болит живот
+SUFFER_ICD10_R50	I have a fever / a temperature	у меня температура
+SUFFER_ICD10_R51	I have a headache	У меня болит голова
+SUFFER_ICD10_R05	I have a cough.	у меня кашель
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	у моего ребёнка кашель/болит горло
+FLU	cold	простуда
+DIARRHEA	diarrhea	понос
+ICD10_K59.0	constipation	запор
+ICD10_B73.3	vaginal yeast infection (thrush)	вагинальная инфекция
+ICD10_B53.3	athlete's foot	Дерматофития, трихофития
+ICD10_B85	head lice	вши на голове
+		
+	Food	Еда
+MEAL_NOON	Lunch	Обед
+MEAL_EVENING	Dinner	Ужин
+FOOD_HALAL_Q	Is this food Halal?	Эта еда Халяльная?
+ALLERGY_AGAINST_X	I am allergic to….	У меня аллергия на...
+PORK_MEAT	pork	свинина
+POULTRY_MEAT	poultry	птица
+NO_EAT_PORK	I do not eat pork	я не ем свинину
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Я вегетарианец / вегетарианка
+SELF_VEGAN	I am a vegan	Я веганец / веганка
+FISH	fish	рыба
+BREAD	bread	хлеб
+WATER	water	Вода
+LEMONADE	lemonade	лимонад
+MILK	milk	молоко
+COFFEE	coffee	кофе
+TEA	tea	чай
+BEER	beer	пиво
+FRUITS	fruit	овощи
+APPLE	apple	яблоко
+PEAR	pear	груша
+GRAPEFRUIT	grapefruit	грейпфрут
+APRICOT	apricot	абрикос
+POTATOE	potatoes [pl]	картофель
+BEAN	beans [pl]	фасоль зелёный
+PEA	peas [pl]	зелёный горошек
+CHICKPEA	chickpeas [pl]	турецкий горох
+AUBERGINE	eggplant (US) / aubergine (UK)	баклажан
+CARROT	carrots [pl]	морковь
+TOMATO	tomatoes [pl]	помидор
+TURNIP	turnip	Репа
+FLOUR	flour	мука
+HONEY	honey	мёд
+CHEESE	cheese	сыр
+QUARK	quark / cottage cheese 	творог
+PAPRIKA	paprika	перец овощь
+SAUCE	sauce	соус
+BUTTER	butter	масло сливочное
+OIL	oil	масло разливное
+CHEWING_GUM	chewing gum	жевачка/ жевательная резинка
+SPOON	spoon	ложка
+KNIFE	knife	нож
+PLATE	plate	тарелка
+GLASS	glass (to drink from)	стакан
+MUG	mug	кружка
+TEAPOT	teapot 	(заварной) чайник
+		
+	Clothing	Одежда
+SHIRT	shirt	Рубашка
+DRESS	Dress	Платье
+SKIRT	skirt	юбка
+TROUSERS	trousers (UK) / pants (US)	штаны/брюки
+PULLOVER	jumper (UK) / sweater / pullover	джемпер / свитер
+COAT	jacket / coat	куртка/ пальто
+HEADSCARF	veil / hijab / headscarf	вуаль
+SHOE	shoes [pl]	ботинки
+GLOVE	gloves [pl]	рукавицы/ перчатки
+SOCK	socks [pl]	носки
+UNDERWEAR	underwear	нижнее бельё
+		
+	Misc	Разное
+BED	bed	кровать
+BLANKET	blanket	одеяло/ покрывало
+LAMP	lamp	лампочка/лампа
+TELEPHONE	telephone	телефон
+CELLPHONE	mobile phone / cellphone	мобильник
+ELECTRICITY	electricity	электричество
+COMPUTER	computer	компьютер
+INTERNET_CONNECTION	internet connection	подключение к интернету 
+BATTERY	battery	батарейка
+ROOM	room	комната
+CHAIR	chair	стул
+TABLE	table	стол
+TOILET	toilet	туалет/сортир/WC
+TOILET_PAPER	toilet paper	туалетная бумага
+TOOTHBRUSH	toothbrush	зубная щётка
+TOOTHPASTE	toothpaste	зубная паста
+SHOWER	shower	душ
+BATHTUB	bathtub	Ванна
+SOAP	soap	мыло
+SHAMPOO	shampoo	Шампунь
+HANDKERCHIEF	tissue / handkerchief	салфетки
+CUPBOARD	cupboard	комод/шкаф
+DOOR	door	дверь
+WINDOW	window	окно
+WALL	wall	стена
+HOUSE	house	дом
+APARTMENT	apartment / flat	квартира
+BOOK	book	книга
+NEWSPAPER	newspaper	газета
+RADIO	radio	радио
+TELEVISION	television	телевизор

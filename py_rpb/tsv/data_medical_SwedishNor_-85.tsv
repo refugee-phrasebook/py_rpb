@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Jag behöver en läkare
+NEED_HOSPITAL	I need to go to the hospital	Jag måste till sjukhuset
+NEED_AMBULANCE	I need an ambulance	Jag behöver en ambulans
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Var kan jag hämta ut ett recept
+WHEN_RETURN	When do I have to come back?	När behöver jag komma tillbaka
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Måste jag till sjukhuset?
+SUFFER_ICD10_J45	I have asthma	Jag har astma
+SUFFER_ICD10_J41	I have chronic bronchitis	Jag har kronisk bronkit
+SUFFER_ICD10_I50	I have heart failure	Jag har hjärtproblem
+SUFFER_ICD10_I21	I had a myocardial infarction	Jag har haft hjärtinfarkt
+SUFFER_ICD10_G40	I have epilepsy	Jag har epilepsi
+SUFFER_ICD10_C00	I have cancer	Jag har cancer
+SUFFER_ICD10_A16	I have tuberculosis	Jag har tuberkulos
+SUFFER_ICD10_E10	I have diabetes	Jag har diabetes
+SUFFER_HIV	I have HIV	Jag har HIV
+SUFFER_ICD10_C90	I have leukaemia	Jag har leukemi
+SUFFER_ICD10_D57	I have sickle cell disease	Jag har sicklecellanemi
+SUFFER_ICD10_D56	I have thalassaemia	Jag har talassemi
+SUFFER_ICD10_F32	I have chronic depression	Jag har kronisk depression
+SUFFER_ICD10_F20	I have schizophrenia	Jag har schizofreni
+SUFFER_ICD10_F31	I have bipolar disorder	Jag har bipolär sjukdom
+HERE_MY_MEDICATION	This is my medication	Detta är mina mediciner
+DAILY_MEDICATION	I take this medication every day	Jag tar denna medicinen varje dag
+PERMANENT_MEDICATION	I have been taking this medication for years	Jeg har tagit den här medicinen i flera år.
+NEED_MORE_MEDICATION	I need more of this medication	Jag behöver mer av den här medicinen,
+SUFFER_INJURY	I was injured	Jag är skadad
+SUFFER_BEATING	Somebody hit me	Jag har blivit slagen
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Jag har blivit knivskuren
+SUFFER_CAR_ACCIDENT	I was hit by a car	Jag har blivit påkörd
+SUFFER_STING	I was stung by an insect	Jag har fått ett insektsbett
+SUFFER_BITE	I was bitten	Jag har blivit biten.
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Jag föll från en hög höjd.
+SUFFER_FALL 	I fell down	Jag föll.
+HERE_PAIN	It hurts here	Det gör ont här
+PAIN_MOVES_A_B	The pain started here and goes to here	Smärtan börjar här och slutar här.
+PERMANENT_PAIN	The pain is there all the time	Jag har ont hela tiden.
+NON_PERMANENT_PAIN	The pain comes and goes	Smärtan kommer och går.
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Det gör ont när jag tar på det.
+PAIN_WHEN_STANDING	It gets worse when I stand up	Det blir värre när jag reser mig upp.
+PAIN_WHEN_LYING	It gets worse when I lie down	Det blir värre när jag lägger mig ner.
+SHARP_PAIN	It is a sharp pain	Smärtan är skarp.
+DULL_PAIN	It is a dull pain	Smärtan är dov.
+SUDDEN_PAIN	The pain started suddenly	Smärtan uppstod plötsligt.
+GRADUAL_PAIN	The pain started gradually	Smärtan uppstod gradvis.
+KNOWN_PAIN	I have had this pain before	Jag har haft liknande smärta tidigare.
+UNKNOWN_PAIN	I have never had this pain before	Jag har aldrig haft någon liknande smärta.
+SUFFER_BLEEDING	I am bleeding	Jag blöder.
+SUFFER_ICD10_R31	There is blood in my urine	Jag har blod i urinen.
+SUFFER_ICD10_K92	There is blood in my faeces	Jag har blod i avföringen.
+SUFFER_ICD10_K92	There is blood in my vomit	Jag har blodiga kräkningar.
+SUFFER_ICD10_R04.2	I am coughing up blood	Jag hostar blod.
+SUFFER_ICD10_K62	I am bleeding from my anus	Jag blöder från analen.
+SUFFER_ICD10_R04.0	I have a nosebleed	Jag har näsblod.
+SUFFER_ICD10_N93	I am bleeding between my periods	Jag har mellanblödningar.
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	Jag blöder trots att jag är i övergångsåldern.
+FMA_7154	head	Huvud
+FMA_54448	eye	Öga
+FMA_52780	ear	Öra
+FMA_49184	mouth	Mun
+FMA_24728	face	Ansikte
+FMA_7155	neck	Hals
+FMA_25202	shoulder	Axel
+FMA_24901	elbow	Armbåge
+FMA_24964	hip	Höft
+FMA_24974	knee	Knä
+FMA_9665	ankle	Ankel
+FMA_9664	foot	Fot
+FMA_24890	arm	Arm
+FMA_24979	leg	Ben
+FMA_9712	hand	Hand
+FMA_9666	finger	Finger
+FMA_25046	toe	Tå
+FMA_9576	chest	Bröst
+FMA_9577	belly	Mage
+FMA_7088	heart	Hjärta
+FMA_7195	lung	Lunga
+FMA_7148	stomach	Magsäck
+FMA_7202	gallbladder	Gallblåsa
+FMA_7203	kidney	Njure
+FMA_7199	bowel	Tarm
+FMA_15711	anus	Anus
+FMA_17558	uterus	Livmoder
+FMA_7209	ovary	Äggstock
+FMA_19949	vagina	Vagina
+FMA_7210	testes	Testickel
+FMA_9707	penis	Penis
+SUFFER_SICKNESS	I feel ill	Jag mår illa
+SUFFER_ICD10_R50	I have a fever	Jag har feber
+FREEZING	I feel cold	Jag fryser
+SUFFER_SHIVERING	I have been shaking	Jag har frossa
+SUFFER_COLD_SWEAT	I had a cold sweat	Jag kallsvettas
+SUFFERED_ICD10_R55	I fainted	Jag svimmade
+SUFFER_ICD10_H81	I feel dizzy	Jag är yr
+SUFFER_ICD10_G40	I had a seizure	Jag hade ett anfall
+SUFFER_ICD10_R55	I was unconscious	Jag var medvetslös
+SUFFER_ICD10_R06	I have difficulty breathing	Jag har andnöd
+SUFFER_ICD10_R06.2	I have wheezing	Jag har en väsande andning
+SUFFER_ICD10_R05	I have a cough	Jag hostar
+SUFFER_ICD10_R09.3	I am coughing up sputum	Jag hostar slem
+SUFFER_ICD10_I47	My heart beats fast	Jag har hjärtklappning
+SUFFER_ICD10_I49	My heart beats irregular	Mitt hjärta slår oregelbundet
+SUFFER_CHEST_PAIN	I have chest pain	Jag har bröstsmärtor
+SUFFER_STOMACH_PAIN	I have stomach ache	Jag har magsmärtor
+SUFFER_ICD10_R11	I feel sick	Jag känner mig sjuk
+SUFFERED_VOMITING	I have been sick	Jag har kräkts
+SUFFER_ICD10_A09	I have diarrhoea	Jag har diarré
+SUFFER_ICD10_K59	I have constipation	Jag har förstoppning
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	Jag kräks upp allt jag äter och dricker.
+SUFFER_ICD10_N39.3	I urinate every hour	Jag kissar varje timme.
+SUFFER_ICD10_R30.9	I have pain when urinating	Det gör ont när jag kissar.
+SMELLY_URINE	My urine smells bad	Mitt urin luktar illa.
+SUFFER_ICD10_R30.0	I can´t urinate	Jag kan inte kissa.
+SUFFER_ICD10_R10	I have colic pain in my side	Jag har kramp i sidan.
+MAYBE_PREGNANT	I might be pregnant	Jag tror att jag är gravid.
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Jag är gravid och jag blöder.
+UTERINE_CONTRACTION	I am in labour	Jag har värkar.
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	Jag hade samlag för 2 dagar sedan.
+LONG_TIME_NO_SEX	I have not had sex for a long time	Jag har inte haft samlag på länge.
+DISEASESDB_28137	I have a discharge from my vagina	Jag har flytningar.
+SUFFER_ICD10_N34	I have a discharge from my urethra	Jag har flytningar från urinröret.
+SUFFERED_RAPE	I have been raped	Jag har blivit våldtagen.
+SUFFER_ICD10_R20.1	My ... feels numb	Jag har domningar i...
+SUFFER_ICD10_R20.2	My .. is tingling	Jag har stickningar i...
+WEAK_X	My .. is weak	Jag är svag i...
+PARALYSED_X	My .. is paralysed	Jag är förlamad i...
+INABILITY_TO_SPEAK	I cannot speak	Jag kan inte prata.
+SUFFER_ICD10_H54	I cannot see	Jag kan inte se.
+SUFFER_ICD10_R51	I have a headache	Jag har ont i huvudet.
+SUFFER_ICD10_M54.2	I cannot flex my neck	Jag kan inte böja nacken.
+SUFFER_FEAR	I feel frightened	Jag är rädd.
+SUFFER_DEPRESSION	I feel depressed	Jag känner mig deprimerad.
+SUFFER_SADNESS	I feel sad	Jag känner mig ledsen.
+SUFFER_ICD10_R45.8	I think about suicide	Jag tänker på självmord.
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Jag hör röster när jag är själv.
+FEEL_OBSERVED	I feel like I'm being watched	Jag känner mig förföljd.
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

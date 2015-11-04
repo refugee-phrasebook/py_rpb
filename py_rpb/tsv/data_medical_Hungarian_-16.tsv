@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Orvosra van szükségem.
+NEED_HOSPITAL	I need to go to the hospital	Kórházba kell mennem.
+NEED_AMBULANCE	I need an ambulance	Mentőre van szükségem.
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Hol tudom kiváltani ezt a receptet?
+WHEN_RETURN	When do I have to come back?	Mikor kell visszajönnöm?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Be kell feküdnöm a kórházba?
+SUFFER_ICD10_J45	I have asthma	Asztmás vagyok.
+SUFFER_ICD10_J41	I have chronic bronchitis	Krónikus bronchitisem van.
+SUFFER_ICD10_I50	I have heart failure	Szívelégtelenségben szenvedek.
+SUFFER_ICD10_I21	I had a myocardial infarction	Szívinfarktusom volt.
+SUFFER_ICD10_G40	I have epilepsy	Epilepsziás vagyok.
+SUFFER_ICD10_C00	I have cancer	Rákos vagyok.
+SUFFER_ICD10_A16	I have tuberculosis	Tuberkulózisom van.
+SUFFER_ICD10_E10	I have diabetes	Cukorbeteg vagyok.
+SUFFER_HIV	I have HIV	HIV pozitív vagyok.
+SUFFER_ICD10_C90	I have leukaemia	Leukémiás vagyok.
+SUFFER_ICD10_D57	I have sickle cell disease	Sarlósejtes vérszegénységben szenvedek.
+SUFFER_ICD10_D56	I have thalassaemia	Thalassemiám van.
+SUFFER_ICD10_F32	I have chronic depression	Krónikus depresszióban szenvedek.
+SUFFER_ICD10_F20	I have schizophrenia	Skizofrén vagyok.
+SUFFER_ICD10_F31	I have bipolar disorder	Bipoláris vagyok.
+HERE_MY_MEDICATION	This is my medication	Ezt a gyógyszert szedem.
+DAILY_MEDICATION	I take this medication every day	Naponta szedem ezt a gyógyszert.
+PERMANENT_MEDICATION	I have been taking this medication for years	Évek óta szedem ezt a gyógyszert.
+NEED_MORE_MEDICATION	I need more of this medication	Kell még ebből a gyógyszerből.
+SUFFER_INJURY	I was injured	Megsérültem.
+SUFFER_BEATING	Somebody hit me	Megütöttek.
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Megkéseltek / megvágtak.
+SUFFER_CAR_ACCIDENT	I was hit by a car	Elütött egy autó.
+SUFFER_STING	I was stung by an insect	Megcsípett egy rovar.
+SUFFER_BITE	I was bitten	Megharaptak.
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Leestem.
+SUFFER_FALL 	I fell down	Elestem.
+HERE_PAIN	It hurts here	Itt fáj.
+PAIN_MOVES_A_B	The pain started here and goes to here	A fájdalom itt indul es idáig tart.
+PERMANENT_PAIN	The pain is there all the time	A fájdalom krónikus - állandóan jelenlévő.
+NON_PERMANENT_PAIN	The pain comes and goes	A fájdalom nem állandó.
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Fáj, ha hozzáérek.
+PAIN_WHEN_STANDING	It gets worse when I stand up	Jobban fáj, ha felkelek.
+PAIN_WHEN_LYING	It gets worse when I lie down	Jobban fáj, ha lefekszem.
+SHARP_PAIN	It is a sharp pain	Éles fájdalom.
+DULL_PAIN	It is a dull pain	Tompa fájdalom.
+SUDDEN_PAIN	The pain started suddenly	Hirtelen kezdett el fájni.
+GRADUAL_PAIN	The pain started gradually	Fokozatosan kezdett el fájni.
+KNOWN_PAIN	I have had this pain before	Volt már ilyen fájdalmam ezelőtt.
+UNKNOWN_PAIN	I have never had this pain before	Sosem volt ilyen fájdalmam ezelőtt.
+SUFFER_BLEEDING	I am bleeding	Vérzem.
+SUFFER_ICD10_R31	There is blood in my urine	Véres a vizeletem.
+SUFFER_ICD10_K92	There is blood in my faeces	Véres a székletem.
+SUFFER_ICD10_K92	There is blood in my vomit	Véreset hányok. 
+SUFFER_ICD10_R04.2	I am coughing up blood	Vért köhögök.
+SUFFER_ICD10_K62	I am bleeding from my anus	A végbélnyílásomon keresztül vérzem.
+SUFFER_ICD10_R04.0	I have a nosebleed	Vérzik az orrom.
+SUFFER_ICD10_N93	I am bleeding between my periods	Menstruációk közti vérzésem van.
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	Menopauza után vagyok, de most mégis vérzem.
+FMA_7154	head	Fej
+FMA_54448	eye	Szem
+FMA_52780	ear	Fül
+FMA_49184	mouth	Száj
+FMA_24728	face	Arc
+FMA_7155	neck	Nyak
+FMA_25202	shoulder	Váll
+FMA_24901	elbow	Könyök
+FMA_24964	hip	Csípő
+FMA_24974	knee	Térd
+FMA_9665	ankle	Boka
+FMA_9664	foot	Lábfej
+FMA_24890	arm	Kar
+FMA_24979	leg	Láb
+FMA_9712	hand	Kéz
+FMA_9666	finger	Ujj
+FMA_25046	toe	Lábujj
+FMA_9576	chest	Mell
+FMA_9577	belly	Has
+FMA_7088	heart	Szív
+FMA_7195	lung	Tüdő
+FMA_7148	stomach	Gyomor
+FMA_7202	gallbladder	Epehólyag
+FMA_7203	kidney	Vese
+FMA_7199	bowel	Bél
+FMA_15711	anus	Végbélnyílás
+FMA_17558	uterus	Méh
+FMA_7209	ovary	Petefészek
+FMA_19949	vagina	Vagina
+FMA_7210	testes	Herék
+FMA_9707	penis	Pénisz
+SUFFER_SICKNESS	I feel ill	Rosszul vagyok.
+SUFFER_ICD10_R50	I have a fever	Lázas vagyok.
+FREEZING	I feel cold	Fázom.
+SUFFER_SHIVERING	I have been shaking	Reszketek.
+SUFFER_COLD_SWEAT	I had a cold sweat	Kiver a hideg verejték.
+SUFFERED_ICD10_R55	I fainted	Elájultam.
+SUFFER_ICD10_H81	I feel dizzy	Szédülök.
+SUFFER_ICD10_G40	I had a seizure	Rohamom volt.
+SUFFER_ICD10_R55	I was unconscious	Nem voltam tudatomnál.
+SUFFER_ICD10_R06	I have difficulty breathing	Nehezen kapok levegőt.
+SUFFER_ICD10_R06.2	I have wheezing	Zihálok.
+SUFFER_ICD10_R05	I have a cough	Köhögök.
+SUFFER_ICD10_R09.3	I am coughing up sputum	Hurutosat köhögök.
+SUFFER_ICD10_I47	My heart beats fast	Túl gyorsan ver a szívem.
+SUFFER_ICD10_I49	My heart beats irregular	Szabálytalanul ver a szívem.
+SUFFER_CHEST_PAIN	I have chest pain	Fáj a mellkasom.
+SUFFER_STOMACH_PAIN	I have stomach ache	Fáj a gyomrom.
+SUFFER_ICD10_R11	I feel sick	Hányingerem van.
+SUFFERED_VOMITING	I have been sick	Hánytam.
+SUFFER_ICD10_A09	I have diarrhoea	Hasmenésem van.
+SUFFER_ICD10_K59	I have constipation	Szorulásom van.
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	Mindent kihányok.
+SUFFER_ICD10_N39.3	I urinate every hour	Állandóan vizelnem kell.
+SUFFER_ICD10_R30.9	I have pain when urinating	Fáj, amikor vizelek.
+SMELLY_URINE	My urine smells bad	Rossz szaga van a vizeletemnek.
+SUFFER_ICD10_R30.0	I can´t urinate	Nem tudok vizelni.
+SUFFER_ICD10_R10	I have colic pain in my side	Görcsöl az oldalam.
+MAYBE_PREGNANT	I might be pregnant	Lehet, hogy terhes vagyok.
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Terhes vagyok és vérzem.
+UTERINE_CONTRACTION	I am in labour	Vajúdok.
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	Utoljára két napja éltem nemi életet.
+LONG_TIME_NO_SEX	I have not had sex for a long time	Régóta nem éltem nemi életet.
+DISEASESDB_28137	I have a discharge from my vagina	Hüvelyi folyásom van.
+SUFFER_ICD10_N34	I have a discharge from my urethra	Váladék folyik a húgycsövemből.
+SUFFERED_RAPE	I have been raped	Megerőszakoltak.
+SUFFER_ICD10_R20.1	My ... feels numb	Nem érzem a ...
+SUFFER_ICD10_R20.2	My .. is tingling	Zsibbad a ...
+WEAK_X	My .. is weak	A .. gyenge.
+PARALYSED_X	My .. is paralysed	A ... nem mozog/mozognak.
+INABILITY_TO_SPEAK	I cannot speak	Nem tudok beszélni.
+SUFFER_ICD10_H54	I cannot see	Nem látok.
+SUFFER_ICD10_R51	I have a headache	Fáj a fejem.
+SUFFER_ICD10_M54.2	I cannot flex my neck	Nem tudom elfordítani a fejem.
+SUFFER_FEAR	I feel frightened	Félek.
+SUFFER_DEPRESSION	I feel depressed	Levert vagyok.
+SUFFER_SADNESS	I feel sad	Szomorú vagyok.
+SUFFER_ICD10_R45.8	I think about suicide	Öngyilkos gondolataim vannak.
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Hangokat hallok, mikor egyedül vagyok.
+FEEL_OBSERVED	I feel like I'm being watched	Úgy érzem, megfigyelnek.
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

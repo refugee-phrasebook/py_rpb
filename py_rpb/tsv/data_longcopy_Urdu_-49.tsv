@@ -1,0 +1,212 @@
+	Basic Conversation	بنیادی بات چیت	Bunyaadi baat cheet
+GREETING_INFORMAL	Hello	سلام	Salaam
+GREETING_MORNING	good morning	صبح بخیر	Subh behkeir
+GREETING_EVENING	good evening	شب بخیر	shab bekheir
+GREETING_DEPARTURE	goodbye	خدا حافظ	Khuda hafez
+SORRY	sorry / excuse me 	معاف کیجیے	Maaf keejiye
+PLEASE	please	مہربانی	Mehrbaani
+THANKS	thank you / thanks	شکریہ	Shukriya
+REPLY_THANKS	you're welcome [response to thank you / thanks]	آپ کو خوش آمديد      /    آپ کا شکریہ	Ap ko khush amdeed  /  Ap ka Shukriya
+GIVE_OWN_NAME	my name is...	میرا نام...ہے	Mera naam ... hai
+ASK_OTHERS_NAME	What is your name?	آپ کا نام کیا ہے؟	Aap ka naam kya hai?
+GIVE_OWN_PROVENANCE	I’m from...	میں ۔۔۔۔۔۔۔۔ سے آئی ہوں  / میں ۔۔۔۔۔۔۔۔ سے آیا ہوں	Mein ____ se aayee hoon.(female saying it)  /  Mein ___ se aaya hoon. (male saying it)
+FAMILY	family	خاندان	Khaandaan
+PRESENT_HUSBAND	this is my husband	یہ میرا شوہر ہے	Yeh mera shohar hai
+WIFE	my wife	 میری بیوی 	meri biwi 
+CHILDREN	my children	 میرے بچّے 	mere bachchey
+DAUGHTER	my daughter	 میری بیٹی	meri beti 
+SON	my son	 میرا بیٹا 	mera beta
+BABY	my baby	 میرا  بچہ	mera baccha
+BROTHER	this is my brother	یہ میرا بھائی ہے	Yeh mera bhai hai
+SISTER	this is my sister	یہ میری بہن ہے	Yeh meri behen hai
+FATHER	this is my father	یہ میرے باپ/ والد/ ابو ہیں	Yeh meray baap/waalid/abbo hein
+MOTHER	this is my mother 	یہ میری والدہ/ امّی ہیں۔	Yeh meri waalida/ammi hein
+SUFFER_HUNGER	I’m hungry.	مجھے بھوک لگی ہے	Mujhey bhook lagi hai
+CHILD_HUNGRY	(My child) is hungry	میری بچّی بھوکی ہے۔ میرا بچّا بھوکا ہے۔	Meri bachchi bhooki haiMera bachcha bhooka hai
+SUFFER_THIRST	I’m thirsty	مجھے پیاس لگی ہے۔	Mujhey pyaas lagi hai
+WATER	water	پانی	Paani
+AVAILABLE_Q	Do you have...	کیا آپ کے پاس ۔۔۔۔ ہے؟	Kya aap ke paas .... hai?
+LOCATION_Q	Where is..?	۔۔۔۔ کہاں ہے؟	"xxx kahan hai?"
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	غسل خانہ کدھر ہے؟	Ghusulkhana kidhar hai?
+NEED_SHOWER	I need to take a shower	مجھے نہانے کی ضرورت ہے۔	Mujhey nahaney ki zaroorat hai.
+SHOWER_LOCATION_Q	Where can I take a shower?	میں کہاں نہا سکتی/ سکتا ہوں؟	Mei kahan naha sakti/sakta (weiblich/maennlich, m/f) hoo?
+SANITARYPAD	sanitary pad / towel	سینیٹری پیڈ / تولیہ / کپڑے	Sanitary pad /toliya / kapray
+DIAPER	diaper / nappy	لنگوٹ / ڈایپر	Langot / Diaper
+NEED_MAKE_PHONECALL	I need to make a phone call	مجھے فون کرنا ہے۔	Mujhey phone karna hai
+PRAY_LOCATION_Q	Where can I pray?	میں کہاں نماز پڑھ سکتی/سکتا ہوں؟	Mei kahan namaz parh sakti/sakta (weiblich/maennlich, m/f) hoo?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	میں کہاں ۔۔۔۔ خرید سکتی/سکتا ہوں؟	Mei ... kahan kharid sakti/sakta (f/m) hoo?
+LOCATION_X_Q	Where can I find____?	۔۔۔۔۔ کہاں ملےگا / ملےگی؟	xxx kahan milega/milegi?
+TIME_CLOCK_Q	What time is it?	کتنا بجا ہے؟	Kitna baja hai?
+NEED_SLEEP	I (we) need to sleep	مجھے(ہمیں) سونا ہے	Mujhey (humey) sona hai
+SUBWAY_LOCATION_Q	Where is the subway/underground?	مٹرو/سب وے/او۔بان کہاں ہے؟	Metro/subway/U-bahn kahan hai?
+NO_MONEY	I don’t have any money.	میرے پاس پیسے نہیں ہیں۔	Mere paas paisey nahi hein.
+SPEAK_X_Q	Do you speak...	کیا آپ ۔۔۔ بولتے/بولتی ہیں؟	Kya aap ..... boltey/bolti hein?
+SPEAK_LITTLE_X	I don't speak (English) very well.	میری جرمن/انگریزی بہت اچھی نہیں ہے۔	Meri German/Angrezi bohat achi nahi hai.
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	 یہ  آپ لکھ سکتے ہیں ?	Kaya ap meray yeh likh saktay hain?
+NO_UNDERSTAND	I don’t understand	مجھے سمجھ  نہیں آیا	Mujhey samajh nahin aaya.
+HELP_REQUEST	Help! / Please help me!	بچاو! /میری مدد کیجیئے	Bachao! / Meri madad kijiye
+IGNORANCE	I don’t know	مجھے نہیں معلوم	Mujhay nahi malum
+EVENT_Q	What happened?	کیا ہوا؟	kya huwa?
+SUFFER_FREEZING	I am cold/ freezing	مجھے بہت سردی لگ رہی ہے۔ 	Mujhey bohat sardi lag rahi hai 
+EXPERIENCE_HAPPINESS	I’m happy.	میں خوش ہوں۔	Me khush hoo.
+SUFFER_FEAR	I’m scared.	مجھے ڈر لگ رہا ہے۔	Mujhey dar lag raha hai
+SUFFER_SADNESS	I’m sad.	میں  اداس ہوں	Main udaas hoon.
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	تم مجھے پسند ہو۔	Tum mujhey pasand ho.
+DONT_WORRY	Don’t worry	فکر نا کریں	Fikr na karein
+NEED_APPOINTMENT	I would like an appointment.	مجھے اپائینڈمنٹ/ملاقات کا وقت چاہیئے۔	Mujhey appointment/mulaqat ka waqt chahiey
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	کمرہ نمبر.... کہاں ہے۔	Kamra number ... kahan hai?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	رجسٹریشن سنٹر کہاں ہے؟	Registration centre kahan hai?
+MUST_WAIT	You have to wait	آپ کو انتظار کرنا پڑے گا۔	Aap ko intezar karna paray ga.
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	ہمیں یہاں اور کتنی دیر انتظار کرنا ہو گا؟	Humain yahan aur kitni der intezaar karna hoga?
+1_DAY	one day	ایک دن	Ek din
+1_HOUR	one hour	ایک گھنٹہ	Ek ghanta
+1_MONTH	one month	ایک مہینہ	Ek mahina
+VERYSOON	very soon	بہت جلد	Bohat jald
+TOMORROW	tomorrow	کل	Kal
+DAY_AFTER_TOMORROW	the day after tomorrow	پرسوں	Parson
+NEXT_WEEK	next week	اگلے ہفتے	aglay haftay
+RETURN_SOON	I will be back soon	میں جلدی واپس آونگا	Mein jaldi waapis aoonga.
+ONE	one	ایک	Ek
+TWO	two	دو	Do
+THREE	three	تین	Teen
+FOUR	four	چار	Chaar
+FIVE	five	پانچ	Paanch
+SIX	six	چھ	Chay
+SEVEN	seven	سات	Saat
+EIGHT	eight	آٹھ	Aath
+NINE	nine	نو	Naw
+TEN	ten	دس	Das
+MONDAY	Monday	سوموار	Somwaar
+TUESDAY	 Tuesday	 منگل	 mangal
+WEDNESDAY	 Wednesday	بدھ	 budh
+THURSDAY	 Thursday	جمعرات	 Jumeirat
+FRIDAY	 Friday	جمعہ	 Jumaa
+SATURDAY	 Saturday	ہفتہ	 Hafta
+SUNDAY	 Sunday	اتوار	 Itwaar
+JANUARY	January	جنوری	Janwari
+FEBRUARY	 February	 فروری	 Farwari
+MARCH	 March	مارچ	 March
+APRIL	 April	اپریل	 Aprail
+MAY	 May	مئی	 Mai
+JUNE	 June	جون	 Joon
+JULY	 July	جولائی	 July
+AUGUST	 August	اگست	 Agast
+SEPTEMBER	 September	ستمبر	 Sitember
+OCTOBER	 October	اکتوبر	 Uktoober
+NOVEMBER	 November	نومبر	 November
+DECEMBER	 December	دسمبر	 December
+	Medical Terms	طبی الفاظ	Tibi Alfaaz
+NEED_DOCTOR	I need a doctor	مجھے ڈاکٹر کی ضرورت ہے۔	Mujhey doctor ki zaroorat hai.
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	میری طبعیت ٹھیک نہیں ہے	Meri tabiyat theek nahin hai.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	میں بیمار ہوں۔	Mein beemar hoon
+CHILD_ILL	(My child) is sick	  میرا بچہ بیمار ہے	mera bacha beemar hai
+PREGNANT	I am pregnant	میں حاملہ ہوں	Mei haamela hoo.
+SUFFER_ICD10_T78.4	I am having an allergic reaction	مجھے اس کی وجہ سے الرجی ہو رہی ہے	Mujhay iss ki wajah say allerji ho rahi hai
+SUFFER_ICD10_H81	I feel dizzy.	مجہے چکر آ  رہے ہیں	Mujhey chakkar aa rahay hain
+SUFFER_ICD10_E10	I am diabetic	میں ذیابیطس ہوں	Mein ziabetis hoon
+NEED_INSULIN	I need insulin	مجھے انسولین چاھیے	Mujhay insulin chaheeyeh
+SUFFERED_RAPE	I was raped.	میری عزت لوتی گئی	Meri izzat looti gayee
+SUFFER_ICD10_R10	I have a stomach ache.	میرے پیٹ میں درد ہے۔	Mere peyt mei dard hai.
+SUFFER_ICD10_R50	I have a fever / a temperature	مجھے بخار ہے۔	Mujhey bukhaar hai
+SUFFER_ICD10_R51	I have a headache	میرے سر میں درد ہے۔	Mere sar mei dard hai.
+SUFFER_ICD10_R05	I have a cough.	مجھے کھانسی ہے۔	Mujhey khaansi hai
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	ميرے بچے کا گلہ خراب / کھانسی ھے	Mere bache ka gala kharab / khansi hai
+FLU	cold	زکام	Zukaam
+DIARRHEA	diarrhea	دست 	Dast 
+ICD10_K59.0	constipation	قبض	Qabz
+ICD10_B73.3	vaginal yeast infection (thrush)	 خمیر انفکشن	 khamir infection
+ICD10_B53.3	athlete's foot	کھلاڑی کے پاؤں کا انفکشن	"khilari ke paon" ka infection.
+ICD10_B85	head lice	سر کی جویں	Sar kee jooein
+			
+	Food	کھانا	Khaana
+MEAL_NOON	Lunch	دوپہر کا کهانا	Dopahr ka khaana
+MEAL_EVENING	Dinner	رات کا کهانا	Raat ka khaana
+FOOD_HALAL_Q	Is this food Halal?	کیا یہ کھانا حلال ہے؟	kya yeh khana halal hai?
+ALLERGY_AGAINST_X	I am allergic to….	مجھے ۔۔۔ سے الرجی ہے۔	Mujhey .... se allergy hai.
+PORK_MEAT	pork	سور کا گوشت	Suwar ka gosht
+POULTRY_MEAT	poultry	مرغی	Murghi
+NO_EAT_PORK	I do not eat pork	میں سور کا گوشت نہیں کھاتا	Mein suwar ka gosht nahi khaata 
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	میں صرف سبزی کھاتا ہوں. مجھے گوشت یا مچھلی نہیں چاہیے	Mein sirf sabzi khata hoon. mujhay gosht aur machli nahin chahiye
+SELF_VEGAN	I am a vegan	میں صرف سبزی اور پھل کھاتا ہوں	Mein sirf sabzi aur phal khaata hoon.
+FISH	fish	مچھلی	Machli
+BREAD	bread	 روٹی	Roti
+WATER	water	پانی	Paani
+LEMONADE	lemonade	نیبوپانی / نیبو کا شربت	Neebu ka sharbat / Neebu pani
+MILK	milk	دودھ	Doodh
+COFFEE	coffee	کوفی	Coffee
+TEA	tea	چائے	chai
+BEER	beer	بیئر	Beer
+FRUITS	fruit	پھل	phal
+APPLE	apple	سیب	saib
+PEAR	pear	ناشپاتی	Naashpati
+GRAPEFRUIT	grapefruit	گریپ فروٹ / چکوترا	Grapefruit/Chakotra
+APRICOT	apricot	خوبانی	Khobani
+POTATOE	potatoes [pl]	آلو	Aaloo
+BEAN	beans [pl]	لوبیا	Lobia
+PEA	peas [pl]	مٹر	Matar
+CHICKPEA	chickpeas [pl]	چھولا / چنے	Chola / chanay
+AUBERGINE	eggplant (US) / aubergine (UK)	بینگن	Baingan
+CARROT	carrots [pl]	گاجر	Gaajar
+TOMATO	tomatoes [pl]	ٹماٹر	Tamaatar
+TURNIP	turnip	شلجم	Shaljam
+FLOUR	flour	آٹا	Aataa 
+HONEY	honey	شہد	Shahad
+CHEESE	cheese	پنیر / چیز	Paneer/cheese
+QUARK	quark / cottage cheese 	پنیر	Paneer
+PAPRIKA	paprika	لال مرچ	Lal Mirch
+SAUCE	sauce	شوربہ	shorba
+BUTTER	butter	مکّھن	Makkhan
+OIL	oil	تیل	tayl
+CHEWING_GUM	chewing gum	چیونگ گم / ببل گم 	Chewing gum/Bubble gum
+SPOON	spoon	چمچا	Chamcha
+KNIFE	knife	چاقو	Chaqu
+PLATE	plate	پلیٹ	Plate
+GLASS	glass (to drink from)	گلاس	Gilaas
+MUG	mug	مگ	Mug
+TEAPOT	teapot 	چائے دانی	Chai Daani
+			
+	Clothing	کپڑے	Kapray
+SHIRT	shirt	قمیض	Qameez
+DRESS	Dress	لباس/کپڑے	Libaas/kaprey
+SKIRT	skirt	اسکرٹ	iskirt
+TROUSERS	trousers (UK) / pants (US)	پینٹ / پتلون	Pant/Patloon
+PULLOVER	jumper (UK) / sweater / pullover	سویٹر	sweater
+COAT	jacket / coat	جیکٹ	Jacket
+HEADSCARF	veil / hijab / headscarf	حجاب / ڈپٹا / نقاب	Hijaab/dupatta/niqaab
+SHOE	shoes [pl]	جوتے	Jootey
+GLOVE	gloves [pl]	دستانے/گلوز	Dastaney/Gloves
+SOCK	socks [pl]	موزے	Mozey
+UNDERWEAR	underwear	انڈر ویئر / جانگھیا / /اندرونی کپڑے	Underwear/ Janghiya 
+			
+	Misc	اور چیزیں	Aur cheezain
+BED	bed	بستر / پلنگ	Bistar/Palang
+BLANKET	blanket	کمبل	kambal
+LAMP	lamp	لامپ	Lamp
+TELEPHONE	telephone	ٹیلی فون	Telephone
+CELLPHONE	mobile phone / cellphone	موبائیل فون	Mobile phone
+ELECTRICITY	electricity	بجلی	Bijlee
+COMPUTER	computer	کمپیوٹر	Computer
+INTERNET_CONNECTION	internet connection	انٹرنٹ کنکشن	Internet Connection
+BATTERY	battery	باٹری	Battery
+ROOM	room	کمرہ	Kamra
+CHAIR	chair	کرسی	Kursi
+TABLE	table	میز	Mez
+TOILET	toilet	غصل خانہ / ٹویلٹ	Ghusulkhaana / Toilet
+TOILET_PAPER	toilet paper	ٹویلٹ کا کاغز	Toilet ka kaghaz
+TOOTHBRUSH	toothbrush	دانت مانجھنے کا برش	Daanth manjhney ka brush
+TOOTHPASTE	toothpaste	ٹوتھ پہسٹ / دنت منجن	Tooth paste / Danth manjan
+SHOWER	shower	شاور	Shower
+BATHTUB	bathtub	ٹب	Tub
+SOAP	soap	صابن	Sabun
+SHAMPOO	shampoo	شامپو	Shampoo
+HANDKERCHIEF	tissue / handkerchief	رومال	Rumaal
+CUPBOARD	cupboard	الماری / کابینٹ	Almaari / Cabinet
+DOOR	door	دروازہ	Darwaza
+WINDOW	window	کهڑکی	Khirki
+WALL	wall	دیوار	Dewaar
+HOUSE	house	مکان	Makaan
+APARTMENT	apartment / flat	فلیٹ	flat
+BOOK	book	کتاب	kitaab
+NEWSPAPER	newspaper	اخبار	Akhbar
+RADIO	radio	ریڈیو	Radio
+TELEVISION	television	ٹیلی ویژن	Television

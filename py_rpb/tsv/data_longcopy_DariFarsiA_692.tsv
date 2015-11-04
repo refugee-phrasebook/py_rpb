@@ -1,0 +1,212 @@
+	Basic Conversation		
+GREETING_INFORMAL	Hello	سلام	Salaam
+GREETING_MORNING	good morning	صبح بخیر	Sob bekhair
+GREETING_EVENING	good evening	شب بخیر	Shab bakhayr
+GREETING_DEPARTURE	goodbye	خداحافظ	khodaafez
+SORRY	sorry / excuse me 	ببخشید	Bebakhshed
+PLEASE	please	لطفاً	Lutfan
+THANKS	thank you / thanks	تشكر	Tashakor
+REPLY_THANKS	you're welcome [response to thank you / thanks]	قابل تشکر نیست	qaabel tashakor nest
+GIVE_OWN_NAME	my name is...	نام ام _____ است	Naamam ...ast
+ASK_OTHERS_NAME	What is your name?	نام تان چیست؟	Naametaan chist?
+GIVE_OWN_PROVENANCE	I’m from...	(مں از ۔۔۔۔۔۔۔۔ می آیم	Man az .... mi aayum
+FAMILY	family	فامیل	Faamil
+PRESENT_HUSBAND	this is my husband	این شوهرم است	Een shawharam ast
+WIFE	my wife	همسرم	Hamsaram
+CHILDREN	my children	اولادهایم	Awladaayam
+DAUGHTER	my daughter	دخترم	dokhtaram
+SON	my son	 بچیم	bachim
+BABY	my baby	طفلم / نوزادم	teflam / nawzaadam
+BROTHER	this is my brother	این برادرم است.	een beraadaram ast
+SISTER	this is my sister	این خواهرم است.	In khwaaram ast.
+FATHER	this is my father	این پدرم (بابام) است.	In padaram/babam ast.
+MOTHER	this is my mother 	این مادرم است.	In maadaram ast.
+SUFFER_HUNGER	I’m hungry.	گشنه هستم	goshna hastum
+CHILD_HUNGRY	(My child) is hungry	بچه ام گشنه است	bacha-am goshna ast
+SUFFER_THIRST	I’m thirsty	تشنه هستم	Toshna astam.
+WATER	water	آب 	aab
+AVAILABLE_Q	Do you have...	... دارید؟	... daared?
+LOCATION_Q	Where is..?	...کجاست؟	...kojaast?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	 تشناب کجاست؟	Tashnaab kojast?
+NEED_SHOWER	I need to take a shower	باید شاور/ حمام بگیرم	baaya shawar/hamaam begiram
+SHOWER_LOCATION_Q	Where can I take a shower?	در کجا شاور/ حمام بگیرم؟	dar koja shawar/hamaam begiram?
+SANITARYPAD	sanitary pad / towel	نوار بهداشتی / کوتکس	nawaar behdaashti / kotex
+DIAPER	diaper / nappy	پوشک	pooshak
+NEED_MAKE_PHONECALL	I need to make a phone call	باید تلفون کنم (زنگ بزنم)	baayad telefun konam/zang bezanam
+PRAY_LOCATION_Q	Where can I pray?	کجا نماز خوانده می توانم؟	Kojaa namaaz khaandah metaanam?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	ــــــــ از کجا بخرم؟	_____ az koja bekharam?
+LOCATION_X_Q	Where can I find____?	ــــــــ کجا پیدا کنم؟	_____ koja payda konam?
+TIME_CLOCK_Q	What time is it?	چند بجه است؟	Chand bajaa ast?
+NEED_SLEEP	I (we) need to sleep	باید خواب کنم / کنیم.	Baayad khaaw konam/konim.
+SUBWAY_LOCATION_Q	Where is the subway/underground?	مترو کجاست؟	metro kojaast?
+NO_MONEY	I don’t have any money.	پیسه ندارم.	paysah nadaaram.
+SPEAK_X_Q	Do you speak...	... گپ می زنی؟	... gap mezani?
+SPEAK_LITTLE_X	I don't speak (English) very well.	آلمانی من خوب نیست	almaaniyam khub nist
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	برایم او را نوشته کرده میتوانی؟	baraayem oo ra newishta karda metaani?
+NO_UNDERSTAND	I don’t understand	نمی فهمم	namifahmam
+HELP_REQUEST	Help! / Please help me!	 کمک !	Komak!
+IGNORANCE	I don’t know	نمی دانم	namedaanam
+EVENT_Q	What happened?	چی شد؟	Chi shod?
+SUFFER_FREEZING	I am cold/ freezing	خنک می خرم.	khonuk mekhurum
+EXPERIENCE_HAPPINESS	I’m happy.	خوش شدم/ خوش هستم	khosh shodom/ khosh astom
+SUFFER_FEAR	I’m scared.	می ترسم	metarsam
+SUFFER_SADNESS	I’m sad.	غمگین هستم.	ghamgin astom
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	شما را خوش دارم.	shoma ra khosh darom.
+DONT_WORRY	Don’t worry	فکر نکنین.	Fekar nakonin.
+NEED_APPOINTMENT	I would like an appointment.	میخواهم یک ترمین/قرار بگیرم	mekhwaham yak termin/qarar begiram.
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	اتاق نمبر ـــــــ کجاست؟	Otaaq nambare ____ kojast?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	مرکز ثبت کجاست؟	Markaze sabt kojast?
+MUST_WAIT	You have to wait	باید صبر کنید.	baayad sabr koned.
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	برای چه مدّت باید اینجا بمانیم؟	Baraye chi moddat baayad injaa bemaanim?
+1_DAY	one day	یک روز	yak roz
+1_HOUR	one hour	یک ساعت	yek saa’at
+1_MONTH	one month	یک ماه	yak maah
+VERYSOON	very soon	به زود	ba zood
+TOMORROW	tomorrow	فردا	fardaa
+DAY_AFTER_TOMORROW	the day after tomorrow	دو روز بعد	du roz baad
+NEXT_WEEK	next week	هفته دیگر	haftay degar
+RETURN_SOON	I will be back soon	زود پس می آیم.	zood pas miyaayam.
+ONE	one	یک	yak
+TWO	two	دو	du
+THREE	three	سه	seh
+FOUR	four	چهار	chaar
+FIVE	five	پنج	panj
+SIX	six	شش	shash
+SEVEN	seven	هفت	haft
+EIGHT	eight	هشت	hasht
+NINE	nine	نه	noh
+TEN	ten	ده	dah
+MONDAY	Monday	دوشنبه	dou-shanbe
+TUESDAY	 Tuesday	سه شنبه	se-shanbe
+WEDNESDAY	 Wednesday	چهارشنبه	 Seh-shanbe
+THURSDAY	 Thursday	پنج شنبه	banj-shanbe
+FRIDAY	 Friday	جمعه	juma
+SATURDAY	 Saturday	شنبه	shanbe
+SUNDAY	 Sunday	یکشنبه	yak-shanbe
+JANUARY	January	جنوری	janwari
+FEBRUARY	 February	فبروری	febrauwari
+MARCH	 March	مارچ	march
+APRIL	 April	اپریل	april
+MAY	 May	می	may
+JUNE	 June	جون	jun
+JULY	 July	جولای	julay
+AUGUST	 August	اوگست	august
+SEPTEMBER	 September	سپتامبر	sepember
+OCTOBER	 October	اوکتبر	oktober
+NOVEMBER	 November	نوفمبر	november
+DECEMBER	 December	دسامبر	december
+	Medical Terms		
+NEED_DOCTOR	I need a doctor	به داکتر ضرورت دارم.	ba doctar zarorat darom
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	ناجور هستم	Najor astam.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	مریض شدم	mariz shodam
+CHILD_ILL	(My child) is sick	بچه ام مریض است.	bacham mareez ast.
+PREGNANT	I am pregnant	من حامله دار استم.	Ma haamela daar astam.
+SUFFER_ICD10_T78.4	I am having an allergic reaction	من حساسیت دارم.	man asaasyat darom
+SUFFER_ICD10_H81	I feel dizzy.	سرام چرخ میزند.	saram charkh mezanad.
+SUFFER_ICD10_E10	I am diabetic	من مریضی دیابت/شکر دارم	man marezi diabet/ shakar darom
+NEED_INSULIN	I need insulin	به انسولین ضرورت دارم.	ba insulin zarorat darom
+SUFFERED_RAPE	I was raped.	به من تجاوز شده.	ba man tazawoz shoda.
+SUFFER_ICD10_R10	I have a stomach ache.	معده ام درد می کند.	Medam dard mekona.
+SUFFER_ICD10_R50	I have a fever / a temperature	تب دارم.	Tab daram.
+SUFFER_ICD10_R51	I have a headache	سرم درد می کند.	Saram dard mekona.
+SUFFER_ICD10_R05	I have a cough.	سرفه می کنم 	Sorfa mekonam.
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	بجه ام سرفه می کند / گلون اش درد می کند.	Bachem sorfa mekona / glunesh dard mekona.
+FLU	cold	ریزش	rezesh
+DIARRHEA	diarrhea	 اسهال 	eshaal
+ICD10_K59.0	constipation	قبضیت	qabzyat
+ICD10_B73.3	vaginal yeast infection (thrush)	عفونت واژن/ قارچ واژن	afonat wazhun/ qarch wazhun
+ICD10_B53.3	athlete's foot	قارچ پا	qarch paa
+ICD10_B85	head lice	شپش سر	shepesh
+			
+	Food	غذا 	Ghazaa
+MEAL_NOON	Lunch	نان چاشت	naan chaasht
+MEAL_EVENING	Dinner	نان شام	naan shaam
+FOOD_HALAL_Q	Is this food Halal?	این غذا حلال است؟	in ghazaa halaal ast?
+ALLERGY_AGAINST_X	I am allergic to….	به ... الرژی/حساسیت دارم.	ba... alergy/hasaasyat darom
+PORK_MEAT	pork	 گوشت خوک	Goshte khok
+POULTRY_MEAT	poultry	گوشت پرنده 	Goshte parendah
+NO_EAT_PORK	I do not eat pork	من گوشت خوک نمیخورم	Ma goshte khok namekhoram.
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	من گوشتخور نیستم / من گیاه خور هستمگوشت و ماهی نمیخورم	man goshtkhor nestam/ man giyaakhor astam.gosht wa maahi namekhoram
+SELF_VEGAN	I am a vegan	ویگن هستم، هیچ محصولاتی از حیوانات نمیخورم 	Weegan astam. Hich masulyati az haywaanaat namekhoram.
+FISH	fish	ماهی	Maahi
+BREAD	bread	نان خشک	Naane khoshk
+WATER	water	آب	abb
+LEMONADE	lemonade	 لیموناد	limonade
+MILK	milk	 شیر	shir
+COFFEE	coffee	کوفی / قهوه	Kofi / qahwa
+TEA	tea	چای	Chai
+BEER	beer	بیر	Beer
+FRUITS	fruit	میوه 	mewa
+APPLE	apple	 سیب	sib
+PEAR	pear	ناک	naak
+GRAPEFRUIT	grapefruit	گریپ فروت 	grape froot
+APRICOT	apricot	زرد آلو 	zard aaloo
+POTATOE	potatoes [pl]	کچآلو	Kachaalu
+BEAN	beans [pl]	لوبیا 	loobiaa
+PEA	peas [pl]	مطر/متر	matar
+CHICKPEA	chickpeas [pl]	نخود	nakhod
+AUBERGINE	eggplant (US) / aubergine (UK)	بادنجان سیاه	banjaan siyaah
+CARROT	carrots [pl]	زردک	zardak
+TOMATO	tomatoes [pl]	بادنجان رومی	banjaan-e-rumi
+TURNIP	turnip	 شلغم	shalgham
+FLOUR	flour	آرد 	aard
+HONEY	honey	عسل	asal
+CHEESE	cheese	 پنیر	panir
+QUARK	quark / cottage cheese 	چکه	chaka
+PAPRIKA	paprika	مرچ دولمه	morch-e dolma
+SAUCE	sauce	سس 	sos
+BUTTER	butter	مسکه	maska
+OIL	oil	روغن	roghan
+CHEWING_GUM	chewing gum	ساجق	saajeq
+SPOON	spoon	قاشق / چمچه	qaashoq / chamcha
+KNIFE	knife	کارد	kaard
+PLATE	plate	بشقاب	beshqaab
+GLASS	glass (to drink from)	گیلاس	gilaas
+MUG	mug	پیاله	piyaala
+TEAPOT	teapot 	چاینک	chaainak
+			
+	Clothing	 لباس 	Lebaas
+SHIRT	shirt	یخنکاخ / پیراهن	yakhanqakh/peraahan
+DRESS	Dress	لباس	lebaas
+SKIRT	skirt	 دامن 	daaman
+TROUSERS	trousers (UK) / pants (US)	پتلون	patloon
+PULLOVER	jumper (UK) / sweater / pullover	جمپر	jampar
+COAT	jacket / coat	ژاکت	jaakat
+HEADSCARF	veil / hijab / headscarf	حجاب / چادر	hejaab/chaadar
+SHOE	shoes [pl]	بوت / کفش	boot / kafsh
+GLOVE	gloves [pl]	دستکش 	distkash
+SOCK	socks [pl]	جوراب	joraab
+UNDERWEAR	underwear	زیرپوشی / زیرپیراهنی	zerposhi/zerperaahani
+			
+	Misc	مختلف	Mokhtalef
+BED	bed	تختخواب	takht-e khwaab
+BLANKET	blanket	کمپل	kampal
+LAMP	lamp	چراغ	choraagh
+TELEPHONE	telephone	تلفون	talefun
+CELLPHONE	mobile phone / cellphone	مبایل	mobaayl
+ELECTRICITY	electricity	برق 	barq
+COMPUTER	computer	کامپیوتر 	compyutar
+INTERNET_CONNECTION	internet connection	انترنت	internet
+BATTERY	battery	باتری	baattry
+ROOM	room	اتاق 	otaaq
+CHAIR	chair	چوکی	chawki
+TABLE	table	میز	meyz
+TOILET	toilet	تشناب	tashnaab
+TOILET_PAPER	toilet paper	کاغذ تشناب	kaaghaz-e-tashnaab
+TOOTHBRUSH	toothbrush	برس دندان / مسواک	bors dandaan / maswaak
+TOOTHPASTE	toothpaste	خمیردندان	khamir dandon
+SHOWER	shower	شاور	shaawar
+BATHTUB	bathtub	تب	tab
+SOAP	soap	صابون 	saaboon
+SHAMPOO	shampoo	شامپو	shaampoo
+HANDKERCHIEF	tissue / handkerchief	دستمال	dastmaal
+CUPBOARD	cupboard	الماری	almari
+DOOR	door	دروازه	darwaaza
+WINDOW	window	کلکین	kelkin
+WALL	wall	دیوار	deewaar
+HOUSE	house	خانه	khaanah
+APARTMENT	apartment / flat	آپارتمان	Apaartemaan
+BOOK	book	کتاب	kitaab
+NEWSPAPER	newspaper	روزنامه	roznaamah
+RADIO	radio	رادیو	radio
+TELEVISION	television	تلویزیون	talwiziyun

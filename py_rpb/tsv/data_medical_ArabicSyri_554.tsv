@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	أحتاج أن أرى طبيب / 
+NEED_HOSPITAL	I need to go to the hospital	أحتاج أن أذهب إلى المستشفي / 
+NEED_AMBULANCE	I need an ambulance	أحتاج سيارة إسعاف
+WHERE_GET_MEDICINE	Where can I fill this prescription?	أين يمكنني أن أصرف الروشتة؟ او الوصفه الطبيه / 
+WHEN_RETURN	When do I have to come back?	متي يمكنني أن آتي لرؤيتك مجدداً؟
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	هل لابد أن آتقدم الي المستشفي
+SUFFER_ICD10_J45	I have asthma	عندي أزمة (صدرية) أو عندي ربو
+SUFFER_ICD10_J41	I have chronic bronchitis	 / عندي برونشيت مزمن (أو التهاب قصبات حادّ مزمن)
+SUFFER_ICD10_I50	I have heart failure	لدي قصور القلب (أو فشل القلب)
+SUFFER_ICD10_I21	I had a myocardial infarction	حصلت معي ذبحة قلبية / 
+SUFFER_ICD10_G40	I have epilepsy	لدي صرع
+SUFFER_ICD10_C00	I have cancer	عندي سرطان
+SUFFER_ICD10_A16	I have tuberculosis	عندي داء السلّ
+SUFFER_ICD10_E10	I have diabetes	عندي سكّري
+SUFFER_HIV	I have HIV	عندي سيدا
+SUFFER_ICD10_C90	I have leukaemia	عندي لوكيميا
+SUFFER_ICD10_D57	I have sickle cell disease	عندي فقر دم منجلي (أو فقر دم انحلالي)
+SUFFER_ICD10_D56	I have thalassaemia	لدي ثالاسيميا
+SUFFER_ICD10_F32	I have chronic depression	لدي اكتئاب مزمن
+SUFFER_ICD10_F20	I have schizophrenia	لدي شيزوفرينيا (فصام)
+SUFFER_ICD10_F31	I have bipolar disorder	لدي الاضطراب وجداني ثنائي القطب (أو الهوس الاكتئابي)
+HERE_MY_MEDICATION	This is my medication	هذا دوائي (أو هذه أدويتي)
+DAILY_MEDICATION	I take this medication every day	آخذ هذا الدواء يومياً
+PERMANENT_MEDICATION	I have been taking this medication for years	آخذ هذا الدواء منذ سنوات
+NEED_MORE_MEDICATION	I need more of this medication	أحتاج للمزيد من هذا الدواء 
+SUFFER_INJURY	I was injured	لقد تعرضت للإصابة
+SUFFER_BEATING	Somebody hit me	أحدهم ضربني
+SUFFER_KNIFING	I was stabbed/ cut with a knife	تعرضت للطعن بسكين / 
+SUFFER_CAR_ACCIDENT	I was hit by a car	ضربتني سيارة / 
+SUFFER_STING	I was stung by an insect	لسعتني حشرة
+SUFFER_BITE	I was bitten	تم عضّي (تعرضت لعضّة...)
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	وقعت من مكان مرتفع
+SUFFER_FALL 	I fell down	وقعت
+HERE_PAIN	It hurts here	يؤلمني هنا
+PAIN_MOVES_A_B	The pain started here and goes to here	يبدأ الألم من هنا ويمتد إلى هنا
+PERMANENT_PAIN	The pain is there all the time	الألم موجود طوال الوقت
+NON_PERMANENT_PAIN	The pain comes and goes	الألم يذهب ويعود
+PAIN_WHEN_TOUCHED	It hurts when I touch it	أشعر بالألم عندما ألمس / 
+PAIN_WHEN_STANDING	It gets worse when I stand up	الأمر يزداد سوءا عندما أقف
+PAIN_WHEN_LYING	It gets worse when I lie down	انه يزيد سوءا عندما استلقي
+SHARP_PAIN	It is a sharp pain	هو ألم حادّ
+DULL_PAIN	It is a dull pain	انه الم باطني
+SUDDEN_PAIN	The pain started suddenly	بدأ الألم فجأة
+GRADUAL_PAIN	The pain started gradually	بدأ الألم تدريجياً
+KNOWN_PAIN	I have had this pain before	لقد شعرت بهذا الألم من قبل
+UNKNOWN_PAIN	I have never had this pain before	لم يسبق أن شعرت بهذا الألم مسبقاً
+SUFFER_BLEEDING	I am bleeding	لدي نزيف
+SUFFER_ICD10_R31	There is blood in my urine	هناك دم في البول
+SUFFER_ICD10_K92	There is blood in my faeces	هناك دم في البراز
+SUFFER_ICD10_K92	There is blood in my vomit	هناك دم في القىء
+SUFFER_ICD10_R04.2	I am coughing up blood	 / سعالي يحتوي على دم
+SUFFER_ICD10_K62	I am bleeding from my anus	انزف من فتحة الشرج
+SUFFER_ICD10_R04.0	I have a nosebleed	انزف من انفي
+SUFFER_ICD10_N93	I am bleeding between my periods	لدي نزيف في فترات ما بين الدورة الشهرية
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	انتهت عادتي الشهرية لكني ما زلت أنزف / 
+FMA_7154	head	رأس
+FMA_54448	eye	عين
+FMA_52780	ear	أذن
+FMA_49184	mouth	فم
+FMA_24728	face	وجه
+FMA_7155	neck	رقبة
+FMA_25202	shoulder	كتف
+FMA_24901	elbow	كوع
+FMA_24964	hip	الورك
+FMA_24974	knee	ركبة
+FMA_9665	ankle	كعب
+FMA_9664	foot	قدم
+FMA_24890	arm	زراع
+FMA_24979	leg	رجل
+FMA_9712	hand	يد
+FMA_9666	finger	صباع/ أصبع
+FMA_25046	toe	إصبع رِجل
+FMA_9576	chest	صدر
+FMA_9577	belly	بطن
+FMA_7088	heart	قلب
+FMA_7195	lung	رئة
+FMA_7148	stomach	معدة
+FMA_7202	gallbladder	كيس المراره
+FMA_7203	kidney	كلية
+FMA_7199	bowel	امعاء
+FMA_15711	anus	شرج
+FMA_17558	uterus	رحم
+FMA_7209	ovary	مبيض
+FMA_19949	vagina	مهبل
+FMA_7210	testes	خصية
+FMA_9707	penis	قضيب
+SUFFER_SICKNESS	I feel ill	اشعر بالمرض
+SUFFER_ICD10_R50	I have a fever	لدي سخونة (حرارة)
+FREEZING	I feel cold	اشعر بالبرودة
+SUFFER_SHIVERING	I have been shaking	اشعر بالرعشة
+SUFFER_COLD_SWEAT	I had a cold sweat	عرقت عرقاً بارداً
+SUFFERED_ICD10_R55	I fainted	غبت عن الوعي
+SUFFER_ICD10_H81	I feel dizzy	أشعر بالدوخة
+SUFFER_ICD10_G40	I had a seizure	تعرضت لنوبة صرع (شحنات كهربائية زائدة)
+SUFFER_ICD10_R55	I was unconscious	كنت غائب \ غائبة عن الوعي / 
+SUFFER_ICD10_R06	I have difficulty breathing	أشعر بصعوبة في التنفس
+SUFFER_ICD10_R06.2	I have wheezing	نفسي مع صوت صفير
+SUFFER_ICD10_R05	I have a cough	لدي كحة (سعال)
+SUFFER_ICD10_R09.3	I am coughing up sputum	أنا اسعل بلغم
+SUFFER_ICD10_I47	My heart beats fast	ضربات قلبي سريعة
+SUFFER_ICD10_I49	My heart beats irregular	نبضات قلبي غير منتظمة
+SUFFER_CHEST_PAIN	I have chest pain	أشعر بألم في الصدر
+SUFFER_STOMACH_PAIN	I have stomach ache	لدي الم بالمعدة
+SUFFER_ICD10_R11	I feel sick	اشعر بالغثيان
+SUFFERED_VOMITING	I have been sick	لقد تقيأت
+SUFFER_ICD10_A09	I have diarrhoea	لدي اسهال
+SUFFER_ICD10_K59	I have constipation	لدي امساك
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	أستفرغ كل ما آكله وأشربه
+SUFFER_ICD10_N39.3	I urinate every hour	اتبول كل ساعة
+SUFFER_ICD10_R30.9	I have pain when urinating	اشعر بالألم عند التبول
+SMELLY_URINE	My urine smells bad	هناك رائحة كريهة بالبول
+SUFFER_ICD10_R30.0	I can´t urinate	لا استطيع التبول
+SUFFER_ICD10_R10	I have colic pain in my side	عندي اوجاع متقطعه في الخواصر
+MAYBE_PREGNANT	I might be pregnant	قد اكون حامل/حبلى
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	انا حامل/حبلى وأنزف
+UTERINE_CONTRACTION	I am in labour	عندي الام الولاده او المخاض
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	قمت بممارسة الجنس قبل يومين
+LONG_TIME_NO_SEX	I have not had sex for a long time	لم اقم بممارسة الجنس منذ فترة
+DISEASESDB_28137	I have a discharge from my vagina	عندي افرازات من المهبل
+SUFFER_ICD10_N34	I have a discharge from my urethra	عندي افرازات من مجرى البول
+SUFFERED_RAPE	I have been raped	لقد تعرضت للاغتصاب
+SUFFER_ICD10_R20.1	My ... feels numb	عندي شعور تخدير في...
+SUFFER_ICD10_R20.2	My .. is tingling	عندي ارتعاش في...
+WEAK_X	My .. is weak	عندي ضعف في...
+PARALYSED_X	My .. is paralysed	عندي شلل في ...
+INABILITY_TO_SPEAK	I cannot speak	لا استطيع التكلم
+SUFFER_ICD10_H54	I cannot see	لا استطيع الرؤية
+SUFFER_ICD10_R51	I have a headache	لدي صداع
+SUFFER_ICD10_M54.2	I cannot flex my neck	لا استطيع ان احني راسي
+SUFFER_FEAR	I feel frightened	أنا أشعر بالخوف
+SUFFER_DEPRESSION	I feel depressed	اشعر بالاكتئاب
+SUFFER_SADNESS	I feel sad	اشعر بالحزن
+SUFFER_ICD10_R45.8	I think about suicide	افكر بالانتحار
+SUFFER_ICD10_R44.0	I hear voices when i am alone	أسمع أصواتاً حين أكون بمفردي
+FEEL_OBSERVED	I feel like I'm being watched	اشعر بأنني مراقَب
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

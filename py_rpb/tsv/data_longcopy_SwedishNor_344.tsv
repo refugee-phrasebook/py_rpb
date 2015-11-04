@@ -1,0 +1,212 @@
+	Basic Conversation	
+GREETING_INFORMAL	Hello	S: HejN: Hallo/HeiD: Hej
+GREETING_MORNING	good morning	S: GoddagN: God dagD: Goddag
+GREETING_EVENING	good evening	S: GodkvällN: God kveldD: God aften
+GREETING_DEPARTURE	goodbye	S: HejdåN: Hadet braD: Farvel
+SORRY	sorry / excuse me 	S: Ursäkta mig..N: Unnskyld...D: Undskyld..
+PLEASE	please	S: SnällaN: Vær så snillD: Vil du venligst
+THANKS	thank you / thanks	S: Tusen tackN: Tusen takkD: Mange tak
+REPLY_THANKS	you're welcome [response to thank you / thanks]	S: Varsågod N: Bare hyggelig / Værsågod
+GIVE_OWN_NAME	my name is...	S: Jag heter..N: Jeg heter..D: Jeg hedder ..
+ASK_OTHERS_NAME	What is your name?	S: Vad heter du?N: Hva heter du?D: Hvad hedder du?
+GIVE_OWN_PROVENANCE	I’m from...	S: Jag kommer från..N: Jeg kommer fra..D: Jeg kommer fra ..
+FAMILY	family	S: familjen N: familien D: Familien
+PRESENT_HUSBAND	this is my husband	S: Detta är min manN: Dette er min mannD: Det er min mand
+WIFE	my wife	S: min fruN: min koneD: Min kone
+CHILDREN	my children	S: Mina barnN: mine barnD: Mine børn
+DAUGHTER	my daughter	S: Min dotterN: min datterD: Min datter
+SON	my son	S: Min sonN: min sønnD: Min søn
+BABY	my baby	S: Min bäbisN: min babyD: Min baby
+BROTHER	this is my brother	S: Detta är min bror N: Dette er broren min.D: Det er min bror
+SISTER	this is my sister	S: Detta är min syster N: Dette er min søster.D: Det er min søster
+FATHER	this is my father	S: Detta är min pappa / far N: Dette er faren minD: Det er min far
+MOTHER	this is my mother 	S: Detta är min mamma / mor N: Dette er moren minD: Det er min mor
+SUFFER_HUNGER	I’m hungry.	S: Jag är hungrigN: Jeg sultenD: Jeg er sulten
+CHILD_HUNGRY	(My child) is hungry	S: Mitt barn är hungrigtN: Mitt barn er sultenD: Mit barn er sulten
+SUFFER_THIRST	I’m thirsty	S: Jag är törstig N: Jeg er tørstD: Jeg er tørstig                                 
+WATER	water	S: Vatten N: Vann D: Vand
+AVAILABLE_Q	Do you have...	S: Har du…N: Har du...D: Har du...
+LOCATION_Q	Where is..?	S: Var är..N: Hvor erD: Hvor er..
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	S: Var finns toaletten/badrummet?N: Hvor er toalettet?D: Hvor er toilettet henne?
+NEED_SHOWER	I need to take a shower	S: Jag måste ta en dusch N: Jeg må dusjeD: Jeg har brug for et bad
+SHOWER_LOCATION_Q	Where can I take a shower?	S: Var kan jag duscha N: Hvor kan jeg dusje?D: Hvor kan jeg tage et bad?
+SANITARYPAD	sanitary pad / towel	S: Binda N: BindD: Bind
+DIAPER	diaper / nappy	S: Blöja N: BleieD: Ble
+NEED_MAKE_PHONECALL	I need to make a phone call	S: Jag måste ringa N: Jeg må ringeD: Jeg skal ringe
+PRAY_LOCATION_Q	Where can I pray?	S: Var kan jag be? N: Hvor kan jeg be?D: Hvor kan jeg bede?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	S: Var kan jag köpa ___ N: Hvor kan jeg kjøpe ___ D: Hvor kan jeg købe___
+LOCATION_X_Q	Where can I find____?	S: Var kan jag hitta ___? N: Hvor kan jeg finne ___? D: Hvor kan jeg finde___
+TIME_CLOCK_Q	What time is it?	S: Vad är klockan? N: Hva er klokken?D: Hvad er klokken?
+NEED_SLEEP	I (we) need to sleep	S: Jag måste sova / Vi måste sova N: Jeg må sove/Vi må soveD: Jeg/Vi skal sove
+SUBWAY_LOCATION_Q	Where is the subway/underground?	S: Var är tunnelbanan N: Hvor er t-banenD: Hvor er Metroen?
+NO_MONEY	I don’t have any money.	S: Jag har inga pengar N: Jeg har ikke pengerD: Jeg har ingen penge
+SPEAK_X_Q	Do you speak...	S: Pratar du…?N: Snakker du..?D: Taler du..?
+SPEAK_LITTLE_X	I don't speak (English) very well.	S: Jag pratar inte (så bra) tyskN: Jeg snakker ikke så bra tyskD: Jeg taler ikke så godt (Tysk)
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	S: Kan du skriva ner det?N: Kan du skrive det ned?D: Kan du skrive det ned?
+NO_UNDERSTAND	I don’t understand	S: Jag förstår inte.N: Jeg forstår ikke.D: Jeg forstår ikke.
+HELP_REQUEST	Help! / Please help me!	S: Hjälp! / Snälla hjälp mig!N: Hjelp!/ Vær så snill å hjelp meg!D: Hjælp!/ vil du venligst hjælpe mig!
+IGNORANCE	I don’t know	S: Jag vet inteN: Jeg vet ikkeD: Jeg ved det ikke
+EVENT_Q	What happened?	S: Vad har hänt?N: Hva har skjedd?D: Hvad er der sket?
+SUFFER_FREEZING	I am cold/ freezing	S: Jag fryserN: Jeg fryserD: Jeg fryser
+EXPERIENCE_HAPPINESS	I’m happy.	S: Jag är glad/ jag är lyckligN: Jeg er glad / jeg er lykkeligD: Jeg er glad/ lykkelig
+SUFFER_FEAR	I’m scared.	S: Jag är räddN: Jeg er reddD: Jeg er bange
+SUFFER_SADNESS	I’m sad.	S: Jag är ledsenN: Jeg er tristD: Jeg er ked af det
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	S: Jag gillar digN: Jeg liker degD: Jeg kan lide dig
+DONT_WORRY	Don’t worry	S: Ingen fara N:Ingen fareD: Ingen problem
+NEED_APPOINTMENT	I would like an appointment.	S: Jag behöver boka en tid N: jeg trenger en time D: Jeg har brug for at booke en tid: 
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	S: Vilket rumsnummer? N: Hvilket nummer på rummet? S: Hvor er værelse nummer___
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	S: Var kan jag registrera mig? N: Hvor kan jeg registrere meg? D: Hvor kan jeg blive registreret
+MUST_WAIT	You have to wait	S: Du måste vänta N: Du må venteD: Du skal vente
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	S: Hur länge måste vi vänta här? Hvor lenge må vi vente her?D: Hvor længe skal vi vente her?
+1_DAY	one day	S: En dag N: En dagD: En dag
+1_HOUR	one hour	S: En timme N: En timeD: En time
+1_MONTH	one month	S: En månad N: En måned
+VERYSOON	very soon	S: Strax N: StraksD: Snart
+TOMORROW	tomorrow	S: Imorgon D: I morgen
+DAY_AFTER_TOMORROW	the day after tomorrow	S: I övermorgon D: I overmorgen   N:I overimorgen
+NEXT_WEEK	next week	S: Nästa veckan D: Næste uge    N: Neste uke
+RETURN_SOON	I will be back soon	S: Jag kommer strax tillbaka N: Jeg kommer straks tilbakeD: Jeg kommer snart tilbage
+ONE	one	Ett
+TWO	two	två
+THREE	three	tre
+FOUR	four	fyra
+FIVE	five	fem
+SIX	six	sex
+SEVEN	seven	sju
+EIGHT	eight	åtta
+NINE	nine	nio
+TEN	ten	tio 
+MONDAY	Monday	
+TUESDAY	 Tuesday	
+WEDNESDAY	 Wednesday	
+THURSDAY	 Thursday	
+FRIDAY	 Friday	
+SATURDAY	 Saturday	
+SUNDAY	 Sunday	
+JANUARY	January	
+FEBRUARY	 February	
+MARCH	 March	
+APRIL	 April	
+MAY	 May	
+JUNE	 June	
+JULY	 July	
+AUGUST	 August	
+SEPTEMBER	 September	
+OCTOBER	 October	
+NOVEMBER	 November	
+DECEMBER	 December	
+	Medical Terms	S: Hälsa N: Medisinske begrep / Helse
+NEED_DOCTOR	I need a doctor	S: Jag behöver en läkareN: Jeg trenger en legeD: Jeg har brug for en læge
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	S: Jag mår illa N: Jeg føler meg dårlig D: Jeg har det dårligt
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	S: Jag är sjukN: Jeg er sykD: Jeg er syg
+CHILD_ILL	(My child) is sick	S: Mitt barn är sjuktN: Mitt barn er syktD: Mit barn er sygt
+PREGNANT	I am pregnant	S: Jag är gravid N: Jeg er gravidD: Jeg er gravid
+SUFFER_ICD10_T78.4	I am having an allergic reaction	N: Jeg har en allergisk reaksjonD: Jeg har en allergisk reaktion
+SUFFER_ICD10_H81	I feel dizzy.	S: Jag känner mig svimfärdig N: Jeg er svimmel
+SUFFER_ICD10_E10	I am diabetic	S: Jag har diabetes N: Jeg har diabetes
+NEED_INSULIN	I need insulin	S: Jag behöver insulin N: Jeg trenger insulin
+SUFFERED_RAPE	I was raped.	S: Jag har blivit våldtagen N: Jeg har blitt voldtatt
+SUFFER_ICD10_R10	I have a stomach ache.	S: Jag har ont i magenN: Jeg har vondt i magenD: Jeg har ondt i maven
+SUFFER_ICD10_R50	I have a fever / a temperature	S: Jag har feber N: Jeg har feberD: Jeg har feber
+SUFFER_ICD10_R51	I have a headache	S: Jag har ont i huvudetN: Jeg har vondt i hodetD: Jeg har hovedpine
+SUFFER_ICD10_R05	I have a cough.	S: Jag har hosta N: Jeg har en hoste D: Jeg hoster
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	S: Mitt barn har hosta N: Mitt barn har en hoste D: Mit barn hoster
+FLU	cold	S: Förkylning N: Forkjølelse D: Forkølelse
+DIARRHEA	diarrhea	S: Diarré N: Diaré D: Diarre
+ICD10_K59.0	constipation	S: Förstoppning N: Forstoppelse D: Forstoppelse
+ICD10_B73.3	vaginal yeast infection (thrush)	S: Vaginal svamp N: Vaginal sopp D: Skedesvamp
+ICD10_B53.3	athlete's foot	S: Fotsvamp N: Fotsvamp D: Fodsvamp
+ICD10_B85	head lice	S: Löss N: Lus D: Lus
+		
+	Food	N: Mat                                     D: Mad
+MEAL_NOON	Lunch	S: Lunch N: Lunsj                                  D: Frokost
+MEAL_EVENING	Dinner	S: Middag N: Middag                              D: Aftensmad
+FOOD_HALAL_Q	Is this food Halal?	S: Är maten Halal?N: Er maten Halal?D: Er maden Halal?
+ALLERGY_AGAINST_X	I am allergic to….	S: Jag är allergisk mot…N: Jeg er allergisk mot..D: Jeg er allergisk over for..
+PORK_MEAT	pork	S: Griskött N: Grisekjøtt D: Grisekød
+POULTRY_MEAT	poultry	S: Fågel D+N: Fugl 
+NO_EAT_PORK	I do not eat pork	S: Jag äter inte griskött N: Jeg spiser ikke grisekjøtt D: Jeg spiser ikke svinekød
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	S: Jag är vegetarian N: Jeg er vegetarianerD: Jeg er vegetar
+SELF_VEGAN	I am a vegan	S: Jag är vegan N: Jeg er veganerD: Jeg er veganer
+FISH	fish	S: Fisk N: Fisk D: Fisk
+BREAD	bread	S: Bröd N: Brød D: Brød
+WATER	water	S: Vatten N: VannD: Vand
+LEMONADE	lemonade	S: Läsk N: Brus D: Saftevand/Sodavand
+MILK	milk	S: Mjölk N: Melk D: Mælk
+COFFEE	coffee	S: Kaffe N: Kaffe D: Kaffe
+TEA	tea	S: Te N: Te D: Te
+BEER	beer	S: Öl N: Øl D: Øl
+FRUITS	fruit	S+N: Frukt D: Frugt
+APPLE	apple	S: äpple N: Eple D: Æble
+PEAR	pear	S: Päron N: Pære D: Pære
+GRAPEFRUIT	grapefruit	S: Grapefrukt (grapefrukter) N: Grapefrukt D: Grape
+APRICOT	apricot	S: Aprikos N: Aprikos D: Abrikos
+POTATOE	potatoes [pl]	S: Potatis N: Poteter D: Kartofler
+BEAN	beans [pl]	S: Bönor   D+N: Bønner 
+PEA	peas [pl]	S: Ärter   D: Ærter    N: Erter
+CHICKPEA	chickpeas [pl]	S: Kikärtor N: Kikerter
+AUBERGINE	eggplant (US) / aubergine (UK)	S+N: Aubergine
+CARROT	carrots [pl]	S: Morot (Morötter) N: Gulrot (Gulrøtter)  D:Gulerod (Gulerødder)
+TOMATO	tomatoes [pl]	S+N+D: Tomat (tomater) 
+TURNIP	turnip	S: Majrova N: Nepe D: Majroe
+FLOUR	flour	S: Mjöl N+D: Mel
+HONEY	honey	S: Honung N+D: Honning
+CHEESE	cheese	S+N+D: Ost
+QUARK	quark / cottage cheese 	S: Keso N: Cottage Cheese D: Hytteost
+PAPRIKA	paprika	S+D + N: Paprika
+SAUCE	sauce	S: Sås D: Sovs  /  N: Saus
+BUTTER	butter	S: Smör /  N+D: Smør
+OIL	oil	S: Olja D:Olie  /  N: Olje
+CHEWING_GUM	chewing gum	S: Tuggummi N: Tyggegummi D: Tyggegummi
+SPOON	spoon	S: Sked D:Ske  /  N: Skje
+KNIFE	knife	S: Kniv/Bordskniv D+N: Kniv
+PLATE	plate	S: Tallrik D+N: Tallerken
+GLASS	glass (to drink from)	S: Glas / Dricksglas D: Glas  /  N: Glass
+MUG	mug	S: Mugg D+N: Krus
+TEAPOT	teapot 	S: Tekanna N: Tekanne
+		
+	Clothing	S: kläder  /  N: Klær / D: Tøj
+SHIRT	shirt	S: Skjorta N: SkjorteD: Skjorte
+DRESS	Dress	S: Klänning N: KjoleD: Kjole
+SKIRT	skirt	S: Kjol N: Skjørt D: Nederdel
+TROUSERS	trousers (UK) / pants (US)	S: Byxor N: BukserD: Bukser
+PULLOVER	jumper (UK) / sweater / pullover	S: Tröja N: Genser D: Bluse
+COAT	jacket / coat	S: Jacka N: Jakke
+HEADSCARF	veil / hijab / headscarf	S: Slöja N: SlørD: Slør/ Tørklæde
+SHOE	shoes [pl]	S+N: Skor D: Sko
+GLOVE	gloves [pl]	S: Handskar N: Hansker
+SOCK	socks [pl]	S: Strumpor N: Strømper
+UNDERWEAR	underwear	S: Underkläder N: UndertøyD: Undertøj
+		
+	Misc	S: övrigt  /  N: Annet / Øvrige
+BED	bed	S: Säng  /  D+N: Seng
+BLANKET	blanket	S: Täcke / Filt  N: Dyne / Teppe D: Dyne
+LAMP	lamp	S: Lampa/Lykta  /  N: Lampe
+TELEPHONE	telephone	S: Telefon N: TelefonD: Telefon
+CELLPHONE	mobile phone / cellphone	S+N: Mobil/Mobiltelefon
+ELECTRICITY	electricity	S: elektricitet   /  N: Elektrisitet
+COMPUTER	computer	S: Dator  /  N: Data / Datamaskin D: Computer
+INTERNET_CONNECTION	internet connection	S: internetuppkoppling  /  N: Internettforbindelse
+BATTERY	battery	S: Batteri  /  N: Batteri
+ROOM	room	S: Rum  /  N: Rom
+CHAIR	chair	S+N: Stol  /  N: Stol
+TABLE	table	S+N: Bord  / N: Bord
+TOILET	toilet	S: Toa/Toalett                          N:Toalett
+TOILET_PAPER	toilet paper	S: Toalettpapper N: Toalettpapir D: Toiletpapir
+TOOTHBRUSH	toothbrush	S: Tandborste                        N: Tannbørste
+TOOTHPASTE	toothpaste	S: Tandkräm                             N:Tannkrem
+SHOWER	shower	S: Dusch         N:Dusj
+BATHTUB	bathtub	S: Badkar        N: Badekar
+SOAP	soap	S: Tvål      N:Såpe
+SHAMPOO	shampoo	S: Schampo     N:Sjampo
+HANDKERCHIEF	tissue / handkerchief	S: Näsduk N: Lommetørkle
+CUPBOARD	cupboard	S: Köksskåp          N: Skap
+DOOR	door	S: Dörr D / N: Dør
+WINDOW	window	S: Fönster D: Vindue        N: Vindu
+WALL	wall	S: Vägg D: Mur       N: Vegg
+HOUSE	house	S / D / N: Hus
+APARTMENT	apartment / flat	S: Lägenhet D: Lejlighed      N: Leilighet
+BOOK	book	D: Bog    S+N:Bok
+NEWSPAPER	newspaper	S: Tidning D / N: Avis
+RADIO	radio	S/D/N: Radio
+TELEVISION	television	D: Fjernsyn  S+N: TV

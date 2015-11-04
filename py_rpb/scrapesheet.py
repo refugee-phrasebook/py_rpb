@@ -47,10 +47,8 @@ from itertools import tee
 
 import requests
 from bs4 import BeautifulSoup
-
-##from py_rpb.tabulate 
-##import tabulate
-from py_rpb.tabulate import tabulate
+  
+#from py_rpb.tabulate import tabulate 
 
 logger = logging.getLogger(__name__)
 
@@ -88,7 +86,7 @@ def scrape_google_sheet(html, slice_i=None, slice_j=None):
     # Find all rowheaders in sheet having id 0Rx
     pattern = re.compile('^\d+R(\d+)')
     rh = table.find_all('th', {'id': pattern})
-
+    print(len(rh))
     records = []
     section_rows = {1}  # The first section is directly below language title row
     row = 0
@@ -112,7 +110,6 @@ def scrape_google_sheet(html, slice_i=None, slice_j=None):
         else:
             section_rows.add(row)
             logger.debug('next section: row %s', row)
-
     languages = [dict(column=i, language=l) for i, l in enumerate(records[0]) if l]
     sections = [dict(row=r, cells=records[r]) for r in sorted(list(section_rows)) if
                 r < len(records)]

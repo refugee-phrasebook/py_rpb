@@ -1,0 +1,212 @@
+	Basic Conversation		
+GREETING_INFORMAL	Hello	হ্যালো / সালাম	hello/salam
+GREETING_MORNING	good morning	শুভ সকাল / সুপ্রভাত  | স্লামালিকুম	shubho din / suprobhat | slāmālikum
+GREETING_EVENING	good evening	শুভ সন্ধ্যা	shubho sandhyā
+GREETING_DEPARTURE	goodbye	আবার দেখা হবে	abar dekha hobe
+SORRY	sorry / excuse me 	মাফ করবেন ...	maf korben.. 
+PLEASE	please	প্লিজ / দয়া করে	please/ doya kore
+THANKS	thank you / thanks	ধন্যবাদ	dhonnobad
+REPLY_THANKS	you're welcome [response to thank you / thanks]		
+GIVE_OWN_NAME	my name is...	আমার নাম ...	amar nam ...
+ASK_OTHERS_NAME	What is your name?	আপনার নাম কী?	apnar nam ki?
+GIVE_OWN_PROVENANCE	I’m from...	আমি ..... থেকে আসছি	ami .... theke ashchhi
+FAMILY	family	পরিবার	poribar
+PRESENT_HUSBAND	this is my husband	উনি ... আমার স্বামী	uni ... amar shami
+WIFE	my wife	আমার স্ত্রী 	amar stri 
+CHILDREN	my children	আমার বাচ্চারা  	amar bachchara
+DAUGHTER	my daughter	আমার মেয়ে	amar meye
+SON	my son	আমার ছেলে	amar chhele
+BABY	my baby	আমার বাচ্চা	amar bachcha
+BROTHER	this is my brother	এটা ... আমার ভাই	eta ... amar bhai
+SISTER	this is my sister	এটা ... আমার বোন	eta ... amar bon
+FATHER	this is my father	এটা ... আমার বাবা	eta ... amar baba
+MOTHER	this is my mother 	এটা ... আমার মা	eta ... amar maa
+SUFFER_HUNGER	I’m hungry.	আমার খিদে লেগেছে / আমি ক্ষুধার্ত / আমি কিছু খেতে চাই	amar khide legechhe / ami khudharto / ami kichhu khete chai
+CHILD_HUNGRY	(My child) is hungry	আমার বাচ্চাটার খিদে পেয়েছে	amar bachchatar khide legechhe
+SUFFER_THIRST	I’m thirsty	আমার পিপাসা লেগেছে / আমি পানি খাব	amar pipasha legechhe / ami pani khabo
+WATER	water	পানি	pani
+AVAILABLE_Q	Do you have...	আপনার কাছে কি ... আছে?	apnar kachhe ki .... achhe?
+LOCATION_Q	Where is..?	 ..... কোথায়?	... kothay?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	বাথরুম কোনদিকে? / বাথরুমটা  কোথায়? 	bathroom ta kothay?
+NEED_SHOWER	I need to take a shower	আমাকে গোসল করতে হবে	amake goshol korte hobe
+SHOWER_LOCATION_Q	Where can I take a shower?	কোথায় গোসল করতে পারি?	ami kothay goshol korte pari? 
+SANITARYPAD	sanitary pad / towel	স্যানিটারি প্যাড  	sanitary pad
+DIAPER	diaper / nappy	ডাইপার	daipar
+NEED_MAKE_PHONECALL	I need to make a phone call	আমাকে একটা ফোন করতে হবে	amake ekta fon korte hobe
+PRAY_LOCATION_Q	Where can I pray?	আমি কোথায় নামাজ পড়তে পারি? / আমি কোথায় প্রার্থনা করতে পারি?	ami kothay namaj porte pari?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	...কোথায় কিনতে পাওয়া যায়?	.... kothay kinte pawa jay 
+LOCATION_X_Q	Where can I find____?	 ....কোথায় পাব?	... kothay pabo?
+TIME_CLOCK_Q	What time is it?	ক'টা বাজে?	kota baje
+NEED_SLEEP	I (we) need to sleep	আমাকে ঘুমাতে হবে	amake ghumate hobe
+SUBWAY_LOCATION_Q	Where is the subway/underground?	উ-বা'ন কোনদিকে?	U-Bahn kondike?
+NO_MONEY	I don’t have any money.	আমার কাছে কোনো টাকা নেই	amar kachhe kono taka nei
+SPEAK_X_Q	Do you speak...	আপনি কি .... বলতে পারেন?	apni ki .... bolte paren?
+SPEAK_LITTLE_X	I don't speak (English) very well.	আমি খুব একটা ভালো (জার্মান) বলতে পারিনা  	ami khub ekta bhalo (German) bolte parina
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	আপনি কি আমাকে একটু লিখে দিতে পারবেন?	apni ki amake ektu likhe dite parben?
+NO_UNDERSTAND	I don’t understand	আমি বুঝতে পারছি না	ami bujhte parchhi na
+HELP_REQUEST	Help! / Please help me!	বাঁচাও! দয়া করে আমাকে একটু সাহায্য করুন  	ba(n)chao! amake doya kore ektu shahajjo korun
+IGNORANCE	I don’t know	আমি জানি না	ami jani na
+EVENT_Q	What happened?	কী হয়েছে  	ki hoyechhe
+SUFFER_FREEZING	I am cold/ freezing	আমার শীত লাগছে/করছে 	amar sheet lagchhe
+EXPERIENCE_HAPPINESS	I’m happy.	আমার খুশী লাগছে / আমি খুশী 	amar khushi lagchhe / ami khushi
+SUFFER_FEAR	I’m scared.	আমার ভয় করছে	amar bhoy korchhe
+SUFFER_SADNESS	I’m sad.	আমার মন খারাপ	amar mon kharap
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	আমার তোমাকে পছন্দ	amar tomake pochhondo
+DONT_WORRY	Don’t worry	চিন্তার কিছু নেই	chintar kichhu nei 
+NEED_APPOINTMENT	I would like an appointment.	আমার এপয়েন্টমেন্ট লাগবে	amar appointment lagbe
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	রুম নাম্বার ... টা কোনদিকে?	room number ... ta kondike?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	রেজিস্ট্রেশন সেন্টারটা কোথায়? 	Registration center ta kothay?
+MUST_WAIT	You have to wait	আপনাকে / তোমাকে একটু অপেক্ষা করতে হবে 	apnake / tomake ektu opekkha korte hobe
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	আমাদের এখানে কতক্ষণ অপেক্ষা করতে হবে?	amader ekhane kotokkhon opekkha korte hobe
+1_DAY	one day	এক দিন 	ek din
+1_HOUR	one hour	এক ঘন্টা	ek ghonta
+1_MONTH	one month		
+VERYSOON	very soon	খুব শীঘ্রি	khub shighri
+TOMORROW	tomorrow	আগামী কাল 	agami kal
+DAY_AFTER_TOMORROW	the day after tomorrow	আগামী পরশু	agami porshu
+NEXT_WEEK	next week	পরের সপ্তাহে	porer shoptahe
+RETURN_SOON	I will be back soon	আমি খুব তাড়াতাড়ি ফিরে আসবো	ami khub taratari fire ashbo
+ONE	one	১ এক	ek
+TWO	two	২ দুই	dui
+THREE	three	৩ তিন	tin
+FOUR	four	৪ চার	char
+FIVE	five	৫ পাঁচ	pa(n)ch
+SIX	six	৬ ছয়	chhoy
+SEVEN	seven	৭ সাত	sat
+EIGHT	eight	৮ আট	aat
+NINE	nine	৯ নয়	noy
+TEN	ten	১০ দশ 	dosh
+MONDAY	Monday	সোমবার	
+TUESDAY	 Tuesday	 মঙ্গলবার	
+WEDNESDAY	 Wednesday	 বুধবার	
+THURSDAY	 Thursday	 বৃহস্পতিবার	
+FRIDAY	 Friday	 শুক্রবার	
+SATURDAY	 Saturday	 শনিবার	
+SUNDAY	 Sunday	 রবিবার 	
+JANUARY	January	জানুয়ারী	
+FEBRUARY	 February	 ফেব্রুয়ারী	
+MARCH	 March	 মার্চ	
+APRIL	 April	 এপ্রিল	
+MAY	 May	 মে	
+JUNE	 June	 জুন	
+JULY	 July	 জুলাই	
+AUGUST	 August	 আগস্ট	
+SEPTEMBER	 September	 সেপ্টেম্বর	
+OCTOBER	 October	 অক্টোবর	
+NOVEMBER	 November	 নভেম্বর	
+DECEMBER	 December	 ডিসেম্বর 	
+	Medical Terms		
+NEED_DOCTOR	I need a doctor	আমাকে ডাক্তারের কাছে যেতে হবে	amake daktarer kachhe jete hobe
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	আমার বমি পাচ্ছে / আমার শরীর খারাপ লাগছে	amar bomi pachchhe
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	আমি অসুস্থ / আমার শরীর খারাপ	ami osustho / amar shorir kharap
+CHILD_ILL	(My child) is sick	আমার বাচ্চাটার অসুখ	amar bachchatar oshukh
+PREGNANT	I am pregnant	আমি গর্ভবতী	ami gorbhoboti
+SUFFER_ICD10_T78.4	I am having an allergic reaction	আমার এলার্জি আছে/হয়েছে 	
+SUFFER_ICD10_H81	I feel dizzy.	আমার মাথা ঘুরছে	amar matha ghurchhe
+SUFFER_ICD10_E10	I am diabetic	আমি ডায়বেটিস-এর রোগী / আমার ডায়বেটিস আছে 	
+NEED_INSULIN	I need insulin	আমার ইন্সুলিন লাগবে/প্রয়োজন 	
+SUFFERED_RAPE	I was raped.	আমাকে ধর্ষণ করা হয়েছে	amake dhorshon kora hoyechhe
+SUFFER_ICD10_R10	I have a stomach ache.	আমার পেট ব্যথা করছে	amar pet betha korchhe
+SUFFER_ICD10_R50	I have a fever / a temperature	আমার জ্বর	amar jor
+SUFFER_ICD10_R51	I have a headache	আমার মাথা ধরেছে / আমার মাথা ব্যথা করছে	amar matha dhorechhe
+SUFFER_ICD10_R05	I have a cough.	আমার কাশি  হয়েছে 	amar kashi hoyechhe
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	আমার বাচ্চার কাশি হয়েছে	amar bachchare kashi hoyechhe
+FLU	cold	ঠান্ডা লাগা 	thanda laga
+DIARRHEA	diarrhea	ডায়রিয়া/আমাশা  	dayriya/amasha
+ICD10_K59.0	constipation	কষা 	kosha
+ICD10_B73.3	vaginal yeast infection (thrush)	ভ্যাজাইনাল ঈস্ট ইনফেকশন	vaginal yeast infection (thrush)
+ICD10_B53.3	athlete's foot	পায়ের ফাঙ্গাল ইনফেকশন 	Payer fungal infection
+ICD10_B85	head lice	ঊকুন	ukun
+			
+	Food	খাবারদাবার 	khabardabar 
+MEAL_NOON	Lunch	দুপুরের খাবার 	
+MEAL_EVENING	Dinner	রাতের খাবার 	
+FOOD_HALAL_Q	Is this food Halal?	খাবারটা কি হালাল	khabarta ki halal 
+ALLERGY_AGAINST_X	I am allergic to….	আমার ... তে এলার্জি আছে 	amar ... te allergy achhe 
+PORK_MEAT	pork	শূকরের মাংস	shukorer mangso
+POULTRY_MEAT	poultry	পাখি	pakhi
+NO_EAT_PORK	I do not eat pork	আমি শুকরের মাংস খাইনা 	ami shukorer mangsho khaina 
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	আমি ভেজিট্যারিয়ান / আমি কোনো মাছ-মাংস খাইনা 	ami kono machh-mangsho khai na
+SELF_VEGAN	I am a vegan	আমি ভেগান 	ami vegan
+FISH	fish	মাছ	machh
+BREAD	bread	রুটি	ruti
+WATER	water	পানি	pani
+LEMONADE	lemonade	লেবুর শরবত	lebur shorbot
+MILK	milk	দুধ	dudh
+COFFEE	coffee	কফি	Kofi
+TEA	tea	চা	cha
+BEER	beer	বিয়ার 	bier 
+FRUITS	fruit	ফল 	Pfol
+APPLE	apple	আপেল	Apel
+PEAR	pear	নাশপাতি	nashpati
+GRAPEFRUIT	grapefruit	বাতাবীলেবু / জাম্বুরা	Batabilebu
+APRICOT	apricot	আপ্রিকট 	apricot
+POTATOE	potatoes [pl]	আলু	alu
+BEAN	beans [pl]	বরবটি / সীম 	borboti /sim
+PEA	peas [pl]	মটরশুটি	Motorshuti
+CHICKPEA	chickpeas [pl]	চানা 	
+AUBERGINE	eggplant (US) / aubergine (UK)	বেগুন 	
+CARROT	carrots [pl]	গাজর	Gajor
+TOMATO	tomatoes [pl]	টমেটো 	Tomato 
+TURNIP	turnip	মূল (সবজি যেমন মূলা)	mul (shobji jemon mula)
+FLOUR	flour	আটা / ময়দা 	Ata /moyda
+HONEY	honey	মধু 	modhu
+CHEESE	cheese	পনির / চিজ 	Ponir
+QUARK	quark / cottage cheese 	ছানা 	Chhana
+PAPRIKA	paprika	ক্যাপসিকাম গুড়া 	kapsikam gura
+SAUCE	sauce	ঝোল / সস 	jhol/sos
+BUTTER	butter	মাখন 	makhon
+OIL	oil	তেল 	tel
+CHEWING_GUM	chewing gum	চ্যুয়িং গাম 	chuying gam
+SPOON	spoon	টেবিল চামচ / চা চামচ 	tebil chamoch/ cha chamoch
+KNIFE	knife	ছুরি / চাকু 	chhuri/chaku
+PLATE	plate	থালা 	thala
+GLASS	glass (to drink from)	গ্লাস 	glas
+MUG	mug	মগ 	mog
+TEAPOT	teapot 	চায়ের কেতলি 	chayer ketli
+			
+	Clothing	জামাকাপড় 	jamakapor
+SHIRT	shirt	শার্ট / জামা	shirt / jama
+DRESS	Dress	জামা	 Jama
+SKIRT	skirt	স্কার্ট 	skirt 
+TROUSERS	trousers (UK) / pants (US)	প্যান্ট 	pant
+PULLOVER	jumper (UK) / sweater / pullover	সুয়েটার 	suyetar
+COAT	jacket / coat	জ্যাকেট 	jaket
+HEADSCARF	veil / hijab / headscarf	হিজাব/ ওড়না 	hijab/orna
+SHOE	shoes [pl]	জুতা 	juta
+GLOVE	gloves [pl]	হাতমোজা 	hatmoja
+SOCK	socks [pl]	মোজা 	moja
+UNDERWEAR	underwear	অন্তর্বাস 	ontorbash
+			
+	Misc	অন্যান্য 	onnanno
+BED	bed	বিছানা 	bichhana
+BLANKET	blanket	কম্বল 	kombol
+LAMP	lamp	বাতি 	bati
+TELEPHONE	telephone	টেলিফোন 	telifon
+CELLPHONE	mobile phone / cellphone	মুঠোফোন/ মোবাইল টেলিফোন / সেলফোন 	muthofon/mobail telifon/selfon
+ELECTRICITY	electricity	বিদ্যুত / কারেন্ট 	biddut/karent
+COMPUTER	computer	কম্পিউটার 	kompiutar
+INTERNET_CONNECTION	internet connection	ইন্টারনেট সংযোগ 	intarnet shongjog
+BATTERY	battery	ব্যাটারি 	batari
+ROOM	room	ঘর 	ghori
+CHAIR	chair	চেয়ার 	cheyar
+TABLE	table	টেবিল 	tebil
+TOILET	toilet	বাথরুম / টয়লেট 	bathrum/toilet
+TOILET_PAPER	toilet paper	টয়লেট টিস্যু 	toilet tishu
+TOOTHBRUSH	toothbrush	দাঁতের ব্রাশ 	da(n)ter brash
+TOOTHPASTE	toothpaste	টুথপেস্ট 	tuthpest
+SHOWER	shower	শাওয়ার/ গোসল 	shawar/goshol 
+BATHTUB	bathtub	বাথটাব 	bathtab
+SOAP	soap	সাবান 	shaban
+SHAMPOO	shampoo	শ্যাম্পু 	shampu
+HANDKERCHIEF	tissue / handkerchief	টিস্যু / রুমাল 	tishu/rumal
+CUPBOARD	cupboard	আলমারি 	almari
+DOOR	door	দরজা 	dorja
+WINDOW	window	জানালা 	janala
+WALL	wall	দেয়াল 	deyal
+HOUSE	house	বাড়ি 	bari
+APARTMENT	apartment / flat	বাসা 	basha
+BOOK	book	বই 	boi
+NEWSPAPER	newspaper	খবরের কাগজ 	khoborer kagoj
+RADIO	radio	বেতার 	betar
+TELEVISION	television	টেলিভিশন / দূরদর্শন 	telibhishon

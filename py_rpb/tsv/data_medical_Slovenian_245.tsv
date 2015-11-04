@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Potrebujem zdravnika.
+NEED_HOSPITAL	I need to go to the hospital	Moram v bolnico
+NEED_AMBULANCE	I need an ambulance	Pokličite reševalce.
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Kje lahko dobim recept?
+WHEN_RETURN	When do I have to come back?	Kdaj moram priti nazaj?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Ali moram v bolnico?
+SUFFER_ICD10_J45	I have asthma	Imam astmo
+SUFFER_ICD10_J41	I have chronic bronchitis	Imam kronični bronhitis
+SUFFER_ICD10_I50	I have heart failure	Imam težave s srcem
+SUFFER_ICD10_I21	I had a myocardial infarction	Imel sem srčni napad.
+SUFFER_ICD10_G40	I have epilepsy	Imam epilepsijo
+SUFFER_ICD10_C00	I have cancer	Imam raka
+SUFFER_ICD10_A16	I have tuberculosis	Imam tuberkulozo
+SUFFER_ICD10_E10	I have diabetes	Imam diabetes/ sladkorno bolezen
+SUFFER_HIV	I have HIV	Imam HIV
+SUFFER_ICD10_C90	I have leukaemia	Imam levkemijo
+SUFFER_ICD10_D57	I have sickle cell disease	Imam anemijo srpastih celic.
+SUFFER_ICD10_D56	I have thalassaemia	Imam talasemijo.
+SUFFER_ICD10_F32	I have chronic depression	Imam kronično depresijo
+SUFFER_ICD10_F20	I have schizophrenia	Imam shizofrenijo
+SUFFER_ICD10_F31	I have bipolar disorder	Imam bipolarno motnjo
+HERE_MY_MEDICATION	This is my medication	To so moja zdravila
+DAILY_MEDICATION	I take this medication every day	Ta zdravila jemljem vsak dan
+PERMANENT_MEDICATION	I have been taking this medication for years	Ta zdravila jemljem že več let
+NEED_MORE_MEDICATION	I need more of this medication	Potrebujem več tega zdravila
+SUFFER_INJURY	I was injured	Poškodovan sem (m), poškodovana sem (f)
+SUFFER_BEATING	Somebody hit me	Nekdo me je udaril
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Nekdo me je zabodel/porezal z nožem
+SUFFER_CAR_ACCIDENT	I was hit by a car	Povozil me je avto
+SUFFER_STING	I was stung by an insect	Pičil me je insekt
+SUFFER_BITE	I was bitten	Nekaj me je ugriznilo
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Padel sem z višine (m) padla sem z višine (f)
+SUFFER_FALL 	I fell down	Padel sem (m), padla sem (f)
+HERE_PAIN	It hurts here	Tukaj me boli
+PAIN_MOVES_A_B	The pain started here and goes to here	Bolečina se začne tukaj, boli me vse do sem / 
+PERMANENT_PAIN	The pain is there all the time	Boli me ves čas
+NON_PERMANENT_PAIN	The pain comes and goes	Bolečina pride in gre
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Boli na dotik
+PAIN_WHEN_STANDING	It gets worse when I stand up	Poslabša se mi, ko vstanem
+PAIN_WHEN_LYING	It gets worse when I lie down	Poslabša se mi, ko ležim
+SHARP_PAIN	It is a sharp pain	Ostra bolečina
+DULL_PAIN	It is a dull pain	Topa bolečina
+SUDDEN_PAIN	The pain started suddenly	Nenadoma me je začelo boleti
+GRADUAL_PAIN	The pain started gradually	Boleti me je začelo postopoma
+KNOWN_PAIN	I have had this pain before	Že prej me je bolelo
+UNKNOWN_PAIN	I have never had this pain before	Še nikoli me ni bolelo na tak način
+SUFFER_BLEEDING	I am bleeding	Krvavim
+SUFFER_ICD10_R31	There is blood in my urine	V mojem urinu je kri
+SUFFER_ICD10_K92	There is blood in my faeces	V mojem blatu je kri
+SUFFER_ICD10_K92	There is blood in my vomit	V mojem bruhanju je kri
+SUFFER_ICD10_R04.2	I am coughing up blood	Kašljam kri
+SUFFER_ICD10_K62	I am bleeding from my anus	Krvavim iz anusa
+SUFFER_ICD10_R04.0	I have a nosebleed	Iz nosa mi teče kri
+SUFFER_ICD10_N93	I am bleeding between my periods	Krvavim tudi med dvema obdobjema menstruacije
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	Menstruacije nimam več, toda zopet krvavim
+FMA_7154	head	glava
+FMA_54448	eye	oko
+FMA_52780	ear	uho
+FMA_49184	mouth	usta
+FMA_24728	face	obraz
+FMA_7155	neck	vrat
+FMA_25202	shoulder	rama
+FMA_24901	elbow	komolec
+FMA_24964	hip	bok
+FMA_24974	knee	koleno
+FMA_9665	ankle	gleženj
+FMA_9664	foot	stopalo
+FMA_24890	arm	roka
+FMA_24979	leg	noga
+FMA_9712	hand	dlan
+FMA_9666	finger	prst na roki
+FMA_25046	toe	prst na nogi
+FMA_9576	chest	prsi
+FMA_9577	belly	trebuh
+FMA_7088	heart	srce
+FMA_7195	lung	pljuča
+FMA_7148	stomach	želodec
+FMA_7202	gallbladder	žolčnik
+FMA_7203	kidney	ledvica
+FMA_7199	bowel	črevo
+FMA_15711	anus	anus
+FMA_17558	uterus	maternica
+FMA_7209	ovary	jajčnik
+FMA_19949	vagina	nožnica, vagina
+FMA_7210	testes	testisi
+FMA_9707	penis	penis
+SUFFER_SICKNESS	I feel ill	Bolna sem (f), bolan sem (m)
+SUFFER_ICD10_R50	I have a fever	Imam vročino
+FREEZING	I feel cold	Zebe me
+SUFFER_SHIVERING	I have been shaking	Tresem se
+SUFFER_COLD_SWEAT	I had a cold sweat	Mrzel pot me obliva
+SUFFERED_ICD10_R55	I fainted	Onesvestil sem se (m), onesvestila sem se (f)
+SUFFER_ICD10_H81	I feel dizzy	Vrti se mi
+SUFFER_ICD10_G40	I had a seizure	Imel sem epileptični napad (m), imela sem epileptični napad (f)
+SUFFER_ICD10_R55	I was unconscious	Bila sem nezavestna (f), bil sem nezavesten (m)
+SUFFER_ICD10_R06	I have difficulty breathing	Težko diham
+SUFFER_ICD10_R06.2	I have wheezing	Hropem
+SUFFER_ICD10_R05	I have a cough	Kašljam
+SUFFER_ICD10_R09.3	I am coughing up sputum	Izkašljujem sluz
+SUFFER_ICD10_I47	My heart beats fast	Srce mi hitro bije
+SUFFER_ICD10_I49	My heart beats irregular	Srce mi bije neenakomerno
+SUFFER_CHEST_PAIN	I have chest pain	V prsih me boli
+SUFFER_STOMACH_PAIN	I have stomach ache	Trebuh me boli
+SUFFER_ICD10_R11	I feel sick	Slabo mi je
+SUFFERED_VOMITING	I have been sick	Bruhal sem (m), bruhala sem (f)
+SUFFER_ICD10_A09	I have diarrhoea	Drisko imam
+SUFFER_ICD10_K59	I have constipation	Imam zaprtje
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	Izbruham vse, kar pojem in popijem 
+SUFFER_ICD10_N39.3	I urinate every hour	Kar naprej uriniram
+SUFFER_ICD10_R30.9	I have pain when urinating	Boli me, ko uriniram
+SMELLY_URINE	My urine smells bad	Moj urin smrdi
+SUFFER_ICD10_R30.0	I can´t urinate	Ne morem urinirati
+SUFFER_ICD10_R10	I have colic pain in my side	Imam količne bolečine
+MAYBE_PREGNANT	I might be pregnant	Mogoče sem noseča
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Noseča sem in krvavim
+UTERINE_CONTRACTION	I am in labour	Popadke imam
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	Nazadnje sem imela spolne odnose pred dvema dnevoma (f), nazadnje sem imel spolne odnose pred dvema dnevoma (m)
+LONG_TIME_NO_SEX	I have not had sex for a long time	Že dolgo nisem imela spolnih odnosov (f), že dolgo nisem imel spolnih odnosov (m)
+DISEASESDB_28137	I have a discharge from my vagina	Imam izcedek iz nožnice
+SUFFER_ICD10_N34	I have a discharge from my urethra	Imam izcedek iz sečevoda
+SUFFERED_RAPE	I have been raped	Posiljena sem bila
+SUFFER_ICD10_R20.1	My ... feels numb	Ne čutim ...
+SUFFER_ICD10_R20.2	My .. is tingling	Mravljinči me v ... 
+WEAK_X	My .. is weak	Moj/moja ... je šibek/šibka
+PARALYSED_X	My .. is paralysed	Moj/moja ... je ohromel/ohromela 
+INABILITY_TO_SPEAK	I cannot speak	Ne morem govoriti
+SUFFER_ICD10_H54	I cannot see	Ne vidim
+SUFFER_ICD10_R51	I have a headache	Glava me boli
+SUFFER_ICD10_M54.2	I cannot flex my neck	Ne morem premakniti glave
+SUFFER_FEAR	I feel frightened	Strah me je
+SUFFER_DEPRESSION	I feel depressed	Potrt sem (m), potrta sem (f)
+SUFFER_SADNESS	I feel sad	Žalostna sem (f), žalosten sem (m)
+SUFFER_ICD10_R45.8	I think about suicide	Razmišljam o samomoru
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Slišim glasove, ko sem sam/a
+FEEL_OBSERVED	I feel like I'm being watched	Počutim se, kot da me nekdo opazuje
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

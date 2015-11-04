@@ -1,0 +1,212 @@
+	Basic Conversation	
+GREETING_INFORMAL	Hello	S: AhojC: Ahoj
+GREETING_MORNING	good morning	S: Dobrý deňC: Dobrý den
+GREETING_EVENING	good evening	S: Dobrý večerC: Dobrý večer
+GREETING_DEPARTURE	goodbye	S: DovideniaC: Na shledanou
+SORRY	sorry / excuse me 	S: PrepáčteC: Promiňte
+PLEASE	please	S: Prosím / C: Prosím
+THANKS	thank you / thanks	S: Ďakujem / C: Děkuji / Díky
+REPLY_THANKS	you're welcome [response to thank you / thanks]	
+GIVE_OWN_NAME	my name is...	S: Volám sa / C: Jmenuji se...
+ASK_OTHERS_NAME	What is your name?	S: Ako sa voláte ? / C: Jak se jmenujete?
+GIVE_OWN_PROVENANCE	I’m from...	S: Ja som z / C: Jsem z
+FAMILY	family	S: rodinaC: rodina
+PRESENT_HUSBAND	this is my husband	S: To je môj mužC: To je můj muž
+WIFE	my wife	S: To je moja ženaC: To je moje žena
+CHILDREN	my children	S: Moje detiC: Moje děti
+DAUGHTER	my daughter	S: Moja dcéraC: Moje dcera
+SON	my son	S: Môj synC: Můj syn
+BABY	my baby	S: Moje dieťaC: Moje dítě
+BROTHER	this is my brother	S: Toto je môj bratC: Tohle je můj bratr
+SISTER	this is my sister	S: Toto je moja sestraC: Tohle je moje sestra
+FATHER	this is my father	S: To je môj otecC: To je můj otec / táta
+MOTHER	this is my mother 	S: To je moja matkaC: To je moje matka / máma
+SUFFER_HUNGER	I’m hungry.	S: Som hladnýC: Mám hlad / Jsem hladový
+CHILD_HUNGRY	(My child) is hungry	S: Moje dieťa je hladnéC: Moje dítě má hlad. / Moje dítě je hladové.
+SUFFER_THIRST	I’m thirsty	S: Som smädnýC: Mám žízeň
+WATER	water	S, C: voda
+AVAILABLE_Q	Do you have...	S, C: Máte?
+LOCATION_Q	Where is..?	S: KdeC: Kde
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	S: Kde je toaleta (záchod), prosím?C: Kde je toaleta (záchod), prosím?
+NEED_SHOWER	I need to take a shower	S: Potrebujem sa osprchovať. C: Potřebuji se osprchovat.
+SHOWER_LOCATION_Q	Where can I take a shower?	S: Kde sa môžem osprchovať?C: Kde se mohu osprchovat?
+SANITARYPAD	sanitary pad / towel	S: hygienické vložkyC: hygienické vložky
+DIAPER	diaper / nappy	S: plienkaC: plenka / gatě
+NEED_MAKE_PHONECALL	I need to make a phone call	S: Potrebujem si zatelefonovať / Potrebujem si zavolaťC: Potřebuji si zatelefonovat / Potřebuji si zavolat
+PRAY_LOCATION_Q	Where can I pray?	S: Kde sa môžem pomodliť? C: Kde se mohu pomodlit?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	S: Kde kúpim... ?C: Kde koupím...?
+LOCATION_X_Q	Where can I find____?	S: Kde nájdem...? C: Kde najdu...?
+TIME_CLOCK_Q	What time is it?	S: Koľko je hodín ?C: Kolik je hodin?
+NEED_SLEEP	I (we) need to sleep	S: Musím ísť spať. / Potrebujem sa vyspať. C: Musím jít spát / Potřebuji se vyspat
+SUBWAY_LOCATION_Q	Where is the subway/underground?	S: Kde je metro?C: Kde je metro?
+NO_MONEY	I don’t have any money.	S: Nemám žiadne peniazeC: Nemám žádné peníze
+SPEAK_X_Q	Do you speak...	S: Hovoríte...?C: Mluvíte...?
+SPEAK_LITTLE_X	I don't speak (English) very well.	S: Neviem (dobre) po nemeckyC: Neumím (dobře) německy
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	S: Nemohli by ste mi to napísať?C: Nemohli byste mi to napsat?
+NO_UNDERSTAND	I don’t understand	S: NerozumiemC: Nerozumím
+HELP_REQUEST	Help! / Please help me!	S: Pomôžte mi, prosímC: Pomožte mi, prosím
+IGNORANCE	I don’t know	S: NeviemC: Nevím
+EVENT_Q	What happened?	S: Čo sa stalo?C: Co se stalo?
+SUFFER_FREEZING	I am cold/ freezing	S: Je mi zimaC: Je mi zima
+EXPERIENCE_HAPPINESS	I’m happy.	S: Som štastnýC: Jsem šťastný / Jsem spokojený
+SUFFER_FEAR	I’m scared.	S: Bojím saC: Bojím se / Mám strach
+SUFFER_SADNESS	I’m sad.	S: Je mi smutnoC: Jsem smutný
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	S: Mám ťa rádC: Mám tě rád
+DONT_WORRY	Don’t worry	S: Nebojte sa / Nerobte si starostiC: Nebojte se / Nedělejte si starosti
+NEED_APPOINTMENT	I would like an appointment.	S: Rád by som sa stretol C: Rád bych si dal schůzku /Potřebuji se sejít
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	S: Kde je izba číslo? C: Kde je pokoj číslo?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	S: Kde je registračné centrum? C: Kde je registrační centrum?
+MUST_WAIT	You have to wait	S: Musíte počkaťC: Musíte počkat
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	S: Ako dlho tu musíme čakaťC: Jak dlouho tady musíme čekat?
+1_DAY	one day	S: Jeden deňC: Jeden den
+1_HOUR	one hour	S: Jedna hodinaC: Jedna hodina
+1_MONTH	one month	
+VERYSOON	very soon	S: Veľmi skoro. C: Velmi brzo.
+TOMORROW	tomorrow	S: zajtra C: zítra
+DAY_AFTER_TOMORROW	the day after tomorrow	S: pozajtraC: pozítří
+NEXT_WEEK	next week	S: budúci týždeňC: příští týden
+RETURN_SOON	I will be back soon	S: Hneď sa vrátimC: Brzy se vrátím
+ONE	one	
+TWO	two	
+THREE	three	
+FOUR	four	
+FIVE	five	
+SIX	six	
+SEVEN	seven	
+EIGHT	eight	
+NINE	nine	
+TEN	ten	
+MONDAY	Monday	
+TUESDAY	 Tuesday	
+WEDNESDAY	 Wednesday	
+THURSDAY	 Thursday	
+FRIDAY	 Friday	
+SATURDAY	 Saturday	
+SUNDAY	 Sunday	
+JANUARY	January	
+FEBRUARY	 February	
+MARCH	 March	
+APRIL	 April	
+MAY	 May	
+JUNE	 June	
+JULY	 July	
+AUGUST	 August	
+SEPTEMBER	 September	
+OCTOBER	 October	
+NOVEMBER	 November	
+DECEMBER	 December	
+	Medical Terms	
+NEED_DOCTOR	I need a doctor	S: Potrebujem doktoraC: Potřebuji doktora
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	S, C: Je mi zle.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	S: Je mi zle.C: Jsem nemocný./ Je mi špatně.
+CHILD_ILL	(My child) is sick	S: Moje dieťa niečo bolíC: Moje dítě něco bolí.
+PREGNANT	I am pregnant	S: Som tehotná. C: Jsem těhotná.
+SUFFER_ICD10_T78.4	I am having an allergic reaction	mám alergickou reakci
+SUFFER_ICD10_H81	I feel dizzy.	S: Mám závrat.C: Mám závrať.
+SUFFER_ICD10_E10	I am diabetic	mám cukrovku
+NEED_INSULIN	I need insulin	potřebuji inzulin
+SUFFERED_RAPE	I was raped.	S: Znásilnili ma.C: Znásilnili mě.
+SUFFER_ICD10_R10	I have a stomach ache.	S: Bolí ma bruchoC: Bolí mě břicho
+SUFFER_ICD10_R50	I have a fever / a temperature	S: Mám horúčku / Mám teplotuC: Mám horečku /Mám teplotu
+SUFFER_ICD10_R51	I have a headache	S: Bolí ma hlavaC: Bolí mě hlava
+SUFFER_ICD10_R05	I have a cough.	S: Kašlem. C: Mám kašel
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	S: Moje dieťa bolí v krku. C: Mé dítě bolí v krku.
+FLU	cold	S, C: zima
+DIARRHEA	diarrhea	S: hnačkaC: diarea / průjem
+ICD10_K59.0	constipation	S: zápchaC: zácpa
+ICD10_B73.3	vaginal yeast infection (thrush)	S: vaginálna mykózaC: vaginální mykóza
+ICD10_B53.3	athlete's foot	S: pleseň na noháchC: plíseň nohou
+ICD10_B85	head lice	S: všiC: vši
+		
+	Food	S, C: Potraviny
+MEAL_NOON	Lunch	oběd
+MEAL_EVENING	Dinner	večeře
+FOOD_HALAL_Q	Is this food Halal?	S: Je toto jedlo halal?C: Je toto jídlo halal?
+ALLERGY_AGAINST_X	I am allergic to….	S: Mám alergiu na...C: Mám alergii na... / Jsem alergický na...
+PORK_MEAT	pork	S: bravčovéC: vepřové
+POULTRY_MEAT	poultry	S: hydinaC: drůbež
+NO_EAT_PORK	I do not eat pork	S: Nejem bravčové.C: Nejím vepřové.
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	S: Som vegetarián. Nejem mäso a ryby. C: Jsem vegetarián. Nejím maso a ryby.
+SELF_VEGAN	I am a vegan	S: Som vegánC: Jsem vegan
+FISH	fish	S: rybaC: ryba
+BREAD	bread	S: chlieb C: chleba
+WATER	water	S: vodaC: voda
+LEMONADE	lemonade	C: limonáda
+MILK	milk	S: mlieko C: mléko
+COFFEE	coffee	S, C: káva
+TEA	tea	S, C: čaj
+BEER	beer	S: limonáda C: limonáda
+FRUITS	fruit	S: ovocie C: ovoce
+APPLE	apple	S, C: jablko
+PEAR	pear	S: hruška
+GRAPEFRUIT	grapefruit	S, C: grapefruit
+APRICOT	apricot	S: marhuľa C: meruňky
+POTATOE	potatoes [pl]	S: zemiaky C: brambory
+BEAN	beans [pl]	S: fazuľa C: fazole
+PEA	peas [pl]	S: hrášok C: hrášek
+CHICKPEA	chickpeas [pl]	
+AUBERGINE	eggplant (US) / aubergine (UK)	lilek
+CARROT	carrots [pl]	S: mrkva C: mrkev
+TOMATO	tomatoes [pl]	S: paradajka C: rajče
+TURNIP	turnip	S: biela repaC: bílá řepa
+FLOUR	flour	S: múka C: mouka
+HONEY	honey	S, C: med
+CHEESE	cheese	S: syr C: sýr
+QUARK	quark / cottage cheese 	S, C: tvaroh
+PAPRIKA	paprika	C: paprika
+SAUCE	sauce	C: omáčka
+BUTTER	butter	C: máslo
+OIL	oil	C: olej
+CHEWING_GUM	chewing gum	S: žuvačka C: žvýkačka
+SPOON	spoon	C: lžíce
+KNIFE	knife	C: nůž
+PLATE	plate	C: talíř
+GLASS	glass (to drink from)	C: sklenice
+MUG	mug	C: hrnek
+TEAPOT	teapot 	Čajová konvice
+		
+	Clothing	S: oblečenie C: oblečení
+SHIRT	shirt	S: tričko / košeľaC: triko / košile
+DRESS	Dress	S, C: šaty
+SKIRT	skirt	S: sukňa C: sukně
+TROUSERS	trousers (UK) / pants (US)	S: nohavice C: kalhoty
+PULLOVER	jumper (UK) / sweater / pullover	S: sveter
+COAT	jacket / coat	S: sako / kabát
+HEADSCARF	veil / hijab / headscarf	S: šatka / hidžábC: šátek / hidžáb
+SHOE	shoes [pl]	S: topánky C: boty
+GLOVE	gloves [pl]	S: rukavice
+SOCK	socks [pl]	S: ponožky
+UNDERWEAR	underwear	S: spodná bielizeň C: spodní prádlo
+		
+	Misc	S: Rôzne
+BED	bed	C: postel
+BLANKET	blanket	S: paplónC: deka
+LAMP	lamp	C: svítilna
+TELEPHONE	telephone	S: telefónC: telefon
+CELLPHONE	mobile phone / cellphone	C: mobil
+ELECTRICITY	electricity	C: elektřina
+COMPUTER	computer	C: počítač
+INTERNET_CONNECTION	internet connection	připojení k internetu
+BATTERY	battery	C: baterie
+ROOM	room	C: pokoj
+CHAIR	chair	C: židle
+TABLE	table	C: stůl
+TOILET	toilet	C: záchod
+TOILET_PAPER	toilet paper	S: toaletný papierC: toaletní papír
+TOOTHBRUSH	toothbrush	C: zubní kartáček
+TOOTHPASTE	toothpaste	C: zubní pasta
+SHOWER	shower	C: sprcha
+BATHTUB	bathtub	C: vana
+SOAP	soap	mýdlo
+SHAMPOO	shampoo	šampon
+HANDKERCHIEF	tissue / handkerchief	S: papierová vreckovkaC: kapesník
+CUPBOARD	cupboard	C: skříň
+DOOR	door	dveře
+WINDOW	window	okno
+WALL	wall	zeď
+HOUSE	house	dům
+APARTMENT	apartment / flat	byt
+BOOK	book	kniha
+NEWSPAPER	newspaper	noviny
+RADIO	radio	rádio
+TELEVISION	television	televize

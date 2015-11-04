@@ -1,0 +1,212 @@
+	Basic Conversation		Grundlagen
+GREETING_INFORMAL	Hello	halo	Hallo
+GREETING_MORNING	good morning	gu:t@n mORg@n	guten Morgen
+GREETING_EVENING	good evening	gu:t@n ?a:bent	guten Abend
+GREETING_DEPARTURE	goodbye	 aUf  vi:d6ze:@n 	auf Wiedersehen
+SORRY	sorry / excuse me 	 EntSUldIgUN 	Entschuldigung
+PLEASE	please	bIt@	bitte
+THANKS	thank you / thanks	daNk@	danke
+REPLY_THANKS	you're welcome [response to thank you / thanks]	gERn  g@Se:@n 	gern geschehen
+GIVE_OWN_NAME	my name is...	 IC  haIs@ 	ich heiße...
+ASK_OTHERS_NAME	What is your name?	vi:  haIs@n  zi: 	Wie heißen Sie?
+GIVE_OWN_PROVENANCE	I’m from...	 IC  kOm@   aUs 	Ich komme aus...
+FAMILY	family	di:  fami:li:@ 	(die) Familie
+PRESENT_HUSBAND	this is my husband	das   Ist  maIn  man 	das ist mein Mann
+WIFE	my wife	maIn@  fRaU 	(meine) Frau
+CHILDREN	my children	maIn@  kInd6 	(meine) Kinder
+DAUGHTER	my daughter	maIn@  tOxt6 	(meine) Tochter
+SON	my son	maIn  zo:n 	(mein) Sohn
+BABY	my baby	be:bi: 	(mein) Baby
+BROTHER	this is my brother	bRu:d6 	(das ist mein) Bruder
+SISTER	this is my sister	SvEst6 	(das ist meine) Schwester
+FATHER	this is my father	fa:t6 	(das ist mein) Vater
+MOTHER	this is my mother 	mUt6 	(das ist meine) Mutter
+SUFFER_HUNGER	I’m hungry.	 IC  ha:b@  hUN6 	Ich habe Hunger.
+CHILD_HUNGRY	(My child) is hungry	vi:  haIs@n  zi: 	(mein Kind) hat Hunger
+SUFFER_THIRST	I’m thirsty	 IC  ha:b@  dURst 	Ich habe Durst.
+WATER	water	vas6 	Wasser
+AVAILABLE_Q	Do you have...	ha:b@n  zi: 	Haben Sie...
+LOCATION_Q	Where is..?	vo:   Ist 	Wo ist...
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	vo:   Ist  di:  to:alEt@ 	Wo ist die Toilette?  
+NEED_SHOWER	I need to take a shower	 IC  bRaUx@   aIn@  du:S@ 	Ich brauche eine Dusche
+SHOWER_LOCATION_Q	Where can I take a shower?	 IC  bRaUx@   aIn@  du:S@ 	Wo kann ich duschen?
+SANITARYPAD	sanitary pad / towel	da:m@nbInd@ 	(die) Damenbinde
+DIAPER	diaper / nappy	vInd@l 	(die) Windel
+NEED_MAKE_PHONECALL	I need to make a phone call	 IC  mUs  te:le:fo:ni:R@n 	Ich muss  telefonieren
+PRAY_LOCATION_Q	Where can I pray?	vo:  kan   IC  be:t@n 	Wo kann ich beten?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	vo:  kan   IC  ___ kaUf@n 	Wo kann ich _____ kaufen?
+LOCATION_X_Q	Where can I find____?	vo:  kan   IC  ___ fInd@n 	Wo kann ich _____ finden?
+TIME_CLOCK_Q	What time is it?	vi:  SpE:t   Ist   Es 	Wie spät ist es?
+NEED_SLEEP	I (we) need to sleep	IC  mUs  Sla:f@n 	Ich muss schlafen 
+SUBWAY_LOCATION_Q	Where is the subway/underground?	vo:   Ist  di:   u:ba:n 	Wo ist die U-Bahn?
+NO_MONEY	I don’t have any money.	 IC  ha:b@  kaIn  gElt 	Ich habe kein Geld.
+SPEAK_X_Q	Do you speak...	SpREC@n  zi: 	Sprechen Sie…?
+SPEAK_LITTLE_X	I don't speak (English) very well.	  IC  SpREC@n  nICt  zo:  gu:t  ___	Ich spreche nicht so gut (Deutsch).
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	k9n@n  zi:  das  fy:6  mIC   aUfSRaIb@n 	Können Sie das für mich aufschreiben ?
+NO_UNDERSTAND	I don’t understand	 IC  fERSte:@  das  nICt 	Ich verstehe das nicht.
+HELP_REQUEST	Help! / Please help me!	vo:   Ist  di:   u:ba:n 	Hilfe! 
+IGNORANCE	I don’t know	 IC  vaIs  nICt 	Ich weiß nicht
+EVENT_Q	What happened?	vas   Ist  pasi:6t 	Was ist passiert?
+SUFFER_FREEZING	I am cold/ freezing	mi:6   Ist  kalt 	Mir ist kalt.
+EXPERIENCE_HAPPINESS	I’m happy.	 IC  fROY@  mIC	Ich freue mich
+SUFFER_FEAR	I’m scared.	 IC  ha:b@   aNst 	Ich habe Angst
+SUFFER_SADNESS	I’m sad.	 IC  bIn  tRaURIC 	Ich bin traurig.
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	 IC  ma:k  dIC 	Ich mag dich.
+DONT_WORRY	Don’t worry	kaIn@  zORg@ 	keine Sorge
+NEED_APPOINTMENT	I would like an appointment.	 IC  hEt@  gERn@   aIn@n  tERmi:n 	Ich hätte gerne einen Termin.
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	vo:   Ist  das  tsIm6  nUm6  ___	Wo ist das Zimmer Nummer ___?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	vo:   Ist  di:   e:6st aUfna:m@StEl@ 	Wo ist die Erstaufnahmestelle?
+MUST_WAIT	You have to wait	zi:  mYs@n  vaRt@n 	Sie müssen warten
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	vi:  laN@  mYs@n  vi:6  hi:6  vaRt@n 	Wie lange müssen wir hier warten?
+1_DAY	one day	 aIn  ta:k 	ein Tag
+1_HOUR	one hour	 aIn@  StUnd@ 	eine Stunde
+1_MONTH	one month	 aIn  mo:nat 	ein Monat
+VERYSOON	very soon	ze:6  balt 	sehr bald
+TOMORROW	tomorrow	mORg@n 	morgen
+DAY_AFTER_TOMORROW	the day after tomorrow	 y:b6mORg@n 	übermorgen
+NEXT_WEEK	next week	nE:Cst@  vOx@ 	nächste Woche
+RETURN_SOON	I will be back soon	 IC  kOm@  balt  tsu:RYk 	Ich komme bald zurück
+ONE	one	aIns	eins
+TWO	two	tsvaI	zwei
+THREE	three	dRaI	drei
+FOUR	four	 fi:6	vier 
+FIVE	five	 fYnf 	fünf
+SIX	six	 zEks 	sechs
+SEVEN	seven	   zi:b@n 	sieben
+EIGHT	eight	axt	acht
+NINE	nine	 nOY@n	neun
+TEN	ten	      tse:n 	zehn
+MONDAY	Monday	mo:nta:k 	Montag
+TUESDAY	 Tuesday	 di:nsta:k 	 Dienstag
+WEDNESDAY	 Wednesday	 mItvOx  	 Mittwoch
+THURSDAY	 Thursday	dOn6sta:k  	 Donnerstag
+FRIDAY	 Friday	fRaIta:k 	 Freitag
+SATURDAY	 Saturday	 zamsta:k	 Samstag
+SUNDAY	 Sunday	  zOnta:k 	 Sonntag
+JANUARY	January	janu:a:6	Januar
+FEBRUARY	 February	fe:bRu:a:6	 Februar
+MARCH	 March	  mERts	 März
+APRIL	 April	   apRIl 	 April
+MAY	 May	 maI  	 Mai
+JUNE	 June	ju:ni:	 Juni
+JULY	 July	  ju:li: 	 Juli
+AUGUST	 August	  aUgUst 	 August
+SEPTEMBER	 September	 zEptEmb6 	 September
+OCTOBER	 October	 Okto:b6 	 Oktober
+NOVEMBER	 November	  no:vEmb6 	 November
+DECEMBER	 December	de:tsEmb6 	 Dezember
+	Medical Terms		Gesundheit
+NEED_DOCTOR	I need a doctor		Ich brauche einen Arzt.
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 		Mir ist schlecht.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick		Ich bin krank.
+CHILD_ILL	(My child) is sick		(mein Kind) ist krank
+PREGNANT	I am pregnant		Ich bin schwanger
+SUFFER_ICD10_T78.4	I am having an allergic reaction		Ich habe eine allergische Reaktion
+SUFFER_ICD10_H81	I feel dizzy.		Mir ist schwindelig.
+SUFFER_ICD10_E10	I am diabetic		Ich leide an Diabetes
+NEED_INSULIN	I need insulin		Ich brauche Insulin
+SUFFERED_RAPE	I was raped.		Ich wurde vergewaltigt.
+SUFFER_ICD10_R10	I have a stomach ache.		Ich habe Bauchschmerzen.
+SUFFER_ICD10_R50	I have a fever / a temperature		Ich habe Fieber
+SUFFER_ICD10_R51	I have a headache		Ich habe Kopfschmerzen.
+SUFFER_ICD10_R05	I have a cough.		Ich habe Husten.
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough		Mein Kind hat Halsschmerzen/Husten.
+FLU	cold		(die) Erkältung
+DIARRHEA	diarrhea		(der) Durchfall
+ICD10_K59.0	constipation		(die) Verstopfung
+ICD10_B73.3	vaginal yeast infection (thrush)		(der) Scheidenpilz
+ICD10_B53.3	athlete's foot		(der) Fußpilz
+ICD10_B85	head lice		(die) Läuse / (die) Kopfläuse
+			
+	Food		Lebensmittel
+MEAL_NOON	Lunch		(das) Mittagessen
+MEAL_EVENING	Dinner		(das) Abendessen
+FOOD_HALAL_Q	Is this food Halal?		Ist das Essen Halal?
+ALLERGY_AGAINST_X	I am allergic to….		Ich bin allergisch gegen…
+PORK_MEAT	pork		(das) Schweinefleisch
+POULTRY_MEAT	poultry		(das) Geflügel
+NO_EAT_PORK	I do not eat pork		Ich esse kein Schweinefleisch
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.		Ich bin Vegetarier. Ich esse kein Fleisch und keinen Fisch.
+SELF_VEGAN	I am a vegan		Ich bin Veganer / Ich bin Veganerin
+FISH	fish		(der) Fisch
+BREAD	bread		(das) Brot
+WATER	water		(das) Wasser
+LEMONADE	lemonade		(die) Limonade
+MILK	milk		(die) Milch
+COFFEE	coffee		(der) Kaffee
+TEA	tea		(der) Tee
+BEER	beer		(das) Bier
+FRUITS	fruit		(das) Obst
+APPLE	apple		(der) Apfel
+PEAR	pear		(die) Birne
+GRAPEFRUIT	grapefruit		(die) Pampelmuse
+APRICOT	apricot		(die) Aprikose
+POTATOE	potatoes [pl]		(die) Kartoffeln [pl]
+BEAN	beans [pl]		(die) Bohnen [pl]
+PEA	peas [pl]		(die) Erbsen [pl]
+CHICKPEA	chickpeas [pl]		(die) Kichererbsen [pl]
+AUBERGINE	eggplant (US) / aubergine (UK)		(die) Aubergine
+CARROT	carrots [pl]		(die) Karotten/Möhren [pl]
+TOMATO	tomatoes [pl]		(die) Tomaten [pl]
+TURNIP	turnip		(die) Rübe
+FLOUR	flour		(das) Mehl
+HONEY	honey		(der) Honig
+CHEESE	cheese		(der) Käse
+QUARK	quark / cottage cheese 		(der) Quark
+PAPRIKA	paprika		(das) Paprikapulver
+SAUCE	sauce		(die) Soße
+BUTTER	butter		(die) Butter
+OIL	oil		(das) Öl
+CHEWING_GUM	chewing gum		(der) Kaugummi
+SPOON	spoon		(der) Löffel
+KNIFE	knife		(das) Messer
+PLATE	plate		(der) Teller
+GLASS	glass (to drink from)		(das) Trinkglas / Glas
+MUG	mug		(der) Becher
+TEAPOT	teapot 		(die) Teekanne
+			
+	Clothing		Kleidung
+SHIRT	shirt		(das) Hemd
+DRESS	Dress		(das) Kleid
+SKIRT	skirt		(der) Rock
+TROUSERS	trousers (UK) / pants (US)		(die) Hose
+PULLOVER	jumper (UK) / sweater / pullover		(der) Pullover
+COAT	jacket / coat		(die) Jacke
+HEADSCARF	veil / hijab / headscarf		(der) Schleier / (das) Kopftuch
+SHOE	shoes [pl]		(die) Schuhe [pl]
+GLOVE	gloves [pl]		(die) Handschuhe [pl]
+SOCK	socks [pl]		(die) Socken [pl]
+UNDERWEAR	underwear		(die) Unterwäsche
+			
+	Misc		Sonstiges
+BED	bed		(das) Bett
+BLANKET	blanket		(die) Decke
+LAMP	lamp		(die) Lampe
+TELEPHONE	telephone		(das) Telefon
+CELLPHONE	mobile phone / cellphone		(das) Handy
+ELECTRICITY	electricity		(die) Elektrizität / (der) Strom
+COMPUTER	computer		(der) Computer
+INTERNET_CONNECTION	internet connection		(die) Internetverbindung
+BATTERY	battery		(die) Batterie
+ROOM	room		(das) Zimmer
+CHAIR	chair		(der) Stuhl
+TABLE	table		(der) Tisch
+TOILET	toilet		(die) Toilette / (das) WC
+TOILET_PAPER	toilet paper		(das) Toilettenpapier
+TOOTHBRUSH	toothbrush		(die) Zahnbürste
+TOOTHPASTE	toothpaste		(die) Zahnpasta
+SHOWER	shower		(die) Dusche
+BATHTUB	bathtub		(die) Badewanne
+SOAP	soap		(die) Seife
+SHAMPOO	shampoo		(das) Shampoo
+HANDKERCHIEF	tissue / handkerchief		(das) Taschentuch
+CUPBOARD	cupboard		(der) Schrank
+DOOR	door		(die) Tür
+WINDOW	window		(das) Fenster
+WALL	wall		(die) Wand
+HOUSE	house		(das) Haus
+APARTMENT	apartment / flat		(die) Wohnung
+BOOK	book		(das) Buch
+NEWSPAPER	newspaper		(die) Zeitung
+RADIO	radio		(das) Radio
+TELEVISION	television		(das) Fernsehen

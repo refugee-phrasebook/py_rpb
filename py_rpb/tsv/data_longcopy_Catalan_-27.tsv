@@ -1,0 +1,212 @@
+	Basic Conversation	Conversa bàsica
+GREETING_INFORMAL	Hello	Hola
+GREETING_MORNING	good morning	Bon dia
+GREETING_EVENING	good evening	Bona nit
+GREETING_DEPARTURE	goodbye	Adéu
+SORRY	sorry / excuse me 	Perdó - Disculpa
+PLEASE	please	Si us plau
+THANKS	thank you / thanks	Gràcies - Merci
+REPLY_THANKS	you're welcome [response to thank you / thanks]	De res
+GIVE_OWN_NAME	my name is...	Em dic ... - El meu nom és...
+ASK_OTHERS_NAME	What is your name?	Com et dius?
+GIVE_OWN_PROVENANCE	I’m from...	Sóc de... 
+FAMILY	family	Família
+PRESENT_HUSBAND	this is my husband	(Aquest és) el meu marit
+WIFE	my wife	La meva dona - la meva muller
+CHILDREN	my children	Els meus fills
+DAUGHTER	my daughter	La meva filla
+SON	my son	El meu fill
+BABY	my baby	El meu nadó
+BROTHER	this is my brother	(Aquest és) el meu germà
+SISTER	this is my sister	(Aquesta és) la meva germana
+FATHER	this is my father	(Aquest és) el meu pare
+MOTHER	this is my mother 	(Aquesta és) la meva mare
+SUFFER_HUNGER	I’m hungry.	Tinc gana - Tinc fam
+CHILD_HUNGRY	(My child) is hungry	(El meu fill) té gana - (el meu fill) té fam
+SUFFER_THIRST	I’m thirsty	Tinc set
+WATER	water	Aigua
+AVAILABLE_Q	Do you have...	Tens...?
+LOCATION_Q	Where is..?	On és...?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	On és el lavabo? 
+NEED_SHOWER	I need to take a shower	Necessito dutxar-me
+SHOWER_LOCATION_Q	Where can I take a shower?	On em puc dutxar?
+SANITARYPAD	sanitary pad / towel	(una) compresa
+DIAPER	diaper / nappy	(un) bolquer
+NEED_MAKE_PHONECALL	I need to make a phone call	Necessito fer una trucada
+PRAY_LOCATION_Q	Where can I pray?	On puc resar?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	On puc comprar...?
+LOCATION_X_Q	Where can I find____?	On puc trobar...?
+TIME_CLOCK_Q	What time is it?	Quina hora és?
+NEED_SLEEP	I (we) need to sleep	Necessito dormir
+SUBWAY_LOCATION_Q	Where is the subway/underground?	On és el metro?
+NO_MONEY	I don’t have any money.	No tinc diners
+SPEAK_X_Q	Do you speak...	Parles...?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Jo no parlo (anglès) gaire bé
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Pots escriure-m'ho?
+NO_UNDERSTAND	I don’t understand	No comprenc - No ho entenc
+HELP_REQUEST	Help! / Please help me!	Ajuda!
+IGNORANCE	I don’t know	No ho sé
+EVENT_Q	What happened?	Què ha passat?
+SUFFER_FREEZING	I am cold/ freezing	Tinc fred
+EXPERIENCE_HAPPINESS	I’m happy.	Estic content )contenta)
+SUFFER_FEAR	I’m scared.	Tinc por
+SUFFER_SADNESS	I’m sad.	Estic trist (trista)
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	M'agrades
+DONT_WORRY	Don’t worry	No et preocupis
+NEED_APPOINTMENT	I would like an appointment.	M'agradaria una cita
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	On és l´habitació número...?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	On és el centre de registre?
+MUST_WAIT	You have to wait	Tens que esperar
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Quanta estona tenim que esperar aquí?
+1_DAY	one day	Un dia
+1_HOUR	one hour	Una hora
+1_MONTH	one month	Un mes
+VERYSOON	very soon	Molt aviat
+TOMORROW	tomorrow	Demà
+DAY_AFTER_TOMORROW	the day after tomorrow	Demà passat
+NEXT_WEEK	next week	La setmana vinent
+RETURN_SOON	I will be back soon	Torno en un moment - Tornaré aviat
+ONE	one	u
+TWO	two	dos
+THREE	three	tres
+FOUR	four	quatre
+FIVE	five	cinc
+SIX	six	sis
+SEVEN	seven	set
+EIGHT	eight	vuit
+NINE	nine	nou
+TEN	ten	deu
+MONDAY	Monday	Dilluns
+TUESDAY	 Tuesday	Dimarts
+WEDNESDAY	 Wednesday	Dimecres
+THURSDAY	 Thursday	Dijous
+FRIDAY	 Friday	Divendres
+SATURDAY	 Saturday	Dissabte
+SUNDAY	 Sunday	Diumenge
+JANUARY	January	Gener
+FEBRUARY	 February	Febrer
+MARCH	 March	Març
+APRIL	 April	Abril
+MAY	 May	Maig
+JUNE	 June	Juny
+JULY	 July	Juliol
+AUGUST	 August	Agost
+SEPTEMBER	 September	Setembre
+OCTOBER	 October	Octubre
+NOVEMBER	 November	Novembre
+DECEMBER	 December	Desembre
+	Medical Terms	Termes mèdics
+NEED_DOCTOR	I need a doctor	Necessito un metge
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	No em trobo bé
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Estic malalt (malalta)
+CHILD_ILL	(My child) is sick	(El meu fill/filla) està malalt (malalta)
+PREGNANT	I am pregnant	Estic embarassada
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Tinc una reacció al·lèrgica
+SUFFER_ICD10_H81	I feel dizzy.	Estic marejat (marejada)
+SUFFER_ICD10_E10	I am diabetic	Sóc diabètic (diabètica)
+NEED_INSULIN	I need insulin	Necessito insulina
+SUFFERED_RAPE	I was raped.	Vaig ser violat (violada)
+SUFFER_ICD10_R10	I have a stomach ache.	Tinc mal de panxa
+SUFFER_ICD10_R50	I have a fever / a temperature	Tinc febre
+SUFFER_ICD10_R51	I have a headache	Tinc mal de cap
+SUFFER_ICD10_R05	I have a cough.	Tinc tos
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	El meu fill (la meva filla) té mal de coll - El meu fill (la meva filla) té tos
+FLU	cold	(el) refredat
+DIARRHEA	diarrhea	(la) diarrea
+ICD10_K59.0	constipation	(el) restrenyiment
+ICD10_B73.3	vaginal yeast infection (thrush)	(la) candidiasi vaginal
+ICD10_B53.3	athlete's foot	peu d'atleta
+ICD10_B85	head lice	polls
+		
+	Food	Aliments
+MEAL_NOON	Lunch	(el) dinar
+MEAL_EVENING	Dinner	(el) sopar
+FOOD_HALAL_Q	Is this food Halal?	És menjar Halal?
+ALLERGY_AGAINST_X	I am allergic to….	Sóc al·lèrgic (al·lèrgica) a...
+PORK_MEAT	pork	Carn de porc
+POULTRY_MEAT	poultry	Aviram
+NO_EAT_PORK	I do not eat pork	No menjo porc
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Sóc vegetarià (vegetariana). No menjo carn ni peix.
+SELF_VEGAN	I am a vegan	Sóc vegà (vegana)
+FISH	fish	Peix
+BREAD	bread	(el) pa
+WATER	water	(l')aigua
+LEMONADE	lemonade	(la) llimonada
+MILK	milk	(la) llet
+COFFEE	coffee	(el) cafè
+TEA	tea	(el) te
+BEER	beer	(la) cervesa
+FRUITS	fruit	(la) fruita
+APPLE	apple	(la) poma
+PEAR	pear	(la) pera
+GRAPEFRUIT	grapefruit	(l') aranja
+APRICOT	apricot	(l') albercoc
+POTATOE	potatoes [pl]	(les) patates
+BEAN	beans [pl]	(els) fesols
+PEA	peas [pl]	(els) pèsols
+CHICKPEA	chickpeas [pl]	(els) cigrons
+AUBERGINE	eggplant (US) / aubergine (UK)	(l') albergínia
+CARROT	carrots [pl]	(les) pastanagues
+TOMATO	tomatoes [pl]	(les) tomates - (els) tomàquets
+TURNIP	turnip	(el) nap
+FLOUR	flour	(la) farina
+HONEY	honey	(la) mel
+CHEESE	cheese	(el) formatge
+QUARK	quark / cottage cheese 	(el) mató
+PAPRIKA	paprika	(el) pebre vermell
+SAUCE	sauce	(la) salsa
+BUTTER	butter	(la) mantega
+OIL	oil	(l') oli
+CHEWING_GUM	chewing gum	(el) xiclet
+SPOON	spoon	(la) cullera
+KNIFE	knife	(el) ganivet
+PLATE	plate	(el) plat
+GLASS	glass (to drink from)	(el) got - (la) copa
+MUG	mug	(la) tassa
+TEAPOT	teapot 	(la) tetera
+		
+	Clothing	Roba
+SHIRT	shirt	(la) camisa
+DRESS	Dress	(el) vestit
+SKIRT	skirt	(la) faldilla
+TROUSERS	trousers (UK) / pants (US)	(els) pantalons
+PULLOVER	jumper (UK) / sweater / pullover	(el) jersei
+COAT	jacket / coat	(la) jaqueta - (l') abric
+HEADSCARF	veil / hijab / headscarf	(la) bufanda
+SHOE	shoes [pl]	(les) sabates
+GLOVE	gloves [pl]	(els) guants
+SOCK	socks [pl]	(els) mitjons
+UNDERWEAR	underwear	(la) roba interior
+		
+	Misc	Altres
+BED	bed	(el) llit
+BLANKET	blanket	(la) manta
+LAMP	lamp	(la) llum
+TELEPHONE	telephone	(el) telèfon
+CELLPHONE	mobile phone / cellphone	(el) telèfon mòbil
+ELECTRICITY	electricity	(l') electricitat
+COMPUTER	computer	(l') ordinador
+INTERNET_CONNECTION	internet connection	(la) connexió a internet
+BATTERY	battery	(la) bateria
+ROOM	room	(l') habitació
+CHAIR	chair	(la) cadira
+TABLE	table	(la) taula
+TOILET	toilet	(el) vàter
+TOILET_PAPER	toilet paper	(el) paper higiènic
+TOOTHBRUSH	toothbrush	(el) raspall de dents
+TOOTHPASTE	toothpaste	(la) pasta de dents
+SHOWER	shower	(la) dutxa
+BATHTUB	bathtub	(la) banyera
+SOAP	soap	(el) sabó
+SHAMPOO	shampoo	(el) xampú
+HANDKERCHIEF	tissue / handkerchief	(el) mocador
+CUPBOARD	cupboard	(l') armari
+DOOR	door	(la) porta
+WINDOW	window	(la) finestra
+WALL	wall	(el) mur
+HOUSE	house	(la) casa
+APARTMENT	apartment / flat	(el) pis - (l') apartament
+BOOK	book	(el) llibre
+NEWSPAPER	newspaper	(el) diari
+RADIO	radio	(la) ràdio
+TELEVISION	television	(la) televisió

@@ -1,0 +1,212 @@
+	Basic Conversation		
+GREETING_INFORMAL	Hello	سلام	Salaam
+GREETING_MORNING	good morning	صبح بخیر	Sob bekheir
+GREETING_EVENING	good evening	شب بخیر	Shab bekheir
+GREETING_DEPARTURE	goodbye	خداحافظ	khodaafez
+SORRY	sorry / excuse me 	ببخشید	Bebakhshid
+PLEASE	please	لطفاً	Lotfan
+THANKS	thank you / thanks	مرسی	Merci
+REPLY_THANKS	you're welcome [response to thank you / thanks]		
+GIVE_OWN_NAME	my name is...	اسمم ... است	Esmam ... ast
+ASK_OTHERS_NAME	What is your name?	اِسمتون چیه؟	esmetoon chieh?
+GIVE_OWN_PROVENANCE	I’m from...	(مں از ۔۔۔۔۔۔۔۔ می آیم	Man az .... miyam
+FAMILY	family	خانواده	Khaanevaadeh
+PRESENT_HUSBAND	this is my husband	این شوهرمه	Een shoharame
+WIFE	my wife	زنم	Zanam
+CHILDREN	my children	بچه هام	Bachehaam
+DAUGHTER	my daughter	دخترم	dokhtaram
+SON	my son	پسرم	pesaram
+BABY	my baby	نوزادم	nozaadam
+BROTHER	this is my brother	این برادرمه	in baraadarameh
+SISTER	this is my sister	این خواهرمه	in khaaharameh
+FATHER	this is my father	این پدرمه (بابامه)	in pedarameh/babameh
+MOTHER	this is my mother 	این مادرمه(مامانمه)	in madarameh/ mamanameh
+SUFFER_HUNGER	I’m hungry.	گشنه ام	goshne am
+CHILD_HUNGRY	(My child) is hungry	بچّه ام گرسنه است	bacham gorosneh ast
+SUFFER_THIRST	I’m thirsty	تشنمه	teshnameh
+WATER	water	آب 	aab
+AVAILABLE_Q	Do you have...	....دارین؟	...daarin?
+LOCATION_Q	Where is..?	...کجاست؟	...kojaast?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	توالت ​​(دستشویی) کجاست؟	toilet/dastshooee kojaast?
+NEED_SHOWER	I need to take a shower	به حمّام نیاز (احتیاج) دارم	be hammam niaz daram
+SHOWER_LOCATION_Q	Where can I take a shower?	کجا می تونم دوش بگیرم، حمّام کنم؟	koja mitoonam doosh begiram?
+SANITARYPAD	sanitary pad / towel	نوار بهداشتی	navaar e behdashti
+DIAPER	diaper / nappy	پوشک	pooshak
+NEED_MAKE_PHONECALL	I need to make a phone call	باید تلفن کنم (زنگ بزنم)	bayad telefon konam/zang bezanam
+PRAY_LOCATION_Q	Where can I pray?	کجا می تونم نماز بخونم؟	koja mitoonam namaaz bekhunam?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	کجا میتونم ..... بخرم؟	Koja mitoonam _____ bekharam?
+LOCATION_X_Q	Where can I find____?	کجا میتونم .....پیدا کنم؟ 	koja mitoonam ....peyda konam?
+TIME_CLOCK_Q	What time is it?	ساعت چنده؟	Sa’at chande?
+NEED_SLEEP	I (we) need to sleep	نیازبه خوابیدن دارم،داریم	niaaz be khabidan daram/darim
+SUBWAY_LOCATION_Q	Where is the subway/underground?	مترو کجاست؟	metro kojaast?
+NO_MONEY	I don’t have any money.	پول ندارم	pool nadaram
+SPEAK_X_Q	Do you speak...	...صحبت می کنین؟	...sohbat mikonin?
+SPEAK_LITTLE_X	I don't speak (English) very well.	آلمانیم (خیلی) خوب نیست	almaanim (kheili)khub nist
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	می شه اینو برام بنویسین؟	misheh ino baraam benevisin?
+NO_UNDERSTAND	I don’t understand	نمی فهمم	nemifahmam
+HELP_REQUEST	Help! / Please help me!	کمک	komak!
+IGNORANCE	I don’t know	نمی دونم	nemidoonam
+EVENT_Q	What happened?	چی شده؟	chi shodeh?
+SUFFER_FREEZING	I am cold/ freezing	سردمه	sardameh
+EXPERIENCE_HAPPINESS	I’m happy.	خوشحالم	khoshhalam
+SUFFER_FEAR	I’m scared.	می ترسم	mitarsam
+SUFFER_SADNESS	I’m sad.	ناراحتم	naaraahatam
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	دوسِت دارم	dooset daram
+DONT_WORRY	Don’t worry	نگران نباشین	negaraan nabashin
+NEED_APPOINTMENT	I would like an appointment.	میخوام یک قرار بگیرم	mikham ye gharar begiram
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	اتاق شماره ---کجاست؟ 	otaghe shomareye ....kojast?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	 مرکز ثبت کجاست؟	markaze sabt kojast?
+MUST_WAIT	You have to wait	باید صبر(کنی) کنید	bayad sabr koni/konid
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	برای چه مدّت باید اینجا بمونیم؟	baraye che moddat bayad inja bemoonim?
+1_DAY	one day	یکروز	yek rooz
+1_HOUR	one hour	یک ساعت	yek saa’at
+1_MONTH	one month		
+VERYSOON	very soon	خیلی زود	kheili zood
+TOMORROW	tomorrow	 فردا	fardaa
+DAY_AFTER_TOMORROW	the day after tomorrow	 پس فردا	pasfardaa
+NEXT_WEEK	next week	 هفته دیگه 	hafteye dige
+RETURN_SOON	I will be back soon	زود برمی گردم	zood barmigardam
+ONE	one	یک	yek
+TWO	two	دو	do
+THREE	three	سه	seh
+FOUR	four	چهار	chahar
+FIVE	five	پنج	panj
+SIX	six	شش	shesh
+SEVEN	seven	هفت	haft
+EIGHT	eight	هشت	hasht
+NINE	nine	نه	noh
+TEN	ten	ده	dah
+MONDAY	Monday		
+TUESDAY	 Tuesday		
+WEDNESDAY	 Wednesday		
+THURSDAY	 Thursday		
+FRIDAY	 Friday		
+SATURDAY	 Saturday		
+SUNDAY	 Sunday		
+JANUARY	January		
+FEBRUARY	 February		
+MARCH	 March		
+APRIL	 April		
+MAY	 May		
+JUNE	 June		
+JULY	 July		
+AUGUST	 August		
+SEPTEMBER	 September		
+OCTOBER	 October		
+NOVEMBER	 November		
+DECEMBER	 December		
+	Medical Terms		
+NEED_DOCTOR	I need a doctor	دکتر لازم دارم	doctor laazem daram
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	حالم خوب نیست	halam khoob nist
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	مریضم	marizam
+CHILD_ILL	(My child) is sick	بچّه ام مریضه	bacham marizeh
+PREGNANT	I am pregnant	من حامله ام.	Man Hamele am.
+SUFFER_ICD10_T78.4	I am having an allergic reaction		
+SUFFER_ICD10_H81	I feel dizzy.	سرم گیج میره	saram gij mire
+SUFFER_ICD10_E10	I am diabetic		
+NEED_INSULIN	I need insulin		
+SUFFERED_RAPE	I was raped.	به من تجاوز جنسی شده است	Be man tajavoze jenzy shode ast. 
+SUFFER_ICD10_R10	I have a stomach ache.	دل درد دارم	deldard daaram
+SUFFER_ICD10_R50	I have a fever / a temperature	تب دارم.	Tab daram.
+SUFFER_ICD10_R51	I have a headache	سردرد دارم	sardard daaram
+SUFFER_ICD10_R05	I have a cough.	سرفه میکنم 	sorfeh mikonam
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	 بچه من سرفه میکنه - گلو درد داره	bacheye man sorfeh mikoneh/ galoo dard dare
+FLU	cold	سرما خوردگی   	sarma khordegi
+DIARRHEA	diarrhea	 اسهال 	eshaal
+ICD10_K59.0	constipation	یبوست 	yooboosat
+ICD10_B73.3	vaginal yeast infection (thrush)	عفونت قارچی واژن	ofoonate gharchie vaajan
+ICD10_B53.3	athlete's foot	 قارچ پا	ghaarche pa
+ICD10_B85	head lice	 شپش	shepesh
+			
+	Food	غذا 	ghaza
+MEAL_NOON	Lunch		
+MEAL_EVENING	Dinner		
+FOOD_HALAL_Q	Is this food Halal?	این غذا حلاله؟	in ghazaa halaaleh?
+ALLERGY_AGAINST_X	I am allergic to….	به...آلرژی دارم	beh.. allergy daram
+PORK_MEAT	pork	 گوشت خوک	Gooshte khook
+POULTRY_MEAT	poultry	گوشت پرنده 	gooshte parandeh
+NO_EAT_PORK	I do not eat pork	من گوشت خوک نمیخورم	Man gooshte khook nemikhoram
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	 گوشت و ماهی نمیخورم	giah khaaram, goosht va mahi nemikhoram
+SELF_VEGAN	I am a vegan	ویگن هستم، هیچ محصولاتی از حیوانات نمیخورم 	vegan hastam
+FISH	fish	 ماهی	maahi
+BREAD	bread	نان/نون 	naan/noon
+WATER	water	 آب	aab
+LEMONADE	lemonade	 لیموناد	limonade
+MILK	milk	 شیر	shir
+COFFEE	coffee	قهوه 	ghahveh
+TEA	tea	 چایی	chayi
+BEER	beer	 آب جو	aab jo
+FRUITS	fruit	میوه 	miveh
+APPLE	apple	 سیب	sib
+PEAR	pear	گلابی 	golaabi
+GRAPEFRUIT	grapefruit	گریپ فروت 	grape froot
+APRICOT	apricot	زرد آلو 	zard aaloo
+POTATOE	potatoes [pl]	 سیب زمینی	sibzamini
+BEAN	beans [pl]	لوبیا 	loobiaa
+PEA	peas [pl]	 نخود	nokhod
+CHICKPEA	chickpeas [pl]		
+AUBERGINE	eggplant (US) / aubergine (UK)		
+CARROT	carrots [pl]	هویج 	havij
+TOMATO	tomatoes [pl]	 گوجه فرنگی 	goje farangi
+TURNIP	turnip	 شلغم	shalgham
+FLOUR	flour	آرد 	aard
+HONEY	honey	 عسل 	asal
+CHEESE	cheese	 پنیر	panir
+QUARK	quark / cottage cheese 	 پنیر روستایی	panir roostayi
+PAPRIKA	paprika	فلفل دلمه ای 	felfel dolmeyi
+SAUCE	sauce	سس 	sauce
+BUTTER	butter	کره 	kareh
+OIL	oil	روغن 	roghan
+CHEWING_GUM	chewing gum	آدامس 	aadaams
+SPOON	spoon	قاشق	ghashogh
+KNIFE	knife	چاقو 	chaaghoo
+PLATE	plate	بشقاب 	boshghaab
+GLASS	glass (to drink from)	لیوان	liwaan
+MUG	mug	فنجان 	fenjaan
+TEAPOT	teapot 	قوری	ghoori
+			
+	Clothing	 لباس 	lebaas
+SHIRT	shirt	بلوز (پیراهن)	bolooz/piraahan
+DRESS	Dress	 لباس	lebaas
+SKIRT	skirt	 دامن 	Daman
+TROUSERS	trousers (UK) / pants (US)	شلوار 	shalvaar
+PULLOVER	jumper (UK) / sweater / pullover	پلور	poloover
+COAT	jacket / coat	ژاکت	jaackat
+HEADSCARF	veil / hijab / headscarf	 روسری/حجاب	roosari/hejab
+SHOE	shoes [pl]	کفش 	kafsh
+GLOVE	gloves [pl]	دستکش 	dastkesh
+SOCK	socks [pl]	جوراب	jooraab
+UNDERWEAR	underwear	لباس زیر	 lebaas zir
+			
+	Misc	متفرقه	
+BED	bed	تخت	takht
+BLANKET	blanket	پتو 	patoo
+LAMP	lamp	لامپ 	laamp
+TELEPHONE	telephone	تلفن	telefon
+CELLPHONE	mobile phone / cellphone	تلفن همراه 	telephone hamrah 
+ELECTRICITY	electricity	برق 	bargh
+COMPUTER	computer	کامپیوتر 	computer
+INTERNET_CONNECTION	internet connection		
+BATTERY	battery	باطری 	baattry
+ROOM	room	اتاق 	otaagh
+CHAIR	chair	صندلی	sandali
+TABLE	table	میز 	miz
+TOILET	toilet	توالت/دستشویی	toilet/dastshooyi
+TOILET_PAPER	toilet paper	کاغذ توالت 	kaaghaz toilet
+TOOTHBRUSH	toothbrush	مسواک 	mesvaak
+TOOTHPASTE	toothpaste	خمیردندان 	khamir dandaan
+SHOWER	shower	دوش	doush
+BATHTUB	bathtub	وان حمام 	vaan hamaam
+SOAP	soap	صابون 	saaboon
+SHAMPOO	shampoo	شامپو	shampoo
+HANDKERCHIEF	tissue / handkerchief	دستمال کاغذی 	dastmaal kaaghazi
+CUPBOARD	cupboard	کمد 	komod
+DOOR	door	درب	Darb
+WINDOW	window	پنجره	Panjereh
+WALL	wall	دیوار	Deevaar
+HOUSE	house	خانه 	Khaaneh
+APARTMENT	apartment / flat	آپارتمان	Apaartemaan
+BOOK	book	کتاب	Ketaab
+NEWSPAPER	newspaper	روزنامه	Rooznaameh
+RADIO	radio	رادیو	Radio
+TELEVISION	television	تلویزیون	Televizion

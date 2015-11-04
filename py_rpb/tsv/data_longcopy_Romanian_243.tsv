@@ -1,0 +1,212 @@
+	Basic Conversation	Conversație de bază
+GREETING_INFORMAL	Hello	Salut!
+GREETING_MORNING	good morning	Bună ziua
+GREETING_EVENING	good evening	Bună seara
+GREETING_DEPARTURE	goodbye	La revedere
+SORRY	sorry / excuse me 	Pardon
+PLEASE	please	Vă rog
+THANKS	thank you / thanks	Mulțumesc
+REPLY_THANKS	you're welcome [response to thank you / thanks]	
+GIVE_OWN_NAME	my name is...	Numele meu este...
+ASK_OTHERS_NAME	What is your name?	Cum vă cheamă?
+GIVE_OWN_PROVENANCE	I’m from...	Vin din...
+FAMILY	family	Familie
+PRESENT_HUSBAND	this is my husband	Este soțul meu
+WIFE	my wife	Este soția mea
+CHILDREN	my children	Sunt copiii mei
+DAUGHTER	my daughter	Este fata mea
+SON	my son	Este băiatul meu
+BABY	my baby	Este bebelușul meu
+BROTHER	this is my brother	Este fratele meu.
+SISTER	this is my sister	Este sora mea.
+FATHER	this is my father	Este tata
+MOTHER	this is my mother 	Este mama
+SUFFER_HUNGER	I’m hungry.	Îmi este foame
+CHILD_HUNGRY	(My child) is hungry	Copilul meu este flămând.
+SUFFER_THIRST	I’m thirsty	Îmi este sete.
+WATER	water	apă
+AVAILABLE_Q	Do you have...	Aveți...?
+LOCATION_Q	Where is..?	Unde este?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Unde este toaleta/baia?
+NEED_SHOWER	I need to take a shower	Aș vrea să fac un duș
+SHOWER_LOCATION_Q	Where can I take a shower?	Unde pot să fac un duș?
+SANITARYPAD	sanitary pad / towel	tampon
+DIAPER	diaper / nappy	Pampers/scutec
+NEED_MAKE_PHONECALL	I need to make a phone call	Trebuie să telefonez
+PRAY_LOCATION_Q	Where can I pray?	Unde pot să mă rog?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	De unde pot cumpăra?
+LOCATION_X_Q	Where can I find____?	Unde pot găsi...
+TIME_CLOCK_Q	What time is it?	Cât e ceasul?
+NEED_SLEEP	I (we) need to sleep	Aș vrea să dorm
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Unde este metroul?
+NO_MONEY	I don’t have any money.	Nu am bani
+SPEAK_X_Q	Do you speak...	Vorbiți...?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Nu înțeleg română.
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Puteți să scrieți?
+NO_UNDERSTAND	I don’t understand	Nu înțeleg.
+HELP_REQUEST	Help! / Please help me!	Ajutor!
+IGNORANCE	I don’t know	Nu știu
+EVENT_Q	What happened?	Ce s-a întâmplat?
+SUFFER_FREEZING	I am cold/ freezing	Îmi este frig.
+EXPERIENCE_HAPPINESS	I’m happy.	Mă bucur
+SUFFER_FEAR	I’m scared.	Îmi este frică.
+SUFFER_SADNESS	I’m sad.	Sunt trist/tristă.
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Îmi place de tine.
+DONT_WORRY	Don’t worry	Nu vă îngrijorați
+NEED_APPOINTMENT	I would like an appointment.	Am nevoie de o programare
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Unde este camera cu numărul...?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Unde este centrul de înregistrare?
+MUST_WAIT	You have to wait	Vă rugăm să așteptați
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Cât timp rămânem aici?
+1_DAY	one day	o zi
+1_HOUR	one hour	o oră
+1_MONTH	one month	 o lună
+VERYSOON	very soon	în curând
+TOMORROW	tomorrow	mâine
+DAY_AFTER_TOMORROW	the day after tomorrow	poimâine
+NEXT_WEEK	next week	săptămâna viitoare
+RETURN_SOON	I will be back soon	Mă întorc imediat.
+ONE	one	unu
+TWO	two	doi
+THREE	three	trei
+FOUR	four	patru
+FIVE	five	cinci
+SIX	six	șase
+SEVEN	seven	șapte
+EIGHT	eight	opt
+NINE	nine	nouă
+TEN	ten	zece
+MONDAY	Monday	luni
+TUESDAY	 Tuesday	 marți
+WEDNESDAY	 Wednesday	 miercuri
+THURSDAY	 Thursday	 joi
+FRIDAY	 Friday	 vineri
+SATURDAY	 Saturday	 sâmbătă
+SUNDAY	 Sunday	 duminică
+JANUARY	January	Ianuarie
+FEBRUARY	 February	 februarie
+MARCH	 March	 martie
+APRIL	 April	 aprilie
+MAY	 May	 mai
+JUNE	 June	 iunie
+JULY	 July	 iulie
+AUGUST	 August	 august
+SEPTEMBER	 September	 septembrie
+OCTOBER	 October	 octombrie
+NOVEMBER	 November	 noiembrie
+DECEMBER	 December	 decembrie
+	Medical Terms	Termeni medicali
+NEED_DOCTOR	I need a doctor	Am nevoie de un medic.
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Mi-e rău.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Sunt bolnav.
+CHILD_ILL	(My child) is sick	Copilul meu este bolnav.
+PREGNANT	I am pregnant	Sunt gravidă.
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Am o reacție alergică
+SUFFER_ICD10_H81	I feel dizzy.	Ma simt amețită.
+SUFFER_ICD10_E10	I am diabetic	Am diabet
+NEED_INSULIN	I need insulin	Am nevoie de insulină
+SUFFERED_RAPE	I was raped.	Am fost violată.
+SUFFER_ICD10_R10	I have a stomach ache.	Mă doare stomacul.
+SUFFER_ICD10_R50	I have a fever / a temperature	Am febră.
+SUFFER_ICD10_R51	I have a headache	Mă doare capul
+SUFFER_ICD10_R05	I have a cough.	Tușesc
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Copilul meu tușește/Pe copilul meu îl doare gâtul
+FLU	cold	Răceala
+DIARRHEA	diarrhea	diaree
+ICD10_K59.0	constipation	constipație
+ICD10_B73.3	vaginal yeast infection (thrush)	infecție vaginală
+ICD10_B53.3	athlete's foot	micoza piciorului
+ICD10_B85	head lice	păduchii
+		
+	Food	Mâncare 
+MEAL_NOON	Lunch	prânz
+MEAL_EVENING	Dinner	cina
+FOOD_HALAL_Q	Is this food Halal?	Mâncarea este halal?
+ALLERGY_AGAINST_X	I am allergic to….	Sunt alergic/alergică la...
+PORK_MEAT	pork	carne de porc
+POULTRY_MEAT	poultry	carne de pui
+NO_EAT_PORK	I do not eat pork	Nu mănânc porc
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Sunt vegetarian/vegetariană. Nu mănânc nici carne, nici peşte
+SELF_VEGAN	I am a vegan	Sunt vegan/vegană
+FISH	fish	pește
+BREAD	bread	pâine
+WATER	water	Apă
+LEMONADE	lemonade	limonadă
+MILK	milk	lapte
+COFFEE	coffee	cafea
+TEA	tea	ceai
+BEER	beer	bere
+FRUITS	fruit	fructe
+APPLE	apple	măr
+PEAR	pear	pară
+GRAPEFRUIT	grapefruit	grapefruit
+APRICOT	apricot	caisă
+POTATOE	potatoes [pl]	cartofi
+BEAN	beans [pl]	fasole
+PEA	peas [pl]	mazăre
+CHICKPEA	chickpeas [pl]	năut
+AUBERGINE	eggplant (US) / aubergine (UK)	vânătă
+CARROT	carrots [pl]	morcovi
+TOMATO	tomatoes [pl]	roșii
+TURNIP	turnip	nap
+FLOUR	flour	făină
+HONEY	honey	miere
+CHEESE	cheese	brânză
+QUARK	quark / cottage cheese 	brânză dulce
+PAPRIKA	paprika	boia
+SAUCE	sauce	sos
+BUTTER	butter	unt
+OIL	oil	ulei
+CHEWING_GUM	chewing gum	gumă de mestecat
+SPOON	spoon	lingură
+KNIFE	knife	cuțit
+PLATE	plate	farfurie
+GLASS	glass (to drink from)	pahar
+MUG	mug	cană
+TEAPOT	teapot 	cană de ceai
+		
+	Clothing	Îmbrăcăminte
+SHIRT	shirt	cămașă
+DRESS	Dress	haină
+SKIRT	skirt	fustă
+TROUSERS	trousers (UK) / pants (US)	pantaloni
+PULLOVER	jumper (UK) / sweater / pullover	pulover
+COAT	jacket / coat	geacă
+HEADSCARF	veil / hijab / headscarf	voal / hijab
+SHOE	shoes [pl]	pantofi
+GLOVE	gloves [pl]	mănuși
+SOCK	socks [pl]	șosete
+UNDERWEAR	underwear	lenjerie intimă
+		
+	Misc	Diverse
+BED	bed	pat
+BLANKET	blanket	pătură / plapumă/cuvertură
+LAMP	lamp	lampă
+TELEPHONE	telephone	telefon
+CELLPHONE	mobile phone / cellphone	telefon mobil
+ELECTRICITY	electricity	electricitate
+COMPUTER	computer	computer/calculator
+INTERNET_CONNECTION	internet connection	conexiune de internet
+BATTERY	battery	baterie
+ROOM	room	cameră
+CHAIR	chair	scaun
+TABLE	table	masă
+TOILET	toilet	toaletă/WC
+TOILET_PAPER	toilet paper	hârtie igienică
+TOOTHBRUSH	toothbrush	periuță de dinți
+TOOTHPASTE	toothpaste	pastă de dinți
+SHOWER	shower	duș
+BATHTUB	bathtub	cadă
+SOAP	soap	săpun
+SHAMPOO	shampoo	șampon
+HANDKERCHIEF	tissue / handkerchief	șervețel
+CUPBOARD	cupboard	dulap
+DOOR	door	uşă
+WINDOW	window	fereastră
+WALL	wall	perete
+HOUSE	house	casă
+APARTMENT	apartment / flat	apartament
+BOOK	book	carte
+NEWSPAPER	newspaper	ziar
+RADIO	radio	radio
+TELEVISION	television	televiziune 

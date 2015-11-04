@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	I need to see a doctor
+NEED_HOSPITAL	I need to go to the hospital	I need to go to the hospital
+NEED_AMBULANCE	I need an ambulance	I need an ambulance
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Where can I fill this prescription?
+WHEN_RETURN	When do I have to come back?	When do I have to come back?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Do I have to be admitted to the hospital?
+SUFFER_ICD10_J45	I have asthma	I have asthma
+SUFFER_ICD10_J41	I have chronic bronchitis	I have chronic bronchitis
+SUFFER_ICD10_I50	I have heart failure	I have heart failure
+SUFFER_ICD10_I21	I had a myocardial infarction	I had a myocardial infarction
+SUFFER_ICD10_G40	I have epilepsy	I have epilepsy
+SUFFER_ICD10_C00	I have cancer	I have cancer
+SUFFER_ICD10_A16	I have tuberculosis	I have tuberculosis
+SUFFER_ICD10_E10	I have diabetes	I have diabetes
+SUFFER_HIV	I have HIV	I have HIV
+SUFFER_ICD10_C90	I have leukaemia	I have leukaemia
+SUFFER_ICD10_D57	I have sickle cell disease	I have sickle cell disease
+SUFFER_ICD10_D56	I have thalassaemia	I have thalassaemia
+SUFFER_ICD10_F32	I have chronic depression	I have chronic depression
+SUFFER_ICD10_F20	I have schizophrenia	I have schizophrenia
+SUFFER_ICD10_F31	I have bipolar disorder	I have bipolar disorder
+HERE_MY_MEDICATION	This is my medication	This is my medication
+DAILY_MEDICATION	I take this medication every day	I take this medication every day
+PERMANENT_MEDICATION	I have been taking this medication for years	I have been taking this medication for years
+NEED_MORE_MEDICATION	I need more of this medication	I need more of this medication
+SUFFER_INJURY	I was injured	I was injured
+SUFFER_BEATING	Somebody hit me	Somebody hit me
+SUFFER_KNIFING	I was stabbed/ cut with a knife	I was stabbed/ cut with a knife
+SUFFER_CAR_ACCIDENT	I was hit by a car	I was hit by a car
+SUFFER_STING	I was stung by an insect	I was stung by an insect
+SUFFER_BITE	I was bitten	I was bitten
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	I fell from a height
+SUFFER_FALL 	I fell down	I fell down
+HERE_PAIN	It hurts here	It hurts here
+PAIN_MOVES_A_B	The pain started here and goes to here	The pain started here and goes to here
+PERMANENT_PAIN	The pain is there all the time	The pain is there all the time
+NON_PERMANENT_PAIN	The pain comes and goes	The pain comes and goes
+PAIN_WHEN_TOUCHED	It hurts when I touch it	It hurts when I touch it
+PAIN_WHEN_STANDING	It gets worse when I stand up	It gets worse when I stand up
+PAIN_WHEN_LYING	It gets worse when I lie down	It gets worse when I lie down
+SHARP_PAIN	It is a sharp pain	It is a sharp pain
+DULL_PAIN	It is a dull pain	It is a dull pain
+SUDDEN_PAIN	The pain started suddenly	The pain started suddenly
+GRADUAL_PAIN	The pain started gradually	The pain started gradually
+KNOWN_PAIN	I have had this pain before	I have had this pain before
+UNKNOWN_PAIN	I have never had this pain before	I have never had this pain before
+SUFFER_BLEEDING	I am bleeding	I am bleeding
+SUFFER_ICD10_R31	There is blood in my urine	There is blood in my urine
+SUFFER_ICD10_K92	There is blood in my faeces	There is blood in my faeces
+SUFFER_ICD10_K92	There is blood in my vomit	There is blood in my vomit
+SUFFER_ICD10_R04.2	I am coughing up blood	I am coughing up blood
+SUFFER_ICD10_K62	I am bleeding from my anus	I am bleeding from my anus
+SUFFER_ICD10_R04.0	I have a nosebleed	I have a nosebleed
+SUFFER_ICD10_N93	I am bleeding between my periods	I am bleeding between my periods
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	My periods finished, but I am bleeding again
+FMA_7154	head	head
+FMA_54448	eye	eye
+FMA_52780	ear	ear
+FMA_49184	mouth	mouth
+FMA_24728	face	face
+FMA_7155	neck	neck
+FMA_25202	shoulder	shoulder
+FMA_24901	elbow	elbow
+FMA_24964	hip	hip
+FMA_24974	knee	knee
+FMA_9665	ankle	ankle
+FMA_9664	foot	foot
+FMA_24890	arm	arm
+FMA_24979	leg	leg
+FMA_9712	hand	hand
+FMA_9666	finger	finger
+FMA_25046	toe	toe
+FMA_9576	chest	chest
+FMA_9577	belly	belly
+FMA_7088	heart	heart
+FMA_7195	lung	lung
+FMA_7148	stomach	stomach
+FMA_7202	gallbladder	gallbladder
+FMA_7203	kidney	kidney
+FMA_7199	bowel	bowel
+FMA_15711	anus	anus
+FMA_17558	uterus	uterus
+FMA_7209	ovary	ovary
+FMA_19949	vagina	vagina
+FMA_7210	testes	testes
+FMA_9707	penis	penis
+SUFFER_SICKNESS	I feel ill	I feel ill
+SUFFER_ICD10_R50	I have a fever	I have a fever
+FREEZING	I feel cold	I feel cold
+SUFFER_SHIVERING	I have been shaking	I have been shaking
+SUFFER_COLD_SWEAT	I had a cold sweat	I had a cold sweat
+SUFFERED_ICD10_R55	I fainted	I fainted
+SUFFER_ICD10_H81	I feel dizzy	I feel dizzy
+SUFFER_ICD10_G40	I had a seizure	I had a seizure
+SUFFER_ICD10_R55	I was unconscious	I was unconscious
+SUFFER_ICD10_R06	I have difficulty breathing	I have difficulty breathing
+SUFFER_ICD10_R06.2	I have wheezing	I have wheezing
+SUFFER_ICD10_R05	I have a cough	I have a cough
+SUFFER_ICD10_R09.3	I am coughing up sputum	I am coughing up sputum
+SUFFER_ICD10_I47	My heart beats fast	My heart beats fast
+SUFFER_ICD10_I49	My heart beats irregular	My heart beats irregular
+SUFFER_CHEST_PAIN	I have chest pain	I have chest pain
+SUFFER_STOMACH_PAIN	I have stomach ache	I have stomach ache
+SUFFER_ICD10_R11	I feel sick	I feel sick
+SUFFERED_VOMITING	I have been sick	I have been sick
+SUFFER_ICD10_A09	I have diarrhoea	I have diarrhoea
+SUFFER_ICD10_K59	I have constipation	I have constipation
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	I vomit up all food and drinks
+SUFFER_ICD10_N39.3	I urinate every hour	I urinate every hour
+SUFFER_ICD10_R30.9	I have pain when urinating	I have pain when urinating
+SMELLY_URINE	My urine smells bad	My urine smells bad
+SUFFER_ICD10_R30.0	I can´t urinate	I can´t urinate
+SUFFER_ICD10_R10	I have colic pain in my side	I have colic pain in my side
+MAYBE_PREGNANT	I might be pregnant	I might be pregnant
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	I am pregnant and I am bleeding
+UTERINE_CONTRACTION	I am in labour	I am in labour
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	I last had sex 2 days ago
+LONG_TIME_NO_SEX	I have not had sex for a long time	I have not had sex for a long time
+DISEASESDB_28137	I have a discharge from my vagina	I have a discharge from my vagina
+SUFFER_ICD10_N34	I have a discharge from my urethra	I have a discharge from my urethra
+SUFFERED_RAPE	I have been raped	I have been raped
+SUFFER_ICD10_R20.1	My ... feels numb	My ... feels numb
+SUFFER_ICD10_R20.2	My .. is tingling	My .. is tingling
+WEAK_X	My .. is weak	My .. is weak
+PARALYSED_X	My .. is paralysed	My .. is paralysed
+INABILITY_TO_SPEAK	I cannot speak	I cannot speak
+SUFFER_ICD10_H54	I cannot see	I cannot see
+SUFFER_ICD10_R51	I have a headache	I have a headache
+SUFFER_ICD10_M54.2	I cannot flex my neck	I cannot flex my neck
+SUFFER_FEAR	I feel frightened	I feel frightened
+SUFFER_DEPRESSION	I feel depressed	I feel depressed
+SUFFER_SADNESS	I feel sad	I feel sad
+SUFFER_ICD10_R45.8	I think about suicide	I think about suicide
+SUFFER_ICD10_R44.0	I hear voices when i am alone	I hear voices when i am alone
+FEEL_OBSERVED	I feel like I'm being watched	I feel like I'm being watched
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

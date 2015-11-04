@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	আমার একজন ডাক্তার দেখান দরকার
+NEED_HOSPITAL	I need to go to the hospital	আমার হাসপাতালে যেতে হবে
+NEED_AMBULANCE	I need an ambulance	আমার একটি অ্যাম্বুলেন্স দরকার
+WHERE_GET_MEDICINE	Where can I fill this prescription?	কোথায় আমি প্রেসক্রিপশনে তথ্য যোগ করতে পারব?  
+WHEN_RETURN	When do I have to come back?	আমার আবার কখন ফেরত আসতে হবে?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	আমাকে কি হাসপাতালে ভর্তি হতে হবে? 
+SUFFER_ICD10_J45	I have asthma	আমার হাঁপানির রোগ আছে। 
+SUFFER_ICD10_J41	I have chronic bronchitis	আমার পুরোনো ব্রঙ্কাইটিস আছে। 
+SUFFER_ICD10_I50	I have heart failure	আমার হৃদরোগ আছে।
+SUFFER_ICD10_I21	I had a myocardial infarction	আমার হার্ট অ্যাটাক হয়েছে। 
+SUFFER_ICD10_G40	I have epilepsy	আমার মৃগীরোগ আছে। 
+SUFFER_ICD10_C00	I have cancer	আমার ক্যান্সার আছে। 
+SUFFER_ICD10_A16	I have tuberculosis	আমার যক্ষ্মা রোগ হয়েছে। 
+SUFFER_ICD10_E10	I have diabetes	আমার ডায়াবেটিস আছে। 
+SUFFER_HIV	I have HIV	আমার এইচআইভি আছে। 
+SUFFER_ICD10_C90	I have leukaemia	আমার লিউকেমিয়া আছে। 
+SUFFER_ICD10_D57	I have sickle cell disease	আমার সিকেল সেল রোগ আছে। 
+SUFFER_ICD10_D56	I have thalassaemia	আমার থ্যালাসামিয়া রোগ আছে। 
+SUFFER_ICD10_F32	I have chronic depression	আমার বিষণ্ণতা রোগ আছে। 
+SUFFER_ICD10_F20	I have schizophrenia	আমার মন বৈকল্য রোগ আছে। 
+SUFFER_ICD10_F31	I have bipolar disorder	আমার বাইপোলার ডিজঅর্ডার আছে। 
+HERE_MY_MEDICATION	This is my medication	এই যে আমার ওষুধ। 
+DAILY_MEDICATION	I take this medication every day	আমি এই ওষুধগুলো প্রতিদিন খাই। 
+PERMANENT_MEDICATION	I have been taking this medication for years	আমি এই ওষুধগুলো অনেকদিন ধরে খাই। 
+NEED_MORE_MEDICATION	I need more of this medication	এই ওষুধ আমার আরও লাগবে।
+SUFFER_INJURY	I was injured	আমি আহত হয়েছি। 
+SUFFER_BEATING	Somebody hit me	কেউ আমাকে মেরেছে। 
+SUFFER_KNIFING	I was stabbed/ cut with a knife	আমাকে কেউ ছুরি মেরেছে। 
+SUFFER_CAR_ACCIDENT	I was hit by a car	আমাকে একটি গাড়ি চাপা দিয়েছে। 
+SUFFER_STING	I was stung by an insect	আমাকে একটি পোকা কামড় দিয়েছে। 
+SUFFER_BITE	I was bitten	আমাকে কামড় দিয়েছে। 
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	আমি নিচে পড়ে গিয়েছি।
+SUFFER_FALL 	I fell down	আমি পড়ে গিয়েছি। 
+HERE_PAIN	It hurts here	এখানে ব্যথা করছে। 
+PAIN_MOVES_A_B	The pain started here and goes to here	এখান থেকে এখান পর্যন্ত ব্যথা করছে। 
+PERMANENT_PAIN	The pain is there all the time	সারাক্ষণ ব্যথা করে। 
+NON_PERMANENT_PAIN	The pain comes and goes	ব্যথা আসছে ও যাচ্ছে। 
+PAIN_WHEN_TOUCHED	It hurts when I touch it	ধরলেই ব্যথা লাগছে। 
+PAIN_WHEN_STANDING	It gets worse when I stand up	আমি দাঁড়ালে ব্যথা বেড়ে যায়। 
+PAIN_WHEN_LYING	It gets worse when I lie down	আমি শুলে ব্যথা বেড়ে যায়। 
+SHARP_PAIN	It is a sharp pain	খুব তীব্র ব্যথা করছে। 
+DULL_PAIN	It is a dull pain	মৃদু ব্যথা করছে। 
+SUDDEN_PAIN	The pain started suddenly	হঠাৎ করেই ব্যথাটা বেড়েছে। 
+GRADUAL_PAIN	The pain started gradually	ব্যথাটা আস্তে আস্তে বেড়েছে।
+KNOWN_PAIN	I have had this pain before	এরকম ব্যথা আমার আগেও ছিল। 
+UNKNOWN_PAIN	I have never had this pain before	এর আগে কখনো আমার এরকম ব্যথা করেনি।
+SUFFER_BLEEDING	I am bleeding	আমার রক্ত পড়ছে। 
+SUFFER_ICD10_R31	There is blood in my urine	আমার প্রসাবে রক্ত যাচ্ছে। 
+SUFFER_ICD10_K92	There is blood in my faeces	আমার পায়খানাতে রক্ত যাচ্ছে। 
+SUFFER_ICD10_K92	There is blood in my vomit	আমার বমিতে রক্ত যাচ্ছে। 
+SUFFER_ICD10_R04.2	I am coughing up blood	আমার কাশিতে রক্ত উঠছে। 
+SUFFER_ICD10_K62	I am bleeding from my anus	আমার পায়ুপথে রক্ত যাচ্ছে। 
+SUFFER_ICD10_R04.0	I have a nosebleed	আমার নাক থেকে রক্ত পড়ছে। 
+SUFFER_ICD10_N93	I am bleeding between my periods	আমার মাসিকের মাঝে রক্ত পড়ছে। 
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	আমার মাসিক বন্ধ হয়ে গেছে, কিন্তু রক্ত পড়ছে। 
+FMA_7154	head	মাথা
+FMA_54448	eye	চোখ
+FMA_52780	ear	কান
+FMA_49184	mouth	মুখ
+FMA_24728	face	চেহারা
+FMA_7155	neck	গলা
+FMA_25202	shoulder	কাঁধ
+FMA_24901	elbow	কনুই
+FMA_24964	hip	কোমর
+FMA_24974	knee	হাঁটু 
+FMA_9665	ankle	গোড়ালি
+FMA_9664	foot	পায়ের পাতা
+FMA_24890	arm	বাহু
+FMA_24979	leg	পা
+FMA_9712	hand	হাত
+FMA_9666	finger	আঙ্গুল 
+FMA_25046	toe	পদাঙ্গুলি
+FMA_9576	chest	বুক 
+FMA_9577	belly	পেট 
+FMA_7088	heart	হৃৎপিণ্ড
+FMA_7195	lung	ফুসফুস
+FMA_7148	stomach	পাকস্থলী 
+FMA_7202	gallbladder	গল ব্লাডার 
+FMA_7203	kidney	যকৃত
+FMA_7199	bowel	অন্ত্র
+FMA_15711	anus	পায়ুপথ
+FMA_17558	uterus	জরায়ু
+FMA_7209	ovary	ডিম্বাশয়
+FMA_19949	vagina	যোনিপথ
+FMA_7210	testes	টেস্টিস
+FMA_9707	penis	লিঙ্গ
+SUFFER_SICKNESS	I feel ill	আমার শরীর খারাপ লাগছে।
+SUFFER_ICD10_R50	I have a fever	আমার জ্বর হয়েছে। 
+FREEZING	I feel cold	আমার ঠাণ্ডা লাগছে
+SUFFER_SHIVERING	I have been shaking	আমি (ঠাণ্ডায়) কাঁপছি 
+SUFFER_COLD_SWEAT	I had a cold sweat	আমার ঘাম ঝরছে
+SUFFERED_ICD10_R55	I fainted	আমি অজ্ঞান হয়ে যাচ্ছি
+SUFFER_ICD10_H81	I feel dizzy	আমার মাথা গোলাচ্ছে। 
+SUFFER_ICD10_G40	I had a seizure	আমার খিঁচুনি হচ্ছে
+SUFFER_ICD10_R55	I was unconscious	আমি জ্ঞান হারিয়েছিলাম। 
+SUFFER_ICD10_R06	I have difficulty breathing	আমার শ্বাস নিতে কষ্ট হচ্ছে। 
+SUFFER_ICD10_R06.2	I have wheezing	আমার নাক দিয়ে পানি পড়ছে
+SUFFER_ICD10_R05	I have a cough	আমার কাশি হয়েছে। 
+SUFFER_ICD10_R09.3	I am coughing up sputum	আমার গলা দিয়ে কফ উঠছে। 
+SUFFER_ICD10_I47	My heart beats fast	আমার বুক ধড়ফড় করছে। 
+SUFFER_ICD10_I49	My heart beats irregular	আমার হৃদকম্পন অনিয়মিত হচ্ছে
+SUFFER_CHEST_PAIN	I have chest pain	আমার বুকে ব্যথা করছে। 
+SUFFER_STOMACH_PAIN	I have stomach ache	আমার পেট ব্যথা করছে। 
+SUFFER_ICD10_R11	I feel sick	আমার অসুস্থ লাগছে। 
+SUFFERED_VOMITING	I have been sick	আমি অসুস্থ ছিলাম। 
+SUFFER_ICD10_A09	I have diarrhoea	আমার ডায়রিয়া হয়েছে। 
+SUFFER_ICD10_K59	I have constipation	আমার কোস্টকাঠিন্য হয়েছে। 
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	আমি সমস্ত খাবার বমি করে উগরে ফেলেছি 
+SUFFER_ICD10_N39.3	I urinate every hour	আমি প্রতি ঘণ্টায় প্রস্রাব করি। 
+SUFFER_ICD10_R30.9	I have pain when urinating	প্রস্রাব করার সময় আমার ব্যথা লাগে। 
+SMELLY_URINE	My urine smells bad	আমার প্রস্রাবে দুর্গন্ধ হয়। 
+SUFFER_ICD10_R30.0	I can´t urinate	আমার প্রস্রাব করতে কষ্ট হয়। 
+SUFFER_ICD10_R10	I have colic pain in my side	আমার একপাশে পেট ব্যথা করে। 
+MAYBE_PREGNANT	I might be pregnant	আমি হয়ত সন্তানসম্ভবা। 
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	আমি হয়ত সন্তানসম্ভবা এবং আমার রক্ত পড়ছে।
+UTERINE_CONTRACTION	I am in labour	আমার প্রসব বেদনা শুরু হয়েছে। 
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	আমার দুদিন আগে যৌন মিলন হয়েছে। 
+LONG_TIME_NO_SEX	I have not had sex for a long time	আমার অনেক দিন ধরে যৌন মিলন হয়না
+DISEASESDB_28137	I have a discharge from my vagina	আমার যোনিপথ দিয়ে স্রাব বেরুচ্ছে
+SUFFER_ICD10_N34	I have a discharge from my urethra	আমার মূত্রনালী থেকে স্রাব বেরুচ্ছে
+SUFFERED_RAPE	I have been raped	আমাকে ধর্ষণ করা হয়েছে। 
+SUFFER_ICD10_R20.1	My ... feels numb	আমার ... কোন সংবেদনশীলতা নেই। 
+SUFFER_ICD10_R20.2	My .. is tingling	আমার ...  শির শির করছে। 
+WEAK_X	My .. is weak	আমার ... দুর্বল। 
+PARALYSED_X	My .. is paralysed	আমার ...... অবশ হয়ে গেছে।  
+INABILITY_TO_SPEAK	I cannot speak	আমি কথা বলতে পারছি না। 
+SUFFER_ICD10_H54	I cannot see	আমি দেখতে পাচ্ছি না
+SUFFER_ICD10_R51	I have a headache	আমার মাথা ধরেছে
+SUFFER_ICD10_M54.2	I cannot flex my neck	আমি ঘাড় নাড়াতে পারছি না। 
+SUFFER_FEAR	I feel frightened	আমার ভয় লাগছে। 
+SUFFER_DEPRESSION	I feel depressed	আমার বিষণ্ণ লাগছে। 
+SUFFER_SADNESS	I feel sad	আমার দুঃখ পাচ্ছে। 
+SUFFER_ICD10_R45.8	I think about suicide	আমি আত্মহত্যার কথা ভাবছি। 
+SUFFER_ICD10_R44.0	I hear voices when i am alone	আমি একা থাকলে অনেকের কথা শুনি
+FEEL_OBSERVED	I feel like I'm being watched	আমার মনে হয় কেউ আমাকে চোখে চোখে রাখছে
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

@@ -1,0 +1,212 @@
+	Basic Conversation			
+GREETING_INFORMAL	Hello	مرحبااهلا	مرحبا	Saalam/ Merhaba
+GREETING_MORNING	good morning	 صباح الخیر	صباح الخیر	Sabáh al-khayr
+GREETING_EVENING	good evening	 مسا الخير 	مساء الخیر	massa Alchayr     Masa al-khayr      
+GREETING_DEPARTURE	goodbye	مع السلامة /  باي 	مع السلامة	ma‘a 's-saláma / bye
+SORRY	sorry / excuse me 	 لو سمحت	عفوا/ المعذرة	afwan, law samáht
+PLEASE	please	عفوا/  لو تسمح	عفوا/ من فضلك	lou tismah/Afwan
+THANKS	thank you / thanks	شکرا	شکرا	Shukran
+REPLY_THANKS	you're welcome [response to thank you / thanks]	أهلا	بكل سرور	Ahlan wa sahlan
+GIVE_OWN_NAME	my name is...	اسمي 	اسمي	ismi
+ASK_OTHERS_NAME	What is your name?	 شو اسمك	ما اسمك؟	ma ismak    / schou ismak
+GIVE_OWN_PROVENANCE	I’m from...	انا من	انا من	Ana min
+FAMILY	family	اسرة; عائلة	اسرة; عائلة	Oussra / Aa'ila
+PRESENT_HUSBAND	this is my husband	هذا زوجی	هذا زوجي	hada zawji / da zawji
+WIFE	my wife	هيدي مرتي	هذە زوجتی	hadihi zawjati /di mara'ti
+CHILDREN	my children	اطفالی	أطفالي	Attfali
+DAUGHTER	my daughter	بنتی	ابنتي	binti
+SON	my son	إبني 	ابني	ibni
+BABY	my baby	طفلی	طفلي	tifli
+BROTHER	this is my brother	هذا أخي 	هذا أخي	hadha akhi
+SISTER	this is my sister	هذه أختي 	هذه أختي	hadhihi ukhti
+FATHER	this is my father	هذا ابي                  / هدا بابا	هذا أبي	hadha abi
+MOTHER	this is my mother 	هذه أمي                      / هاي ماما    	هذه أمي	hathihi ummi   / Hai Mama
+SUFFER_HUNGER	I’m hungry.	انا جوعان 	انا جائع	ana jaw‘an
+CHILD_HUNGRY	(My child) is hungry	طفلی جوعان 	طفلي جائع	tifli jaw‘an
+SUFFER_THIRST	I’m thirsty	عطشان	أريد أن أشرب	ash'ur bi'l-'atsh  / Atschaan
+WATER	water	مي	ماء	Ma'a
+AVAILABLE_Q	Do you have...	عندك...؟ 	هل عندك؟	indak...?
+LOCATION_Q	Where is..?	   وين	این ...؟	ayn? fayn?        / ouin
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	فین الحمام 	أين الحمام؟	ayna 'l-hammam
+NEED_SHOWER	I need to take a shower	بحاجة  اتحمم	أنا بحاجة للاستحمام	Bihaja ana athamam
+SHOWER_LOCATION_Q	Where can I take a shower?	 وين الحمام/الدوش	اين باستطاعتي الاستحمام؟	Ayna Bi Istitaa'ati elta7amom   / ouin Alhammam
+SANITARYPAD	sanitary pad / towel	فوطة صحية	فوطة صحية	Fouta Sohiya
+DIAPER	diaper / nappy	حفاظة، بامبرس  	حفاظة اطفال	hafaada, bambers
+NEED_MAKE_PHONECALL	I need to make a phone call	بدي احكي تلفون	أنا بحاجة لاجراء مكالمة	Bihaja ijra'a moukalama
+PRAY_LOCATION_Q	Where can I pray?	وين فيني اصلي؟ 	اين بامكاني ان اصلي؟	 ayna bi 'imkani an 'usalli
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	من وين بقدر اشتري؟...	من اين استطيع ان اشتري,,؟	Ayna youmkinouni elshira'a?
+LOCATION_X_Q	Where can I find____?	وين بلاقي....	اين اجد.....	wain bla'ei...?
+TIME_CLOCK_Q	What time is it?	قديش الساعة؟ 	كم الساعة؟	kam al-sa'ah
+NEED_SLEEP	I (we) need to sleep	انا\نحن بحاجة للنوم	انا\نحن بحاجة للنوم	Ana/ Nahnu bihaja lilnawm
+SUBWAY_LOCATION_Q	Where is the subway/underground?	 وين المحطة 	اين المترو	Ayn almetro?     / ouin Almahatta
+NO_MONEY	I don’t have any money.	 ما معي مصاري 	لا أملك نقوداً	laysa maay maal. La amliq nakuda  / Ma endi Massari
+SPEAK_X_Q	Do you speak...	بتحكي...؟	هل تتکلم اللغە ال...؟	hal tatakallam al-lugha.   / Aya Lugha Tehki
+SPEAK_LITTLE_X	I don't speak (English) very well.	ما بحكي ألماني 	لغتي الامانیة ضعیفە	Almaniyati da'ífa   /   Ma Behki Allmani
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	 فيك تكتبلي	هل يمكنك كتابة ذلك؟	Hal yomkenak ketabat zalek?  Fik Tiktba 
+NO_UNDERSTAND	I don’t understand	 ما بفهم	لم أفهم	 la afham, ma bi-fahmish   / Ma fhimt 
+HELP_REQUEST	Help! / Please help me!	ساعدنی لو سمحت 	النجدە! ساعدنی من فضلك	an-najda! sá'idni law samahta
+IGNORANCE	I don’t know	ما بعرفش/ ما بعرف	لا اعرف	ma bi-arifsh   / Ma Ba´rif
+EVENT_Q	What happened?	       شو صار 	ماذا حدث؟	Matha alathi hassal? / Matha hassall?      / schou sarr  / sho sar
+SUFFER_FREEZING	I am cold/ freezing	انا بردان/ة 	أنا بردان/ة	Ana bardan
+EXPERIENCE_HAPPINESS	I’m happy.	انا سعید                 / مبسوط	أنا سعید / ة	Ana sa'íd     / Mabssout
+SUFFER_FEAR	I’m scared.	انا بخاف انا خائف(ة)	أنا خائف/ ة	Ana bi-khaf
+SUFFER_SADNESS	I’m sad.	انا حزین	أنا حزین	Ana hazín
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	انا بعزك	أكن لك الود	Ana bai'zak
+DONT_WORRY	Don’t worry	 مو مشكل	لا تقلق	La taqlaq / Mouch Mouchkila  / Mou Mschkil
+NEED_APPOINTMENT	I would like an appointment.	بحتاج لموعد	انا بحاجة لتحديد موعد	Ana bihaja ila maw'ed
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	وين  الغرفة رقم..	اين الغرفة رقم......	wyna raqm elghourfa
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	وين مركز التسجيل؟	اين مركز الاستقبال\ التسجيل؟	wain markaz eltassjil
+MUST_WAIT	You have to wait	لازم تتنتظرو	عليكم ان تنتظروا	Yatawajab A'alaykoum alintizar
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	قدبش لازم ننتظر هنا؟	كم يتوجب علينا الإنتظار هنا؟	Kam yatawajab Aalayna al'intizar houna?
+1_DAY	one day	يوم	يوم	yawm wáhid
+1_HOUR	one hour	ساعة  	ساعة	sá'a wáhda
+1_MONTH	one month	شهر 	شهر	
+VERYSOON	very soon	قريباً 	قريباً جدا	qaríban
+TOMORROW	tomorrow	 بكرة	غداً	ghadan     / Bokra
+DAY_AFTER_TOMORROW	the day after tomorrow	     بعد بكرة	بعد غد	ba'ada ghad    / Baid Bokra
+NEXT_WEEK	next week	الأسبوع الجاي	الأسبوع القادم	al 'usbou' al muqbel
+RETURN_SOON	I will be back soon	برجع قريباً	سأعود قريباً	Sa'aoudou qariban
+ONE	one		واحد	wahad
+TWO	two		اثنان	itnen
+THREE	three		ثلاثة	talateh
+FOUR	four		أربعة	arba'a
+FIVE	five		 خمسة	khamseh
+SIX	six		ستة	sitteh
+SEVEN	seven		سبعة	saba'a
+EIGHT	eight		ثمانية	tamaniyeh
+NINE	nine		تسعة	tisa'
+TEN	ten		عشرة	a'shara 
+MONDAY	Monday		الإثنين,	
+TUESDAY	 Tuesday		 الثلاثاء	
+WEDNESDAY	 Wednesday		 الاربعاء	
+THURSDAY	 Thursday		 الخميس	
+FRIDAY	 Friday		 الجمعة	
+SATURDAY	 Saturday		 السبت	
+SUNDAY	 Sunday		 الاحد	
+JANUARY	January		كانون ثاني	
+FEBRUARY	 February		   شباط	
+MARCH	 March		   آذار,	
+APRIL	 April		   نيسان	
+MAY	 May		   ايار	
+JUNE	 June		 حزيران	
+JULY	 July		  تموز	
+AUGUST	 August		   آب	
+SEPTEMBER	 September		 ايلول	
+OCTOBER	 October		   تشرين أول	
+NOVEMBER	 November		 تشرين ثاني	
+DECEMBER	 December		   كانون أول	
+	Medical Terms	الصحة	الصحة	Sihha
+NEED_DOCTOR	I need a doctor	بحتاج دکتور	انا بحاجة لطبيب	Bahtaj doktor  / Bedi Doktor
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	 صحتی مش کویسە	صحتی ليست علی مایرام	Lastu 'ala ma yuram/ Sihti mish kuwayseh
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	طفلی مریض 	أشعر بوعكة صحية	tifli maríd
+CHILD_ILL	(My child) is sick	 حاسس حالي تعبان 	طفلی مریض	Qalbi yata'lam
+PREGNANT	I am pregnant	انا حامل	انا حامل	 Ana hámil
+SUFFER_ICD10_T78.4	I am having an allergic reaction	عندي   حساسية	عندي حساسية	Ahis bi dowar   / Daych
+SUFFER_ICD10_H81	I feel dizzy.	ادايخ	احس بدوار في رأسي	Indi hasasya
+SUFFER_ICD10_E10	I am diabetic	عندي سكري	عندي مرض السكر	indi mard sukari
+NEED_INSULIN	I need insulin	لازمني إنسولين	انا بحاحة ماسة إلى إنسولين	ana behaje masse ela ansulin
+SUFFERED_RAPE	I was raped.	لقد تم اغتصابي    / اغتصبوني	لقد اغتـُصبت	Lakad tamma Ightissabi  / Eghtassabouni
+SUFFER_ICD10_R10	I have a stomach ache.	 بطنی بيجعني	عندی الم فی بطنی	indi alam fi batni
+SUFFER_ICD10_R50	I have a fever / a temperature	حامي	عندی حرارة	Himma
+SUFFER_ICD10_R51	I have a headache	عندی صداع 	اعاني من صداع في الرأس	indi suda / Ou'ani min soudaa fi alrass
+SUFFER_ICD10_R05	I have a cough.	عندي سعال/قحة	عندي سعال	ladaya sou'al
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	طفلي حلقه ملتهب	طفلي عنده سعال / حلقه ملتهب	tefli indouhou sou'al 
+FLU	cold	رشح /زكام	رشح /زكام	Rashih/Zukam
+DIARRHEA	diarrhea	أسهال	إسهال	alisshal
+ICD10_K59.0	constipation	امساك	إمساك	al'imssak
+ICD10_B73.3	vaginal yeast infection (thrush)	التهاب مهبلي	التهاب فطري مهبلي	Iltihab Fetri mihbali
+ICD10_B53.3	athlete's foot	فطر في القدم	إصابة فطرية في القدم	Qadam al riyadi 
+ICD10_B85	head lice	قمل الرأس	قمل في الرأس	Qamel elrass
+				
+	Food	طعام	طعام	Taa'm
+MEAL_NOON	Lunch	غدا	الغداء	Ghadaa'
+MEAL_EVENING	Dinner	عشاء	العشاء	Ashaa'
+FOOD_HALAL_Q	Is this food Halal?	هدا أكل حلال	هل هذا الطعام حلال؟	hal hadha 't-ta'am halal / Had Akel Halal
+ALLERGY_AGAINST_X	I am allergic to….	عندی حساسیە ضد...	انا عندی حساسیە ضد...	Ana 'endi hasasiyah did....
+PORK_MEAT	pork	لحم خنزير 	لحم خنزير	lahem khanzir
+POULTRY_MEAT	poultry	طيور	طيور	Dawajen
+NO_EAT_PORK	I do not eat pork	ما  بلكل لحم الخنزير 	أنا لا آكل لحم الخنزير	la akol lahem alkhanzir
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	انا نباتي. ما باكل لحمة ولا سمك	انا نباتي لا اكل لحمة ولا سمك	ana nabáti
+SELF_VEGAN	I am a vegan	انا فيغان 	انا خـُضري	Ana fighan
+FISH	fish	السمك 	سمك	- Samak
+BREAD	bread	 خبز	خبز	AL khubz /  'aysh
+WATER	water	 مي	ماء	m'a, miyah   / Mai
+LEMONADE	lemonade	ليموناضة 	ليموناضة	limonada
+MILK	milk	الحليب	حليب	Al labn/al halib
+COFFEE	coffee	القهوة	قهوة	Al qahwa
+TEA	tea	الشاي	شاي	Al shaay
+BEER	beer	البيرة	بيرة	Al-beera
+FRUITS	fruit	الفاكهة	فاكهة	Fakiha
+APPLE	apple	التفاح	تفاح	Al tufah
+PEAR	pear	اجاص/ كمثرى	اجاص/ كمثرى	Alijas/ Kamthari
+GRAPEFRUIT	grapefruit	الجريب فروت	جريبفروت	AL grib fruut
+APRICOT	apricot	المشمش	مشمش	AL mushmush
+POTATOE	potatoes [pl]	البطاطا	بطاطا	Battatta
+BEAN	beans [pl]	فاصولياء /فول	فاصوليا خضراء	Fasoulia'a / Foul
+PEA	peas [pl]	البازلاء/ البسلة	بازلاء	Bazila 
+CHICKPEA	chickpeas [pl]	حمص حب	حمص	Hommos
+AUBERGINE	eggplant (US) / aubergine (UK)	باتنجان	باذنجان	batnjan
+CARROT	carrots [pl]	الجزر	جزر	Jazar
+TOMATO	tomatoes [pl]	الطماطم (البندورة)	طماطم (بنادورة)	Tamatem / Banadoura
+TURNIP	turnip	اللفت	لفت	Lefft
+FLOUR	flour	طحين	طحين	taheen
+HONEY	honey	العسل	عسل	Aassal
+CHEESE	cheese	الجبن	جبنة	Jobn
+QUARK	quark / cottage cheese 	جبن قريش	لبنة	Jobn Qarish
+PAPRIKA	paprika	فليفلة حلوة	فلفل أخضر	Flailfle
+SAUCE	sauce	صلصة	صلصة	Salsa
+BUTTER	butter	زبدة	زبدة	Zoubda
+OIL	oil	زيت	زيت	Zait
+CHEWING_GUM	chewing gum	العلكة (اللبان)	علكة (لبان)	E'lka
+SPOON	spoon	معلقة 	ملعقة	ma'laka
+KNIFE	knife	 سكين	سكين	sekena / Sikkin
+PLATE	plate	طبق/ صحن 	طبق	tabak / sahen 
+GLASS	glass (to drink from)	كباية 	كأس	Koubaya  / Kasse
+MUG	mug	كاسة	كاسة	Kassa
+TEAPOT	teapot 	ابريق شاي	ابريق شاي	Ebrek shaye
+				
+	Clothing	أواعي	ملابس	Awa-i /Malabes
+SHIRT	shirt	قميص 	قميص	 qamís
+DRESS	Dress	فستان 	فستان	fustan
+SKIRT	skirt	تنورة 	تنورة	Tanoura
+TROUSERS	trousers (UK) / pants (US)	بِنْطلون	بِنْطال/ سروال	Sirwal / Bantalon
+PULLOVER	jumper (UK) / sweater / pullover	كنزة صوف	كنزة صوف	kanzet souf
+COAT	jacket / coat	جاكِيت	جاكِيت/ مِعْطَف	Jaket / Mi'itaf
+HEADSCARF	veil / hijab / headscarf	الحجاب	حجاب	Hijab / Khimar
+SHOE	shoes [pl]	أحذية/ صباطات	حذاء	Ahzia/ sabbatat
+GLOVE	gloves [pl]	قفازات	قفازات	Qafazat
+SOCK	socks [pl]	كلسات	كلسات	kalsat
+UNDERWEAR	underwear	ملابس داخلية	ملابس داخلية	Malabis Dakhiliya
+				
+	Misc		أثاث	athath
+BED	bed	تخت - سرير	سرير	Takhet / Sarrir
+BLANKET	blanket	بطانية 	بطانية	bataneya
+LAMP	lamp	مصباح / لمبة	مصباح	misbah / lamba
+TELEPHONE	telephone	تلفون -	تلفون - هاتف	Telephon / Jawal / Hatef
+CELLPHONE	mobile phone / cellphone	جوال / موبايل 	هاتف جوال	Jawal / Mobile
+ELECTRICITY	electricity	كهرباء	كهرباء	Kahraba
+COMPUTER	computer	كمبيوتر - حاسوب	كمبيوتر, حاسوب	Hassoub/ kombuter
+INTERNET_CONNECTION	internet connection	 اتصال باانترنت	اتصال بالإنترنت	Etesal bl internet 
+BATTERY	battery	بطارية	بطارية	Battariya
+ROOM	room	غرفة	غرفة	Ghourfah
+CHAIR	chair	كرسي	كرسي	Kourssi
+TABLE	table	طاولة	طاولة	Tawla
+TOILET	toilet	حمام 	حمام	hammam
+TOILET_PAPER	toilet paper	ورق تواليت 	ورق تواليت	Warak tawalet
+TOOTHBRUSH	toothbrush	فرشاة اسنان	فرشاة اسنان	fourchat assnan
+TOOTHPASTE	toothpaste	معجون اسنان	معجون اسنان	maajoun assnan
+SHOWER	shower	دوش / حمام	دوش / حمام	hamam/ dush
+BATHTUB	bathtub	مغطس// بانيو  	مغطس	Maghtas
+SOAP	soap	صابونة	صابون	sabona
+SHAMPOO	shampoo	شامبو 	شامبو	shampoo
+HANDKERCHIEF	tissue / handkerchief	 المحارم 	محارم ورقية	maharem / mandil
+CUPBOARD	cupboard	خزانة 	خزانة	Khizana
+DOOR	door	باب	باب	Bab
+WINDOW	window	نافذة\ شباك	نافذة	Nafeza/shebbak
+WALL	wall	حيط	حائط	Ha'et
+HOUSE	house	منزل	منزل	Manzel
+APARTMENT	apartment / flat	شقة	شقة	Sha'a
+BOOK	book	كتاب	كتاب	Ketab
+NEWSPAPER	newspaper	جريدة	جريدة	Jaredeh
+RADIO	radio	 رلديو	مذياع / راديو	Mzyaa  / Radio
+TELEVISION	television	تلفاز	تلفاز / رائي	Telfaz

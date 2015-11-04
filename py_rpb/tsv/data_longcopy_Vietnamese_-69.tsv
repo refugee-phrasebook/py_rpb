@@ -1,0 +1,212 @@
+	Basic Conversation	
+GREETING_INFORMAL	Hello	
+GREETING_MORNING	good morning	Xin chào
+GREETING_EVENING	good evening	
+GREETING_DEPARTURE	goodbye	
+SORRY	sorry / excuse me 	Tôi xin lỗi.
+PLEASE	please	Xin
+THANKS	thank you / thanks	Cảm ơn
+REPLY_THANKS	you're welcome [response to thank you / thanks]	
+GIVE_OWN_NAME	my name is...	Tôi tên là...
+ASK_OTHERS_NAME	What is your name?	
+GIVE_OWN_PROVENANCE	I’m from...	Tôi là người...
+FAMILY	family	
+PRESENT_HUSBAND	this is my husband	Đây là chồng tôi.
+WIFE	my wife	Đây là vợ tôi.
+CHILDREN	my children	
+DAUGHTER	my daughter	
+SON	my son	
+BABY	my baby	
+BROTHER	this is my brother	
+SISTER	this is my sister	
+FATHER	this is my father	
+MOTHER	this is my mother 	
+SUFFER_HUNGER	I’m hungry.	
+CHILD_HUNGRY	(My child) is hungry	
+SUFFER_THIRST	I’m thirsty	
+WATER	water	
+AVAILABLE_Q	Do you have...	
+LOCATION_Q	Where is..?	
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	
+NEED_SHOWER	I need to take a shower	
+SHOWER_LOCATION_Q	Where can I take a shower?	
+SANITARYPAD	sanitary pad / towel	
+DIAPER	diaper / nappy	
+NEED_MAKE_PHONECALL	I need to make a phone call	
+PRAY_LOCATION_Q	Where can I pray?	
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	
+LOCATION_X_Q	Where can I find____?	
+TIME_CLOCK_Q	What time is it?	
+NEED_SLEEP	I (we) need to sleep	
+SUBWAY_LOCATION_Q	Where is the subway/underground?	
+NO_MONEY	I don’t have any money.	
+SPEAK_X_Q	Do you speak...	
+SPEAK_LITTLE_X	I don't speak (English) very well.	
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	
+NO_UNDERSTAND	I don’t understand	
+HELP_REQUEST	Help! / Please help me!	
+IGNORANCE	I don’t know	
+EVENT_Q	What happened?	
+SUFFER_FREEZING	I am cold/ freezing	
+EXPERIENCE_HAPPINESS	I’m happy.	
+SUFFER_FEAR	I’m scared.	
+SUFFER_SADNESS	I’m sad.	
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	
+DONT_WORRY	Don’t worry	
+NEED_APPOINTMENT	I would like an appointment.	
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	
+MUST_WAIT	You have to wait	
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	
+1_DAY	one day	
+1_HOUR	one hour	
+1_MONTH	one month	
+VERYSOON	very soon	
+TOMORROW	tomorrow	
+DAY_AFTER_TOMORROW	the day after tomorrow	
+NEXT_WEEK	next week	
+RETURN_SOON	I will be back soon	
+ONE	one	
+TWO	two	
+THREE	three	
+FOUR	four	
+FIVE	five	
+SIX	six	
+SEVEN	seven	
+EIGHT	eight	
+NINE	nine	
+TEN	ten	
+MONDAY	Monday	
+TUESDAY	 Tuesday	
+WEDNESDAY	 Wednesday	
+THURSDAY	 Thursday	
+FRIDAY	 Friday	
+SATURDAY	 Saturday	
+SUNDAY	 Sunday	
+JANUARY	January	
+FEBRUARY	 February	
+MARCH	 March	
+APRIL	 April	
+MAY	 May	
+JUNE	 June	
+JULY	 July	
+AUGUST	 August	
+SEPTEMBER	 September	
+OCTOBER	 October	
+NOVEMBER	 November	
+DECEMBER	 December	
+	Medical Terms	
+NEED_DOCTOR	I need a doctor	
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	
+CHILD_ILL	(My child) is sick	
+PREGNANT	I am pregnant	
+SUFFER_ICD10_T78.4	I am having an allergic reaction	
+SUFFER_ICD10_H81	I feel dizzy.	
+SUFFER_ICD10_E10	I am diabetic	
+NEED_INSULIN	I need insulin	
+SUFFERED_RAPE	I was raped.	
+SUFFER_ICD10_R10	I have a stomach ache.	
+SUFFER_ICD10_R50	I have a fever / a temperature	
+SUFFER_ICD10_R51	I have a headache	
+SUFFER_ICD10_R05	I have a cough.	
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	
+FLU	cold	
+DIARRHEA	diarrhea	
+ICD10_K59.0	constipation	
+ICD10_B73.3	vaginal yeast infection (thrush)	
+ICD10_B53.3	athlete's foot	
+ICD10_B85	head lice	
+		
+	Food	
+MEAL_NOON	Lunch	
+MEAL_EVENING	Dinner	
+FOOD_HALAL_Q	Is this food Halal?	
+ALLERGY_AGAINST_X	I am allergic to….	
+PORK_MEAT	pork	
+POULTRY_MEAT	poultry	
+NO_EAT_PORK	I do not eat pork	
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	
+SELF_VEGAN	I am a vegan	
+FISH	fish	
+BREAD	bread	
+WATER	water	
+LEMONADE	lemonade	
+MILK	milk	
+COFFEE	coffee	
+TEA	tea	
+BEER	beer	
+FRUITS	fruit	
+APPLE	apple	
+PEAR	pear	
+GRAPEFRUIT	grapefruit	
+APRICOT	apricot	
+POTATOE	potatoes [pl]	
+BEAN	beans [pl]	
+PEA	peas [pl]	
+CHICKPEA	chickpeas [pl]	
+AUBERGINE	eggplant (US) / aubergine (UK)	
+CARROT	carrots [pl]	
+TOMATO	tomatoes [pl]	
+TURNIP	turnip	
+FLOUR	flour	
+HONEY	honey	
+CHEESE	cheese	
+QUARK	quark / cottage cheese 	
+PAPRIKA	paprika	
+SAUCE	sauce	
+BUTTER	butter	
+OIL	oil	
+CHEWING_GUM	chewing gum	
+SPOON	spoon	
+KNIFE	knife	
+PLATE	plate	
+GLASS	glass (to drink from)	
+MUG	mug	
+TEAPOT	teapot 	
+		
+	Clothing	
+SHIRT	shirt	
+DRESS	Dress	
+SKIRT	skirt	
+TROUSERS	trousers (UK) / pants (US)	
+PULLOVER	jumper (UK) / sweater / pullover	
+COAT	jacket / coat	
+HEADSCARF	veil / hijab / headscarf	
+SHOE	shoes [pl]	
+GLOVE	gloves [pl]	
+SOCK	socks [pl]	
+UNDERWEAR	underwear	
+		
+	Misc	
+BED	bed	
+BLANKET	blanket	
+LAMP	lamp	
+TELEPHONE	telephone	
+CELLPHONE	mobile phone / cellphone	
+ELECTRICITY	electricity	
+COMPUTER	computer	
+INTERNET_CONNECTION	internet connection	
+BATTERY	battery	
+ROOM	room	
+CHAIR	chair	
+TABLE	table	
+TOILET	toilet	
+TOILET_PAPER	toilet paper	
+TOOTHBRUSH	toothbrush	
+TOOTHPASTE	toothpaste	
+SHOWER	shower	
+BATHTUB	bathtub	
+SOAP	soap	
+SHAMPOO	shampoo	
+HANDKERCHIEF	tissue / handkerchief	
+CUPBOARD	cupboard	
+DOOR	door	
+WINDOW	window	
+WALL	wall	
+HOUSE	house	
+APARTMENT	apartment / flat	
+BOOK	book	
+NEWSPAPER	newspaper	
+RADIO	radio	
+TELEVISION	television	

@@ -1,0 +1,212 @@
+	Basic Conversation	Basic conversatie
+GREETING_INFORMAL	Hello	Hallo
+GREETING_MORNING	good morning	Goedendag / goedemorgen
+GREETING_EVENING	good evening	Goedenavond
+GREETING_DEPARTURE	goodbye	Tot ziens
+SORRY	sorry / excuse me 	Pardon
+PLEASE	please	Alstublieft (aub)
+THANKS	thank you / thanks	Dank u; dank je; bedankt
+REPLY_THANKS	you're welcome [response to thank you / thanks]	Graag gedaan
+GIVE_OWN_NAME	my name is...	Ik heet ... / Mijn naam is ...
+ASK_OTHERS_NAME	What is your name?	Hoe heet u?
+GIVE_OWN_PROVENANCE	I’m from...	Ik kom uit ...
+FAMILY	family	(de) familie
+PRESENT_HUSBAND	this is my husband	Dit is mijn man
+WIFE	my wife	(Mijn) vrouw
+CHILDREN	my children	mijn kinderen
+DAUGHTER	my daughter	mijn dochter
+SON	my son	mijn zoon
+BABY	my baby	mijn baby
+BROTHER	this is my brother	Dit is mijn broer.
+SISTER	this is my sister	Dit is mijn zus.
+FATHER	this is my father	Dit is mijn vader.
+MOTHER	this is my mother 	Dit is mijn moeder.
+SUFFER_HUNGER	I’m hungry.	Ik heb honger.
+CHILD_HUNGRY	(My child) is hungry	(Mijn kind) heeft honger.
+SUFFER_THIRST	I’m thirsty	Ik heb dorst.
+WATER	water	(het) water
+AVAILABLE_Q	Do you have...	Heeft u...
+LOCATION_Q	Where is..?	Waar is ...
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Waar is de wc / Waar is de badkamer?
+NEED_SHOWER	I need to take a shower	Ik moet/wil douchen.
+SHOWER_LOCATION_Q	Where can I take a shower?	Waar kan ik douchen?
+SANITARYPAD	sanitary pad / towel	(het) maandverband
+DIAPER	diaper / nappy	(de) luier; (het) verband
+NEED_MAKE_PHONECALL	I need to make a phone call	Ik moet telefoneren.
+PRAY_LOCATION_Q	Where can I pray?	Waar kan ik bidden?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Waar kan ik _____ kopen?
+LOCATION_X_Q	Where can I find____?	Waar kan ik _____ vinden?
+TIME_CLOCK_Q	What time is it?	Hoe laat is het?
+NEED_SLEEP	I (we) need to sleep	Ik moet slapen / Wij moeten slapen.
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Waar is de metro?
+NO_MONEY	I don’t have any money.	Ik heb geen geld.
+SPEAK_X_Q	Do you speak...	Spreekt u ...?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Ik spreek niet zo goed (Nederlands).
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Kunt u dat voor me opschrijven?
+NO_UNDERSTAND	I don’t understand	Ik begrijp het niet
+HELP_REQUEST	Help! / Please help me!	Help! / Help me alstublieft!
+IGNORANCE	I don’t know	Ik weet het niet.
+EVENT_Q	What happened?	Wat is er gebeurd?
+SUFFER_FREEZING	I am cold/ freezing	Heb het koud / Ik bevries 
+EXPERIENCE_HAPPINESS	I’m happy.	Ik ben blij/gelukkig.
+SUFFER_FEAR	I’m scared.	Ik ben bang.
+SUFFER_SADNESS	I’m sad.	Ik ben verdrietig.
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Ik vind je aardig. / Ik vind je lief.
+DONT_WORRY	Don’t worry	Maak je geen zorgen.
+NEED_APPOINTMENT	I would like an appointment.	Ik will graag een afspraak maken.
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Waar is kamer nummer__?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Waar is het registratiekantoor?
+MUST_WAIT	You have to wait	Je moet wachten / jullie moeten wachten.
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Hoe lang moeten we hier wachten?
+1_DAY	one day	een dag
+1_HOUR	one hour	een uur
+1_MONTH	one month	een maand
+VERYSOON	very soon	binnenkort; heel snel
+TOMORROW	tomorrow	morgen
+DAY_AFTER_TOMORROW	the day after tomorrow	overmorgen
+NEXT_WEEK	next week	volgende week
+RETURN_SOON	I will be back soon	Ik kom snel terug.
+ONE	one	een
+TWO	two	twee
+THREE	three	drie
+FOUR	four	vier
+FIVE	five	vijf
+SIX	six	zes
+SEVEN	seven	zeven
+EIGHT	eight	acht
+NINE	nine	negen
+TEN	ten	tien
+MONDAY	Monday	maandag
+TUESDAY	 Tuesday	 dinsdag
+WEDNESDAY	 Wednesday	 woensdag
+THURSDAY	 Thursday	 donderdag
+FRIDAY	 Friday	 vrijdag
+SATURDAY	 Saturday	 zaterdag
+SUNDAY	 Sunday	 zondag
+JANUARY	January	januari
+FEBRUARY	 February	 februari
+MARCH	 March	 maart
+APRIL	 April	 april
+MAY	 May	 mei
+JUNE	 June	 juni
+JULY	 July	 juli
+AUGUST	 August	 augustus
+SEPTEMBER	 September	 september
+OCTOBER	 October	 oktober
+NOVEMBER	 November	 november
+DECEMBER	 December	 december
+	Medical Terms	Gezondheid / Medische Termen
+NEED_DOCTOR	I need a doctor	Ik heb een dokter nodig.
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	ik voel me ziek
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Ik ben ziek.
+CHILD_ILL	(My child) is sick	(Mijn kind) is ziek.
+PREGNANT	I am pregnant	Ik ben zwanger.
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Ik heb een allergische reactie.
+SUFFER_ICD10_H81	I feel dizzy.	Ik ben duizelig.
+SUFFER_ICD10_E10	I am diabetic	Ik heb diabetes.
+NEED_INSULIN	I need insulin	Ik heb insuline nodig. 
+SUFFERED_RAPE	I was raped.	Ik ben verkracht.
+SUFFER_ICD10_R10	I have a stomach ache.	Ik heb buikpijn.
+SUFFER_ICD10_R50	I have a fever / a temperature	Ik heb koorts.
+SUFFER_ICD10_R51	I have a headache	Ik heb hoofdpijn.
+SUFFER_ICD10_R05	I have a cough.	Ik moet hoesten.
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Mijn kind moet hoesten.
+FLU	cold	Verkouden; (de) verkoudheid
+DIARRHEA	diarrhea	diarree
+ICD10_K59.0	constipation	verstopping
+ICD10_B73.3	vaginal yeast infection (thrush)	vaginale schimmel
+ICD10_B53.3	athlete's foot	voetschimmel
+ICD10_B85	head lice	hoofdluis
+		
+	Food	Eten
+MEAL_NOON	Lunch	lunch
+MEAL_EVENING	Dinner	avondeten
+FOOD_HALAL_Q	Is this food Halal?	Is het eten halal?
+ALLERGY_AGAINST_X	I am allergic to….	Ik ben allergisch voor ...
+PORK_MEAT	pork	(het) varkensvlees
+POULTRY_MEAT	poultry	gevogelte
+NO_EAT_PORK	I do not eat pork	Ik eet geen varkensvlees
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Ik ben vegetariër. Ik eet geen vlees en vis.
+SELF_VEGAN	I am a vegan	Ik ben veganist.
+FISH	fish	(de) vis
+BREAD	bread	(het) brood
+WATER	water	(het) water
+LEMONADE	lemonade	(de) limonade
+MILK	milk	(de) melk
+COFFEE	coffee	(de) koffie
+TEA	tea	(de) thee
+BEER	beer	(het) bier
+FRUITS	fruit	(het) fruit
+APPLE	apple	(de) appel
+PEAR	pear	(de) peer
+GRAPEFRUIT	grapefruit	(de) grapefruit
+APRICOT	apricot	(de) abrikoos
+POTATOE	potatoes [pl]	(de) aardappelen; (de) aardappels
+BEAN	beans [pl]	(de) bonen
+PEA	peas [pl]	(de) erwten
+CHICKPEA	chickpeas [pl]	(de) kikkererwten
+AUBERGINE	eggplant (US) / aubergine (UK)	(de) aubergine
+CARROT	carrots [pl]	(de) wortelen; (de) wortels
+TOMATO	tomatoes [pl]	(de) tomaten
+TURNIP	turnip	(de) raap
+FLOUR	flour	(de) bloem
+HONEY	honey	(de) honing
+CHEESE	cheese	(de) kaas
+QUARK	quark / cottage cheese 	(de) kwark
+PAPRIKA	paprika	(de) paprika
+SAUCE	sauce	(de) saus
+BUTTER	butter	(de) boter
+OIL	oil	(de) olie
+CHEWING_GUM	chewing gum	(de) kauwgom
+SPOON	spoon	(de) lepel
+KNIFE	knife	(het) mes
+PLATE	plate	(het) bord
+GLASS	glass (to drink from)	(het) glas
+MUG	mug	(de) mok
+TEAPOT	teapot 	(de) theepot
+		
+	Clothing	Kleding
+SHIRT	shirt	(het) hemd
+DRESS	Dress	(de) jurk
+SKIRT	skirt	(de) rok
+TROUSERS	trousers (UK) / pants (US)	(de) broek
+PULLOVER	jumper (UK) / sweater / pullover	(de) trui
+COAT	jacket / coat	(de) jas
+HEADSCARF	veil / hijab / headscarf	(de) sluier / (de) hoofddoek; (de) hijab
+SHOE	shoes [pl]	(de) schoenen
+GLOVE	gloves [pl]	(de) handschoenen
+SOCK	socks [pl]	(de) sokken
+UNDERWEAR	underwear	(het) ondergoed
+		
+	Misc	Overig
+BED	bed	(het) bed
+BLANKET	blanket	(de) deken
+LAMP	lamp	(de) lamp
+TELEPHONE	telephone	(de) telefoon
+CELLPHONE	mobile phone / cellphone	(de) mobiele telefoon; (het) mobieltje
+ELECTRICITY	electricity	(de) elektriciteit; (de) stroom
+COMPUTER	computer	(de) computer
+INTERNET_CONNECTION	internet connection	(de) internetverbinding
+BATTERY	battery	(de) batterij
+ROOM	room	(de) kamer
+CHAIR	chair	(de) stoel
+TABLE	table	(de) tafel
+TOILET	toilet	(de) WC
+TOILET_PAPER	toilet paper	(het) toiletpapier
+TOOTHBRUSH	toothbrush	(de) tandenborstel
+TOOTHPASTE	toothpaste	(de) tandpasta
+SHOWER	shower	(de) douche
+BATHTUB	bathtub	(het) bad
+SOAP	soap	(de) zeep
+SHAMPOO	shampoo	(de) shampoo
+HANDKERCHIEF	tissue / handkerchief	(de) zakdoekjes
+CUPBOARD	cupboard	(de) kast
+DOOR	door	(de) deur
+WINDOW	window	(het) raam
+WALL	wall	(de) muur
+HOUSE	house	(het) huis
+APARTMENT	apartment / flat	(de) woning
+BOOK	book	(het) boek
+NEWSPAPER	newspaper	(de) krant
+RADIO	radio	(de) radio
+TELEVISION	television	(de) televisie

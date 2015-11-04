@@ -1,0 +1,212 @@
+	Basic Conversation	ዝርርብ ቀንዲ	Ziriribi K´enidi
+GREETING_INFORMAL	Hello	ሰላም፣ሰላማት	selam/selamat
+GREETING_MORNING	good morning	ደሓንዶ ሓዲርኩም	deHando Hadirkum
+GREETING_EVENING	good evening	ከመይ አምሲም።	dehan dom sichum
+GREETING_DEPARTURE	goodbye	ደሓን ኵን	deHan kun
+SORRY	sorry / excuse me 	ይቐሬታ	yichreta
+PLEASE	please	በጃኺ	bjakha
+THANKS	thank you / thanks	ምስጋና ፨ የቀንየለይ	Mi´si´gana / yekenyelei
+REPLY_THANKS	you're welcome [response to thank you / thanks]	ገንዘብኪ/ካ	genzebki/a
+GIVE_OWN_NAME	my name is...	ስመይ ___ እዩ።	semey ___ ey-yu.
+ASK_OTHERS_NAME	What is your name?	መን'ዩ ስምካ፧	men-yu semka?
+GIVE_OWN_PROVENANCE	I’m from...	... ኢየ።	... iye.
+FAMILY	family	ስድራ	sedra
+PRESENT_HUSBAND	this is my husband	እዚ በዓል በተይ	izi beal betey
+WIFE	my wife	ሰበይተይ	sebeytey
+CHILDREN	my children	ደቀይ	deqey
+DAUGHTER	my daughter	ጋለይ	guAley
+SON	my son	ወደይ	wedey
+BABY	my baby	ሕጻን	his´an
+BROTHER	this is my brother	ሓወይ	hawey
+SISTER	this is my sister	ሓፍተይ	haftey
+FATHER	this is my father	ኣቦይ	aboy
+MOTHER	this is my mother 	ኣደ	ad-de
+SUFFER_HUNGER	I’m hungry.	ጥሜት ኣለኒ።	Temayat aleni.
+CHILD_HUNGRY	(My child) is hungry	ጋለይ ጠምያ ኣላ።	geley tmeya ala
+SUFFER_THIRST	I’m thirsty	ማይ ጸሚኤ	may tsemie
+WATER	water	ማይ	May
+AVAILABLE_Q	Do you have...	ኣለኪ ዶ ...፧	aleki do ...?
+LOCATION_Q	Where is..?	…ኣበይ እዩ፧	… abey ey-yu?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	ዓይኒ ምድሪ ኣበይ እዩ፧ / ዓይኒ ምድሪ ባኞ፧	abey ey-yu ani midri? / abey ey-yu banjo?
+NEED_SHOWER	I need to take a shower	ነብሰይ ክሕፀብ ደልየ	Ane nebsey k'hetseb delye
+SHOWER_LOCATION_Q	Where can I take a shower?	ነብሰይ አበይ ክሕፀብ እክእል፧	Nebsey Abey kihtseb EkiEl
+SANITARYPAD	sanitary pad / towel	ጽግያት	tsgyat
+DIAPER	diaper / nappy	መድረዝ ኣፍ	medrez af
+NEED_MAKE_PHONECALL	I need to make a phone call	ተለፎን ክድዉል ደልየ	Telephone kidiwil delye
+PRAY_LOCATION_Q	Where can I pray?	አበይ ክጽልይ እክእል፧	Abey Kitsili EkiEl
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	___ አበይ ክዕድግ እክእል፧	___ abey kiEdig EkiEl?
+LOCATION_X_Q	Where can I find____?	___ አበይ ክረክብ እክእል፧	___ Abey Kirekib EkiEl
+TIME_CLOCK_Q	What time is it?	ሰዓተ ክንደይ ኢዩ፧	Se'At Kindey eyu?
+NEED_SLEEP	I (we) need to sleep	ክድቅስ (ክንድቅስ)ደልየ (ደሊና)፧	Kidiqis (kindiqis) delye (Delina)
+SUBWAY_LOCATION_Q	Where is the subway/underground?	መደበር ናይ ባቡር ጋለሪያ ኣበይ አዩ፧	Medeber nay babur gelerya abey eyu
+NO_MONEY	I don’t have any money.	ገንዘብ የብለይን	Genzeb yebileyn
+SPEAK_X_Q	Do you speak...	...ትዛረብ ዶ፧	… tizareb-do?
+SPEAK_LITTLE_X	I don't speak (English) very well.	ጵቡቅ (ኢንግሊዝኛ) አይዛረብን እየ	Tsibuk (Englizigna) ayzarebin eye
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	ክትሕፈለይዶ ምከአልካ፧	Kit'Tsihfeley do Mikealka?
+NO_UNDERSTAND	I don’t understand	ኣይተረድኣንን።	Ayterede´Anin
+HELP_REQUEST	Help! / Please help me!	ርደኡኒ፨	Reduni!
+IGNORANCE	I don’t know	ኣይፈልጥን	Ayfelten
+EVENT_Q	What happened?	እንታይ ተረኽበ፧	Entay Terekhbe?
+SUFFER_FREEZING	I am cold/ freezing	ብጣዕሚ ቖሪሩኒ	Bi'Taemi Koriruni
+EXPERIENCE_HAPPINESS	I’m happy.	ተሓጚሰ አለኹ	TehaGuse Alekhu
+SUFFER_FEAR	I’m scared.	ፈሪሔ አለኹ	Ferihe Alekhu
+SUFFER_SADNESS	I’m sad.	ሓዚነ አለኹ	Hazine Alekhu
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	እፈትወካ(ኪ)እየ	Efetweka(ki) eye
+DONT_WORRY	Don’t worry	አይትሸገር/አይትጨነቕ	Aytisheger/Ayticheneq
+NEED_APPOINTMENT	I would like an appointment.	ቖጸራ ምደለኹ ነይረ፧	Kotsera mideleku neyre
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	ቑጽሪ ገዛ __ አበይ ኢዩ፧	qutsri geza __ abey eyu?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	መመዝገቢ ቦታ አበይ ኢዩ፧	Memezgebi bota abey eyu?
+MUST_WAIT	You have to wait	ክትጽበ አለካ	Kit'Tsibe aleka
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	ክንደይ ጊዜ ክንጽበ አለና፧	Kindey gizie kin'Tsibe alena?
+1_DAY	one day	መዓልቲ 1 ሓደ	Me´alti hade
+1_HOUR	one hour	ሰዓት 1 ሓደ	se-at hade
+1_MONTH	one month	ወርሒ 1 ሓደ	weriti hade
+VERYSOON	very soon	ተሎ	telo
+TOMORROW	tomorrow	ጽባሕ	tsibah
+DAY_AFTER_TOMORROW	the day after tomorrow	ድሕሪ ጽባሕ	dehri tsebah
+NEXT_WEEK	next week	ዝመጽእ ሶሙን	zimetzi somun
+RETURN_SOON	I will be back soon	ቀልጢፈ ክምለስ እየ	qeltife Kimiles eye
+ONE	one	ሓደ	hade
+TWO	two	ክልተ	kelte
+THREE	three	ሰለስተ	seleste
+FOUR	four	ኣርባዕተ	arbaete
+FIVE	five	ሓሙሸተ	hamushte
+SIX	six	ሽዱሽተ	shedushte
+SEVEN	seven	ሸውዓተ	show'ate
+EIGHT	eight	ሸሞንተ	shemonte
+NINE	nine	ትሽዓተ	tesheate 
+TEN	ten	ዓሰርተ	asserte
+MONDAY	Monday	ሰኑይ	Sonuy
+TUESDAY	 Tuesday	 ሰሉስ	 Solus
+WEDNESDAY	 Wednesday	 ረቡዕ	 Robue
+THURSDAY	 Thursday	 ሓሙስ	 Hamus
+FRIDAY	 Friday	 ዓርቢ	 ´Arbi
+SATURDAY	 Saturday	 ቀዳም	 Qedam
+SUNDAY	 Sunday	 ሰንበት	 Senbet
+JANUARY	January	ጥሪ፣ 	tiri
+FEBRUARY	 February	የካቲት፣ 	 lekatit
+MARCH	 March	መጋቢት፣ 	 megabit
+APRIL	 April	ምያዝያ፣ 	 miyazya
+MAY	 May	ግንቦት፣ 	 ginbot
+JUNE	 June	ሰነ፣ 	 sene
+JULY	 July	ሓምለ፣ 	 hamle
+AUGUST	 August	ነሓሰ፣ 	 nehase
+SEPTEMBER	 September	መስከረም፣	 meskerem
+OCTOBER	 October	ጥቅምቲ፣ 	 tikimti
+NOVEMBER	 November	ሕዳር፣ 	 hdar
+DECEMBER	 December	ታሕሳስ	 tahsas
+	Medical Terms		
+NEED_DOCTOR	I need a doctor	ሓኪም የድለየኒ ኣሎ።	hakim yedleyeni alo.
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	ተጸሊኡኒ ኣሎ / ሕማም ይስምዓኒ ኣሎ	Tetseli'uni alo / Himam ysimani alo.
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	ሓሚመ ኣለኹ	Hemime Alekhu
+CHILD_ILL	(My child) is sick	ውላደይ ሓሚሙ አሎ	wuladey hamimu alo
+PREGNANT	I am pregnant	አነ ነፍሰ፡ጾር እየ	ane nefse-tsor eye
+SUFFER_ICD10_T78.4	I am having an allergic reaction	ነድሪ (አለርጂ)ጌሩለይ	Nedri (allergy) geruley
+SUFFER_ICD10_H81	I feel dizzy.	ኣንጸራሪዩኒ	Antserariuni
+SUFFER_ICD10_E10	I am diabetic	ሕማም ሽኮር አለኒ	Himam shikor aleni
+NEED_INSULIN	I need insulin	ኢንሱሊን የድልየኒ አሎ	Insulin yedliyeni alo
+SUFFERED_RAPE	I was raped.	ተዓሚጸ ነይረ	Te'Amitse nere
+SUFFER_ICD10_R10	I have a stomach ache.	ቅርጰት ከብዲ ጌሩለይ 	Kirtset kebdi geruley
+SUFFER_ICD10_R50	I have a fever / a temperature	ረስኒ ኣለኒ	resni aloni
+SUFFER_ICD10_R51	I have a headache	ርእሰይ ሓሚመ	Riesey hamime
+SUFFER_ICD10_R05	I have a cough.	ሰዓል ኣለኒ	Se'al aloni
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	ውሉደይ ሓናት ሰዓል ሓሚሙ	wludey hanat seal hamimu
+FLU	cold	ዛሕሊ	Zah´ili
+DIARRHEA	diarrhea	ውፃኣት ፨ ተቐማጥ	Wtsa´at / Teqhmat
+ICD10_K59.0	constipation	ድርኸት	dirket
+ICD10_B73.3	vaginal yeast infection (thrush)		
+ICD10_B53.3	athlete's foot		
+ICD10_B85	head lice	ቁማል ናይ ርእሲ	qumal nay riesi
+			
+	Food	ምግቢ	megbi
+MEAL_NOON	Lunch	ምሳሕ	Misah
+MEAL_EVENING	Dinner	ድራር	D´rar
+FOOD_HALAL_Q	Is this food Halal?	እዚ መግቢ ሓላል ድዩ፧	EZi megbi halal diu?
+ALLERGY_AGAINST_X	I am allergic to….	__ነድሪ (ኣለርጂ) ይገብረለይ አዩ	__nedri (alergy) yigebreley eyu
+PORK_MEAT	pork	ስጋ ሓሰማ	Siga Hasema
+POULTRY_MEAT	poultry	ደርሆ	Derho
+NO_EAT_PORK	I do not eat pork	ስጋ ሓስማ ኣይበልዕን አየ 	Siga Hasema aybelien eye
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	ኣትክልቲ ጥራሕዝምገብ አየ። ......	Atklti Trahzmgeb eye. .....
+SELF_VEGAN	I am a vegan	ናይ ስዕረት ኣይበልዕን እየ።	Nay se´eret aybele´en.
+FISH	fish	ዓሳ	assa
+BREAD	bread	ባኒ ፨ ሕምባሻ	bani / himbasha (if homemade)
+WATER	water	ማይ	mai
+LEMONADE	lemonade	ጽማቝ ለሚን 	Tsimuaq lemin
+MILK	milk	ጸባ	Tzebah
+COFFEE	coffee	ቡን	bun
+TEA	tea	ቀጠፍ ፨ ሻሂ	`ket-èf / shahi
+BEER	beer	ቢራ	bir-ra
+FRUITS	fruit	ፍሩታ	ferut-ta
+APPLE	apple	ቱፋሕ	Tufah
+PEAR	pear	ፐሮን	Peron
+GRAPEFRUIT	grapefruit	ናርገ	Nar-ge
+APRICOT	apricot	ሚሽሚሽ	mishemish
+POTATOE	potatoes [pl]	ድንሽ	dnish
+BEAN	beans [pl]	ባሎንኌ	Balongua
+PEA	peas [pl]	ዓይኒ ዓተር	Aini ater
+CHICKPEA	chickpeas [pl]	ዓተር	´ater
+AUBERGINE	eggplant (US) / aubergine (UK)	መለዛናይ	melezanay
+CARROT	carrots [pl]	ካሮቲ	karot
+TOMATO	tomatoes [pl]	ኮምደረ	komidere
+TURNIP	turnip	ኸይሕ ሱር	Keyih Sur
+FLOUR	flour	ሓርጭ	Har-ritCh
+HONEY	honey	ማዓር	ma'ar
+CHEESE	cheese	ጅብና ፨ ፎርማጆ	Jibna / Formajo
+QUARK	quark / cottage cheese 	ኣጁቦ	ajubo
+PAPRIKA	paprika	በርበሮኒ	Berberoni
+SAUCE	sauce	ስልሲ  ፨ ሳልሳ	Silsi /Salsa
+BUTTER	butter	ጠስሚ	tesmi
+OIL	oil	ዘይቲ	sejiti
+CHEWING_GUM	chewing gum	ማስቲካ/ብዕሪር	Mastika/BieRir
+SPOON	spoon	ማንካ	manka
+KNIFE	knife	ካራ	kar-ra
+PLATE	plate	ብያቲ ፨ ሸሓኒ	Biyat-ti / Shehani
+GLASS	glass (to drink from)	ብርጭቆ	Birchuk´o
+MUG	mug	ኩባያ	Kubaya
+TEAPOT	teapot 	በራድ ሻሂ	Berad Shahi
+			
+	Clothing		
+SHIRT	shirt	ካምታ	kamecha
+DRESS	Dress	ቀምሸ	kemesh
+SKIRT	skirt	ጎና	gona
+TROUSERS	trousers (UK) / pants (US)	ስረ	sere
+PULLOVER	jumper (UK) / sweater / pullover	ጎልፎ 	golfo
+COAT	jacket / coat	ጃኬት	jaket
+HEADSCARF	veil / hijab / headscarf	ነጸላ	netzela
+SHOE	shoes [pl]	ጫማ	Chama
+GLOVE	gloves [pl]	ጓንቲ 	guanti
+SOCK	socks [pl]	ካልሲ	Kalsi
+UNDERWEAR	underwear	መረሃጫ/ቀሚሽ ውሽጢ	Merehacha/Kemish wishti
+			
+	Misc		
+BED	bed	ዓራት	Arat
+BLANKET	blanket	ኮቦርታ	kobordta
+LAMP	lamp	መብራህቲ ፨ ፋኑስ	Mebrhti / Fanus
+TELEPHONE	telephone	ተለፎን	Telefon
+CELLPHONE	mobile phone / cellphone	ተለፎን ፨ ሞባይል	Telefon / Mobile
+ELECTRICITY	electricity	ሓዒሊ ኤለትሪክ	Haili Electric
+COMPUTER	computer	ኮምፑተር	Computer
+INTERNET_CONNECTION	internet connection	መስመር ኢንተርነት	Mesmer Internet
+BATTERY	battery	ባተሪ	Batery
+ROOM	room	ክፍሊ	Kifli
+CHAIR	chair	ወንበር	wenber
+TABLE	table	ጣውላ	Tawla
+TOILET	toilet	ሽንቲ ቤት	shinti-bet
+TOILET_PAPER	toilet paper	ሽንቲ ቤት ሶፍቲ	shinti-bet softi
+TOOTHBRUSH	toothbrush	መጽረዪ ሰኒ	mesireyi sini
+TOOTHPASTE	toothpaste	ክሬም መጽረዪ ሰኒ	kirem mesireyi sini
+SHOWER	shower	መሕጸብ ነብሲ	Mehtseb nebsi
+BATHTUB	bathtub	መሕጸብ ገንኢ	Mehtseb gen'E
+SOAP	soap	ሳሙና	samuna
+SHAMPOO	shampoo	ሻምፖ	Shampoo
+HANDKERCHIEF	tissue / handkerchief	መሃረም	Meharem
+CUPBOARD	cupboard	ኣርማዲዮ/ከብሒ	Armadio/Kebhi
+DOOR	door	ማዕጾ	Ma'Etso
+WINDOW	window	መስኮት 	Meskot
+WALL	wall	መንደቕ 	Mendek
+HOUSE	house	ገዛ	geza
+APARTMENT	apartment / flat	ክፍሊ-ገዛ	klfi geza
+BOOK	book	መጽሓፍ	Metsehaf
+NEWSPAPER	newspaper	ጋዜጣ	Gazeta
+RADIO	radio	ራድዮ	radio
+TELEVISION	television	ተለቪዥን	television

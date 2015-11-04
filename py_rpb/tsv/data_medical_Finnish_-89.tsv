@@ -1,0 +1,137 @@
+NEED_DOCTOR	I need to see a doctor	Minun täytyy päästä lääkäriin.
+NEED_HOSPITAL	I need to go to the hospital	Minuntäytyy päästä sairaalaan.
+NEED_AMBULANCE	I need an ambulance	Tarvitsen ambulanssin.
+WHERE_GET_MEDICINE	Where can I fill this prescription?	Mistä saan nämä reseptilääkkeet?
+WHEN_RETURN	When do I have to come back?	Milloin minun pitää tulla uudelleen?
+HOSPITALIZATION_Q	Do I have to be admitted to the hospital?	Pitääkö minun mennä sairaalaan?
+SUFFER_ICD10_J45	I have asthma	Minulla on astma.
+SUFFER_ICD10_J41	I have chronic bronchitis	Minulla on krooninen keuhkoputken tulehdus
+SUFFER_ICD10_I50	I have heart failure	Minulla on sydänongelmia
+SUFFER_ICD10_I21	I had a myocardial infarction	Minulla on ollut sydänkohtaus
+SUFFER_ICD10_G40	I have epilepsy	Minulla on epilepsia
+SUFFER_ICD10_C00	I have cancer	Minulla on syöpä
+SUFFER_ICD10_A16	I have tuberculosis	Minulla on tuberkuloosi
+SUFFER_ICD10_E10	I have diabetes	Minulla on Diabetes
+SUFFER_HIV	I have HIV	Minulla on HIV
+SUFFER_ICD10_C90	I have leukaemia	Minulla on leukemia
+SUFFER_ICD10_D57	I have sickle cell disease	Minulla on sirppisoluanemia
+SUFFER_ICD10_D56	I have thalassaemia	Minulla on talassaemia
+SUFFER_ICD10_F32	I have chronic depression	Minulla on masennus
+SUFFER_ICD10_F20	I have schizophrenia	Minulla on skitsofrenia
+SUFFER_ICD10_F31	I have bipolar disorder	Olen maanisdepressivinen
+HERE_MY_MEDICATION	This is my medication	Nämä ovat lääkkeeni
+DAILY_MEDICATION	I take this medication every day	Otan nämä lääkkeet päivittäin
+PERMANENT_MEDICATION	I have been taking this medication for years	Olen ottanut näitä lääkkeitä jo vuosia
+NEED_MORE_MEDICATION	I need more of this medication	Tarvitsen näitä lääkkeitä lisää
+SUFFER_INJURY	I was injured	Olen loukkaantunut
+SUFFER_BEATING	Somebody hit me	Joku löi minua
+SUFFER_KNIFING	I was stabbed/ cut with a knife	Minua puukotettiin
+SUFFER_CAR_ACCIDENT	I was hit by a car	Minun päälleni ajettiin autolla
+SUFFER_STING	I was stung by an insect	Hyönteinen pisti minua
+SUFFER_BITE	I was bitten	Minua on purtu
+SUFFER_FALL_FROM_HEIGHT	I fell from a height	Putosin korkealta
+SUFFER_FALL 	I fell down	Kaaduin
+HERE_PAIN	It hurts here	Tähän sattuu
+PAIN_MOVES_A_B	The pain started here and goes to here	Kipu alkaa tästä ja päättyy tänne
+PERMANENT_PAIN	The pain is there all the time	Kipu tuntuu jatkuvasti
+NON_PERMANENT_PAIN	The pain comes and goes	Kipu tulee ja menee
+PAIN_WHEN_TOUCHED	It hurts when I touch it	Siihen sattuu kun kosken siihen
+PAIN_WHEN_STANDING	It gets worse when I stand up	Se tuntuu pahemmalta kun nousen seisomaan
+PAIN_WHEN_LYING	It gets worse when I lie down	Se tuntuu pahemmalta kun makaan
+SHARP_PAIN	It is a sharp pain	Se on terävä kipu
+DULL_PAIN	It is a dull pain	
+SUDDEN_PAIN	The pain started suddenly	Kipu alkoi yllättäen
+GRADUAL_PAIN	The pain started gradually	Kipu alkoi vähitellen
+KNOWN_PAIN	I have had this pain before	Minulla on ollut tämä kipu ennenkin
+UNKNOWN_PAIN	I have never had this pain before	Minulla ei ole koskaan ollut tällaista kipua
+SUFFER_BLEEDING	I am bleeding	Vuodan verta
+SUFFER_ICD10_R31	There is blood in my urine	Minulla on verta virtsassa
+SUFFER_ICD10_K92	There is blood in my faeces	Minulla on verta ulosteessa
+SUFFER_ICD10_K92	There is blood in my vomit	Minulla on verta oksennuksessa
+SUFFER_ICD10_R04.2	I am coughing up blood	Yskin verta
+SUFFER_ICD10_K62	I am bleeding from my anus	Vuodan verta peräaukostani
+SUFFER_ICD10_R04.0	I have a nosebleed	Minulla on nenäverenvuotoa
+SUFFER_ICD10_N93	I am bleeding between my periods	Vuodan verta kuukautisten välissä
+SUFFER_ICD10_N95	My periods finished, but I am bleeding again	
+FMA_7154	head	pää
+FMA_54448	eye	silmä
+FMA_52780	ear	korva
+FMA_49184	mouth	suu
+FMA_24728	face	kasvot
+FMA_7155	neck	niska
+FMA_25202	shoulder	hartiat
+FMA_24901	elbow	kyynerpää
+FMA_24964	hip	lonkka
+FMA_24974	knee	polvi
+FMA_9665	ankle	nilkka
+FMA_9664	foot	jalkapöytä
+FMA_24890	arm	käsivarsi
+FMA_24979	leg	jalka
+FMA_9712	hand	käsi
+FMA_9666	finger	sormi
+FMA_25046	toe	varvas
+FMA_9576	chest	rinta
+FMA_9577	belly	maha
+FMA_7088	heart	sydän
+FMA_7195	lung	keuhkot
+FMA_7148	stomach	mahalaukku
+FMA_7202	gallbladder	sappirakko
+FMA_7203	kidney	munuainen
+FMA_7199	bowel	suoli
+FMA_15711	anus	peräaukko
+FMA_17558	uterus	kohtu
+FMA_7209	ovary	munasarjat
+FMA_19949	vagina	vagina
+FMA_7210	testes	kivekset
+FMA_9707	penis	penis
+SUFFER_SICKNESS	I feel ill	voin huonosti
+SUFFER_ICD10_R50	I have a fever	minulla on kuumetta
+FREEZING	I feel cold	minulla on kylmä
+SUFFER_SHIVERING	I have been shaking	tärisen
+SUFFER_COLD_SWEAT	I had a cold sweat	minulla on kylmähiki
+SUFFERED_ICD10_R55	I fainted	pyörryin
+SUFFER_ICD10_H81	I feel dizzy	minua pyörryttää
+SUFFER_ICD10_G40	I had a seizure	minulla oli sairaskohtaus
+SUFFER_ICD10_R55	I was unconscious	olin tiedoton
+SUFFER_ICD10_R06	I have difficulty breathing	minun on vaikea hengittää
+SUFFER_ICD10_R06.2	I have wheezing	Hengitykseni vinkuu
+SUFFER_ICD10_R05	I have a cough	minulla on yskä
+SUFFER_ICD10_R09.3	I am coughing up sputum	yskin limaa
+SUFFER_ICD10_I47	My heart beats fast	sydämeni lyö nopeasti
+SUFFER_ICD10_I49	My heart beats irregular	Sydämeni lyö epäsäännöllisesti
+SUFFER_CHEST_PAIN	I have chest pain	Minulla on rintakipuja
+SUFFER_STOMACH_PAIN	I have stomach ache	Mahaani sattuu
+SUFFER_ICD10_R11	I feel sick	Minua oksettaa
+SUFFERED_VOMITING	I have been sick	Olen oksentanut
+SUFFER_ICD10_A09	I have diarrhoea	Minulla on ripuli
+SUFFER_ICD10_K59	I have constipation	Minulla on ummetus
+VOMITING_OF_ALL_INGESTED	I vomit up all food and drinks	oksennan kaiken ruoan ja juoman
+SUFFER_ICD10_N39.3	I urinate every hour	Virtsaan joka tunti
+SUFFER_ICD10_R30.9	I have pain when urinating	Virtsaaminen sattuu
+SMELLY_URINE	My urine smells bad	Virtsani haisee pahalta
+SUFFER_ICD10_R30.0	I can´t urinate	En voi virtsata
+SUFFER_ICD10_R10	I have colic pain in my side	Minulla on kramppaavia kipuja kyljissäni
+MAYBE_PREGNANT	I might be pregnant	Saatan olla raskaana
+BLEEDING_DURING_PREGNANCY	I am pregnant and I am bleeding	Olen raskaana ja vuodan verta
+UTERINE_CONTRACTION	I am in labour	Synnytykseni on käynnissä
+SEX_TWO_DAYS_AGO	I last had sex 2 days ago	Harrastin seksia 2 (kaksi) päivää sitten
+LONG_TIME_NO_SEX	I have not had sex for a long time	En ole harrastanut seksiä pitkään aikaan
+DISEASESDB_28137	I have a discharge from my vagina	Minulla on vaginaalista eritettä
+SUFFER_ICD10_N34	I have a discharge from my urethra	
+SUFFERED_RAPE	I have been raped	Minut on raiskattu
+SUFFER_ICD10_R20.1	My ... feels numb	Minun...on tunnoton
+SUFFER_ICD10_R20.2	My .. is tingling	Minun... kutittaa
+WEAK_X	My .. is weak	Minun... on heikko
+PARALYSED_X	My .. is paralysed	Minun... on halvaantunut
+INABILITY_TO_SPEAK	I cannot speak	En voi puhua
+SUFFER_ICD10_H54	I cannot see	En näe mitään
+SUFFER_ICD10_R51	I have a headache	Minun päätäni särkee
+SUFFER_ICD10_M54.2	I cannot flex my neck	En voi kääntää päätäni
+SUFFER_FEAR	I feel frightened	Minua pelottaa
+SUFFER_DEPRESSION	I feel depressed	Minua masentaa
+SUFFER_SADNESS	I feel sad	Olen surullinen
+SUFFER_ICD10_R45.8	I think about suicide	Ajattelen itsemurhaa
+SUFFER_ICD10_R44.0	I hear voices when i am alone	Kuulen ääniä kun olen yksin
+FEEL_OBSERVED	I feel like I'm being watched	Minusta tuntuu että minua tarkkaillaan.
+Läuse, Filzläuse, Magenwürmer, Karies, blaue Flecken, Verstauchung, Kater, diverse Drogen, Tinnitus, trockener Mund, Rheuma, Seitenstechen, Prellung, Beule, Quetschugn, Verbrennung		
+Steifheit, Unterkühlung, Hitzschlag, Sonnenbrand, Sonnenstich, Gehirnerschütterung, Ertrinken und Verwandtes, Erstickung und Verwandtes, Schnittwunden, Brüche		

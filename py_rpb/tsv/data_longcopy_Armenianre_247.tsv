@@ -1,0 +1,212 @@
+	Basic Conversation		
+GREETING_INFORMAL	Hello	Բարեւ Ձեզ	Barev Dzez
+GREETING_MORNING	good morning	Բարի լույս	pari louys
+GREETING_EVENING	good evening	Բարի երեկո	pari yerego
+GREETING_DEPARTURE	goodbye	ցտեսություն	tsdesutiun
+SORRY	sorry / excuse me 	(պատրվակում)	neroghutiun
+PLEASE	please	խնդրեմ	hramme
+THANKS	thank you / thanks	Շնորհակալություն	shnurhagalutiun
+REPLY_THANKS	you're welcome [response to thank you / thanks]	Խնդրեմ	Khndrem
+GIVE_OWN_NAME	my name is...	Անունս ...	im anouns
+ASK_OTHERS_NAME	What is your name?	Որն է քո անունը?	Vorn e k’vo anuny?
+GIVE_OWN_PROVENANCE	I’m from...		yes ... goukam
+FAMILY	family		
+PRESENT_HUSBAND	this is my husband		as ... amousins e 
+WIFE	my wife	(...) կին	gines e 
+CHILDREN	my children	(...) մանկական	yerekhaners en 
+DAUGHTER	my daughter	(...) աղջիկ	aghchigs
+SON	my son	(...) որդի	dghas
+BABY	my baby	(...) բալիկ	zavags
+BROTHER	this is my brother	(...) եղբայր	yeghbayr
+SISTER	this is my sister	(...) քույր	k’uyr
+FATHER	this is my father	(...) հայր	hayr
+MOTHER	this is my mother 	(...) մայր	
+SUFFER_HUNGER	I’m hungry.	mayr	anoti em
+CHILD_HUNGRY	(My child) is hungry		zavags anoti e 
+SUFFER_THIRST	I’m thirsty		dzarav em 
+WATER	water	ջուր	jur
+AVAILABLE_Q	Do you have...		
+LOCATION_Q	Where is..?		
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?		
+NEED_SHOWER	I need to take a shower		
+SHOWER_LOCATION_Q	Where can I take a shower?		
+SANITARYPAD	sanitary pad / towel	սանիտարական անձեռոցիկ	sanitarakan andzerrots’ik
+DIAPER	diaper / nappy	խանձարուր	khandzarur
+NEED_MAKE_PHONECALL	I need to make a phone call		
+PRAY_LOCATION_Q	Where can I pray?		
+PURCHASE_X_LOCATION_Q	Where can I buy_____?		
+LOCATION_X_Q	Where can I find____?		
+TIME_CLOCK_Q	What time is it?		
+NEED_SLEEP	I (we) need to sleep		
+SUBWAY_LOCATION_Q	Where is the subway/underground?		
+NO_MONEY	I don’t have any money.		
+SPEAK_X_Q	Do you speak...		
+SPEAK_LITTLE_X	I don't speak (English) very well.		
+WRITE_DOWN_X_REQUEST	Can you write that down for me?		
+NO_UNDERSTAND	I don’t understand		
+HELP_REQUEST	Help! / Please help me!		
+IGNORANCE	I don’t know		
+EVENT_Q	What happened?		
+SUFFER_FREEZING	I am cold/ freezing		
+EXPERIENCE_HAPPINESS	I’m happy.		
+SUFFER_FEAR	I’m scared.		
+SUFFER_SADNESS	I’m sad.		
+EXPERIENCE_LIKING_ADDRESSEE	I like you.		
+DONT_WORRY	Don’t worry		
+NEED_APPOINTMENT	I would like an appointment.		
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?		
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?		
+MUST_WAIT	You have to wait		
+WAITING_TIME_DURATION_Q	How long do we have to wait here?		
+1_DAY	one day		
+1_HOUR	one hour		
+1_MONTH	one month		
+VERYSOON	very soon	շատ շուտով	shat shutov
+TOMORROW	tomorrow	վաղը	vaghy
+DAY_AFTER_TOMORROW	the day after tomorrow	վաղը չէ մյուս օրը	vaghy ch’e myus ory
+NEXT_WEEK	next week		
+RETURN_SOON	I will be back soon		
+ONE	one	մեկ	mek
+TWO	two	երկու	yerku
+THREE	three	երեք	yerek’
+FOUR	four	չորս	ch’vors
+FIVE	five	հինգ	hing
+SIX	six	վեց	vets’
+SEVEN	seven	յոթ	yot’
+EIGHT	eight	ութ	ut’
+NINE	nine	ինը	iny
+TEN	ten	տասը	tasy
+MONDAY	Monday	Երկուշաբթի	Yerkushabt’i
+TUESDAY	 Tuesday	 Երեքշաբթի	 Yerek’shabt’i
+WEDNESDAY	 Wednesday	 Չորեքշաբթի	 Ch’vorek’shabt’i
+THURSDAY	 Thursday	 Հինգշաբթի	 Hingshabt’i
+FRIDAY	 Friday	 Ուրբաթ	 Urbat’
+SATURDAY	 Saturday	 Շաբաթ	 Shabat’
+SUNDAY	 Sunday	 Կիրակի	 Kiraki
+JANUARY	January	Հունվար 	Hunvar 
+FEBRUARY	 February	 Փետրվար	 P’yetrvar
+MARCH	 March	 Մարտ 	 Mart 
+APRIL	 April	 ապրիլ	 april
+MAY	 May	 մայիս 	 mayis 
+JUNE	 June	 հունիս 	 hunis 
+JULY	 July	 հուլիս	 hulis
+AUGUST	 August	 օգոստոս 	 ogostos 
+SEPTEMBER	 September	 սեպտեմբեր	 september
+OCTOBER	 October	 հոկտեմբեր 	 hoktember 
+NOVEMBER	 November	 նոյեմբեր	 noyember
+DECEMBER	 December	 դեկտեմբեր	 dektember
+	Medical Terms		
+NEED_DOCTOR	I need a doctor		
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 		
+EXPERIENCE_ILLNESS	I’m ill / I’m sick		yes hivant em 
+CHILD_ILL	(My child) is sick		
+PREGNANT	I am pregnant		
+SUFFER_ICD10_T78.4	I am having an allergic reaction		
+SUFFER_ICD10_H81	I feel dizzy.		
+SUFFER_ICD10_E10	I am diabetic		
+NEED_INSULIN	I need insulin		
+SUFFERED_RAPE	I was raped.		
+SUFFER_ICD10_R10	I have a stomach ache.		
+SUFFER_ICD10_R50	I have a fever / a temperature		
+SUFFER_ICD10_R51	I have a headache		
+SUFFER_ICD10_R05	I have a cough.		
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough		
+FLU	cold	ցուրտ	ts’urt
+DIARRHEA	diarrhea	լուծ	luts
+ICD10_K59.0	constipation	փորկապ	p’vorkaput’yun
+ICD10_B73.3	vaginal yeast infection (thrush)		
+ICD10_B53.3	athlete's foot	մարզուհին ոտքով	marzuhin votk’ov
+ICD10_B85	head lice		
+			
+	Food		
+MEAL_NOON	Lunch	երկրորդ նախաճաշ / լանչ	yerkrord nakhachash / lanch’
+MEAL_EVENING	Dinner	ճաշ	chash
+FOOD_HALAL_Q	Is this food Halal?		as jashe halal e ?
+ALLERGY_AGAINST_X	I am allergic to….		
+PORK_MEAT	pork	խոզի միս	khozi mis
+POULTRY_MEAT	poultry	ընտանի թռչուն	yntani t’rrch’un
+NO_EAT_PORK	I do not eat pork		
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.		
+SELF_VEGAN	I am a vegan		
+FISH	fish	ձկան	dzkan
+BREAD	bread	հաց	hats’
+WATER	water	ջրային	jrayin
+LEMONADE	lemonade		
+MILK	milk	կաթ	kat’
+COFFEE	coffee	սուրճ	surch
+TEA	tea	թեյ	t’yey
+BEER	beer	գարեջուր	garejur
+FRUITS	fruit	մրգի	mrgi
+APPLE	apple	խնձոր	khndzor
+PEAR	pear	տանձ	tandz
+GRAPEFRUIT	grapefruit	գրեյպֆրուտ	greypfrut
+APRICOT	apricot	ծիրան	tsiran
+POTATOE	potatoes [pl]	կարտոֆիլ	kartofil
+BEAN	beans [pl]	լոբի	lobi
+PEA	peas [pl]	ոլոռ / սիսեռ	volorr / siserr
+CHICKPEA	chickpeas [pl]		
+AUBERGINE	eggplant (US) / aubergine (UK)	բադրիջան	badrijan
+CARROT	carrots [pl]	գազար	gazar
+TOMATO	tomatoes [pl]	լոլիկներ	lolikner
+TURNIP	turnip	շաղգամ	shaghgam
+FLOUR	flour	ալյուր	alyur
+HONEY	honey	մեղր	meghr
+CHEESE	cheese	պանիր	panir
+QUARK	quark / cottage cheese 	Quark	Quark
+PAPRIKA	paprika	բրինձ	brindz
+SAUCE	sauce	սուս	sus
+BUTTER	butter	կարագ	karag
+OIL	oil	ձեթ	dzet’
+CHEWING_GUM	chewing gum	ռետին	rretin
+SPOON	spoon	Գդալ	Gdal
+KNIFE	knife	դանակ	danak
+PLATE	plate	ափսե	ap’se
+GLASS	glass (to drink from)	ապակի	apaki
+MUG	mug	գավաթիկ	gavatik
+TEAPOT	teapot 	թեյաման	t’yeyaman
+			
+	Clothing		
+SHIRT	shirt	վերնաշապիկ	vernashapik
+DRESS	Dress		
+SKIRT	skirt	քար	k’ar
+TROUSERS	trousers (UK) / pants (US)	շալվար	shalvar
+PULLOVER	jumper (UK) / sweater / pullover	սվիտեր	sviter
+COAT	jacket / coat	պիջակ	pijak
+HEADSCARF	veil / hijab / headscarf	Վարագույրի / ...	Varaguyri / ...
+SHOE	shoes [pl]		
+GLOVE	gloves [pl]	ձեռնոցներ	dzerrnots’ner
+SOCK	socks [pl]	գուլպաներ	gulpaner
+UNDERWEAR	underwear	ներքնազգեստ	nerk’nazgest
+			
+	Misc		
+BED	bed	մահճակալ	mahchakal
+BLANKET	blanket	առաստաղ	arrastagh
+LAMP	lamp	ճրագ	chrag
+TELEPHONE	telephone	հեռախոս	herrakhos
+CELLPHONE	mobile phone / cellphone	շարժական	sharzhakan
+ELECTRICITY	electricity	Էլեկտրականություն / Power	Elektrakanut’yun / Power
+COMPUTER	computer	համակարգիչ	hamakargich’
+INTERNET_CONNECTION	internet connection	Ինտերնետ կապ	Internet kap
+BATTERY	battery	մարտկոց	martkots’
+ROOM	room	սենյակ	senyak
+CHAIR	chair	աթոռ	at’vorr
+TABLE	table	սեղան	seghan
+TOILET	toilet	Զուգարանի / ...	Zugarani / ...
+TOILET_PAPER	toilet paper	զուգարանի թուղթ	zugarani t’ught’
+TOOTHBRUSH	toothbrush	ատամի խոզանակ	atami khozanak
+TOOTHPASTE	toothpaste	ատամնաքսուք	atamnak’suk’
+SHOWER	shower	ցնցուղ	ts’nts’ugh
+BATHTUB	bathtub	լոգարան	logaran
+SOAP	soap	օճառ	ocharr
+SHAMPOO	shampoo	շամպուն	shampun
+HANDKERCHIEF	tissue / handkerchief	թաշկինակ	t’ashkinak
+CUPBOARD	cupboard	բուֆետ	bufet
+DOOR	door	դուռ	durr
+WINDOW	window	պատուհան	patuhan
+WALL	wall	պատ	pat
+HOUSE	house	տուն	tun
+APARTMENT	apartment / flat	բնակարան	bnakaran
+BOOK	book	գիրք	girk’
+NEWSPAPER	newspaper		
+RADIO	radio	ռադիո	rradio
+TELEVISION	television	հեռուստատեսություն	herrustatesut’yun

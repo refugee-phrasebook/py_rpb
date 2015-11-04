@@ -1,0 +1,212 @@
+	Basic Conversation	Conversação Básica
+GREETING_INFORMAL	Hello	Olá
+GREETING_MORNING	good morning	Bom dia
+GREETING_EVENING	good evening	Boa noite
+GREETING_DEPARTURE	goodbye	Adeus
+SORRY	sorry / excuse me 	Desculpe
+PLEASE	please	Por favor
+THANKS	thank you / thanks	Obrigado / Obrigada
+REPLY_THANKS	you're welcome [response to thank you / thanks]	De nada / Não tem de quê
+GIVE_OWN_NAME	my name is...	O meu nome é...
+ASK_OTHERS_NAME	What is your name?	Como se chama?
+GIVE_OWN_PROVENANCE	I’m from...	Venho de... / Sou de...
+FAMILY	family	Família
+PRESENT_HUSBAND	this is my husband	Ele é meu marido
+WIFE	my wife	Ela é minha mulher
+CHILDREN	my children	Eles são meus filhos
+DAUGHTER	my daughter	Ela é minha filha
+SON	my son	Ele é meu filho
+BABY	my baby	É o meu bebé
+BROTHER	this is my brother	Este é o meu irmão
+SISTER	this is my sister	Esta é a minha irmã
+FATHER	this is my father	Este é o meu pai
+MOTHER	this is my mother 	Esta é a minha mãe
+SUFFER_HUNGER	I’m hungry.	Estou com fome
+CHILD_HUNGRY	(My child) is hungry	O meu filho/ A minha filha tem fome
+SUFFER_THIRST	I’m thirsty	Tenho sede
+WATER	water	água
+AVAILABLE_Q	Do you have...	Tem...?
+LOCATION_Q	Where is..?	Onde está…? 
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Onde fica a casa de banho?
+NEED_SHOWER	I need to take a shower	Preciso de tomar banho
+SHOWER_LOCATION_Q	Where can I take a shower?	Onde posso tomar um banho?
+SANITARYPAD	sanitary pad / towel	Penso higiénico
+DIAPER	diaper / nappy	Fralda
+NEED_MAKE_PHONECALL	I need to make a phone call	Preciso de fazer uma chamada / Preciso fazer um telefonema / Preciso telefonar
+PRAY_LOCATION_Q	Where can I pray?	Onde posso rezar?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Onde posso comprar...?
+LOCATION_X_Q	Where can I find____?	Onde posso encontrar...?
+TIME_CLOCK_Q	What time is it?	Que horas são?
+NEED_SLEEP	I (we) need to sleep	Preciso de dormir
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Onde fica o metro?
+NO_MONEY	I don’t have any money.	Não tenho dinheiro
+SPEAK_X_Q	Do you speak...	Fala…?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Não falo português (muito bem)
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Pode escrever?
+NO_UNDERSTAND	I don’t understand	Não entendo/compreendo
+HELP_REQUEST	Help! / Please help me!	Ajuda! / Ajude-me por favor!
+IGNORANCE	I don’t know	Não sei
+EVENT_Q	What happened?	O que aconteceu?
+SUFFER_FREEZING	I am cold/ freezing	Tenho frio
+EXPERIENCE_HAPPINESS	I’m happy.	Estou feliz
+SUFFER_FEAR	I’m scared.	Estou assustado
+SUFFER_SADNESS	I’m sad.	Estou triste.
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Gosto de si/ti.
+DONT_WORRY	Don’t worry	Não se preocupe
+NEED_APPOINTMENT	I would like an appointment.	Preciso marcar uma consulta
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Onde fica a sala/o quarto número ___?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Onde fica o centro de registos?
+MUST_WAIT	You have to wait	Precisa de esperar
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Quanto tempo temos de esperar aqui?
+1_DAY	one day	Um dia
+1_HOUR	one hour	Uma hora
+1_MONTH	one month	Um mês.
+VERYSOON	very soon	Logo / em breve
+TOMORROW	tomorrow	amanhã
+DAY_AFTER_TOMORROW	the day after tomorrow	depois de amanhã
+NEXT_WEEK	next week	a próxima semana
+RETURN_SOON	I will be back soon	Já volto / Volto já
+ONE	one	Um
+TWO	two	dois
+THREE	three	três
+FOUR	four	quatro
+FIVE	five	cinco
+SIX	six	seis
+SEVEN	seven	sete
+EIGHT	eight	oito
+NINE	nine	nove
+TEN	ten	dez
+MONDAY	Monday	segunda-feira
+TUESDAY	 Tuesday	terça-feira
+WEDNESDAY	 Wednesday	quarta-feira
+THURSDAY	 Thursday	quinta-feira
+FRIDAY	 Friday	sexta-feira
+SATURDAY	 Saturday	sábado
+SUNDAY	 Sunday	domingo
+JANUARY	January	janeiro
+FEBRUARY	 February	 fevereiro
+MARCH	 March	 março
+APRIL	 April	 abril
+MAY	 May	 maio
+JUNE	 June	 junho
+JULY	 July	 julho
+AUGUST	 August	 agosto
+SEPTEMBER	 September	 setembro
+OCTOBER	 October	 outubro
+NOVEMBER	 November	 novembro
+DECEMBER	 December	 dezembro
+	Medical Terms	Termos Médicos
+NEED_DOCTOR	I need a doctor	Preciso de um médico
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Estou enjoado/a
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Estou doente
+CHILD_ILL	(My child) is sick	O meu filho/a minha filha está doente
+PREGNANT	I am pregnant	Estou grávida
+SUFFER_ICD10_T78.4	I am having an allergic reaction	Estou a ter uma reação alérgica
+SUFFER_ICD10_H81	I feel dizzy.	Estou tonto/a
+SUFFER_ICD10_E10	I am diabetic	Tenho diabetes
+NEED_INSULIN	I need insulin	Preciso de insulina
+SUFFERED_RAPE	I was raped.	Fui violada
+SUFFER_ICD10_R10	I have a stomach ache.	Dói-me a barriga
+SUFFER_ICD10_R50	I have a fever / a temperature	Tenho febre
+SUFFER_ICD10_R51	I have a headache	Dói-me a cabeça
+SUFFER_ICD10_R05	I have a cough.	Tenho tosse.
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	O meu filho/a minha filha tem tosse.
+FLU	cold	Constipação / Resfriado
+DIARRHEA	diarrhea	Diarreia
+ICD10_K59.0	constipation	Prisão de ventre
+ICD10_B73.3	vaginal yeast infection (thrush)	Infeção vaginal / Candidíase vaginal
+ICD10_B53.3	athlete's foot	Pé de atleta
+ICD10_B85	head lice	Piolhos
+		
+	Food	Comida
+MEAL_NOON	Lunch	almoço
+MEAL_EVENING	Dinner	jantar
+FOOD_HALAL_Q	Is this food Halal?	Essa comida é Halal?
+ALLERGY_AGAINST_X	I am allergic to….	Sou alérgico/a a...
+PORK_MEAT	pork	Carne de porco
+POULTRY_MEAT	poultry	Aves
+NO_EAT_PORK	I do not eat pork	Eu não como carne de porco.
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Sou vegetariano/a
+SELF_VEGAN	I am a vegan	Sou vegano/a
+FISH	fish	Peixe
+BREAD	bread	Pão
+WATER	water	Água
+LEMONADE	lemonade	limonada
+MILK	milk	leite
+COFFEE	coffee	café
+TEA	tea	chá
+BEER	beer	cerveja
+FRUITS	fruit	fruta
+APPLE	apple	maçã(s)
+PEAR	pear	pêra(s)
+GRAPEFRUIT	grapefruit	toranja(s)
+APRICOT	apricot	damasco(s), alperce(s)
+POTATOE	potatoes [pl]	batatas
+BEAN	beans [pl]	feijões
+PEA	peas [pl]	ervilhas
+CHICKPEA	chickpeas [pl]	grão
+AUBERGINE	eggplant (US) / aubergine (UK)	beringela
+CARROT	carrots [pl]	cenouras
+TOMATO	tomatoes [pl]	tomates
+TURNIP	turnip	nabo
+FLOUR	flour	farinha
+HONEY	honey	mel
+CHEESE	cheese	queijo
+QUARK	quark / cottage cheese 	requeijão / queijo fresco
+PAPRIKA	paprika	paprica / pimentão
+SAUCE	sauce	Molho
+BUTTER	butter	Manteiga
+OIL	oil	Óleo
+CHEWING_GUM	chewing gum	pastilha elástica
+SPOON	spoon	colher
+KNIFE	knife	Faca
+PLATE	plate	Prato
+GLASS	glass (to drink from)	Copo
+MUG	mug	Caneca
+TEAPOT	teapot 	bule
+		
+	Clothing	Roupa
+SHIRT	shirt	camisa
+DRESS	Dress	vestido
+SKIRT	skirt	Saia
+TROUSERS	trousers (UK) / pants (US)	calças
+PULLOVER	jumper (UK) / sweater / pullover	pulover / camisola de manga comprida
+COAT	jacket / coat	casaco
+HEADSCARF	veil / hijab / headscarf	véu
+SHOE	shoes [pl]	sapatos
+GLOVE	gloves [pl]	luvas
+SOCK	socks [pl]	meias
+UNDERWEAR	underwear	roupa interior
+		
+	Misc	Diversos
+BED	bed	cama
+BLANKET	blanket	manta / cobertor
+LAMP	lamp	lâmpada
+TELEPHONE	telephone	telefone
+CELLPHONE	mobile phone / cellphone	telemóvel
+ELECTRICITY	electricity	eletricidade
+COMPUTER	computer	computador
+INTERNET_CONNECTION	internet connection	ligação à internet
+BATTERY	battery	bateria / pilha
+ROOM	room	quarto
+CHAIR	chair	cadeira
+TABLE	table	mesa
+TOILET	toilet	casa de banho
+TOILET_PAPER	toilet paper	papel higiénico
+TOOTHBRUSH	toothbrush	escova de dentes
+TOOTHPASTE	toothpaste	pasta de dentes / pasta dentífrica
+SHOWER	shower	chuveiro
+BATHTUB	bathtub	banheira
+SOAP	soap	sabonete
+SHAMPOO	shampoo	champô
+HANDKERCHIEF	tissue / handkerchief	lenço de papel
+CUPBOARD	cupboard	armário
+DOOR	door	porta
+WINDOW	window	janela
+WALL	wall	parede
+HOUSE	house	casa
+APARTMENT	apartment / flat	apartamento
+BOOK	book	livro
+NEWSPAPER	newspaper	jornal
+RADIO	radio	rádio
+TELEVISION	television	televisão

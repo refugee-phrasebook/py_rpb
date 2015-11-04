@@ -1,0 +1,212 @@
+	Basic Conversation	
+GREETING_INFORMAL	Hello	Kamusta
+GREETING_MORNING	good morning	Magandang araw
+GREETING_EVENING	good evening	Magandang gabi
+GREETING_DEPARTURE	goodbye	Paalam
+SORRY	sorry / excuse me 	Pasensya
+PLEASE	please	Pakiusap
+THANKS	thank you / thanks	(Maraming) Salamat
+REPLY_THANKS	you're welcome [response to thank you / thanks]	
+GIVE_OWN_NAME	my name is...	Ako si...
+ASK_OTHERS_NAME	What is your name?	Ano ang pangalan mo?
+GIVE_OWN_PROVENANCE	I’m from...	Galing ako sa...
+FAMILY	family	Pamilya
+PRESENT_HUSBAND	this is my husband	Siya ang asawa ko
+WIFE	my wife	Asawa ko
+CHILDREN	my children	Mga anak ko
+DAUGHTER	my daughter	Anak kong babae
+SON	my son	Anak kong lalake
+BABY	my baby	Anak kong sanggol
+BROTHER	this is my brother	Siya ang kapatid ko
+SISTER	this is my sister	Siya ang kapatid ko
+FATHER	this is my father	Siya ang aking ama
+MOTHER	this is my mother 	Siya ang aking ina
+SUFFER_HUNGER	I’m hungry.	Nagugutom ako
+CHILD_HUNGRY	(My child) is hungry	Gutom ang anak ko/Nagugutom na ang anak ko
+SUFFER_THIRST	I’m thirsty	Nauuhaw ako
+WATER	water	tubig
+AVAILABLE_Q	Do you have...	May... ka ba?
+LOCATION_Q	Where is..?	Saan ang...?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	Nasaan ang banyo / CR?
+NEED_SHOWER	I need to take a shower	Kailangan ko maligo
+SHOWER_LOCATION_Q	Where can I take a shower?	Saan ako pwedeng maligo?
+SANITARYPAD	sanitary pad / towel	Napkin
+DIAPER	diaper / nappy	"diaper" (pronounced as in English)
+NEED_MAKE_PHONECALL	I need to make a phone call	Kailangan kong tumawag
+PRAY_LOCATION_Q	Where can I pray?	Saan ako p(u)wedeng magdasal?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Saan ako p(u)wedeng bumili ng...?
+LOCATION_X_Q	Where can I find____?	Saan ako p(u)wedeng makahanap ng...?
+TIME_CLOCK_Q	What time is it?	Anong oras na?
+NEED_SLEEP	I (we) need to sleep	Kailangan kong/nating matulog
+SUBWAY_LOCATION_Q	Where is the subway/underground?	Nasaan ang metro/subway?
+NO_MONEY	I don’t have any money.	Wala akong pera
+SPEAK_X_Q	Do you speak...	Nakakapagsalita ka ba ng...?/Marunong ka bang mag...?
+SPEAK_LITTLE_X	I don't speak (English) very well.	Hindi ako nakakapagsalita ng Filipino (Tagalog)
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	P(u)wede mo bang isulat?
+NO_UNDERSTAND	I don’t understand	Hindi ko maintindihan
+HELP_REQUEST	Help! / Please help me!	Tulong / Saklolo
+IGNORANCE	I don’t know	Hindi ko alam
+EVENT_Q	What happened?	Ano ang nangyari?
+SUFFER_FREEZING	I am cold/ freezing	Nalalamigan ako
+EXPERIENCE_HAPPINESS	I’m happy.	Masaya ako
+SUFFER_FEAR	I’m scared.	Natatakot ako/Takot ako
+SUFFER_SADNESS	I’m sad.	Malungkot ako
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	Gusto kita
+DONT_WORRY	Don’t worry	Huwag kang magalala
+NEED_APPOINTMENT	I would like an appointment.	Nais kong makipag-usap/makipag-ugnayan sa (name of office or bureau)                                 /                                   Nais kong makipag-usap/makipag-ugnayan kay (person's name)
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Nasaan ang silid bilang _?          /           Nasaan ang room # _?
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Saan ang registration centre?
+MUST_WAIT	You have to wait	Kailangan mong maghintay
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	Gaano kami katagal maghihintay?
+1_DAY	one day	Isang araw
+1_HOUR	one hour	Isang oras
+1_MONTH	one month	Isang buwan
+VERYSOON	very soon	Sa lalong madaling panahon
+TOMORROW	tomorrow	bukas
+DAY_AFTER_TOMORROW	the day after tomorrow	sa makalawa
+NEXT_WEEK	next week	sa susunod na linggo
+RETURN_SOON	I will be back soon	Babalik din ako kaagad
+ONE	one	isa
+TWO	two	dalawa
+THREE	three	tatlo
+FOUR	four	apat
+FIVE	five	lima
+SIX	six	anim
+SEVEN	seven	pito
+EIGHT	eight	walo
+NINE	nine	siyam
+TEN	ten	sampu
+MONDAY	Monday	Lunes
+TUESDAY	 Tuesday	 Martes
+WEDNESDAY	 Wednesday	 Miyerkules
+THURSDAY	 Thursday	 Huwebes
+FRIDAY	 Friday	 Biyernes
+SATURDAY	 Saturday	 Sabado
+SUNDAY	 Sunday	 Linggo 
+JANUARY	January	Enero
+FEBRUARY	 February	 Pebrero
+MARCH	 March	 Marso
+APRIL	 April	 Abril
+MAY	 May	 Mayo
+JUNE	 June	Hunyo
+JULY	 July	 Hulyo
+AUGUST	 August	 Agosto
+SEPTEMBER	 September	 Setyembre
+OCTOBER	 October	 Oktubre
+NOVEMBER	 November	 Nobyembre
+DECEMBER	 December	 Disyembre
+	Medical Terms	Mga terminolohiyang medikal/pangkalusugan
+NEED_DOCTOR	I need a doctor	Kailangan ko ng doktor
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Masama ang pakiramdam ko
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	May sakit ako
+CHILD_ILL	(My child) is sick	May sakit ang anak ko
+PREGNANT	I am pregnant	Buntis ako
+SUFFER_ICD10_T78.4	I am having an allergic reaction	May allergy ako
+SUFFER_ICD10_H81	I feel dizzy.	Inaantok ako
+SUFFER_ICD10_E10	I am diabetic	May diabetes ako
+NEED_INSULIN	I need insulin	Kailangan ko ng insulin
+SUFFERED_RAPE	I was raped.	Ginahasa ako / Pinagsamantalahan ako (softer way of saying it)
+SUFFER_ICD10_R10	I have a stomach ache.	Masakit ang tiyan ko
+SUFFER_ICD10_R50	I have a fever / a temperature	May lagnat ako
+SUFFER_ICD10_R51	I have a headache	Masakit ang ulo ko
+SUFFER_ICD10_R05	I have a cough.	May ubo ako/Inuubo ako
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Masakit ang lalamunan ng anak ko
+FLU	cold	Sipon
+DIARRHEA	diarrhea	Pagtatae
+ICD10_K59.0	constipation	Hirap sa pagtatae
+ICD10_B73.3	vaginal yeast infection (thrush)	Impeksyon sa ari 
+ICD10_B53.3	athlete's foot	alipunga
+ICD10_B85	head lice	Kuto
+		
+	Food	Pagkain
+MEAL_NOON	Lunch	tanghalian
+MEAL_EVENING	Dinner	hapunan
+FOOD_HALAL_Q	Is this food Halal?	Halal ba ang pagkain?
+ALLERGY_AGAINST_X	I am allergic to….	May allergy ako sa ...
+PORK_MEAT	pork	karne ng baboy / Baboy
+POULTRY_MEAT	poultry	
+NO_EAT_PORK	I do not eat pork	Hindi ako kumakain ng baboy
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Gulay lang kinakain ko
+SELF_VEGAN	I am a vegan	
+FISH	fish	isda
+BREAD	bread	tinapay
+WATER	water	Tubig
+LEMONADE	lemonade	limonada
+MILK	milk	gatas
+COFFEE	coffee	kape
+TEA	tea	tsaa
+BEER	beer	alak/serbesa
+FRUITS	fruit	prutas
+APPLE	apple	mansanas
+PEAR	pear	peras
+GRAPEFRUIT	grapefruit	
+APRICOT	apricot	
+POTATOE	potatoes [pl]	patatas
+BEAN	beans [pl]	
+PEA	peas [pl]	
+CHICKPEA	chickpeas [pl]	
+AUBERGINE	eggplant (US) / aubergine (UK)	talong
+CARROT	carrots [pl]	carrot
+TOMATO	tomatoes [pl]	kamatis
+TURNIP	turnip	
+FLOUR	flour	harina
+HONEY	honey	
+CHEESE	cheese	keso
+QUARK	quark / cottage cheese 	kesong puti
+PAPRIKA	paprika	
+SAUCE	sauce	
+BUTTER	butter	mantikilya
+OIL	oil	mantika
+CHEWING_GUM	chewing gum	
+SPOON	spoon	kutsara
+KNIFE	knife	kutsilyo
+PLATE	plate	plato/pinggan
+GLASS	glass (to drink from)	baso
+MUG	mug	
+TEAPOT	teapot 	
+		
+	Clothing	Mga damit
+SHIRT	shirt	kamiseta
+DRESS	Dress	damit / blusa
+SKIRT	skirt	palda
+TROUSERS	trousers (UK) / pants (US)	pantalon
+PULLOVER	jumper (UK) / sweater / pullover	sweter
+COAT	jacket / coat	pangginaw/jacket
+HEADSCARF	veil / hijab / headscarf	belo
+SHOE	shoes [pl]	sapatos
+GLOVE	gloves [pl]	gwantes
+SOCK	socks [pl]	medyas
+UNDERWEAR	underwear	
+		
+	Misc	
+BED	bed	kama
+BLANKET	blanket	kumot
+LAMP	lamp	lampara
+TELEPHONE	telephone	Telepono
+CELLPHONE	mobile phone / cellphone	cell phone
+ELECTRICITY	electricity	kuryente
+COMPUTER	computer	kompyuter
+INTERNET_CONNECTION	internet connection	
+BATTERY	battery	baterya
+ROOM	room	kwarto
+CHAIR	chair	upuan/silya
+TABLE	table	(la)mesa
+TOILET	toilet	t[u]walya
+TOILET_PAPER	toilet paper	
+TOOTHBRUSH	toothbrush	sipilyo
+TOOTHPASTE	toothpaste	
+SHOWER	shower	
+BATHTUB	bathtub	
+SOAP	soap	sabon
+SHAMPOO	shampoo	
+HANDKERCHIEF	tissue / handkerchief	panyo (handkerchief) / tissue/tisyu
+CUPBOARD	cupboard	
+DOOR	door	pinto (the door) / pintuan (area near the door)
+WINDOW	window	bintana
+WALL	wall	dingding
+HOUSE	house	bahay
+APARTMENT	apartment / flat	
+BOOK	book	libro / aklat
+NEWSPAPER	newspaper	dyaryo / peryodiko
+RADIO	radio	radyo
+TELEVISION	television	telebisyon / TV

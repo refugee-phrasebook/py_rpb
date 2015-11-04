@@ -1,0 +1,212 @@
+	Basic Conversation	
+GREETING_INFORMAL	Hello	Zdravei / Здравей
+GREETING_MORNING	good morning	Dobar den  /Добър ден
+GREETING_EVENING	good evening	Dobar vecher/ Добър вечер
+GREETING_DEPARTURE	goodbye	Dovizhdane / Довиждане
+SORRY	sorry / excuse me 	Izvinete / Извинете
+PLEASE	please	Molia / Моля
+THANKS	thank you / thanks	Blagodaria / Благодаря
+REPLY_THANKS	you're welcome [response to thank you / thanks]	Molia / Моля
+GIVE_OWN_NAME	my name is...	Az se kazvam / Аз се казвам
+ASK_OTHERS_NAME	What is your name?	kak se kazvate? / как се казвате
+GIVE_OWN_PROVENANCE	I’m from...	Az sum ot / Аз съм от
+FAMILY	family	semeystvo / семейство
+PRESENT_HUSBAND	this is my husband	Tova e mazhat mi / Това е мажът ми
+WIFE	my wife	Tova e zhena mi / Това е жена ми
+CHILDREN	my children	... decata mi
+DAUGHTER	my daughter	dashteria mi / дъщеря ми
+SON	my son	sina mi / сина ми
+BABY	my baby	moeto bebe / моето бебе
+BROTHER	this is my brother	Tova e brat mi / това е брат ми
+SISTER	this is my sister	Tova e sestra mi / това е сестра ми
+FATHER	this is my father	tova e bashta mi / това е баща ми
+MOTHER	this is my mother 	tova e maika mi / това е майка ми
+SUFFER_HUNGER	I’m hungry.	gladen sam / гладен съм
+CHILD_HUNGRY	(My child) is hungry	moeto dete e gladno / моето дете е гладно
+SUFFER_THIRST	I’m thirsty	Zhaden sam / жаден съм
+WATER	water	voda / вода
+AVAILABLE_Q	Do you have...	imate li? / имате ли...
+LOCATION_Q	Where is..?	kade e? / къде е?
+TOILET_LOCATION_Q	Where is the toilet? / Where is the bathroom?	kade e toaletnata / къде е тоалетната
+NEED_SHOWER	I need to take a shower	Triabva da se izkupya / трябва да се изкъпя
+SHOWER_LOCATION_Q	Where can I take a shower?	Kude moga da se izkupya? / Къде мога да се изкъпя?
+SANITARYPAD	sanitary pad / towel	damski prevrazki / дамски превръзки
+DIAPER	diaper / nappy	pelena / пелена
+NEED_MAKE_PHONECALL	I need to make a phone call	Tryabva da se obadya / Трябва да се обадя
+PRAY_LOCATION_Q	Where can I pray?	Kude moga da se pomolya? / Къде мога да се помоля?
+PURCHASE_X_LOCATION_Q	Where can I buy_____?	Kude moga da kupia...? / Къде мога да купя...?
+LOCATION_X_Q	Where can I find____?	Kude moga da nameria...? / Къде мога да намеря...?
+TIME_CLOCK_Q	What time is it?	Kolko e chasut? / Колко е часът?
+NEED_SLEEP	I (we) need to sleep	Tryabva da spya / Трябва да спя
+SUBWAY_LOCATION_Q	Where is the subway/underground?	kade e metroto / къде е метрото
+NO_MONEY	I don’t have any money.	niamam pari / нямам пари
+SPEAK_X_Q	Do you speak...	Govorite li... / говорите ли...
+SPEAK_LITTLE_X	I don't speak (English) very well.	Ne govoria вalgarski / не говоря български
+WRITE_DOWN_X_REQUEST	Can you write that down for me?	Mozhete li da napishete tova? /можете ли да напишете това
+NO_UNDERSTAND	I don’t understand	Ne razbiram / не разбирам
+HELP_REQUEST	Help! / Please help me!	Imam nuzhda ot pomosht! / имам нужда от помощ
+IGNORANCE	I don’t know	ne znam / не знам
+EVENT_Q	What happened?	Kakvo se e sluchilo_ / какво се е случило?
+SUFFER_FREEZING	I am cold/ freezing	studeno mi e / студено ми е
+EXPERIENCE_HAPPINESS	I’m happy.	radvam se / радвам се
+SUFFER_FEAR	I’m scared.	strah me e / страх ме е
+SUFFER_SADNESS	I’m sad.	tazhna sam / тъжен съм
+EXPERIENCE_LIKING_ADDRESSEE	I like you.	harsvam vi / харесвам Ви
+DONT_WORRY	Don’t worry	ne se valnuvajte / не се вълнувайте
+NEED_APPOINTMENT	I would like an appointment.	Iskam da zapazya chas / Искам да запазя час.
+ROOM_NUMBER_N_LOCATION_Q	Where is room number ____?	Kude e staya nomer..../ Къде е стая номер...
+REGISTRATION_CENTRE_LOCATION_Q	Where is the registration centre?	Kude e centarat za registratsiya? / Къде е центърът за регистрация?
+MUST_WAIT	You have to wait	molya izchakayte / моля изчакайте
+WAITING_TIME_DURATION_Q	How long do we have to wait here?	kolko vreme triabva da chakame tuk? / Колко време трябва да чакаме тук?
+1_DAY	one day	edin den / един ден
+1_HOUR	one hour	edin chas / един час
+1_MONTH	one month	edin mesets / един месец
+VERYSOON	very soon	skoro / скоро
+TOMORROW	tomorrow	utre / утре
+DAY_AFTER_TOMORROW	the day after tomorrow	v drugi den / в други ден
+NEXT_WEEK	next week	drugata sedmitsa / другата седмица
+RETURN_SOON	I will be back soon	sled malko se wrushtam / след малко се връщам
+ONE	one	едно
+TWO	two	две
+THREE	three	три
+FOUR	four	четири
+FIVE	five	пет
+SIX	six	шест
+SEVEN	seven	седем
+EIGHT	eight	осем
+NINE	nine	девет
+TEN	ten	десет
+MONDAY	Monday	 Понеделник
+TUESDAY	 Tuesday	 Вторник
+WEDNESDAY	 Wednesday	 Сряда
+THURSDAY	 Thursday	 Четвъртък
+FRIDAY	 Friday	 Петък
+SATURDAY	 Saturday	 Събота
+SUNDAY	 Sunday	 Неделя
+JANUARY	January	 януари
+FEBRUARY	 February	 февруари
+MARCH	 March	 март
+APRIL	 April	 април
+MAY	 May	 май
+JUNE	 June	 юни
+JULY	 July	 юли
+AUGUST	 August	 август
+SEPTEMBER	 September	 септември
+OCTOBER	 October	 октомври
+NOVEMBER	 November	 ноември
+DECEMBER	 December	 декември
+	Medical Terms	Медицински термини / Здраве
+NEED_DOCTOR	I need a doctor	Triabva mi lekar / трябва ми лекар
+SUFFER_ICD10_R11	I feel sick/ I don't feel well 	Повръща ми се (povryshta mi se)
+EXPERIENCE_ILLNESS	I’m ill / I’m sick	Bolen sam /болен съм,болна съм
+CHILD_ILL	(My child) is sick	moeto dete e bolno / моето дете е болно
+PREGNANT	I am pregnant	bremenna sum / бременна съм
+SUFFER_ICD10_T78.4	I am having an allergic reaction	imam alergichna reaktsiya / имам алергична реакция
+SUFFER_ICD10_H81	I feel dizzy.	Вие ми се свят (Vie mi se svyat)
+SUFFER_ICD10_E10	I am diabetic	Imam diabet / имам диабет
+NEED_INSULIN	I need insulin	Tryabva mi insulin / трябва ми инсулин
+SUFFERED_RAPE	I was raped.	iznasilikha me / изнасилиха ме
+SUFFER_ICD10_R10	I have a stomach ache.	Boli me korema / боли ме корема
+SUFFER_ICD10_R50	I have a fever / a temperature	Imam temperatura / имам температура
+SUFFER_ICD10_R51	I have a headache	Boli me glavata / боли ме главата
+SUFFER_ICD10_R05	I have a cough.	Imam kashlitsa / имам кашлица
+CHILD_SUFFER_ICD10_R7.0	My child has a sore throat/ cough	Deteto mi ima vuzpalenie na gurloto / kashlitsa // Детето ми има възпаление на гърлото / кашлица
+FLU	cold	Nastinka / Настинка
+DIARRHEA	diarrhea	Razstrojstwo / Разстройство
+ICD10_K59.0	constipation	Zapek / запек
+ICD10_B73.3	vaginal yeast infection (thrush)	Vaginalni gubichki / Вагинални гъбички
+ICD10_B53.3	athlete's foot	Gubichki na krakata / гъбички на краката
+ICD10_B85	head lice	Vushki / Въшки
+		
+	Food	Храна
+MEAL_NOON	Lunch	Obyad / обяд
+MEAL_EVENING	Dinner	vecherya / вечеря
+FOOD_HALAL_Q	Is this food Halal?	tazi hrana halal li e? /тази храна халал ли е?
+ALLERGY_AGAINST_X	I am allergic to….	imam alergiya kam... / имам алергия към...
+PORK_MEAT	pork	svinsko meso / свинско месо
+POULTRY_MEAT	poultry	pileshko meso / пилешко месо
+NO_EAT_PORK	I do not eat pork	Az ne yam svinsko / Аз не ям свинксо
+SELF_VEGETARIAN	I am a vegetarian.I don’t eat meat and fish.	Vegerayanets / vegerayanka sum. Ne yam meso i riba. // Вегетарианец / вегетарианка съм. Не ям месо и риба.
+SELF_VEGAN	I am a vegan	Veganets / veganka sum // веганец / веганка съм
+FISH	fish	Riba / риба
+BREAD	bread	Hlyab / Хляб
+WATER	water	voda / вода
+LEMONADE	lemonade	Limonada / лимонада
+MILK	milk	mliako / мляко
+COFFEE	coffee	kafé / кафе
+TEA	tea	Chay / чай
+BEER	beer	bira / бира
+FRUITS	fruit	plodowe / плодове
+APPLE	apple	yabulka / ябълка
+PEAR	pear	krusha / круша
+GRAPEFRUIT	grapefruit	greypfrut / грейпфрут
+APRICOT	apricot	kaysiya / кайсия
+POTATOE	potatoes [pl]	kartofi / картофи
+BEAN	beans [pl]	bob / боб
+PEA	peas [pl]	gah / грах
+CHICKPEA	chickpeas [pl]	Leblebiya / леблебия
+AUBERGINE	eggplant (US) / aubergine (UK)	patladzhan / патладжан
+CARROT	carrots [pl]	morkovi / моркови
+TOMATO	tomatoes [pl]	domati / домати
+TURNIP	turnip	ryapa / ряпа
+FLOUR	flour	brashno / брашно
+HONEY	honey	med / мед
+CHEESE	cheese	sirene / kashkawal // сирене / кашкавал
+QUARK	quark / cottage cheese 	izwara / извара
+PAPRIKA	paprika	cherven piper / червен пипер 
+SAUCE	sauce	sos / сос
+BUTTER	butter	maslo / масло
+OIL	oil	olio / олио
+CHEWING_GUM	chewing gum	duvka / дъвка
+SPOON	spoon	luzhitsa / лъжица
+KNIFE	knife	nozh / нож
+PLATE	plate	chiniya / чиния
+GLASS	glass (to drink from)	chasha / чаша
+MUG	mug	kupichka / купичка 
+TEAPOT	teapot 	chaynik / чайник
+		
+	Clothing	Облекло
+SHIRT	shirt	riza / риза
+DRESS	Dress	roklya / рокля
+SKIRT	skirt	pola / пола
+TROUSERS	trousers (UK) / pants (US)	pantalon / панталон
+PULLOVER	jumper (UK) / sweater / pullover	pulover / пуловер
+COAT	jacket / coat	yake / яке
+HEADSCARF	veil / hijab / headscarf	hidjab / хиджаб
+SHOE	shoes [pl]	obuvki / обувки
+GLOVE	gloves [pl]	rukavitsi / ръкавици
+SOCK	socks [pl]	chorapi / чорапи
+UNDERWEAR	underwear	belyo / бельо
+		
+	Misc	Разни
+BED	bed	leglo / легло
+BLANKET	blanket	odealo / одеало
+LAMP	lamp	lampe / лампа
+TELEPHONE	telephone	Телефон (Telefon)
+CELLPHONE	mobile phone / cellphone	mobilen telefon / мобилен телефон
+ELECTRICITY	electricity	elektichestvo / електричество
+COMPUTER	computer	kompyutur / компютър 
+INTERNET_CONNECTION	internet connection	internet wruzka / интернет връзка
+BATTERY	battery	bateriya / батерия
+ROOM	room	staya / стая
+CHAIR	chair	stol / стол
+TABLE	table	masa / маса
+TOILET	toilet	toaletna / тоалетна
+TOILET_PAPER	toilet paper	toaletna hartiya / тоалетна хартия
+TOOTHBRUSH	toothbrush	chetka za zubi / четка за зъби
+TOOTHPASTE	toothpaste	pasta za zubi / паста за зъби
+SHOWER	shower	dush / душ
+BATHTUB	bathtub	vana / вана
+SOAP	soap	sapun / сапун
+SHAMPOO	shampoo	shampoan / шампоан
+HANDKERCHIEF	tissue / handkerchief	kurpichka za nos / кърпичка за нос
+CUPBOARD	cupboard	shkaf / шкаф
+DOOR	door	vrata / врата
+WINDOW	window	prozorets / прозорец
+WALL	wall	stena / стена
+HOUSE	house	kushta / къща
+APARTMENT	apartment / flat	zhilishte / жилище
+BOOK	book	kniga / книга 
+NEWSPAPER	newspaper	vestnik / вестник
+RADIO	radio	radio / радио
+TELEVISION	television	televiziya / телевизия
