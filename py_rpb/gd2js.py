@@ -150,7 +150,7 @@ def addtodico(d,lx):
               'domain':lx.domain,
               'lgs':{}
       }
-  #print(lx.label)
+  print(lx.label)
   #add new information
   if d[ID]['lgs'].get(lx.iso6393code) != None:
     print("%s already present in %s, skipping %s"%(ID,lx.iso6393code,lx.orthographic))
@@ -212,6 +212,8 @@ if __name__ == '__main__':
     fulldico = {}
     for lx in lexemes:
       fulldico = addtodico(fulldico,lx)
+      
+    
         
 
 
