@@ -201,6 +201,7 @@ if __name__ == '__main__':
 	  ]
         lexemes = []
 	for typ, sheet_uri in sheets:
+            print(typ)
 	    s = sc.SheetScraper(sheet_uri)
 	    s.fetch() 
 	    s.select_columns(languages)	
