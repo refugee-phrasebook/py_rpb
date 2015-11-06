@@ -2,9 +2,9 @@ import scrapesheet as sc
 import sys
 import string
 import sampa2x
-import iso6393
+import iso6393 import iso6393dic
 import json
-
+from data import domaind
 #provide a commandline version to scrape google doc and output to either tsv or js
 #tabulate from original class was not working at the time of writing
 
@@ -106,7 +106,7 @@ def s2js(s,languages,typ='',target=0):
 	out = open(fn,'w')
 	out.write(t)
 	out.close()
-	
+
 	
 def s2lxm(s):#only for new short-style sheets
   result = []
@@ -149,11 +149,17 @@ def s2lxm(s):#only for new short-style sheets
       ipa = record[latncol]
     orth = record[2]
     #print(sampa, latn, orth, ID, label,iso6393code)
-    domain = None
+    domain = getDomain(ID)
     lxm = lexeme(ID,label,orth,iso6393code,sampa,latn,ipa,domain) # check for overwriting
     result.append(lxm)
   #print(len(result))
   return result
+    
+def getDomain(ID):
+  try:
+    return domaind[ID]
+  except KeyError:
+    print (ID,"not in domaind")
     
 def addtodico(d,lx):
   ID = lx.ID
@@ -163,7 +169,7 @@ def addtodico(d,lx):
 'domain':lx.domain,
 'lgs':{}
       }
-  print(lx.label)
+  #print(lx.label)
   #add new information
   if d[ID]['lgs'].get(lx.iso6393code) != None:
     print("%s already present in %s, skipping %s"%(ID,lx.iso6393code,lx.orthographic))
@@ -174,51 +180,7 @@ def addtodico(d,lx):
     }
   return d
   
-iso6393dic ={'hbs':{'label':'Serbo-Croatian'},
-'deu':{'label':'German'},
-'swe':{'label':'Swedish'},
-'nor':{'label':'Norwegian'},
-'fin':{'label':'Finnish'},
-'dan':{'label':'Danish'},
-'tir':{'label':'Tigrinya'},
-'spa':{'label':'Spanish'},
-'ita':{'label':'Italian'},
-'fra':{'label':'French'},
-'ell':{'label':'Greek'},
-'hun':{'label':'Hungarian'},
-'por':{'label':'Portuguese'},
-'tam':{'label':'Tamil'},
-'pol':{'label':'Polish'},
-'rus':{'label':'Russian'},
-'isl':{'label':'Icelandic'},
-'rom':{'label':'Romanian'},
-'ces':{'label':'Czech'},
-'slk':{'label':'Slovak'},
-'bul':{'label':'Bulgarian'},
-'cat':{'label':'Catalan'},
-'ben':{'label':'Bangla'}, 
-'urd':{'label':'Urdu'},
-'amh':{'label':'Amharic'},
-'slv':{'label':'Slovenian'},
-'vie':{'label':'Vietnamese'},
-'tur':{'label':'Turkish'},
-'hye':{'label':'Armenian'},
-'prs':{'label':'Dari'},
-'fil':{'label':'Filipino'},
-'far':{'label':'Farsi'},
-'pus':{'label':'Pashto'},
-'pes':{'label':'Persian'},
-'mkd':{'label':'Macedonian'},
-'lit':{'label':'Lithuanian'},
-'ckb':{'label':'Sorani'},
-'kmr':{'label':'Kurmanji'},
-'sqi':{'label':'Albanian'},
-'som':{'label':'Somalian'},
-'ara':{'label':'Standard Arabic'},
-'apc':{'label':'Syrian Arabic'},
-'nid':{'label':'Dutch'},#until gd is updated
-'nld':{'label':'Dutch'}
-}
+
     
 if __name__ == '__main__':  
     #usage : gd2js.py  1 3 8 12 14 17 19 22 24  

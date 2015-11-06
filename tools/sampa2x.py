@@ -456,7 +456,7 @@ def normalize(s):
   fin = re.sub(r'([^ ])(?=\b)',lookupfinal, init)
   iso = fin 
   for pos,repl in isos:    
-    iso = iso[:pos] + arabd[repl]['isolated'] + iso[pos + 1:]    
+    iso = iso[:pos] + arabd[s[pos]]['isolated'] + iso[pos + 1:]    
   return iso
   #print(s)
   #print(init)
