@@ -2,7 +2,7 @@ import scrapesheet as sc
 import sys
 import string
 import sampa2x
-import iso6393 import iso6393dic
+from iso6393 import iso6393dic
 import json
 from data import domaind
 #provide a commandline version to scrape google doc and output to either tsv or js
@@ -167,6 +167,7 @@ def addtodico(d,lx):
   if d.get(ID) == None:
     d[ID] = {'label':lx.label,
 'domain':lx.domain,
+'ID':lx.ID,
 'lgs':{}
       }
   #print(lx.label)
