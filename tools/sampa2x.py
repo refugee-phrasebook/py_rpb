@@ -11,58 +11,58 @@ BALKANCYRLLIC = "абhдeфгхијклмнопкrстуввxизаeааeeeиоe
 #in the middle of the line, hence a list over several lines
 ARABIC = "".join(["ا",#a
           "ب",#b
-          "خ",#c
+          "ك",#c
           "د",#d
-          "ي",#e
-          "ف",#f
+          "ﻋ",#e
+          "ﻔ",#f
           "گ",#g
           "ح",#h
           "ي",#i
           "ي",#j
           "ك",#k
-          "ل",#l
+          "ﻠ",#l
           "م",#m
           "ن",#n
           "و",#o
           "پ",#p
           "ق",#q
           "ر",#r
-          "س",#s
+          "ﺴ",#s
           "ت",#t
           "و",#u
           "و",#v
           "و",#w
-          "خ",#x
+          "ﺨ",#x
           "ي",#y
-          "ظ",#z
+          "ﺯ",#z
           "ا",#A
-          "ا",#{
+          "ﻋ",#{
           "ا",#6
           "ا",#Q
-          "ي",#E
-          "ي",#@
-          "ي",#3
+          "ﻋ",#E
+          "ﻋ",#@
+          "ﻋ",#3
           "ي",#I
           "و",#O
-          "ي",#2
-          "ي",#9
-          "ي",#&
+          "ﻋ",#2
+          "ﻋ",#9
+          "ﻋ",#&
           "و",#U
-          "و",#}
-          "و",#V
-          "ي",#Y
+          "ﻋ",#}
+          "ﻋ",#V
+          "ﻋ",#Y
           "ب",#B
-          "خ",#C
-          "ظ",#D
-          "ق",#G
+          "ح",#C
+          "ض",#D
+          "ﻐ",#G
           "ل",#L
-          "ي",#J
+          "ن",#J
           "ن",#N
-          "ر",#R
+          "ﻐ",#R
           "ﺸ",#S
-          "س",#T
+          "ث",#T
           "ي",#H
-          "ژ",#Z
+          "ج",#Z
 ])
 
 #ARABIC =        "ﻌژﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌﻌژ"
@@ -75,20 +75,12 @@ BALKANREMOVE = ''
 #print(ARABIC)
   
 arabd = {
-  "ا":
+  "ء":
   {
-          "isolated":"ﺋ",
-          "initial":"ئ",
-          "medial":"ﺌ",
-          "final":"ﺃ",
-          "label":"Hamza"
-  },
-  "ئ":
-  {
-          "isolated":"ﺋ",
-          "initial":"ئ",
-          "medial":"ﺌ",
-          "final":"ﺃ",
+          "initial":"ٴ",
+          "isolated":"ء",
+          "medial":"ٴ",
+          "final":"ٴ",
           "label":"Hamza"
   },
   "ب":
@@ -103,29 +95,21 @@ arabd = {
   {
           "isolated":"پ",
           "initial":"ﭘ",
-          "medial":"پ",
+          "medial":"ـپـ",
           "final":"پ",
           "label":"pe"
   },
   "ت":
   {
-          "isolated":"ﺗ",
           "initial":"ﺗ",
-          "medial":"ﺘ",
-          "final":"ﺕ",
-          "label":"te"
-  },
-  "ﺗ":
-  {
-          "isolated":"ﺗ",
-          "initial":"ﺗ",
+          "isolated":"ت",
           "medial":"ﺘ",
           "final":"ﺕ",
           "label":"te"
   },
   "ﺜ":
   {
-          "isolated":"ﺛ",
+          "isolated":"ﺙ",
           "initial":"ﺛ",
           "medial":"ﺜ",
           "final":"ﺙ",
@@ -133,55 +117,39 @@ arabd = {
   },
   "ﺠ":
   {
-          "isolated":"ﺞ",
+          "final":"ـﺞ",
           "initial":"ﺟ",
           "medial":"ﺠ",
-          "final":"ﺝ",
+          "isolated":"ﺝ",
           "label":"jim"
   },
   "چ":
   {
-          "isolated":"ﭻ",
+          "final":"ﭻ",
           "initial":"ﭼ",
-          "medial":"چ",
-          "final":"ﭺ",
+          "medial":"ـچـ",
+          "isolated":"ﭺ",
           "label":"che"
   },
   "ح":
   {
-          "isolated":"ﺢ",
+          "final":"ـﺢ",
           "initial":"ﺣ",
           "medial":"ﺤ",
-          "final":"ﺡ",
+          "isolated":"ﺡ",
           "label":"ḥe"
   },
   "ﺨ":
   {
-          "isolated":"ﺦ",
+          "final":"ـﺦ",
           "initial":"ﺧ",
           "medial":"ﺨ",
-          "final":"ﺥ",
+          "isolated":"ﺥ",
           "label":"khe"
   },
-  "خ":
+  "ﺴ":
   {
-          "isolated":"ﺦ",
-          "initial":"ﺧ",
-          "medial":"ﺨ",
-          "final":"ﺥ",
-          "label":"khe"
-  },
-  "ﺳ":
-  {
-          "isolated":"ﺳ",
-          "initial":"ﺳ",
-          "medial":"ﺴ",
-          "final":"ﺱ",
-          "label":"sin"
-  },
-  "س":
-  {
-          "isolated":"ﺳ",
+          "isolated":"س",
           "initial":"ﺳ",
           "medial":"ﺴ",
           "final":"ﺱ",
@@ -189,26 +157,26 @@ arabd = {
   },
   "ﺸ":
   {
-          "isolated":"ﺷ",
+          "isolated":"ﺵ",
           "initial":"ﺷ",
           "medial":"ﺸ",
-          "final":"ﺵ",
+          "final":"ش",
           "label":"šin"
   },
   "ﺼ":
   {
-          "isolated":"ﺻ",
+          "isolated":"ﺹ",
           "initial":"ﺻ",
           "medial":"ﺼ",
-          "final":"ﺹ",
+          "final":"ـص",
           "label":"ṣād"
   },
   "ﻀ":
   {
-          "isolated":"ﺿ",
+          "isolated":"ﺽ",
           "initial":"ﺿ",
           "medial":"ﻀ",
-          "final":"ﺽ",
+          "final":"ـض",
           "label":"z̤ād"
   },
   "ﻄ":
@@ -237,115 +205,100 @@ arabd = {
   },
   "ﻐ":
   {
-          "isolated":"ﻏ",
+          "final":"ـغ",
           "initial":"ﻏ",
           "medial":"ﻐ",
-          "final":"ﻍ",
+          "isolated":"ﻍ",
           "label":"ġeyn"
   },
-  "ف":
+  "ﻔ":
   {
-          "isolated":"ﻓ",
+          "final":"ف",
           "initial":"ﻓ",
           "medial":"ﻔ",
-          "final":"ﻑ",
+          "isolated":"ﻑ",
           "label":"fe"
   },
   "ﻗ":
   {
-          "isolated":"ﻗ",
+          "isolated":"ﻕ",
           "initial":"ﻕ",
           "medial":"ﻗ",
-          "final":"ﻕ",
+          "final":"ـق",
           "label":"qāf"
-  },
-  "ﻚ":
-  {
-          "isolated":"ﻛ",
-          "initial":"ﻚ",
-          "medial":"ﻜ",
-          "final":"ﻙ",
-          "label":"kāf"
   },
   "ك":
   {
-          "isolated":"ﻛ",
-          "initial":"ﻚ",
+          "initial":"ﻛ",
+          "final":"ﻚ",
           "medial":"ﻜ",
-          "final":"ﻙ",
+          "isolated":"ﻙ",
           "label":"kāf"
   },
   "گ":
   {
           "isolated":"گ",
           "initial":"ﮔ",
-          "medial":"گ",
-          "final":"گ",
+          "medial":"ـگـ",
+          "final":"ـگ",
           "label":"gāf"
+            
   },
-  "ل":
+  "ﻠ":
   {
-          "isolated":"ﻟ",
+          "final":"ﻟ",
           "initial":"ﻟ",
           "medial":"ﻠ",
-          "final":"ﻝ",
+          "isolated":"ﻝ",
           "label":"lām"
   },
   "م":
   {
-          "isolated":"ﻣ",
+          "isolated":"ﻡ",
           "initial":"ﻣ",
           "medial":"ﻤ",
-          "final":"ﻡ",
+          "final":"ـم",
           "label":"mim"
-  },
-  "ﻧ":
-  {
-          "isolated":"ﻧ",
-          "initial":"ﻧ",
-          "medial":"ﻨ",
-          "final":"ﻥ",
-          "label":"nun"
   },
   "ن":
   {
-          "isolated":"ﻧ",
+          "isolated":"ﻥ",
           "initial":"ﻧ",
           "medial":"ﻨ",
-          "final":"ﻥ",
+          "final":"ن",
           "label":"nun"
   },
   "ﻬ":
   {
-          "isolated":"ﻫ",
-          "initial":"ﻪ",
+          "initial":"ﻫ",
+          "final":"ﻪ",
           "medial":"ﻬ",
-          "final":"ﻩ",
+          "isolated":"ﻩ",
           "label":"he"
-  },
-  "ﻲ":
-  {
-          "isolated":"ﻳ",
-          "initial":"ﻲ",
-          "medial":"ﻴ",
-          "final":"ﻱ",
-          "label":"ye"
   },
   "ي":
   {
-          "isolated":"ﻳ",
-          "initial":"ﻲ",
+          "initial":"ﻳ",
+          "final":"ﻲ",
           "medial":"ﻴ",
-          "final":"ﻱ",
+          "isolated":"ي",
           "label":"ye"
   },
-  "ﺍ":
+  "ا":
   {
           "isolated":"ﺍ",
           "initial":"ﺍ",
-          "medial":"ﺍ",
-          "final":"ﺍ",
+          "medial":"ا",
+          "final":"ـا",
           "label":"ʾalef"
+  },
+  "ﻋ":
+  {
+          "isolated":"ﻉ",
+          "initial":"ﻋ",
+          "medial":"ـعـ",
+          "final":"ـع",
+          "label":"ʿeyn"
   },
   "د":
   {
@@ -360,23 +313,23 @@ arabd = {
           "isolated":"ﺫ",
           "initial":"ﺫ",
           "medial":"ﺫ",
-          "final":"ﺫ",
+          "final":"ـذ",
           "label":"ẕāl"
   },
   "ر":
   {
           "isolated":"ﺭ",
           "initial":"ﺭ",
-          "medial":"ﺭ",
-          "final":"ﺭ",
+          "medial":"ر",
+          "final":"ـر",
           "label":"re"
   },
   "ﺯ":
   {
           "isolated":"ﺯ",
           "initial":"ﺯ",
-          "medial":"ﺯ",
-          "final":"ﺯ",
+          "medial":"ز",
+          "final":"ز",
           "label":"ze"
   },
   "ژ":
@@ -391,30 +344,30 @@ arabd = {
   {
           "isolated":"ﻭ",
           "initial":"ﻭ",
-          "medial":"ﻭ",
-          "final":"ﻭ",
+          "medial":"و",
+          "final":"و",
           "label":"vāv"
-  },
-  ":": #length sign
-  {
-          "isolated":"ـ",
-          "initial":"ـ",
-          "medial":"ـ",
-          "final":"ـ",
-          "label":"phonetic length"
-  },
-  "ـ": #length sign
-  {
-          "isolated":"ـ",
-          "initial":"ـ",
-          "medial":"ـ",
-          "final":"ـ",
-          "label":"phonetic length"
   }
+  #":": #length sign
+  #{
+          #"isolated":"ـ",
+          #"initial":"ـ",
+          #"medial":"ـ",
+          #"final":"ـ",
+          #"label":"phonetic length"
+  #},
+  #"ـ": #length sign
+  #{
+          #"isolated":"ـ",
+          #"initial":"ـ",
+          #"medial":"ـ",
+          #"final":"ـ",
+          #"label":"phonetic length"
+  #}
 }
 balkantab = str.maketrans(SAMPA,BALKANCYRLLIC,BALKANREMOVE)
 #rustab = maketrans(SAMPA,RUSCYRLLIC)
-aratab = str.maketrans(SAMPA,ARABIC)
+aratab = str.maketrans(SAMPA,ARABIC,':')
 ipatab = str.maketrans(SAMPA,IPA)
 #perstab = maketrans(SAMPA,PERSIAN)
 
@@ -455,8 +408,8 @@ def normalize(s):
   init = re.sub(r'(?<=\b)([^ ])',lookupinitial, tmp)
   fin = re.sub(r'([^ ])(?=\b)',lookupfinal, init)
   iso = fin 
-  for pos,repl in isos:    
-    iso = iso[:pos] + arabd[s[pos]]['isolated'] + iso[pos + 1:]    
+  #for pos,repl in isos:    #check for ـproblem FIXME
+    #iso = iso[:pos] + arabd[s[pos]]['isolated'] + iso[pos + 1:]    
   return iso
   #print(s)
   #print(init)

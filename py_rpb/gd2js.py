@@ -187,7 +187,8 @@ if __name__ == '__main__':
     #usage : gd2js.py  1 3 8 12 14 17 19 22 24  
     languages = [int(i) for i in sys.argv[1:]]
     #print(languages)
-    sheets = [('Serbo-Croatian','https://docs.google.com/spreadsheets/d/1wweXwpEpHWrFcM46YZ-SVi-gLfywrUyj1wjEf19DWQE/pubhtml'),
+    sheets = [('German','https://docs.google.com/spreadsheets/d/1Hu1ikg7AM_OJzbWSwSIzljYTOor4fKLXiUBYSXPm1ks/pubhtml'), 
+                ('Serbo-Croatian','https://docs.google.com/spreadsheets/d/1wweXwpEpHWrFcM46YZ-SVi-gLfywrUyj1wjEf19DWQE/pubhtml'),
                 ('Albanian','https://docs.google.com/spreadsheets/d/1B9OXDIV4nDUekqpwILbAK6eHIAIP5UePgpYbOWRsTvY/pubhtml'), 
                 ('Urdu','https://docs.google.com/spreadsheets/d/1oCRZRBOn6sl8ufJ12OF1gPR_OLj598H45OENqkFfF7U/pubhtml'), 
                 ('Amharic','https://docs.google.com/spreadsheets/d/1ni8FOoW4Nqa1drwVCEoKMh4NqAn5ySSezFL-Mvo0hiY/pubhtml'), 
@@ -216,7 +217,6 @@ if __name__ == '__main__':
                 ('French','https://docs.google.com/spreadsheets/d/1wSR5_gLCMNdGDOLlKuKel35_oaKrzrX5z6pgrlB_T0k/pubhtml'), 
                 ('Polish','https://docs.google.com/spreadsheets/d/1lNixeQDE3IaGV1-KwGd0QMxDawpj8B2AcRMLnkRXE7I/pubhtml'), 
                 ('Pashto','https://docs.google.com/spreadsheets/d/1Wz4il9CygqlZW1m7l7DDfXQpqQ-Unk7zmavBO5r5kGI/pubhtml'), 
-                ('German','https://docs.google.com/spreadsheets/d/1Hu1ikg7AM_OJzbWSwSIzljYTOor4fKLXiUBYSXPm1ks/pubhtml'), 
                 ('Macedonian','https://docs.google.com/spreadsheets/d/1kEcuVFHCkt5kUE2dV2jff4UZZBLIZ2mUMVlue4ICQtM/pubhtml'),
                 ('Lithuanian','https://docs.google.com/spreadsheets/d/1ozMIw30k-r8DzANLR66QWHWR7rdbkiJi_PfjU2zgIVE/pubhtml'),
                 ('Greek','https://docs.google.com/spreadsheets/d/1L2QEC-TpWDEhUfQERConudQO12kx54zEy8poesFmo1c/pubhtml'),
@@ -243,7 +243,7 @@ if __name__ == '__main__':
     #store lexemes in dictionary
     for lx in lexemes:
       fulldico = addtodico(fulldico,lx)
-    jd = json.dumps(fulldico)
+    jd = json.dumps(fulldico,indent=4)
     out = open('lexemes.json','w')
     out.write(jd)
     out.close()
