@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 iso6393dic ={'hbs':{'label':'Serbo-Croatian', 'for_espeak':'bs'}, #hr, #sr
 'deu':{'label':'German', 'for_espeak':'de'},
 'swe':{'label':'Swedish', 'for_espeak':'sv'},
@@ -43,4 +44,53 @@ iso6393dic ={'hbs':{'label':'Serbo-Croatian', 'for_espeak':'bs'}, #hr, #sr
 'apc':{'label':'Syrian Arabic', 'for_espeak':''},
 'nid':{'label':'Dutch', 'for_espeak':'nl'},#until gd is updated
 'nld':{'label':'Dutch', 'for_espeak':'nl'}
+=======
+iso6393dic ={
+ 'hbs':{'label':'Serbo-Croatian'},
+'deu':{'label':'German'},
+'swe':{'label':'Swedish'},
+'nor':{'label':'Norwegian'}, 
+'fin':{'label':'Finnish'},
+'dan':{'label':'Danish'},
+'tir':{'label':'Tigrinya'},
+'spa':{'label':'Spanish'},
+'ita':{'label':'Italian'},
+'fra':{'label':'French'},
+'ell':{'label':'Greek'},
+'hun':{'label':'Hungarian'},
+'por':{'label':'Portuguese'},
+'tam':{'label':'Tamil'},
+'pol':{'label':'Polish'},
+'rus':{'label':'Russian'},
+'isl':{'label':'Icelandic'},  
+'rom':{'label':'Romanian'},
+'ces':{'label':'Czech'},
+'slk':{'label':'Slovak'},
+'bul':{'label':'Bulgarian'},
+'cat':{'label':'Catalan'},
+'ben':{'label':'Bangla'}, 
+'urd':{'label':'Urdu'},
+'amh':{'label':'Amharic'},
+'slv':{'label':'Slovenian'},
+'vie':{'label':'Vietnamese'},
+'tur':{'label':'Turkish'},
+'hye':{'label':'Armenian'}, 
+'prs':{'label':'Dari'},
+'fil':{'label':'Filipino'},
+'far':{'label':'Farsi'},
+'pus':{'label':'Pashto'},
+'pes':{'label':'Persian'},
+'mkd':{'label':'Macedonian'},
+'lit':{'label':'Lithuanian'},
+'ckb':{'label':'Sorani'},
+'kmr':{'label':'Kurmanji'},
+'sqi':{'label':'Albanian'},
+'som':{'label':'Somalian'},
+'ara':{'label':'Standard Arabic'},
+'apc':{'label':'Syrian Arabic'},
+'nid':{'label':'Dutch'},#until gd is updated
+'nld':{'label':'Dutch'}
+
+
+>>>>>>> Stashed changes
 }
