@@ -18,6 +18,8 @@ class lexeme():
     self.domain = domain
     if latn:  
       self.transcriptions['Latin'] = latn
+    else:  
+      self.transcriptions['Latin'] = ''
 
   
 
@@ -166,10 +168,17 @@ def addtodico(d,lx):
   #assure the lexeme is in the dict
   if d.get(ID) == None:
     d[ID] = {'label':lx.label,
-'domain':lx.domain,
-'ID':lx.ID,
-'lgs':{}
-      }
+            'domain':lx.domain,
+            'ID':lx.ID,
+            'lgs':{'eng':{'orthographic':lx.label,
+                          'transcriptions':{'IPA':'',
+                                            'SAMPA':'',
+                                            'cyrtrans':'',
+                                            'arabtrans':''
+                                            }
+                          }
+                  }
+    }
   #print(lx.label)
   #add new information
   if d[ID]['lgs'].get(lx.iso6393code) != None:

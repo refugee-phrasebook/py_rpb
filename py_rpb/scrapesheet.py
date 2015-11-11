@@ -86,7 +86,6 @@ def scrape_google_sheet(html, slice_i=None, slice_j=None):
     # Find all rowheaders in sheet having id 0Rx
     pattern = re.compile('^\d+R(\d+)')
     rh = table.find_all('th', {'id': pattern})
-    print(len(rh))
     records = []
     section_rows = {1}  # The first section is directly below language title row
     row = 0
