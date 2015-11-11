@@ -1,1 +1,0 @@
-../tools/sampa2x.py
