@@ -408,7 +408,11 @@ def normalize(s):
   init = re.sub(r'(?<=\b)([^ ])',lookupinitial, tmp)
   fin = re.sub(r'([^ ])(?=\b)',lookupfinal, init)
   iso = fin 
+<<<<<<< Updated upstream
   #for pos,repl in isos:    #check for ـproblem FIXME
+=======
+  #for pos,repl in isos:    
+>>>>>>> Stashed changes
     #iso = iso[:pos] + arabd[s[pos]]['isolated'] + iso[pos + 1:]    
   return iso
   #print(s)
